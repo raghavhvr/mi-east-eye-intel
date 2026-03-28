@@ -1,13 +1,14 @@
-name: Fetch Signals
+name: Fetch GDELT Events (BigQuery)
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Every hour UTC
+    - cron: "30 2 * * *"   # 2:30 AM UTC daily — yesterday's data is always complete by then
   workflow_dispatch:
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -19,17 +20,15 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Run fetch-signals
+      - name: Fetch yesterday's GDELT events
         env:
-          ACLED_EMAIL: ${{ secrets.ACLED_EMAIL }}
-          ACLED_PASSWORD: ${{ secrets.ACLED_PASSWORD }}
           GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
-        run: node scripts/fetch-signals.js
+        run: node scripts/fetch-gdelt-bq.js
 
       - name: Commit data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/signals.json
-          git diff --staged --quiet || git commit -m "chore: update signals $(date -u '+%Y-%m-%dT%H:%M')"
+          git add public/data/gdelt-events.json
+          git diff --staged --quiet || git commit -m "chore: gdelt events $(date -u '+%Y-%m-%d')"
           git push

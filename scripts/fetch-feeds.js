@@ -126,17 +126,20 @@ function parseRSS(xml) {
 // ── Source Fetchers ───────────────────────────────────────────────────────────
 async function fetchRSS(src) {
   try {
-    const res = await fetch(src.url, { headers: { "User-Agent": "Mozilla/5.0 (compatible; OpenEye-OSINT/1.0)", "Accept": "application/rss+xml, application/xml, text/xml, */*" }, signal: AbortSignal.timeout(14000) });
+    const res = await fetch(src.url, { headers: { "User-Agent": "Mozilla/5.0 (compatible; OpenEye-OSINT/1.0)", "Accept": "application/rss+xml, application/xml, text/xml, */*" }, signal: AbortSignal.timeout(20000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const xml = await res.text();
-    return parseRSS(xml).map(item => {
+    if (!xml || xml.length < 100) throw new Error("Empty response");
+    const parsed = parseRSS(xml);
+    console.log(`[rss:${src.id}] ${parsed.length} items`);
+    return parsed.map(item => {
       const txt = item.title + " " + item.summary;
       return { id: item.guid||item.link, title: item.title, summary: item.summary, url: item.link, timestamp: new Date(item.pubDate||Date.now()).toISOString(), source: src.label, sourceType: "RSS", tag: "NEWS", country: detectCountry(txt), section: classify(txt), sentiment: senti(txt), score: 0, comments: 0 };
     });
-  } catch (err) { console.error(`[rss:${src.id}] failed:`, err.message); return []; }
+  } catch (err) { console.error(`[rss:${src.id}] failed: ${err.message}`); return []; }
 }
 
-export async function fetchRedditRange(sub, afterDate, beforeDate = null) {
+async function fetchRedditRange(sub, afterDate, beforeDate = null) {
   // afterDate / beforeDate: ISO date strings "YYYY-MM-DD"
   try {
     let url = `https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=${sub}&after=${afterDate}&limit=100&sort=asc`;

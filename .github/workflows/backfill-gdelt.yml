@@ -1,0 +1,48 @@
+name: Backfill GDELT Events (BigQuery)
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: "Start date (YYYY-MM-DD)"
+        required: false
+        default: "2026-01-01"
+      end_date:
+        description: "End date (YYYY-MM-DD, leave blank for yesterday)"
+        required: false
+        default: ""
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run GDELT backfill
+        env:
+          GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
+        run: |
+          START="${{ github.event.inputs.start_date }}"
+          END="${{ github.event.inputs.end_date }}"
+          if [ -z "$END" ]; then
+            node scripts/fetch-gdelt-bq.js --backfill --start "$START"
+          else
+            node scripts/fetch-gdelt-bq.js --backfill --start "$START" --end "$END"
+          fi
+
+      - name: Commit backfilled data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/gdelt-events.json
+          git diff --staged --quiet || git commit -m "chore: gdelt backfill from ${{ github.event.inputs.start_date }}"
+          git push

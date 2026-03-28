@@ -150,10 +150,12 @@ async function fetchACLED() {
   }
 }
 
-// ── GDELT Tone ───────────────────────────────────────────────────────────────
-// Uses timelinetone mode — returns daily avg tone timeline, we average over 7d
-// Requests serialized with small delay to avoid GitHub Actions IP throttling
-// GDELT FIPS country codes (different from ISO2)
+// ── GDELT via BigQuery ────────────────────────────────────────────────────────
+// Uses gdelt-bq.gdeltv2.gkg (partitioned) — far more reliable than DOC API
+// Requires GCP_SERVICE_ACCOUNT_JSON secret (base64-encoded service account key)
+// Free tier: 1TB/month — this query uses ~200MB/day
+//
+// GKG SourceCountryCode uses FIPS codes:
 const GDELT_COUNTRIES = [
   { id: "UAE",          fips: "AE" }, { id: "Saudi Arabia",  fips: "SA" },
   { id: "Qatar",        fips: "QA" }, { id: "Kuwait",        fips: "KU" },
@@ -165,82 +167,164 @@ const GDELT_COUNTRIES = [
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
+// Get OAuth2 access token from service account JSON
+async function getBQToken(serviceAccountJson) {
+  const sa = JSON.parse(serviceAccountJson);
+  const now = Math.floor(Date.now() / 1000);
+  const header = { alg: "RS256", typ: "JWT" };
+  const payload = {
+    iss: sa.client_email,
+    scope: "https://www.googleapis.com/auth/bigquery.readonly",
+    aud: "https://oauth2.googleapis.com/token",
+    exp: now + 3600,
+    iat: now,
+  };
+
+  // Build JWT using Web Crypto (available in Node 18+)
+  const enc = s => Buffer.from(JSON.stringify(s)).toString("base64url");
+  const signingInput = `${enc(header)}.${enc(payload)}`;
+
+  // Import private key
+  const keyData = sa.private_key
+    .replace(/-----BEGIN PRIVATE KEY-----/, "")
+    .replace(/-----END PRIVATE KEY-----/, "")
+    .replace(/\n/g, "");
+  const keyBuffer = Buffer.from(keyData, "base64");
+
+  const cryptoKey = await crypto.subtle.importKey(
+    "pkcs8", keyBuffer,
+    { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" },
+    false, ["sign"]
+  );
+  const signature = await crypto.subtle.sign(
+    "RSASSA-PKCS1-v1_5", cryptoKey,
+    Buffer.from(signingInput)
+  );
+  const jwt = `${signingInput}.${Buffer.from(signature).toString("base64url")}`;
+
+  const res = await fetch("https://oauth2.googleapis.com/token", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({
+      grant_type: "urn:ietf:params:oauth:grant-type:jwt-bearer",
+      assertion: jwt,
+    }),
+  });
+  if (!res.ok) throw new Error(`BQ auth failed: HTTP ${res.status}`);
+  const d = await res.json();
+  return d.access_token;
+}
+
 async function fetchGDELTTone() {
-  const tone = {};
+  const GCP_SA = process.env.GCP_SERVICE_ACCOUNT_JSON || "";
 
-  for (const { id, fips } of GDELT_COUNTRIES) {
-    let attempts = 0;
-    const maxAttempts = 3;
-
-    while (attempts < maxAttempts) {
-      attempts++;
-      try {
-        const url = `https://api.gdeltproject.org/api/v2/doc/doc` +
-          `?query=sourcecountry:${fips}` +
-          `&mode=timelinetone` +
-          `&TIMESPAN=7days` +
-          `&format=json`;
-
-        const res = await fetch(url, {
-          headers: { "User-Agent": "OpenEye-OSINT/4.0" },
-          signal: AbortSignal.timeout(15000),
-        });
-
-        if (res.status === 429) {
-          const waitMs = attempts * 5000; // 5s, 10s, 15s
-          console.warn(`[gdelt:${id}] 429 rate limited — waiting ${waitMs/1000}s (attempt ${attempts}/${maxAttempts})`);
-          await sleep(waitMs);
-          continue;
-        }
-
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const text = await res.text();
-        if (!text || text.trim().length < 10) throw new Error("Empty response");
-
-        const d = JSON.parse(text);
-
-        if (id === "UAE") {
-          console.log("[gdelt] raw keys:", Object.keys(d));
-          const tl = d?.timeline;
-          console.log("[gdelt] timeline type:", typeof tl, Array.isArray(tl) ? `array[${tl.length}]` : "");
-          if (Array.isArray(tl) && tl[0]) console.log("[gdelt] timeline[0] keys:", Object.keys(tl[0]));
-        }
-
-        let entries = [];
-        if (Array.isArray(d?.timeline)) {
-          const first = d.timeline[0] || {};
-          const candidate = first.series ?? first.data ?? first.values ?? first.tone ?? [];
-          entries = Array.isArray(candidate) ? candidate : Object.values(candidate);
-        } else if (Array.isArray(d?.data)) {
-          entries = d.data;
-        } else if (Array.isArray(d)) {
-          entries = d;
-        }
-
-        const values = entries
-          .map(p => parseFloat(p?.value ?? p?.tone ?? p?.avgtone ?? 0))
-          .filter(n => !isNaN(n) && n !== 0);
-
-        tone[id] = values.length
-          ? Math.round((values.reduce((a, b) => a + b, 0) / values.length) * 100) / 100
-          : null;
-
-        console.log(`[gdelt:${id}] tone=${tone[id]} (${values.length} points from ${entries.length} entries)`);
-        break; // success
-
-      } catch (err) {
-        console.error(`[gdelt:${id}] attempt ${attempts} failed:`, err.message);
-        if (attempts >= maxAttempts) tone[id] = null;
-        else await sleep(3000);
-      }
-    }
-
-    // Stagger: 2.5s between countries to avoid GDELT rate limits on datacenter IPs
-    await sleep(2500);
+  if (!GCP_SA) {
+    console.log("[gdelt] No GCP_SERVICE_ACCOUNT_JSON — falling back to DOC API");
+    return fetchGDELTToneDocAPI();
   }
 
-  const fetched = Object.values(tone).filter(v => v !== null).length;
-  console.log(`[gdelt] tone fetched for ${fetched}/${GDELT_COUNTRIES.length} countries`);
+  try {
+    const token = await getBQToken(GCP_SA);
+    const projectId = JSON.parse(GCP_SA).project_id;
+
+    // Single query for all MENA countries — one BQ call, ~200MB
+    // Uses _PARTITIONTIME to limit scan to last 7 days
+    const fipsList = GDELT_COUNTRIES.map(c => `'${c.fips}'`).join(",");
+    const sevenDaysAgo = new Date(Date.now() - 7*24*3600*1000).toISOString().split("T")[0];
+
+    const query = `
+      SELECT
+        SourceCommonName,
+        V2SourceCommonName,
+        SourceCountryCode,
+        AVG(CAST(REGEXP_EXTRACT(V2Tone, r'^([^,]+)') AS FLOAT64)) AS avg_tone,
+        COUNT(*) AS article_count
+      FROM \`gdelt-bq.gdeltv2.gkg\`
+      WHERE _PARTITIONTIME >= TIMESTAMP('${sevenDaysAgo}')
+        AND SourceCountryCode IN (${fipsList})
+        AND V2Tone IS NOT NULL
+        AND V2Tone != ''
+      GROUP BY SourceCommonName, V2SourceCommonName, SourceCountryCode
+      ORDER BY SourceCountryCode, article_count DESC
+    `;
+
+    const res = await fetch(
+      `https://bigquery.googleapis.com/bigquery/v2/projects/${projectId}/queries`,
+      {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${token}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ query, useLegacySql: false, timeoutMs: 30000 }),
+        signal: AbortSignal.timeout(35000),
+      }
+    );
+
+    if (!res.ok) {
+      const err = await res.text();
+      throw new Error(`BQ query failed: HTTP ${res.status} — ${err.slice(0, 200)}`);
+    }
+
+    const result = await res.json();
+    if (!result.jobComplete) throw new Error("BQ job did not complete in time");
+
+    // Aggregate tone by country (weighted by article count)
+    const byCountry = {};
+    for (const row of (result.rows || [])) {
+      const fips = row.f[2].v;
+      const tone = parseFloat(row.f[3].v);
+      const count = parseInt(row.f[4].v);
+      if (!byCountry[fips]) byCountry[fips] = { sum: 0, count: 0 };
+      byCountry[fips].sum += tone * count;
+      byCountry[fips].count += count;
+    }
+
+    const tone = {};
+    for (const { id, fips } of GDELT_COUNTRIES) {
+      const agg = byCountry[fips];
+      tone[id] = agg && agg.count > 0
+        ? Math.round((agg.sum / agg.count) * 100) / 100
+        : null;
+      console.log(`[gdelt:${id}] tone=${tone[id]} (${agg?.count || 0} articles)`);
+    }
+
+    console.log(`[gdelt] BigQuery: tone for ${Object.values(tone).filter(v=>v!==null).length}/12 countries`);
+    return tone;
+
+  } catch (err) {
+    console.error("[gdelt] BigQuery failed:", err.message);
+    console.log("[gdelt] Falling back to DOC API…");
+    return fetchGDELTToneDocAPI();
+  }
+}
+
+// Fallback: original DOC API (kept as backup when BQ not configured)
+async function fetchGDELTToneDocAPI() {
+  const tone = {};
+  for (const { id, fips } of GDELT_COUNTRIES) {
+    try {
+      const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=sourcecountry:${fips}&mode=timelinetone&TIMESPAN=7days&format=json`;
+      const res = await fetch(url, { headers: { "User-Agent": "OpenEye-OSINT/4.0" }, signal: AbortSignal.timeout(15000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const text = await res.text();
+      const d = JSON.parse(text);
+      let entries = [];
+      if (Array.isArray(d?.timeline)) {
+        const first = d.timeline[0] || {};
+        const candidate = first.series ?? first.data ?? first.values ?? first.tone ?? [];
+        entries = Array.isArray(candidate) ? candidate : Object.values(candidate);
+      } else if (Array.isArray(d?.data)) { entries = d.data; }
+      else if (Array.isArray(d)) { entries = d; }
+      const values = entries.map(p => parseFloat(p?.value ?? p?.tone ?? 0)).filter(n => !isNaN(n) && n !== 0);
+      tone[id] = values.length ? Math.round((values.reduce((a,b)=>a+b,0)/values.length)*100)/100 : null;
+      console.log(`[gdelt-doc:${id}] tone=${tone[id]}`);
+    } catch (err) {
+      console.error(`[gdelt-doc:${id}] failed:`, err.message);
+      tone[id] = null;
+    }
+    await sleep(2500);
+  }
   return tone;
 }
 
@@ -307,8 +391,9 @@ async function fetchLotterySignals() {
       for (const p of posts) {
         if (!p.title || p.removed_by_category || seen.has(`r-${p.id}`)) continue;
         const txt = p.title + " " + (p.selftext || "");
-        if (!meFocus && !LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
-        if (meFocus && !LOT_KW.some(k => txt.toLowerCase().includes(k)) && !isME(txt)) continue;
+        // Always require at least one lottery keyword — even for ME-focused subs
+        // This was the bug: meFocus posts were passing through on isME() alone
+        if (!LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
         seen.add(`r-${p.id}`);
         all.push({
           id: `reddit-lot-${p.id}`,
