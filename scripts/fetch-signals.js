@@ -61,7 +61,20 @@ function classifyLottery(text) {
 
 function isME(text) {
   const t = (text||"").toLowerCase();
-  return ["uae","dubai","abu dhabi","sharjah","saudi","gulf","qatar","kuwait","oman","bahrain","arab","expat","mahzooz","emirates draw","big ticket","duty free","dream dubai","dirham","aed"].some(k=>t.includes(k));
+  return [
+    // Countries / cities
+    "uae","dubai","abu dhabi","sharjah","ajman","ras al khaimah","fujairah",
+    "saudi","riyadh","jeddah","ksa","qatar","doha","kuwait","oman","muscat",
+    "bahrain","manama","jordan","egypt","cairo","beirut","lebanon",
+    // ME-specific lottery brands
+    "mahzooz","emirates draw","big ticket","duty free","dream dubai",
+    "abu dhabi duty free","dubai duty free","national lottery uae",
+    "saudi lottery","riyadh draw","gulf lottery","arab lottery",
+    // Currency signals (strong ME indicator)
+    "dirham","aed","sar","riyal","qar","kwd","bhd","omr",
+    // Expat context
+    "expat","gulf","arab","middle east","mena",
+  ].some(k => t.includes(k));
 }
 
 // ── ACLED OAuth ──────────────────────────────────────────────────────────────
@@ -417,18 +430,23 @@ async function fetchLotterySignals() {
   }));
 
   // ── NewsAPI ─────────────────────────────────────────────────────────────────
-  if (NEWSAPI_KEY) {
+  if (!NEWSAPI_KEY) {
+    console.log("[lottery:newsapi] NEWSAPI_KEY not set — skipping");
+  } else {
     try {
+      // Broad MENA lottery query — covers UAE brands + regional draws + expat winners
       const q = encodeURIComponent(
-        'mahzooz OR "big ticket" OR "emirates draw" OR "duty free draw" OR "lucky draw" OR "lottery win" OR jackpot'
+        'mahzooz OR "big ticket" OR "emirates draw" OR "duty free draw" OR "lucky draw"' +
+        ' OR "lottery win" OR "jackpot winner" OR "prize draw" OR "raffle winner"' +
+        ' OR "abu dhabi duty free" OR "dubai duty free" OR "saudi lottery"'
       );
       const from = new Date(Date.now() - 30*24*3600*1000).toISOString().split("T")[0];
-      const url = `https://newsapi.org/v2/everything?q=${q}&from=${from}&language=en&sortBy=publishedAt&pageSize=50&apiKey=${NEWSAPI_KEY}`;
+      const url = `https://newsapi.org/v2/everything?q=${q}&from=${from}&language=en&sortBy=publishedAt&pageSize=100&apiKey=${NEWSAPI_KEY}`;
       const res = await fetch(url, { signal: AbortSignal.timeout(12000) });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status} — ${await res.text().then(t=>t.slice(0,120))}`);
       const d = await res.json();
       for (const a of (d.articles || [])) {
-        if (!a.title || seen.has(`na-${a.url}`)) continue;
+        if (!a.title || a.title === "[Removed]" || seen.has(`na-${a.url}`)) continue;
         const txt = a.title + " " + (a.description || "");
         if (!LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
         seen.add(`na-${a.url}`);
@@ -448,7 +466,7 @@ async function fetchLotterySignals() {
           isME: isME(txt),
         });
       }
-      console.log(`[lottery:newsapi] ${all.length} items so far`);
+      console.log(`[lottery:newsapi] ${d.articles?.length || 0} raw → ${all.length} total after filter`);
     } catch (err) { console.error("[lottery:newsapi]", err.message); }
   }
 
@@ -485,11 +503,23 @@ async function fetchLotterySignals() {
     console.log(`[lottery:guardian] fetched`);
   } catch (err) { console.error("[lottery:guardian]", err.message); }
 
-  // ── RSS feeds — Al Arabiya, Gulf News, Khaleej Times ────────────────────────
+  // ── RSS feeds — MENA lottery / prize coverage ────────────────────────────────
+  // All free, no auth — keyword-filtered before pushing to results
   const LOT_RSS = [
-    { name: "Al Arabiya",     url: "https://english.alarabiya.net/rss.xml" },
-    { name: "Gulf News",      url: "https://gulfnews.com/rss/uae" },
-    { name: "Khaleej Times",  url: "https://www.khaleejtimes.com/feed" },
+    // Core Gulf dailies
+    { name: "Al Arabiya",        url: "https://english.alarabiya.net/rss.xml" },
+    { name: "Gulf News",         url: "https://gulfnews.com/rss/uae" },
+    { name: "Khaleej Times",     url: "https://www.khaleejtimes.com/feed" },
+    { name: "Saudi Gazette",     url: "https://saudigazette.com.sa/rss" },
+    // Business / Finance angle
+    { name: "Arabian Business",  url: "https://www.arabianbusiness.com/rss" },
+    { name: "Gulf Business",     url: "https://gulfbusiness.com/feed/" },
+    { name: "Zawya",             url: "https://www.zawya.com/rss/world-business.xml" },
+    // Lifestyle / competitions
+    { name: "Time Out Dubai",    url: "https://www.timeoutdubai.com/rss" },
+    // Broader MENA English press
+    { name: "Arab News",         url: "https://www.arabnews.com/rss.xml" },
+    { name: "The National",      url: "https://www.thenationalnews.com/rss/uae" },
   ];
   await Promise.allSettled(LOT_RSS.map(async ({ name, url }) => {
     try {
