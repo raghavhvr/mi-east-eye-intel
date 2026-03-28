@@ -2,7 +2,7 @@ name: Fetch Feeds
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # Every 30 min UTC
+    - cron: "0 2 * * *"   # 2 AM UTC daily (6 AM Dubai)
   workflow_dispatch:
 
 jobs:
