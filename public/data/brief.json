@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-28T13:52:33.393Z",
+  "generated_at": "2026-03-28T14:09:19.064Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran US Conflict",
-  "summary": "The recent US-Israeli strikes on Iranian nuclear sites have escalated tensions in the region, with Russia and Iran condemning the actions. The situation is likely to worsen with reports of Iranian attacks on US bases in Saudi Arabia and potential US troop withdrawals from the region",
+  "threatLevel": "LOW",
+  "topTheme": "Miscellaneous Topics",
+  "summary": "The provided headlines lack a cohesive theme, indicating a low threat level with no apparent regional security concerns. The topics range from personal inquiries and travel to technology and sports, with no notable patterns or trends that suggest a potential threat to regional stability.",
   "keyTrends": [
-    "US-Iran Conflict",
-    "Nuclear Safety",
-    "Regional Instability"
+    "Personal Interests",
+    "Travel",
+    "Technology"
   ],
   "watchItems": [
-    "Russian Involvement",
-    "US Troop Deployments"
+    "UAE Defense Forces",
+    "Gibraltar Opinions"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Escalating Conflict",
-    "Nuclear Threats"
+    "Lack of Coherent Theme",
+    "Neutral Language"
   ]
 }

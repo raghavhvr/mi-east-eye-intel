@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-03-28T13:52:34.059Z",
+  "generated_at": "2026-03-28T14:09:19.566Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "overallMood": "HOPEFUL",
+  "overallMood": "ANXIOUS",
   "sentimentSplit": {
-    "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "positive": 20,
+    "neutral": 40,
+    "negative": 40
   },
-  "dominantNarrative": "Winning lottery tickets",
+  "dominantNarrative": "Daily life concerns",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "relief"
+    "frustration",
+    "helplessness",
+    "excitement"
   ],
-  "psychInsight": "The public is driven by the thrill of winning and the desire for financial gain, which is a common motivator in gambling behavior. The presence of neutral and negative sentiments suggests that some individuals are cautious or skeptical about their chances of winning, but the overall mood remains hopeful.",
+  "psychInsight": "The public mood is driven by a sense of uncertainty and frustration with daily life challenges, punctuated by rare moments of excitement and hope. The lottery win mention offers a glimpse into the psychological escapism people may seek from their anxieties.",
   "riskSignals": [
     "incompetence",
-    "insecurity"
+    "medical insurance issues"
   ],
   "opportunitySignals": [
-    "travel",
-    "lottery winnings"
+    "travel planning",
+    "lottery wins"
   ]
 }
