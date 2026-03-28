@@ -42,9 +42,142 @@ const COUNTRY_MAP = {
   AG:"Algeria", MO:"Morocco", SU:"Sudan", YM:"Yemen", IR:"Iran",
 };
 
-// GDELT QuadClass: 1=Verbal Coop, 2=Material Coop, 3=Verbal Conflict, 4=Material Conflict
-const QUAD_LABEL = { "1":"Cooperation","2":"Cooperation","3":"Conflict","4":"Conflict" };
-const QUAD_TYPE  = { "1":"VERBAL_COOP","2":"MATERIAL_COOP","3":"VERBAL_CONF","4":"MATERIAL_CONF" };
+// GDELT QuadClass
+const QUAD_TYPE  = { "1":"VERBAL_COOP", "2":"MATERIAL_COOP", "3":"VERBAL_CONF", "4":"MATERIAL_CONF" };
+const QUAD_LABEL = { "1":"Verbal Cooperation", "2":"Material Cooperation", "3":"Verbal Conflict", "4":"Material Conflict" };
+
+// CAMEO root code labels (EventRootCode)
+const CAMEO_ROOT = {
+  "01":"Make Statement",       "02":"Appeal",
+  "03":"Express Intent",       "04":"Consult",
+  "05":"Diplomatic Coop",      "06":"Material Coop",
+  "07":"Provide Aid",          "08":"Yield",
+  "09":"Investigate",          "10":"Demand",
+  "11":"Disapprove",           "12":"Reject",
+  "13":"Threaten",             "14":"Protest",
+  "15":"Show Force",           "16":"Reduce Relations",
+  "17":"Coerce",               "18":"Assault",
+  "19":"Fight",                "20":"Mass Violence",
+};
+
+// CAMEO base + specific event code labels (EventCode)
+// Covers the ~200 most common codes — unmapped codes fall back to root label
+const CAMEO_CODE = {
+  // 01 – Statements
+  "010":"Make statement","011":"Discuss by phone/in person","012":"Express disagreement",
+  "013":"Acknowledge","014":"Deny responsibility","015":"Acknowledge ceasefire",
+  "016":"Apologize","017":"Engage in symbolic act","018":"Threaten to punish",
+  "019":"Demand",
+  // 02 – Appeal
+  "020":"Appeal","021":"Appeal for help","022":"Appeal for material support",
+  "023":"Appeal for political support","024":"Appeal for diplomatic cooperation",
+  "025":"Appeal for settlement","026":"Appeal to yield","027":"Appeal to engage in diplomacy",
+  "028":"Appeal to meet","029":"Appeal for investigation",
+  // 03 – Express intent
+  "030":"Express intent to cooperate","031":"Express intent to meet",
+  "032":"Express intent to settle","033":"Express intent to aid",
+  "034":"Express intent to release","035":"Express intent to negotiate",
+  "036":"Express intent to cooperate militarily","037":"Express intent to reduce conflict",
+  "038":"Express intent to impose sanctions",
+  // 04 – Consult
+  "040":"Consult","041":"Discuss by phone","042":"Make a visit",
+  "043":"Host a visit","044":"Meet at a third location","045":"Mediate",
+  "046":"Engage in negotiation",
+  // 05 – Diplomatic cooperation
+  "050":"Engage in diplomatic cooperation","051":"Express diplomatic support",
+  "052":"Praise or endorse","053":"Rally public support","054":"Grant diplomatic recognition",
+  "055":"Defend, not condemn","056":"Apologize for act","057":"Sign formal agreement",
+  "058":"Grant asylum",
+  // 06 – Material cooperation
+  "060":"Engage in material cooperation","061":"Cooperate economically",
+  "062":"Provide military aid","063":"Share intelligence",
+  "064":"Share technology","065":"Provide intelligence","066":"Give or loan money",
+  // 07 – Provide aid
+  "070":"Provide aid","071":"Provide economic aid","072":"Provide military aid",
+  "073":"Provide humanitarian aid","074":"Provide military protection",
+  "075":"Grant asylum","076":"Release persons","077":"Release property",
+  "078":"Return/repatriate","079":"Lift sanctions",
+  // 08 – Yield
+  "080":"Yield","081":"Ease restrictions","082":"Release persons",
+  "083":"Return property","084":"Return territory","085":"Ease blockade",
+  "086":"Withdraw troops","087":"Surrender, yield to demands",
+  "0871":"Halt military action","0872":"Disarm","0873":"Retreat",
+  // 09 – Investigate
+  "090":"Investigate","091":"Investigate crime","092":"Investigate human rights abuses",
+  "093":"Host fact-finding","094":"Monitor ceasefire",
+  // 10 – Demand
+  "100":"Demand","101":"Demand political reform","102":"Demand leadership change",
+  "103":"Demand rights","104":"Demand military action","105":"Demand sanctions",
+  "1052":"Demand ceasefire","1053":"Demand withdrawal","1054":"Demand release",
+  "1055":"Demand peace settlement","1056":"Demand end of sanctions",
+  // 11 – Disapprove
+  "110":"Criticize","111":"Criticize government","112":"Accuse",
+  "1121":"Accuse of crime","1122":"Accuse of human rights abuses",
+  "1123":"Accuse of aggression","1124":"Accuse of terrorism",
+  "113":"Complain","114":"Denounce","115":"Gesture of hostility",
+  // 12 – Reject
+  "120":"Reject","121":"Reject diplomatic cooperation","122":"Reject request",
+  "123":"Reject proposal","124":"Reject request for material aid",
+  "1241":"Refuse to allow","1242":"Refuse to allow investigation",
+  "1243":"Refuse to allow inspection","1244":"Refuse to allow access",
+  "1245":"Refuse to release","1246":"Reject sanctions",
+  "125":"Reject accusation","126":"Reject peace proposal",
+  "127":"Reject ceasefire","128":"Reject peace settlement",
+  // 13 – Threaten
+  "130":"Threaten","131":"Threaten political dissent",
+  "132":"Threaten military force","133":"Threaten sanctions",
+  "134":"Threaten with political/administrative action",
+  "135":"Threaten to halt negotiations","136":"Threaten to boycott",
+  "137":"Threaten to reduce relations","138":"Threaten with military force",
+  "1381":"Threaten nuclear attack","1382":"Threaten aerial attack",
+  "1383":"Threaten blockade","1384":"Threaten occupation",
+  "1385":"Threaten to seize","1386":"Threaten attack",
+  "139":"Threaten to expel",
+  // 14 – Protest
+  "140":"Engage in political dissent","141":"Demonstrate",
+  "142":"Conduct hunger strike","143":"Conduct strike or boycott",
+  "144":"Obstruct","145":"Conduct riots","1451":"Riot",
+  // 15 – Show force
+  "150":"Show of force posture","151":"Increase military alert",
+  "152":"Mobilise / increase police","153":"Mobilise military",
+  "154":"Conduct military exercises","155":"Raise alert status",
+  // 16 – Reduce relations
+  "160":"Reduce relations","161":"Reduce or break diplomatic relations",
+  "162":"Accuse","163":"Impose embargo / boycott / sanctions",
+  "1631":"Impose economic sanctions","1632":"Impose arms embargo",
+  "1633":"Impose blockade","1634":"Impose travel restrictions",
+  "164":"Halt negotiations","165":"Expel or deport individuals",
+  "166":"Expel or recall ambassador","167":"Halt negotiations",
+  "168":"Defy court order","169":"Impose administrative action",
+  // 17 – Coerce
+  "170":"Coerce","171":"Seize or damage","172":"Impose sanctions",
+  "173":"Arrest / detain","174":"Expel / deport","175":"Use tactics of harassment",
+  "1751":"Assassinate","1752":"Torture","1753":"Kill",
+  "176":"Attack","177":"Impose curfew","178":"Detain",
+  // 18 – Assault
+  "180":"Use conventional military force","181":"Impose blockade",
+  "182":"Occupy territory","183":"Fight","184":"Launch strike",
+  "1841":"Strike / bomb","1842":"Naval blockade",
+  "185":"Assassinate","186":"Use chemical / biological / nuclear weapons",
+  "1861":"Use chemical weapons","1862":"Use biological weapons",
+  "1863":"Use nuclear weapons","187":"Conduct suicide / car bomb",
+  "1871":"Conduct suicide bombing","188":"Conduct aerial bombing",
+  "189":"Conduct military strike",
+  // 19 – Fight
+  "190":"Use unconventional mass violence","191":"Abduct / hijack",
+  "192":"Physically assault","193":"Conduct suicide / car bomb",
+  "194":"Use suicide / car bomb","1941":"Use suicide bomber",
+  "195":"Employ aerial weapons","1951":"Aerial bombing",
+  "196":"Violate ceasefire",
+  // 20 – Mass violence
+  "200":"Use unconventional mass violence","201":"Engage in mass expulsion",
+  "202":"Engage in mass killings","2021":"Engage in ethnic cleansing",
+  "203":"Engage in ethnic cleansing","204":"Use weapons of mass destruction",
+};
+
+function getEventLabel(eventCode, rootCode) {
+  return CAMEO_CODE[eventCode] || CAMEO_CODE[rootCode] || CAMEO_ROOT[rootCode] || `Code ${eventCode}`;
+}
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const toDate = d => d.toISOString().split("T")[0];
@@ -139,9 +272,7 @@ async function fetchEventsForDate(token, projectId, dateStr) {
   const sqlDate = dateStr.replace(/-/g, ""); // GDELT uses YYYYMMDD integers
   const fipsList = MENA_FIPS.map(f => `'${f}'`).join(",");
 
-  // We query the events table filtered to MENA action geo country codes
-  // Using _PARTITIONTIME to avoid scanning the full table (~30GB/day globally)
-  // This query scans only the partition for the specific day — very cheap
+  // Using events_partitioned + _PARTITIONTIME → scans only that day's partition (~200MB vs 63GB)
   const query = `
     SELECT
       GLOBALEVENTID,
@@ -165,7 +296,7 @@ async function fetchEventsForDate(token, projectId, dateStr) {
       ActionGeo_Lat,
       ActionGeo_Long,
       SOURCEURL
-    FROM \`gdelt-bq.gdeltv2.events\`
+    FROM \`gdelt-bq.gdeltv2.events_partitioned\`
     WHERE _PARTITIONTIME = TIMESTAMP('${dateStr}')
       AND SQLDATE = ${sqlDate}
       AND ActionGeo_CountryCode IN (${fipsList})
@@ -179,7 +310,11 @@ async function fetchEventsForDate(token, projectId, dateStr) {
 
   return rows.map(row => {
     const f = row.f;
-    const fips = f[16].v;
+    const fips       = f[16].v;
+    const eventCode  = f[7].v  || "";
+    const baseCode   = f[8].v  || "";
+    const rootCode   = f[9].v  || "";
+    const quadClass  = f[10].v || "";
     return {
       id:          `gdelt-${f[0].v}`,
       date:        `${f[1].v}`.replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3"),
@@ -188,16 +323,20 @@ async function fetchEventsForDate(token, projectId, dateStr) {
       actor2:      f[4].v || "",
       actor2cc:    f[5].v || "",
       isRoot:      f[6].v === "1" || f[6].v === true,
-      eventCode:   f[7].v || "",
-      quadClass:   f[10].v || "",
-      quadLabel:   QUAD_LABEL[f[10].v] || "Unknown",
-      quadType:    QUAD_TYPE[f[10].v] || "UNKNOWN",
+      eventCode,
+      baseCode,
+      rootCode,
+      eventLabel:  getEventLabel(eventCode, rootCode),
+      rootLabel:   CAMEO_ROOT[rootCode] || rootCode,
+      quadClass,
+      quadType:    QUAD_TYPE[quadClass]  || "UNKNOWN",
+      quadLabel:   QUAD_LABEL[quadClass] || "Unknown",
       goldstein:   parseFloat(f[11].v) || 0,
-      mentions:    parseInt(f[12].v) || 0,
-      sources:     parseInt(f[13].v) || 0,
-      articles:    parseInt(f[14].v) || 0,
+      mentions:    parseInt(f[12].v)   || 0,
+      sources:     parseInt(f[13].v)   || 0,
+      articles:    parseInt(f[14].v)   || 0,
       tone:        parseFloat(f[15].v) || 0,
-      country:     COUNTRY_MAP[fips] || fips,
+      country:     COUNTRY_MAP[fips]   || fips,
       fips,
       location:    f[17].v || "",
       lat:         parseFloat(f[18].v) || 0,
