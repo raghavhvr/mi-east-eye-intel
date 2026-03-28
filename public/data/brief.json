@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-28T10:08:11.040Z",
+  "generated_at": "2026-03-28T10:29:25.714Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Middle East Conflict",
-  "summary": "The region is experiencing increased tensions with multiple incidents of violence and aggression, including missile launches and drone attacks. The involvement of major powers such as the US and Israel is escalating the situation, posing a significant threat to regional stability.",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Tensions",
+  "summary": "The region is experiencing low-level tensions with Iran denying involvement in an attack on the Salalah Port, while other headlines indicate a focus on daily life and routine concerns. Analysts note a lack of significant escalations, but ongoing awareness guides suggest a need for continued vigilance.",
   "keyTrends": [
-    "Iran-Israel Conflict",
-    "Yemen Houthis",
-    "US-Iran Tensions"
+    "Iranian Denials",
+    "Regional Security",
+    "Daily Life Concerns"
   ],
   "watchItems": [
-    "Iran's military actions",
-    "Houthi missile launches"
+    "Salalah Port",
+    "Iranian Actions"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating violence",
-    "Regional instability"
+    "Regional Uncertainty",
+    "Security Concerns"
   ]
 }
