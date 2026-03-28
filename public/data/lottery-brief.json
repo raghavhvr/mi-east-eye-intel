@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T13:36:41.892Z",
+  "generated_at": "2026-03-28T13:52:34.059Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -11,15 +11,15 @@
   "keyEmotions": [
     "excitement",
     "optimism",
-    "gratitude"
+    "relief"
   ],
-  "psychInsight": "The public is driven by the thrill of winning and the desire for good fortune, which is amplified by the recent lottery wins. This hopefulness can lead to increased participation in gambling activities, especially during times of economic uncertainty.",
+  "psychInsight": "The public is driven by the thrill of winning and the desire for financial gain, which is a common motivator in gambling behavior. The presence of neutral and negative sentiments suggests that some individuals are cautious or skeptical about their chances of winning, but the overall mood remains hopeful.",
   "riskSignals": [
-    "incompetent leadership",
-    "travel restrictions"
+    "incompetence",
+    "insecurity"
   ],
   "opportunitySignals": [
-    "lottery participation",
-    "travel to Oman"
+    "travel",
+    "lottery winnings"
   ]
 }

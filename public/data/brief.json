@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-03-28T13:36:41.280Z",
+  "generated_at": "2026-03-28T13:52:33.393Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "Iran Nuclear Tensions",
-  "summary": "Recent US-Israeli strikes on Iranian nuclear sites have escalated regional tensions, with Russia and Iran condemning the actions. The situation is being closely monitored due to potential retaliation and nuclear safety concerns.",
+  "topTheme": "Iran US Conflict",
+  "summary": "The recent US-Israeli strikes on Iranian nuclear sites have escalated tensions in the region, with Russia and Iran condemning the actions. The situation is likely to worsen with reports of Iranian attacks on US bases in Saudi Arabia and potential US troop withdrawals from the region",
   "keyTrends": [
     "US-Iran Conflict",
     "Nuclear Safety",
-    "Regional Escalation"
+    "Regional Instability"
   ],
   "watchItems": [
-    "Iranian Retaliation",
+    "Russian Involvement",
     "US Troop Deployments"
   ],
   "userSentiment": "ANXIOUS",
