@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-28T09:52:23.634Z",
+  "generated_at": "2026-03-28T10:08:11.040Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "CRITICAL",
-  "topTheme": "Iran War Escalation",
-  "summary": "The conflict between Iran, the US, and Israel continues to escalate, with recent attacks on a steel plant and a US vessel near Oman. The situation remains volatile, with trillions of dollars wiped out from global markets and no clear end to the conflict in sight.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Middle East Conflict",
+  "summary": "The region is experiencing increased tensions with multiple incidents of violence and aggression, including missile launches and drone attacks. The involvement of major powers such as the US and Israel is escalating the situation, posing a significant threat to regional stability.",
   "keyTrends": [
     "Iran-Israel Conflict",
-    "US Involvement",
-    "Regional Instability"
+    "Yemen Houthis",
+    "US-Iran Tensions"
   ],
   "watchItems": [
-    "Houthi Missile Launches",
-    "Kuwait Airport Security"
+    "Iran's military actions",
+    "Houthi missile launches"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Escalating Violence",
-    "Economic Uncertainty"
+    "Escalating violence",
+    "Regional instability"
   ]
 }
