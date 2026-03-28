@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T12:59:11.012Z",
+  "generated_at": "2026-03-28T13:35:11.759Z",
   "acled": [],
   "gdelt_tone": {
     "UAE": null,
@@ -16,35 +16,11 @@
     "Iran": null
   },
   "weather": {
-    "Qatar": {
-      "temp_c": 25,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Yemen": {
-      "temp_c": 22,
-      "wind_kmh": 20,
+    "UAE": {
+      "temp_c": 23,
+      "wind_kmh": 23,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Oman": {
-      "temp_c": 25,
-      "wind_kmh": 20,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Iran": {
-      "temp_c": 12,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Kuwait": {
-      "temp_c": 24,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
+      "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
       "temp_c": 24,
@@ -52,23 +28,29 @@
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 23,
-      "wind_kmh": 23,
+    "Iran": {
+      "temp_c": 12,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
+      "city": "Tehran"
     },
-    "Jordan": {
-      "temp_c": 17,
-      "wind_kmh": 13,
+    "Yemen": {
+      "temp_c": 21,
+      "wind_kmh": 21,
       "condition": "Clear",
-      "city": "Amman"
+      "city": "Sanaa"
     },
-    "Lebanon": {
-      "temp_c": 19,
-      "wind_kmh": 13,
+    "Qatar": {
+      "temp_c": 24,
+      "wind_kmh": 19,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 24,
+      "wind_kmh": 12,
       "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Kuwait City"
     },
     "Egypt": {
       "temp_c": 28,
@@ -78,15 +60,33 @@
     },
     "Bahrain": {
       "temp_c": 23,
-      "wind_kmh": 19,
+      "wind_kmh": 17,
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
     "Iraq": {
       "temp_c": 22,
-      "wind_kmh": 12,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
+    },
+    "Lebanon": {
+      "temp_c": 19,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 17,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Oman": {
+      "temp_c": 25,
+      "wind_kmh": 18,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
     }
   },
   "fx": {
@@ -102,6 +102,21 @@
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1s603kn",
+        "title": "Are medical unis opening next week? UAE Medical colleges?",
+        "summary": "I'm a clinical student and wondering if placements/clerkships are going to be held in hospitals? how's the situation in uae right now? i'm currently out of uae but our placements are in the northern emirates which require long hours of trav",
+        "url": "https://reddit.com/r/UAE/comments/1s603kn/are_medical_unis_opening_next_week_uae_medical/",
+        "timestamp": "2026-03-28T13:16:57.000Z",
+        "source": "r/UAE",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1s5znpb",
         "title": "Anyone been to fujairah airport from sharjah/ajman",
@@ -1153,21 +1168,6 @@
         "isME": true
       },
       {
-        "id": "reddit-lot-1s35naf",
-        "title": "Need an insight on a situation with someone from Oman – is this a cultural thing?",
-        "summary": "Boys girls how we doing? Hope well. I got a lil situation going on and well I could use an answer, not a help. Here’s the thing ya, I’ve known this person for about I think three months ight, and well I met this person online. I’ve assumed ",
-        "url": "https://reddit.com/r/Oman/comments/1s35naf/need_an_insight_on_a_situation_with_someone_from/",
-        "timestamp": "2026-03-25T09:09:58.000Z",
-        "source": "r/oman",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 23,
-        "mood": "ANXIOUS",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1s33mrb",
         "title": "Playing International Lotto from India",
         "summary": "Namaste. I am from India. I have a question. Anyone has successfully played lottery from India and won something and bought back the winning amount after taxes without hassles?",
@@ -1558,21 +1558,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1s05oz6",
-        "title": "First 🐛 $50 win!",
-        "summary": "I’ve hit $50 on this ticket several times but first time hitting the 🐛 worm $50 win!",
-        "url": "https://reddit.com/r/Lottery/comments/1s05oz6/first_50_win/",
-        "timestamp": "2026-03-21T23:11:40.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 34,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
         "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
         "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
@@ -1649,12 +1634,12 @@
       }
     ],
     "meta": {
-      "totalSignals": 103,
+      "totalSignals": 102,
       "meSignals": 34,
       "moodDist": {
         "HOPEFUL": 80,
         "CYNICAL": 0,
-        "ANXIOUS": 15,
+        "ANXIOUS": 14,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
