@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-28T09:22:07.305Z",
+  "generated_at": "2026-03-28T09:52:23.634Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran-Israel Conflict",
-  "summary": "The ongoing conflict between Iran and Israel continues to escalate, with Yemen's Houthis launching missile attacks on Israel, while global markets slide amidst the tensions. The situation remains volatile, with potential for further escalation and spillover effects in the region.",
+  "threatLevel": "CRITICAL",
+  "topTheme": "Iran War Escalation",
+  "summary": "The conflict between Iran, the US, and Israel continues to escalate, with recent attacks on a steel plant and a US vessel near Oman. The situation remains volatile, with trillions of dollars wiped out from global markets and no clear end to the conflict in sight.",
   "keyTrends": [
-    "Escalating Conflict",
-    "Global Market Impact",
+    "Iran-Israel Conflict",
+    "US Involvement",
     "Regional Instability"
   ],
   "watchItems": [
-    "Houthi Missile Attacks",
-    "US-Israel Cooperation"
+    "Houthi Missile Launches",
+    "Kuwait Airport Security"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Fear of War",
+    "Escalating Violence",
     "Economic Uncertainty"
   ]
 }
