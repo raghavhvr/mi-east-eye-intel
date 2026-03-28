@@ -2,7 +2,7 @@ name: Generate Brief
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Every 6 hours UTC
+    - cron: "40 2 * * *"   # 2:20 AM UTC (6:20 AM Dubai)
   workflow_dispatch:
 
 jobs:
