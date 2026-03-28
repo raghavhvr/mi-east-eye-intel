@@ -215,25 +215,25 @@ async function fetchGDELTTone() {
     const token = await getBQToken(GCP_SA);
     const projectId = JSON.parse(GCP_SA).project_id;
 
-    // Single query for all MENA countries — one BQ call, ~200MB
-    // Uses _PARTITIONTIME to limit scan to last 7 days
+    // Query events_partitioned — same table as fetch-gdelt-bq.js, confirmed working
+    // Aggregate AvgTone by ActionGeo_CountryCode (FIPS) over last 7 days
     const fipsList = GDELT_COUNTRIES.map(c => `'${c.fips}'`).join(",");
     const sevenDaysAgo = new Date(Date.now() - 7*24*3600*1000).toISOString().split("T")[0];
+    const sqlDateFrom = sevenDaysAgo.replace(/-/g, "");
 
     const query = `
       SELECT
-        SourceCommonName,
-        V2SourceCommonName,
-        SourceCountryCode,
-        AVG(CAST(REGEXP_EXTRACT(V2Tone, r'^([^,]+)') AS FLOAT64)) AS avg_tone,
-        COUNT(*) AS article_count
-      FROM \`gdelt-bq.gdeltv2.gkg_partitioned\`
+        ActionGeo_CountryCode,
+        AVG(AvgTone) AS avg_tone,
+        COUNT(*) AS event_count
+      FROM \`gdelt-bq.gdeltv2.events_partitioned\`
       WHERE _PARTITIONTIME >= TIMESTAMP('${sevenDaysAgo}')
-        AND SourceCountryCode IN (${fipsList})
-        AND V2Tone IS NOT NULL
-        AND V2Tone != ''
-      GROUP BY SourceCommonName, V2SourceCommonName, SourceCountryCode
-      ORDER BY SourceCountryCode, article_count DESC
+        AND SQLDATE >= ${sqlDateFrom}
+        AND ActionGeo_CountryCode IN (${fipsList})
+        AND AvgTone IS NOT NULL
+        AND NumArticles >= 1
+      GROUP BY ActionGeo_CountryCode
+      ORDER BY event_count DESC
     `;
 
     const res = await fetch(
@@ -257,24 +257,17 @@ async function fetchGDELTTone() {
     const result = await res.json();
     if (!result.jobComplete) throw new Error("BQ job did not complete in time");
 
-    // Aggregate tone by country (weighted by article count)
-    const byCountry = {};
+    // Map FIPS → tone
+    const byFips = {};
     for (const row of (result.rows || [])) {
-      const fips = row.f[2].v;
-      const tone = parseFloat(row.f[3].v);
-      const count = parseInt(row.f[4].v);
-      if (!byCountry[fips]) byCountry[fips] = { sum: 0, count: 0 };
-      byCountry[fips].sum += tone * count;
-      byCountry[fips].count += count;
+      byFips[row.f[0].v] = { tone: parseFloat(row.f[1].v), count: parseInt(row.f[2].v) };
     }
 
     const tone = {};
     for (const { id, fips } of GDELT_COUNTRIES) {
-      const agg = byCountry[fips];
-      tone[id] = agg && agg.count > 0
-        ? Math.round((agg.sum / agg.count) * 100) / 100
-        : null;
-      console.log(`[gdelt:${id}] tone=${tone[id]} (${agg?.count || 0} articles)`);
+      const entry = byFips[fips];
+      tone[id] = entry ? Math.round(entry.tone * 100) / 100 : null;
+      if (entry) console.log(`[gdelt:${id}] tone=${tone[id]} (${entry.count} events)`);
     }
 
     console.log(`[gdelt] BigQuery: tone for ${Object.values(tone).filter(v=>v!==null).length}/12 countries`);
@@ -282,38 +275,16 @@ async function fetchGDELTTone() {
 
   } catch (err) {
     console.error("[gdelt] BigQuery failed:", err.message);
-    console.log("[gdelt] Falling back to DOC API…");
+    console.log("[gdelt] BQ failed — returning nulls (DOC API blocked from GH Actions)");
     return fetchGDELTToneDocAPI();
   }
 }
 
-// Fallback: original DOC API (kept as backup when BQ not configured)
+// DOC API blocked from GitHub Actions — return nulls immediately
+// Tone data comes from BQ events_partitioned; if BQ fails, nulls are fine
 async function fetchGDELTToneDocAPI() {
-  const tone = {};
-  for (const { id, fips } of GDELT_COUNTRIES) {
-    try {
-      const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=sourcecountry:${fips}&mode=timelinetone&TIMESPAN=7days&format=json`;
-      const res = await fetch(url, { headers: { "User-Agent": "OpenEye-OSINT/4.0" }, signal: AbortSignal.timeout(15000) });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const text = await res.text();
-      const d = JSON.parse(text);
-      let entries = [];
-      if (Array.isArray(d?.timeline)) {
-        const first = d.timeline[0] || {};
-        const candidate = first.series ?? first.data ?? first.values ?? first.tone ?? [];
-        entries = Array.isArray(candidate) ? candidate : Object.values(candidate);
-      } else if (Array.isArray(d?.data)) { entries = d.data; }
-      else if (Array.isArray(d)) { entries = d; }
-      const values = entries.map(p => parseFloat(p?.value ?? p?.tone ?? 0)).filter(n => !isNaN(n) && n !== 0);
-      tone[id] = values.length ? Math.round((values.reduce((a,b)=>a+b,0)/values.length)*100)/100 : null;
-      console.log(`[gdelt-doc:${id}] tone=${tone[id]}`);
-    } catch (err) {
-      console.error(`[gdelt-doc:${id}] failed:`, err.message);
-      tone[id] = null;
-    }
-    await sleep(2500);
-  }
-  return tone;
+  console.log("[gdelt-doc] skipped — DOC API blocked from GitHub Actions");
+  return Object.fromEntries(GDELT_COUNTRIES.map(c => [c.id, null]));
 }
 
 // ── Weather ──────────────────────────────────────────────────────────────────
@@ -527,7 +498,7 @@ async function fetchLotterySignals() {
     // Retry with corrected URLs
     { name: "Arab News",        url: "https://www.arabnews.com/rss.xml" },
     { name: "Gulf News",        url: "https://gulfnews.com/rss/world" },
-    { name: "The National",     url: "https://www.thenationalnews.com/arc/outboundfeeds/rss/" },
+    { name: "The National",     url: "https://www.thenationalnews.com/rss" },
     { name: "Khaleej Times",    url: "https://www.khaleejtimes.com/rss" },
   ];
   await Promise.allSettled(LOT_RSS.map(async ({ name, url }) => {
