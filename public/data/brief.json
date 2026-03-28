@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-28T10:29:25.714Z",
+  "generated_at": "2026-03-28T12:27:46.711Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Tensions",
-  "summary": "The region is experiencing low-level tensions with Iran denying involvement in an attack on the Salalah Port, while other headlines indicate a focus on daily life and routine concerns. Analysts note a lack of significant escalations, but ongoing awareness guides suggest a need for continued vigilance.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "The region is experiencing increased tensions due to various conflicts and humanitarian issues, with reports of a Gaza toddler being released from Israeli custody with injuries. Social media posts also indicate concerns about safety and assistance in specific areas, such as Shj and Gaza.",
   "keyTrends": [
-    "Iranian Denials",
-    "Regional Security",
-    "Daily Life Concerns"
+    "Gaza-Israel Conflict",
+    "Saudi Arabia Politics",
+    "Regional Humanitarian Issues"
   ],
   "watchItems": [
-    "Salalah Port",
-    "Iranian Actions"
+    "Saudi Crown Prince Mohammed Bin Salman",
+    "Gaza-Israel Border"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Uncertainty",
-    "Security Concerns"
+    "Humanitarian Concerns",
+    "Regional Conflicts"
   ]
 }

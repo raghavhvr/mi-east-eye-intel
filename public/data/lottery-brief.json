@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T10:29:26.312Z",
+  "generated_at": "2026-03-28T12:27:47.195Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "ANXIOUS",
   "sentimentSplit": {
@@ -13,7 +13,7 @@
     "concern",
     "helplessness"
   ],
-  "psychInsight": "The public is driven by a sense of uncertainty and insecurity, leading to increased anxiety and frustration. The lack of control over daily life events is exacerbating these emotions, causing individuals to seek information and support online.",
+  "psychInsight": "The public is driven by a sense of uncertainty and insecurity, leading to increased anxiety and frustration. This mood is further exacerbated by the lack of control over daily life events, such as floods and visa cancellations.",
   "riskSignals": [
     "visa cancellations",
     "floods"
