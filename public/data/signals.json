@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T13:48:34.077Z",
+  "generated_at": "2026-03-28T13:57:44.012Z",
   "acled": [],
   "gdelt_tone": {
     "UAE": null,
@@ -16,41 +16,17 @@
     "Iran": null
   },
   "weather": {
-    "Iran": {
-      "temp_c": 12,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Qatar": {
-      "temp_c": 24,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Yemen": {
-      "temp_c": 21,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
-    "Oman": {
-      "temp_c": 25,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Iraq": {
-      "temp_c": 22,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
     "Jordan": {
       "temp_c": 16,
       "wind_kmh": 12,
       "condition": "Partly Cloudy",
       "city": "Amman"
+    },
+    "Lebanon": {
+      "temp_c": 19,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Beirut"
     },
     "UAE": {
       "temp_c": 22,
@@ -58,23 +34,41 @@
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
     "Saudi Arabia": {
       "temp_c": 23,
       "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 24,
-      "wind_kmh": 12,
+    "Oman": {
+      "temp_c": 25,
+      "wind_kmh": 18,
       "condition": "Partly Cloudy",
-      "city": "Kuwait City"
+      "city": "Muscat"
     },
-    "Egypt": {
-      "temp_c": 28,
-      "wind_kmh": 15,
+    "Iran": {
+      "temp_c": 12,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Tehran"
+    },
+    "Iraq": {
+      "temp_c": 22,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Qatar": {
+      "temp_c": 24,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Doha"
     },
     "Bahrain": {
       "temp_c": 23,
@@ -82,11 +76,17 @@
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
-    "Lebanon": {
-      "temp_c": 19,
-      "wind_kmh": 9,
+    "Kuwait": {
+      "temp_c": 24,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "Yemen": {
+      "temp_c": 21,
+      "wind_kmh": 21,
       "condition": "Clear",
-      "city": "Beirut"
+      "city": "Sanaa"
     }
   },
   "fx": {
