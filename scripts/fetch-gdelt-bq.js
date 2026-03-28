@@ -179,6 +179,66 @@ function getEventLabel(eventCode, rootCode) {
   return CAMEO_CODE[eventCode] || CAMEO_CODE[rootCode] || CAMEO_ROOT[rootCode] || `Code ${eventCode}`;
 }
 
+// ── Event categorisation ───────────────────────────────────────────────────────
+// crisis  → material conflict OR severe verbal conflict OR coerce/assault/fight/mass violence
+// social  → protest/dissent (rootCode 14) OR civilian/activist actor in conflict
+// general → everything else (diplomacy, cooperation, statements, aid, negotiations)
+const SOCIAL_ACTORS = [
+  "PROTESTER","DEMONSTRATOR","STUDENT","WORKER","CIVILIAN",
+  "ACTIVIST","OPPOSITION","RIOTER","CROWD","LABOR","UNION",
+];
+
+function categorise(event) {
+  const q  = event.quadClass;
+  const r  = event.rootCode;
+  const g  = event.goldstein;
+  const a1 = (event.actor1 || "").toUpperCase();
+
+  // Crisis — most specific, check first
+  if (q === "4") return "crisis";
+  if (q === "3" && g <= -5) return "crisis";
+  if (["17","18","19","20"].includes(r)) return "crisis";
+
+  // Social — protest / civilian dissent
+  if (r === "14") return "social";
+  if (SOCIAL_ACTORS.some(a => a1.includes(a)) && ["3","4"].includes(q)) return "social";
+
+  // General — diplomacy, cooperation, statements, aid
+  return "general";
+}
+
+// ── Per-country summary ────────────────────────────────────────────────────────
+function buildSummary(events) {
+  const byCountry = {};
+  for (const e of events) {
+    const c = e.country;
+    if (!byCountry[c]) byCountry[c] = {
+      country: c, fips: e.fips,
+      total: 0, crisis: 0, social: 0, general: 0,
+      avgGoldstein: 0, avgTone: 0, topEvents: [],
+    };
+    const s = byCountry[c];
+    s.total++;
+    s[e.category]++;
+    s.avgGoldstein += e.goldstein;
+    s.avgTone      += e.tone;
+    if (s.topEvents.length < 3) s.topEvents.push({
+      eventLabel: e.eventLabel,
+      actor1: e.actor1,
+      actor2: e.actor2,
+      goldstein: e.goldstein,
+      articles: e.articles,
+      url: e.url,
+      category: e.category,
+    });
+  }
+  return Object.values(byCountry).map(s => ({
+    ...s,
+    avgGoldstein: s.total ? Math.round((s.avgGoldstein / s.total) * 100) / 100 : 0,
+    avgTone:      s.total ? Math.round((s.avgTone      / s.total) * 100) / 100 : 0,
+  })).sort((a, b) => b.crisis - a.crisis || b.total - a.total);
+}
+
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const toDate = d => d.toISOString().split("T")[0];
 
@@ -344,6 +404,8 @@ async function fetchEventsForDate(token, projectId, dateStr) {
       url:         f[20].v || "",
       timestamp:   new Date(`${f[1].v}`.replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3")).toISOString(),
     };
+    event.category = categorise(event);
+    return event;
   });
 }
 
@@ -362,13 +424,20 @@ function save(events) {
   const filtered = deduped
     .filter(e => new Date(e.timestamp).getTime() > cutoff)
     .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+  const summary = buildSummary(filtered);
+  const catCounts = filtered.reduce((a, e) => {
+    a[e.category] = (a[e.category] || 0) + 1; return a;
+  }, { crisis: 0, social: 0, general: 0 });
+
   writeFileSync(OUT, JSON.stringify({
     generated_at: new Date().toISOString(),
     count: filtered.length,
+    categories: catCounts,
     date_range: {
       from: filtered[filtered.length - 1]?.date || null,
       to:   filtered[0]?.date || null,
     },
+    summary,
     events: filtered,
   }, null, 2));
   return filtered.length;

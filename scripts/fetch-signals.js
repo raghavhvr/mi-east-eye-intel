@@ -15,6 +15,8 @@ mkdirSync(dirname(OUT), { recursive: true });
 // ACLED uses OAuth 2.0 — store your myACLED email+password as GitHub Secrets
 const ACLED_EMAIL    = process.env.ACLED_EMAIL    || "";
 const ACLED_PASSWORD = process.env.ACLED_PASSWORD || "";
+const NEWSAPI_KEY    = process.env.NEWSAPI_KEY    || "";
+const GUARDIAN_KEY   = process.env.GUARDIAN_KEY   || "";
 
 // MENA capitals for weather
 const CAPITALS = {
@@ -414,7 +416,124 @@ async function fetchLotterySignals() {
     } catch (err) { console.error(`[lottery:r/${sub}]`, err.message); }
   }));
 
-  // HN lottery queries
+  // ── NewsAPI ─────────────────────────────────────────────────────────────────
+  if (NEWSAPI_KEY) {
+    try {
+      const q = encodeURIComponent(
+        'mahzooz OR "big ticket" OR "emirates draw" OR "duty free draw" OR "lucky draw" OR "lottery win" OR jackpot'
+      );
+      const from = new Date(Date.now() - 30*24*3600*1000).toISOString().split("T")[0];
+      const url = `https://newsapi.org/v2/everything?q=${q}&from=${from}&language=en&sortBy=publishedAt&pageSize=50&apiKey=${NEWSAPI_KEY}`;
+      const res = await fetch(url, { signal: AbortSignal.timeout(12000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const d = await res.json();
+      for (const a of (d.articles || [])) {
+        if (!a.title || seen.has(`na-${a.url}`)) continue;
+        const txt = a.title + " " + (a.description || "");
+        if (!LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
+        seen.add(`na-${a.url}`);
+        all.push({
+          id: `newsapi-lot-${Buffer.from(a.url).toString("base64").slice(0,12)}`,
+          title: a.title,
+          summary: a.description || "",
+          url: a.url,
+          timestamp: a.publishedAt || new Date().toISOString(),
+          source: a.source?.name || "NewsAPI",
+          sourceType: "NewsAPI",
+          tag: isME(txt) ? "ME-LOT" : "LOT",
+          country: isME(txt) ? "Regional" : "Global",
+          score: 0,
+          comments: 0,
+          mood: classifyLottery(txt),
+          isME: isME(txt),
+        });
+      }
+      console.log(`[lottery:newsapi] ${all.length} items so far`);
+    } catch (err) { console.error("[lottery:newsapi]", err.message); }
+  }
+
+  // ── The Guardian API (free, 12 req/s) ────────────────────────────────────────
+  try {
+    const guardianKey = GUARDIAN_KEY || "test"; // "test" key works with rate limits
+    const q = encodeURIComponent("lottery OR jackpot OR mahzooz OR \"big ticket\" OR \"lucky draw\"");
+    const from = new Date(Date.now() - 30*24*3600*1000).toISOString().split("T")[0];
+    const url = `https://content.guardianapis.com/search?q=${q}&from-date=${from}&show-fields=headline,trailText&page-size=20&api-key=${guardianKey}`;
+    const res = await fetch(url, { signal: AbortSignal.timeout(12000) });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const d = await res.json();
+    for (const a of (d.response?.results || [])) {
+      if (!a.webTitle || seen.has(`gu-${a.id}`)) continue;
+      const txt = a.webTitle + " " + (a.fields?.trailText || "");
+      if (!LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
+      seen.add(`gu-${a.id}`);
+      all.push({
+        id: `guardian-lot-${a.id.replace(/\//g,"-")}`,
+        title: a.webTitle,
+        summary: a.fields?.trailText || "",
+        url: a.webUrl,
+        timestamp: a.webPublicationDate,
+        source: "The Guardian",
+        sourceType: "News",
+        tag: isME(txt) ? "ME-LOT" : "LOT",
+        country: isME(txt) ? "Regional" : "Global",
+        score: 0,
+        comments: 0,
+        mood: classifyLottery(txt),
+        isME: isME(txt),
+      });
+    }
+    console.log(`[lottery:guardian] fetched`);
+  } catch (err) { console.error("[lottery:guardian]", err.message); }
+
+  // ── RSS feeds — Al Arabiya, Gulf News, Khaleej Times ────────────────────────
+  const LOT_RSS = [
+    { name: "Al Arabiya",     url: "https://english.alarabiya.net/rss.xml" },
+    { name: "Gulf News",      url: "https://gulfnews.com/rss/uae" },
+    { name: "Khaleej Times",  url: "https://www.khaleejtimes.com/feed" },
+  ];
+  await Promise.allSettled(LOT_RSS.map(async ({ name, url }) => {
+    try {
+      const res = await fetch(url, {
+        headers: { "User-Agent": "OpenEye-OSINT/4.0" },
+        signal: AbortSignal.timeout(10000),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const xml = await res.text();
+      // Simple XML item extraction — no external parser needed
+      const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(m => m[1]);
+      for (const item of items) {
+        const title   = (item.match(/<title><!\[CDATA\[(.*?)\]\]><\/title>/) ||
+                         item.match(/<title>(.*?)<\/title>/))?.[1]?.trim() || "";
+        const link    = (item.match(/<link>(.*?)<\/link>/))?.[1]?.trim() || "";
+        const desc    = (item.match(/<description><!\[CDATA\[(.*?)\]\]><\/description>/) ||
+                         item.match(/<description>(.*?)<\/description>/))?.[1]?.trim() || "";
+        const pubDate = (item.match(/<pubDate>(.*?)<\/pubDate>/))?.[1]?.trim() || "";
+        if (!title || seen.has(`rss-${link}`)) continue;
+        const txt = title + " " + desc;
+        if (!LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
+        const ts = pubDate ? new Date(pubDate).toISOString() : new Date().toISOString();
+        seen.add(`rss-${link}`);
+        all.push({
+          id: `rss-lot-${Buffer.from(link).toString("base64").slice(0,12)}`,
+          title,
+          summary: desc.replace(/<[^>]+>/g, "").trim().slice(0, 240),
+          url: link,
+          timestamp: ts,
+          source: name,
+          sourceType: "RSS",
+          tag: "ME-LOT",
+          country: "Regional",
+          score: 0,
+          comments: 0,
+          mood: classifyLottery(txt),
+          isME: true,
+        });
+      }
+      console.log(`[lottery:${name}] fetched`);
+    } catch (err) { console.error(`[lottery:${name}]`, err.message); }
+  }));
+
+
   const since = Math.floor(Date.now()/1000) - 30*24*3600;
   const queries = ["lottery UAE expat","jackpot dubai","mahzooz big ticket","gulf lucky draw","lottery win middle east"];
   await Promise.allSettled(queries.map(async q => {
