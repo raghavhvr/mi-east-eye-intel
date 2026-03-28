@@ -39,7 +39,8 @@ Repo → Settings → Secrets → Actions:
 |--------|--------|
 | `GROQ_API_KEY` | console.groq.com (free, gsk_...) |
 | `GEMINI_API_KEY` | aistudio.google.com (free, fallback) |
-| `ACLED_KEY` | developer.acleddata.com (free, register) |
+| `ACLED_EMAIL` | Your myACLED account email (register at acleddata.com) |
+| `ACLED_PASSWORD` | Your myACLED account password |
 
 ### 4. First run — trigger Actions manually
 Actions → "Fetch Feeds" → Run workflow

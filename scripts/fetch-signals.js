@@ -12,7 +12,9 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = resolve(__dirname, "../public/data/signals.json");
 mkdirSync(dirname(OUT), { recursive: true });
 
-const ACLED_KEY = process.env.ACLED_KEY || "";
+// ACLED uses OAuth 2.0 — store your myACLED email+password as GitHub Secrets
+const ACLED_EMAIL    = process.env.ACLED_EMAIL    || "";
+const ACLED_PASSWORD = process.env.ACLED_PASSWORD || "";
 
 // MENA capitals for weather
 const CAPITALS = {
@@ -70,29 +72,68 @@ function isME(text) {
   return ["uae","dubai","abu dhabi","sharjah","saudi","gulf","qatar","kuwait","oman","bahrain","arab","expat","mahzooz","emirates draw","big ticket","duty free","dream dubai","dirham","aed"].some(k=>t.includes(k));
 }
 
-// ── ACLED ────────────────────────────────────────────────────────────────────
+// ── ACLED OAuth ──────────────────────────────────────────────────────────────
+// ACLED now requires OAuth 2.0 (email + password → Bearer token, valid 24h)
+// Docs: https://acleddata.com/api-documentation/getting-started
+async function getACLEDToken() {
+  const res = await fetch("https://acleddata.com/oauth/token", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({
+      username:   ACLED_EMAIL,
+      password:   ACLED_PASSWORD,
+      grant_type: "password",
+      client_id:  "acled",
+    }),
+    signal: AbortSignal.timeout(15000),
+  });
+  if (!res.ok) throw new Error(`ACLED auth HTTP ${res.status}`);
+  const d = await res.json();
+  if (!d.access_token) throw new Error("No access_token in ACLED response");
+  return d.access_token;
+}
+
 async function fetchACLED() {
-  if (!ACLED_KEY) { console.log("[acled] No ACLED_KEY — skipping"); return []; }
+  if (!ACLED_EMAIL || !ACLED_PASSWORD) {
+    console.log("[acled] No ACLED_EMAIL/ACLED_PASSWORD set — skipping");
+    return [];
+  }
   try {
-    const countriesParam = ACLED_COUNTRIES.join("|");
-    // Last 30 days
+    const token = await getACLEDToken();
+    console.log("[acled] Token obtained");
+
     const since = new Date(Date.now() - 30*24*3600*1000).toISOString().split("T")[0];
-    const url = `https://api.acleddata.com/acled/read?key=${ACLED_KEY}&email=noreply@open-eye.app&country=${encodeURIComponent(countriesParam)}&event_date=${since}&event_date_where=BETWEEN&event_date_end=${new Date().toISOString().split("T")[0]}&fields=event_id_cnty|event_date|event_type|sub_event_type|country|admin1|location|latitude|longitude|fatalities|notes&limit=500&format=json`;
-    const res = await fetch(url, { signal: AbortSignal.timeout(20000) });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const today = new Date().toISOString().split("T")[0];
+
+    // Build country filter: country=UAE:OR:country=Saudi Arabia:OR:...
+    const countryFilter = ACLED_COUNTRIES.map((c, i) =>
+      i === 0 ? `country=${encodeURIComponent(c)}` : `country=${encodeURIComponent(c)}`
+    ).join(":OR:");
+
+    const url = `https://acleddata.com/api/acled/read?_format=json` +
+      `&${ACLED_COUNTRIES.map(c => `country=${encodeURIComponent(c)}`).join(":OR:country=")}` +
+      `&event_date=${since}|${today}&event_date_where=BETWEEN` +
+      `&fields=event_id_cnty|event_date|event_type|sub_event_type|country|admin1|location|latitude|longitude|fatalities|notes` +
+      `&limit=500`;
+
+    const res = await fetch(url, {
+      headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
+      signal: AbortSignal.timeout(25000),
+    });
+    if (!res.ok) throw new Error(`ACLED data HTTP ${res.status}`);
     const d = await res.json();
     const events = (d.data||[]).map(e => ({
-      event_id: e.event_id_cnty,
-      event_date: e.event_date,
-      event_type: e.event_type,
-      sub_event_type: e.sub_event_type,
-      country: e.country,
-      admin1: e.admin1,
-      location: e.location,
-      latitude: parseFloat(e.latitude)||0,
-      longitude: parseFloat(e.longitude)||0,
-      fatalities: parseInt(e.fatalities)||0,
-      notes: (e.notes||"").slice(0,200),
+      event_id:      e.event_id_cnty,
+      event_date:    e.event_date,
+      event_type:    e.event_type,
+      sub_event_type:e.sub_event_type,
+      country:       e.country,
+      admin1:        e.admin1,
+      location:      e.location,
+      latitude:      parseFloat(e.latitude)||0,
+      longitude:     parseFloat(e.longitude)||0,
+      fatalities:    parseInt(e.fatalities)||0,
+      notes:         (e.notes||"").slice(0,200),
     }));
     console.log(`[acled] ${events.length} events`);
     return events;

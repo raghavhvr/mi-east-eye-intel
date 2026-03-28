@@ -21,7 +21,8 @@ jobs:
 
       - name: Run fetch-signals
         env:
-          ACLED_KEY: ${{ secrets.ACLED_KEY }}
+          ACLED_EMAIL: ${{ secrets.ACLED_EMAIL }}
+          ACLED_PASSWORD: ${{ secrets.ACLED_PASSWORD }}
         run: node scripts/fetch-signals.js
 
       - name: Commit data
