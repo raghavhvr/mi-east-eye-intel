@@ -20,11 +20,12 @@ mkdirSync(dirname(OUT), { recursive: true });
 
 // ── Config ───────────────────────────────────────────────────────────────────
 const args = process.argv.slice(2);
-const startArg = args[args.indexOf("--start") + 1];
-const endArg   = args[args.indexOf("--end")   + 1];
+const getArg = flag => { const i = args.indexOf(flag); return i !== -1 ? args[i + 1] : undefined; };
+const startArg = getArg("--start");
+const endArg   = getArg("--end");
 
 const START_DATE = new Date(startArg || "2026-01-01");
-const END_DATE   = new Date(endArg   || new Date().toISOString().split("T")[0]);
+const END_DATE   = endArg ? new Date(endArg) : new Date();
 const CHUNK_DAYS = 7;   // fetch in weekly chunks to avoid timeouts
 const SLEEP_MS   = 600; // pause between chunks to be a polite requester
 
