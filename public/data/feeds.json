@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-03-28T10:05:44.142Z",
-  "count": 573,
+  "generated_at": "2026-03-28T10:06:18.963Z",
+  "count": 581,
   "articles": [
+    {
+      "id": "436836 at https://www.middleeasteye.net/",
+      "title": "Aasiya Andrabi: How India's terror laws turned dissent into life sentences",
+      "summary": "<article data-history-node-id=\"436836\" about=\"https://www.middleeasteye.net/big-story/aasiya-andrabi-how-india-terror-laws-turned-dissent-life-sentences\" class=\"the-big-story default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/bi",
+      "url": "https://www.middleeasteye.net/big-story/aasiya-andrabi-how-india-terror-laws-turned-dissent-life-sentences",
+      "timestamp": "2026-03-28T10:00:10.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774675101",
+      "title": "Nepal’s ex-PM Oli detained over alleged role in deadly protest crackdown",
+      "summary": "New home minister says arrest of former leader is the 'beginning of justice'.",
+      "url": "https://www.aljazeera.com/news/2026/3/28/nepals-ex-pm-arrested-over-alleged-role-in-protest-crackdown?traffic_source=rss",
+      "timestamp": "2026-03-28T09:50:07.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
     {
       "id": "https://www.thenationalnews.com/news/mena/2026/03/28/yemens-houthis-enter-the-iran-war-with-launch-of-ballistic-missile-at-israel/",
       "title": "Yemen's Houthis enter the Iran war with launch of ballistic missile at Israel",
@@ -275,7 +311,7 @@
     {
       "id": "https://www.aljazeera.com/?t=1774682542",
       "title": "Trump claims Iran wants to ‘make a deal’",
-      "summary": "US President Donald Trump claimed Tehran is seeking a deal and praised the strength of the the US military.",
+      "summary": "US President Donald Trump claimed Tehran is seeking a deal and praised the strength of the US military.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
       "timestamp": "2026-03-28T07:34:15.000Z",
       "source": "Al Jazeera",
@@ -525,6 +561,24 @@
       "comments": 0
     },
     {
+      "id": "hn-47551534",
+      "title": "Programmatic SEO is just noise based on my last 5 years experience",
+      "summary": "3 pts · 1 comments",
+      "url": "https://news.ycombinator.com/item?id=47551534",
+      "timestamp": "2026-03-28T04:07:34.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 3,
+      "comments": 1
+    },
+    {
       "id": "https://www.thenationalnews.com/sport/2026/03/28/dubai-world-cup-a-symbol-of-uaes-determination-amid-conflict-and-crisis/",
       "title": "Dubai World Cup a symbol of UAE’s determination amid conflict and crisis",
       "summary": "When the first race of the Dubai World Cup 2026 starts at 3.45pm on Saturday, it will be a testament to organisers' planning and the resolve of the country as a whole. Already a highlight of the UAE sporting and social calendar, this year's",
@@ -534,7 +588,7 @@
       "sourceType": "RSS",
       "tag": "NEWS",
       "country": "UAE",
-      "section": "🕌 Culture",
+      "section": "🚨 Crisis",
       "sentiment": {
         "label": "CRITICAL",
         "score": -2
@@ -597,6 +651,24 @@
       "comments": 0
     },
     {
+      "id": "hn-47550018",
+      "title": "Speech on the situation in the Near and Middle East [video]",
+      "summary": "1 pts · 0 comments",
+      "url": "https://www.youtube.com/watch?v=FXPD6bjrlXg",
+      "timestamp": "2026-03-28T00:03:47.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
       "id": "3882498",
       "title": "Leaders gather in Istanbul for Stratcom 2026, discuss global instability, strategic communication",
       "summary": "Panels at summit explore instability, mediation diplomacy, digital platforms, AI-driven public opinion and crisis of legitimacy in international system",
@@ -615,6 +687,42 @@
       "comments": 0
     },
     {
+      "id": "hn-47548429",
+      "title": "The Autonomous Battlefield",
+      "summary": "2 pts · 2 comments",
+      "url": "https://www.foreignaffairs.com/middle-east/autonomous-battlefield",
+      "timestamp": "2026-03-27T21:22:17.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 2,
+      "comments": 2
+    },
+    {
+      "id": "hn-47546925",
+      "title": "Show HN: Anvil – Desktop App for Spec Driven Development",
+      "summary": "6 pts · 0 comments",
+      "url": "https://github.com/zdenham/anvil",
+      "timestamp": "2026-03-27T19:07:56.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 6,
+      "comments": 0
+    },
+    {
       "id": "https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her",
       "title": "Scientists film whale giving birth while other whales work together to help her",
       "summary": "<p>Female named Rounder surrounded by family members when about to give birth to her second calf</p><p>Scientists have managed to film a sperm whale giving birth while other female whales worked together to support the mother and her newbor",
@@ -624,7 +732,7 @@
       "sourceType": "RSS",
       "tag": "NEWS",
       "country": "Regional",
-      "section": "🕌 Culture",
+      "section": "Other",
       "sentiment": {
         "label": "STABLE",
         "score": 1
@@ -651,6 +759,24 @@
       "comments": 0
     },
     {
+      "id": "hn-47543248",
+      "title": "Show HN: AppDesk – Native macOS Client for App Store Connect",
+      "summary": "5 pts · 0 comments",
+      "url": "https://appdesk.dev",
+      "timestamp": "2026-03-27T14:44:54.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 5,
+      "comments": 0
+    },
+    {
       "id": "3881859",
       "title": "Austria approves social media ban for under-14s",
       "summary": "Government also introduces curriculum reforms to boost media literacy and AI education",
@@ -667,6 +793,24 @@
       },
       "score": 0,
       "comments": 0
+    },
+    {
+      "id": "hn-47542761",
+      "title": "The danger of using \"Hide My Email\" with third-party Stripe handoffs",
+      "summary": "4 pts · 2 comments",
+      "url": "https://news.ycombinator.com/item?id=47542761",
+      "timestamp": "2026-03-27T14:01:12.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 4,
+      "comments": 2
     },
     {
       "id": "https://www.bbc.com/news/articles/c75kzk3lgl5o#0",
