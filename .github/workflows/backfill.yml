@@ -1,0 +1,50 @@
+# .github/workflows/backfill.yml
+# One-time 30-day historical data loader for Open Eye
+#
+# HOW TO USE:
+#   1. Add secrets in GitHub: Settings → Secrets → Actions
+#      - UPSTASH_REDIS_REST_URL
+#      - UPSTASH_REDIS_REST_TOKEN
+#   2. Go to Actions tab → "Backfill 30-day signals" → Run workflow
+#   3. Watch the logs — takes ~2-3 minutes
+#   After that, the Vercel hourly cron handles everything automatically.
+
+name: Backfill 30-day signals
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type "backfill" to confirm (prevents accidental runs)'
+        required: true
+        default: ''
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check confirmation
+        if: github.event.inputs.confirm != 'backfill'
+        run: |
+          echo "Confirmation failed. Type 'backfill' in the input field."
+          exit 1
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run backfill
+        env:
+          UPSTASH_REDIS_REST_URL: ${{ secrets.UPSTASH_REDIS_REST_URL }}
+          UPSTASH_REDIS_REST_TOKEN: ${{ secrets.UPSTASH_REDIS_REST_TOKEN }}
+        run: node scripts/backfill.js
+
+      - name: Summary
+        if: success()
+        run: echo "✅ Backfill complete. Vercel hourly cron will now keep data fresh."

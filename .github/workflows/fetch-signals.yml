@@ -1,0 +1,33 @@
+name: Fetch Signals
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # Every hour UTC
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run fetch-signals
+        env:
+          ACLED_KEY: ${{ secrets.ACLED_KEY }}
+        run: node scripts/fetch-signals.js
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/signals.json
+          git diff --staged --quiet || git commit -m "chore: update signals $(date -u '+%Y-%m-%dT%H:%M')"
+          git push

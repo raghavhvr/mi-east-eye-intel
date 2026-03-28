@@ -1,0 +1,23 @@
+{
+  "name": "open-eye-osint",
+  "version": "4.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "fetch-feeds": "node scripts/fetch-feeds.js",
+    "fetch-signals": "node scripts/fetch-signals.js",
+    "generate-brief": "node scripts/generate-brief.js",
+    "fetch-all": "npm run fetch-feeds && npm run fetch-signals && npm run generate-brief"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}
