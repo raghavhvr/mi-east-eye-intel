@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T09:13:35.702Z",
+  "generated_at": "2026-03-28T09:22:07.910Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "ANXIOUS",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 50
   },
-  "dominantNarrative": "Uncertainty and doubt prevail",
+  "dominantNarrative": "Uncertainty and doubt",
   "keyEmotions": [
     "frustration",
     "desperation",
     "excitement"
   ],
-  "psychInsight": "The posts reveal a sense of desperation and frustration, driven by the uncertainty of winning or losing, and the psychological impact of near-misses. The overall mood is anxious, with individuals seeking validation or relief through gambling, but often ending up disappointed or frustrated.",
+  "psychInsight": "The public mood is driven by a mix of hope and desperation, with individuals seeking life-changing wins to escape their current circumstances. The prevalence of anxious and cynical sentiments suggests a sense of disillusionment with the odds of winning and the potential for scams or deceit.",
   "riskSignals": [
-    "gambling addiction",
-    "financial stress"
+    "scams",
+    "addiction"
   ],
   "opportunitySignals": [
-    "hope for a big win",
+    "life-changing wins",
     "new beginnings"
   ]
 }
