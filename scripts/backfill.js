@@ -89,7 +89,7 @@ const ME_SUBREDDITS = [
 async function fetchRedditChunk(sub, afterDate, beforeDate) {
   try {
     const url = `https://arctic-shift.photon-reddit.com/api/posts/search` +
-      `?subreddit=${sub}&after=${afterDate}&before=${beforeDate}&limit=100&sort=created_utc&order=asc`;
+      `?subreddit=${sub}&after=${afterDate}&before=${beforeDate}&limit=100&sort=asc`;
     const res = await fetch(url, { headers: { "User-Agent": "OpenEye-Backfill/1.0" }, signal: AbortSignal.timeout(20000) });
     if (!res.ok) { console.warn(`  [r/${sub}] HTTP ${res.status}`); return []; }
     const d = await res.json();

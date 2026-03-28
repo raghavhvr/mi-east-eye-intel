@@ -169,64 +169,74 @@ async function fetchGDELTTone() {
   const tone = {};
 
   for (const { id, fips } of GDELT_COUNTRIES) {
-    try {
-      const url = `https://api.gdeltproject.org/api/v2/doc/doc` +
-        `?query=sourcecountry:${fips}` +
-        `&mode=timelinetone` +
-        `&TIMESPAN=7days` +
-        `&format=json`;
+    let attempts = 0;
+    const maxAttempts = 3;
 
-      const res = await fetch(url, {
-        headers: { "User-Agent": "OpenEye-OSINT/4.0" },
-        signal: AbortSignal.timeout(15000),
-      });
+    while (attempts < maxAttempts) {
+      attempts++;
+      try {
+        const url = `https://api.gdeltproject.org/api/v2/doc/doc` +
+          `?query=sourcecountry:${fips}` +
+          `&mode=timelinetone` +
+          `&TIMESPAN=7days` +
+          `&format=json`;
 
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const text = await res.text();
-      if (!text || text.trim().length < 10) throw new Error("Empty response");
+        const res = await fetch(url, {
+          headers: { "User-Agent": "OpenEye-OSINT/4.0" },
+          signal: AbortSignal.timeout(15000),
+        });
 
-      const d = JSON.parse(text);
+        if (res.status === 429) {
+          const waitMs = attempts * 5000; // 5s, 10s, 15s
+          console.warn(`[gdelt:${id}] 429 rate limited — waiting ${waitMs/1000}s (attempt ${attempts}/${maxAttempts})`);
+          await sleep(waitMs);
+          continue;
+        }
 
-      // Log raw structure on first country to diagnose future issues
-      if (id === "UAE") {
-        console.log("[gdelt] raw keys:", Object.keys(d));
-        const tl = d?.timeline;
-        console.log("[gdelt] timeline type:", typeof tl, Array.isArray(tl) ? `array[${tl.length}]` : "");
-        if (Array.isArray(tl) && tl[0]) console.log("[gdelt] timeline[0] keys:", Object.keys(tl[0]));
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const text = await res.text();
+        if (!text || text.trim().length < 10) throw new Error("Empty response");
+
+        const d = JSON.parse(text);
+
+        if (id === "UAE") {
+          console.log("[gdelt] raw keys:", Object.keys(d));
+          const tl = d?.timeline;
+          console.log("[gdelt] timeline type:", typeof tl, Array.isArray(tl) ? `array[${tl.length}]` : "");
+          if (Array.isArray(tl) && tl[0]) console.log("[gdelt] timeline[0] keys:", Object.keys(tl[0]));
+        }
+
+        let entries = [];
+        if (Array.isArray(d?.timeline)) {
+          const first = d.timeline[0] || {};
+          const candidate = first.series ?? first.data ?? first.values ?? first.tone ?? [];
+          entries = Array.isArray(candidate) ? candidate : Object.values(candidate);
+        } else if (Array.isArray(d?.data)) {
+          entries = d.data;
+        } else if (Array.isArray(d)) {
+          entries = d;
+        }
+
+        const values = entries
+          .map(p => parseFloat(p?.value ?? p?.tone ?? p?.avgtone ?? 0))
+          .filter(n => !isNaN(n) && n !== 0);
+
+        tone[id] = values.length
+          ? Math.round((values.reduce((a, b) => a + b, 0) / values.length) * 100) / 100
+          : null;
+
+        console.log(`[gdelt:${id}] tone=${tone[id]} (${values.length} points from ${entries.length} entries)`);
+        break; // success
+
+      } catch (err) {
+        console.error(`[gdelt:${id}] attempt ${attempts} failed:`, err.message);
+        if (attempts >= maxAttempts) tone[id] = null;
+        else await sleep(3000);
       }
-
-      // GDELT timelinetone JSON structure (defensive — handles all known variants):
-      // { timeline: [ { series: [ { value: "n", date: "YYYYMMDDHHMMSS" } ] } ] }
-      // { timeline: [ { data:   [ { value: n,   date: "..." } ] } ] }
-      // { data: [ { value: n, date: "..." } ] }   ← flat variant
-      let entries = [];
-
-      if (Array.isArray(d?.timeline)) {
-        const first = d.timeline[0] || {};
-        // Try every known key that might hold the array of tone points
-        const candidate = first.series ?? first.data ?? first.values ?? first.tone ?? [];
-        entries = Array.isArray(candidate) ? candidate : Object.values(candidate);
-      } else if (Array.isArray(d?.data)) {
-        entries = d.data;
-      } else if (Array.isArray(d)) {
-        entries = d;
-      }
-
-      const values = entries
-        .map(p => parseFloat(p?.value ?? p?.tone ?? p?.avgtone ?? 0))
-        .filter(n => !isNaN(n) && n !== 0);
-
-      tone[id] = values.length
-        ? Math.round((values.reduce((a, b) => a + b, 0) / values.length) * 100) / 100
-        : null;
-
-      console.log(`[gdelt:${id}] tone=${tone[id]} (${values.length} points from ${entries.length} entries)`);
-    } catch (err) {
-      console.error(`[gdelt:${id}] failed:`, err.message);
-      tone[id] = null;
     }
 
-    await sleep(800);
+    // Stagger: 2.5s between countries to avoid GDELT rate limits on datacenter IPs
+    await sleep(2500);
   }
 
   const fetched = Object.values(tone).filter(v => v !== null).length;
@@ -289,7 +299,7 @@ async function fetchLotterySignals() {
   await Promise.allSettled(LOTTERY_SUBS.map(async ({ sub, meFocus }) => {
     try {
       const url = `https://arctic-shift.photon-reddit.com/api/posts/search` +
-        `?subreddit=${sub}&after=${after30dDate}&limit=100&sort=created_utc&order=desc`;
+        `?subreddit=${sub}&after=${after30dDate}&limit=100&sort=desc`;
       const res = await fetch(url, { headers: { "User-Agent": "OpenEye/1.0" }, signal: AbortSignal.timeout(12000) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const d = await res.json();

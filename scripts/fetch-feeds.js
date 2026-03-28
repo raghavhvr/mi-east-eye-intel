@@ -139,7 +139,7 @@ async function fetchRSS(src) {
 export async function fetchRedditRange(sub, afterDate, beforeDate = null) {
   // afterDate / beforeDate: ISO date strings "YYYY-MM-DD"
   try {
-    let url = `https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=${sub}&after=${afterDate}&limit=100&sort=created_utc&order=asc`;
+    let url = `https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=${sub}&after=${afterDate}&limit=100&sort=asc`;
     if (beforeDate) url += `&before=${beforeDate}`;
     const res = await fetch(url, { headers: { "User-Agent": "OpenEye/1.0" }, signal: AbortSignal.timeout(20000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -152,7 +152,7 @@ async function fetchReddit(entry) {
   // Normal cron: last 48h (generous window to not miss anything between 30-min runs)
   const after = new Date(Date.now() - 48*3600*1000).toISOString().split("T")[0];
   try {
-    const url = `https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=${entry.sub}&after=${after}&limit=50&sort=created_utc&order=desc`;
+    const url = `https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=${entry.sub}&after=${after}&limit=50&sort=desc`;
     const res = await fetch(url, { headers: { "User-Agent": "OpenEye/1.0" }, signal: AbortSignal.timeout(12000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const d = await res.json();
