@@ -73,17 +73,35 @@ const toDate = d => d.toISOString().split("T")[0];
 const addDays = (d, n) => new Date(d.getTime() + n*24*3600*1000);
 
 // ── Reddit backfill via Arctic Shift ─────────────────────────────────────────
+// Keep in sync with fetch-signals.js LOTTERY_SUBS + fetch-feeds.js
 const ME_SUBREDDITS = [
-  { sub: "dubai",       country: "UAE" },
-  { sub: "UAE",         country: "UAE" },
-  { sub: "saudiarabia", country: "Saudi Arabia" },
-  { sub: "qatar",       country: "Qatar" },
-  { sub: "kuwait",      country: "Kuwait" },
-  { sub: "oman",        country: "Oman" },
-  { sub: "bahrain",     country: "Bahrain" },
-  { sub: "expats",      country: "Regional" },
-  { sub: "middleeast",  country: "Regional" },
-  { sub: "arabs",       country: "Regional" },
+  // Gulf / ME — direct market
+  { sub: "dubai",           country: "UAE"          },
+  { sub: "UAE",             country: "UAE"          },
+  { sub: "abudhabi",        country: "UAE"          },
+  { sub: "sharjah",         country: "UAE"          },
+  { sub: "saudiarabia",     country: "Saudi Arabia" },
+  { sub: "qatar",           country: "Qatar"        },
+  { sub: "Kuwait",          country: "Kuwait"       },
+  { sub: "Bahrain",         country: "Bahrain"      },
+  { sub: "oman",            country: "Oman"         },
+  { sub: "jordan",          country: "Jordan"       },
+  { sub: "lebanon",         country: "Lebanon"      },
+  { sub: "egypt",           country: "Egypt"        },
+  { sub: "morocco",         country: "Morocco"      },
+  { sub: "middleeast",      country: "Regional"     },
+  { sub: "arabs",           country: "Regional"     },
+  // Expat source communities — large MENA lottery/job/life audience
+  { sub: "india",           country: "Regional"     },
+  { sub: "pakistan",        country: "Regional"     },
+  { sub: "Philippines",     country: "Regional"     },
+  { sub: "bangladesh",      country: "Regional"     },
+  { sub: "srilanka",        country: "Regional"     },
+  { sub: "Nepal",           country: "Regional"     },
+  { sub: "IndiansAbroad",   country: "Regional"     },
+  { sub: "PakistaniAbroad", country: "Regional"     },
+  { sub: "expats",          country: "Regional"     },
+  { sub: "expat",           country: "Regional"     },
 ];
 
 async function fetchRedditChunk(sub, afterDate, beforeDate) {
@@ -98,7 +116,17 @@ async function fetchRedditChunk(sub, afterDate, beforeDate) {
 }
 
 async function fetchHNChunk(afterUnix, beforeUnix) {
-  const queries = ["middle east","OPEC oil","UAE technology","Saudi Arabia","Gulf geopolitics","Gaza ceasefire","Iran nuclear","Egypt economy","Iraq security","MENA finance","Dubai startup","Qatar investment"];
+  const queries = [
+    // Geopolitics / conflict
+    "middle east conflict","Gaza ceasefire","Iran nuclear","MENA security","Syria Iraq",
+    // Economy / business
+    "OPEC oil price","UAE economy","Saudi Arabia Vision 2030","Gulf investment","Dubai real estate",
+    // Expat / lottery pulse
+    "mahzooz lottery UAE","big ticket dubai","Emirates Draw winner","expat UAE lottery",
+    "Dubai lottery jackpot","gulf lucky draw","Indian expat UAE win",
+    // Tech / innovation
+    "Dubai startup","Qatar investment","NEOM Saudi","G42 Abu Dhabi",
+  ];
   const all = []; const seen = new Set();
   await Promise.allSettled(queries.map(async q => {
     try {
