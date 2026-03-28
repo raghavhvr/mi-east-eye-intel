@@ -144,7 +144,9 @@ async function fetchRSS(src) {
 
 async function fetchReddit(entry) {
   try {
-    const url = `https://api.pullpush.io/reddit/search/submission/?subreddit=${entry.sub}&size=25&sort=desc&sort_type=score`;
+    // after = 7 days ago as Unix timestamp — Pullpush requires this to avoid returning old all-time top posts
+    const after = Math.floor(Date.now()/1000) - 7*24*3600;
+    const url = `https://api.pullpush.io/reddit/search/submission/?subreddit=${entry.sub}&size=25&sort=desc&sort_type=created_utc&after=${after}`;
     const res = await fetch(url, { headers: { "User-Agent": "OpenEye/1.0" }, signal: AbortSignal.timeout(12000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const d = await res.json();
@@ -194,7 +196,12 @@ async function main() {
   all.push(...hn);
   console.log(`[fetch-feeds] +HN: ${all.length} total`);
 
-  const sorted = dedup(all.sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp)));
+  const cutoff = Date.now() - 7*24*3600*1000; // 7 days ago
+  const sorted = dedup(
+    all
+      .filter(a => new Date(a.timestamp).getTime() > cutoff)
+      .sort((a,b) => new Date(b.timestamp) - new Date(a.timestamp))
+  );
   const output = { generated_at: new Date().toISOString(), count: sorted.length, articles: sorted };
 
   writeFileSync(OUT, JSON.stringify(output, null, 2));

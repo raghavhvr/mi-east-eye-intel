@@ -277,6 +277,8 @@ async function fetchLotterySignals() {
   const seen = new Set();
 
   // Pullpush Reddit - lottery subreddits
+  // after = 30 days ago — sort by recency not all-time score
+  const after30d = Math.floor(Date.now()/1000) - 30*24*3600;
   const LOTTERY_SUBS = [
     { sub: "lottery",   meFocus: false },
     { sub: "dubai",     meFocus: true  },
@@ -286,15 +288,16 @@ async function fetchLotterySignals() {
 
   await Promise.allSettled(LOTTERY_SUBS.map(async ({ sub, meFocus }) => {
     try {
-      const url = `https://api.pullpush.io/reddit/search/submission/?subreddit=${sub}&size=100&sort=desc&sort_type=score`;
+      const url = `https://api.pullpush.io/reddit/search/submission/?subreddit=${sub}&size=100&sort=desc&sort_type=created_utc&after=${after30d}`;
       const res = await fetch(url, { headers: { "User-Agent": "OpenEye/1.0" }, signal: AbortSignal.timeout(12000) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const d = await res.json();
       for (const p of (d.data||[])) {
         if (!p.title || p.removed_by_category || seen.has(`r-${p.id}`)) continue;
         const txt = p.title + " " + (p.selftext||"");
-        if (!LOT_KW.some(k=>txt.toLowerCase().includes(k))) continue;
-        if (meFocus && !isME(txt) && !LOT_KW.some(k=>txt.toLowerCase().includes(k))) continue;
+        // For general lottery sub, require lottery keywords; for ME subs take all posts
+        if (!meFocus && !LOT_KW.some(k=>txt.toLowerCase().includes(k))) continue;
+        if (meFocus && !LOT_KW.some(k=>txt.toLowerCase().includes(k)) && !isME(txt)) continue;
         seen.add(`r-${p.id}`);
         all.push({ id:`reddit-lot-${p.id}`, title:p.title, summary:(p.selftext||"").replace(/\n+/g," ").trim().slice(0,240)||`↑${p.score||0} · 💬${p.num_comments||0}`, url:`https://reddit.com${p.permalink||""}`, timestamp:new Date((p.created_utc||0)*1000).toISOString(), source:`r/${sub}`, sourceType:"Reddit", tag:isME(txt)?"ME-LOT":"LOT", country:isME(txt)?"Regional":"Global", score:p.score||0, comments:p.num_comments||0, mood:classifyLottery(txt), isME:isME(txt) });
       }
@@ -316,18 +319,21 @@ async function fetchLotterySignals() {
     } catch {}
   }));
 
+  // Enforce 30-day cutoff — Pullpush can return old posts if date filter was ignored
+  const cutoff30d = Date.now() - 30*24*3600*1000;
+  const fresh = all.filter(i => new Date(i.timestamp).getTime() > cutoff30d);
+
   // Compute meta
-  const meSignals = all.filter(i=>i.isME).length;
-  const moodDist = all.reduce((a,i) => { a[i.mood]=(a[i.mood]||0)+1; return a; }, { HOPEFUL:0, CYNICAL:0, ANXIOUS:0, NEUTRAL:0 });
+  const meSignals = fresh.filter(i=>i.isME).length;
+  const moodDist = fresh.reduce((a,i) => { a[i.mood]=(a[i.mood]||0)+1; return a; }, { HOPEFUL:0, CYNICAL:0, ANXIOUS:0, NEUTRAL:0 });
   const dominantMood = Object.entries(moodDist).sort((a,b)=>b[1]-a[1])[0]?.[0]||"NEUTRAL";
-  const avgUpvoteRatio = all.length ? Math.round(all.reduce((s,i)=>s+(i.upvoteRatio||0.75),0)/all.length*100) : 75;
-  // Uncertainty: how spread the moods are
-  const total = all.length||1;
+  const avgUpvoteRatio = fresh.length ? Math.round(fresh.reduce((s,i)=>s+(i.upvoteRatio||0.75),0)/fresh.length*100) : 75;
+  const total = fresh.length||1;
   const maxPct = Math.max(...Object.values(moodDist))/total;
   const uncertaintyScore = Math.round((1-maxPct)*100);
 
-  console.log(`[lottery] ${all.length} signals, ${meSignals} ME-specific`);
-  return { items: all.sort((a,b)=>new Date(b.timestamp)-new Date(a.timestamp)), meta: { totalSignals:all.length, meSignals, moodDist, dominantMood, avgUpvoteRatio, uncertaintyScore } };
+  console.log(`[lottery] ${fresh.length} signals (from ${all.length} fetched), ${meSignals} ME-specific`);
+  return { items: fresh.sort((a,b)=>new Date(b.timestamp)-new Date(a.timestamp)), meta: { totalSignals:fresh.length, meSignals, moodDist, dominantMood, avgUpvoteRatio, uncertaintyScore } };
 }
 
 // ── Main ─────────────────────────────────────────────────────────────────────
