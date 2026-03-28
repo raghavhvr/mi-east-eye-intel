@@ -95,35 +95,52 @@ async function fetchACLED() {
     const since = new Date(Date.now() - 30*24*3600*1000).toISOString().split("T")[0];
     const today = new Date().toISOString().split("T")[0];
 
-    // Build country filter: country=UAE:OR:country=Saudi Arabia:OR:...
-    const countryFilter = ACLED_COUNTRIES.map((c, i) =>
-      i === 0 ? `country=${encodeURIComponent(c)}` : `country=${encodeURIComponent(c)}`
-    ).join(":OR:");
+    // ACLED country filter syntax: country=X:OR:country=Y (value of single param)
+    const countryValue = ACLED_COUNTRIES.join(":OR:country=");
 
-    const url = `https://acleddata.com/api/acled/read?_format=json` +
-      `&${ACLED_COUNTRIES.map(c => `country=${encodeURIComponent(c)}`).join(":OR:country=")}` +
-      `&event_date=${since}|${today}&event_date_where=BETWEEN` +
-      `&fields=event_id_cnty|event_date|event_type|sub_event_type|country|admin1|location|latitude|longitude|fatalities|notes` +
-      `&limit=500`;
+    const params = new URLSearchParams({
+      "_format": "json",
+      "country": countryValue,
+      "event_date": `${since}|${today}`,
+      "event_date_where": "BETWEEN",
+      "fields": "event_id_cnty|event_date|event_type|sub_event_type|country|admin1|location|latitude|longitude|fatalities|notes",
+      "limit": "500",
+    });
+
+    const url = `https://acleddata.com/api/acled/read?${params}`;
 
     const res = await fetch(url, {
-      headers: { "Authorization": `Bearer ${token}`, "Content-Type": "application/json" },
+      headers: { "Authorization": `Bearer ${token}` },
       signal: AbortSignal.timeout(25000),
     });
+
+    if (res.status === 403) {
+      const body = await res.text().catch(() => "");
+      throw new Error(
+        `ACLED 403 Forbidden — API access may not be enabled on your account.\n` +
+        `  → Log in at acleddata.com → My Account → ensure API access is activated.\n` +
+        `  → Response: ${body.slice(0, 200)}`
+      );
+    }
     if (!res.ok) throw new Error(`ACLED data HTTP ${res.status}`);
+
     const d = await res.json();
+    if (d.status && d.status !== 200) {
+      throw new Error(`ACLED API error: ${d.message || JSON.stringify(d).slice(0, 200)}`);
+    }
+
     const events = (d.data||[]).map(e => ({
-      event_id:      e.event_id_cnty,
-      event_date:    e.event_date,
-      event_type:    e.event_type,
-      sub_event_type:e.sub_event_type,
-      country:       e.country,
-      admin1:        e.admin1,
-      location:      e.location,
-      latitude:      parseFloat(e.latitude)||0,
-      longitude:     parseFloat(e.longitude)||0,
-      fatalities:    parseInt(e.fatalities)||0,
-      notes:         (e.notes||"").slice(0,200),
+      event_id:       e.event_id_cnty,
+      event_date:     e.event_date,
+      event_type:     e.event_type,
+      sub_event_type: e.sub_event_type,
+      country:        e.country,
+      admin1:         e.admin1,
+      location:       e.location,
+      latitude:       parseFloat(e.latitude)||0,
+      longitude:      parseFloat(e.longitude)||0,
+      fatalities:     parseInt(e.fatalities)||0,
+      notes:          (e.notes||"").slice(0,200),
     }));
     console.log(`[acled] ${events.length} events`);
     return events;
@@ -153,8 +170,6 @@ async function fetchGDELTTone() {
 
   for (const { id, fips } of GDELT_COUNTRIES) {
     try {
-      // timelinetone: returns [{date, value}] — daily average tone, last 7 days
-      // sourcecountry uses FIPS codes; TIMESPAN=7days; format=json
       const url = `https://api.gdeltproject.org/api/v2/doc/doc` +
         `?query=sourcecountry:${fips}` +
         `&mode=timelinetone` +
@@ -168,30 +183,49 @@ async function fetchGDELTTone() {
 
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const text = await res.text();
-
-      // GDELT sometimes returns empty body or non-JSON on rate limit
       if (!text || text.trim().length < 10) throw new Error("Empty response");
 
       const d = JSON.parse(text);
 
-      // timelinetone response: { timeline: [{ series: [{ value: n, date: "..." }] }] }
-      // OR sometimes: { timeline: [{ data: [{ value: n }] }] }
-      const series = d?.timeline?.[0]?.series || d?.timeline?.[0]?.data || [];
-      const values = series
-        .map(p => parseFloat(p.value))
+      // Log raw structure on first country to diagnose future issues
+      if (id === "UAE") {
+        console.log("[gdelt] raw keys:", Object.keys(d));
+        const tl = d?.timeline;
+        console.log("[gdelt] timeline type:", typeof tl, Array.isArray(tl) ? `array[${tl.length}]` : "");
+        if (Array.isArray(tl) && tl[0]) console.log("[gdelt] timeline[0] keys:", Object.keys(tl[0]));
+      }
+
+      // GDELT timelinetone JSON structure (defensive — handles all known variants):
+      // { timeline: [ { series: [ { value: "n", date: "YYYYMMDDHHMMSS" } ] } ] }
+      // { timeline: [ { data:   [ { value: n,   date: "..." } ] } ] }
+      // { data: [ { value: n, date: "..." } ] }   ← flat variant
+      let entries = [];
+
+      if (Array.isArray(d?.timeline)) {
+        const first = d.timeline[0] || {};
+        // Try every known key that might hold the array of tone points
+        const candidate = first.series ?? first.data ?? first.values ?? first.tone ?? [];
+        entries = Array.isArray(candidate) ? candidate : Object.values(candidate);
+      } else if (Array.isArray(d?.data)) {
+        entries = d.data;
+      } else if (Array.isArray(d)) {
+        entries = d;
+      }
+
+      const values = entries
+        .map(p => parseFloat(p?.value ?? p?.tone ?? p?.avgtone ?? 0))
         .filter(n => !isNaN(n) && n !== 0);
 
       tone[id] = values.length
         ? Math.round((values.reduce((a, b) => a + b, 0) / values.length) * 100) / 100
-        : null; // null = no data (don't show 0 as fake neutral)
+        : null;
 
-      console.log(`[gdelt:${id}] tone=${tone[id]} (${values.length} data points)`);
+      console.log(`[gdelt:${id}] tone=${tone[id]} (${values.length} points from ${entries.length} entries)`);
     } catch (err) {
       console.error(`[gdelt:${id}] failed:`, err.message);
       tone[id] = null;
     }
 
-    // Stagger requests — GDELT throttles burst requests from datacenter IPs
     await sleep(800);
   }
 
