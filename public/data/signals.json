@@ -1,31 +1,48 @@
 {
-  "generated_at": "2026-03-28T13:57:44.012Z",
-  "acled": [],
+  "generated_at": "2026-03-28T14:08:46.285Z",
   "gdelt_tone": {
-    "UAE": null,
-    "Saudi Arabia": null,
-    "Qatar": null,
-    "Kuwait": null,
-    "Bahrain": null,
-    "Oman": null,
-    "Jordan": null,
-    "Lebanon": null,
-    "Iraq": null,
-    "Egypt": null,
-    "Yemen": null,
-    "Iran": null
+    "UAE": -2.29,
+    "Saudi Arabia": -2.31,
+    "Qatar": -2.88,
+    "Kuwait": -3.58,
+    "Bahrain": -3.28,
+    "Oman": -2.86,
+    "Jordan": -2.9,
+    "Lebanon": -4.68,
+    "Iraq": -4.23,
+    "Egypt": -1.24,
+    "Yemen": -4.33,
+    "Iran": -3.81
   },
   "weather": {
-    "Jordan": {
-      "temp_c": 16,
-      "wind_kmh": 12,
+    "Bahrain": {
+      "temp_c": 23,
+      "wind_kmh": 16,
       "condition": "Partly Cloudy",
-      "city": "Amman"
+      "city": "Manama"
+    },
+    "Iran": {
+      "temp_c": 12,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 21,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Lebanon": {
       "temp_c": 19,
       "wind_kmh": 9,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "UAE": {
@@ -34,35 +51,11 @@
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
-    "Egypt": {
-      "temp_c": 28,
-      "wind_kmh": 15,
+    "Jordan": {
+      "temp_c": 16,
+      "wind_kmh": 12,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Saudi Arabia": {
-      "temp_c": 23,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Oman": {
-      "temp_c": 25,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Iran": {
-      "temp_c": 12,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Iraq": {
-      "temp_c": 22,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "city": "Amman"
     },
     "Qatar": {
       "temp_c": 24,
@@ -70,17 +63,23 @@
       "condition": "Clear",
       "city": "Doha"
     },
-    "Bahrain": {
+    "Saudi Arabia": {
       "temp_c": 23,
-      "wind_kmh": 16,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
-      "city": "Manama"
+      "city": "Riyadh"
     },
     "Kuwait": {
       "temp_c": 24,
       "wind_kmh": 12,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
+    },
+    "Oman": {
+      "temp_c": 25,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Muscat"
     },
     "Yemen": {
       "temp_c": 21,
@@ -102,6 +101,36 @@
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1s619m8",
+        "title": "Are there transportation services for waterlogged areas?",
+        "summary": "I was wondering if there might be some vehicles with a high clearance that might provide transportation services during such situations.",
+        "url": "https://reddit.com/r/Sharjah/comments/1s619m8/are_there_transportation_services_for_waterlogged/",
+        "timestamp": "2026-03-28T14:05:53.000Z",
+        "source": "r/sharjah",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1s616oi",
+        "title": "Medical Insurance rejections and appeals",
+        "summary": "So I know people do this in other countries but not sure if it's how it works over here. Sometimes when I go to the doctor and get a prescription, insurance doesn't approve everything. Happens with medical tests too. Now obviously it's beca",
+        "url": "https://reddit.com/r/Kuwait/comments/1s616oi/medical_insurance_rejections_and_appeals/",
+        "timestamp": "2026-03-28T14:02:44.000Z",
+        "source": "r/Kuwait",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1s60q6e",
         "title": "Hey Bahrain",
@@ -568,6 +597,36 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "About ₹2.38 lakh crore worth big ticket acquisitions by Defence Acquisition Council",
+        "summary": "This includes proposals for 60 Medium Transport Aircraft , additional S-400 Long Range Surface-to-Air Missile System, & Dhanush Gun System, taking total purchases cleared in FY26 to 55 at a cost of ₹6.73 lakh crore",
+        "url": "https://www.thehindubusinessline.com/news/about-238-lakh-crore-worth-big-ticket-acquisitions-by-defence-acquisition-council/article70792972.ece",
+        "timestamp": "2026-03-27T14:05:50Z",
+        "source": "BusinessLine",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cDovLzl0",
+        "title": "This Qi2 15W 5K MagSafe power bank is the thinnest one in my EDC, and you can snag it for just $17 today, more from $5.50",
+        "summary": "We’re officially in Day 3 of Amazon’s Big Spring Sale, and alongside the big-ticket tech deals, we’re also seeing some seriously solid savings on everyday accessories. LISEN’s official Amazon storefront is now offering notable discounts across its lineup of c…",
+        "url": "http://9to5toys.com/2026/03/27/qi2-15w-5k-magsafe-power-bank-just-17-today/",
+        "timestamp": "2026-03-27T13:53:03Z",
+        "source": "9to5Toys",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1s53voq",
         "title": "$500 Win - 1 ticket purchased",
         "summary": "↑1 · 💬0",
@@ -743,6 +802,21 @@
         "tag": "ME-LOT",
         "country": "Regional",
         "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cDovLzl0",
+        "title": "Amazon Big Spring Sale – Day 3: New Daily Deals and Doorbusters now live: Ray-Ban, desk chairs, vacs, more",
+        "summary": "The day 3 Amazon big Spring Sale deals are now live. We are looking at a fresh batch of Doorbusters, alongside a host of new discounts landing in the Started Today and Daily Deals section. Much like yesterday, plenty of the big ticket offers in brand name gea…",
+        "url": "http://9to5toys.com/2026/03/27/amazon-spring-sale-day-3-daily-deals-doorbusters/",
+        "timestamp": "2026-03-27T09:15:47Z",
+        "source": "9to5Toys",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
@@ -958,6 +1032,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Brits 'owed hundreds of millions' after NS&I mistakes over premium bonds",
+        "summary": "NS&I are expected to pay out hundreds of millions to Brits following complaints about mistakes with their services and not paying prizes for premium bonds",
+        "url": "https://www.ladbible.com/news/uk-news/ns-and-i-brits-owed-premium-bonds-659207-20260326",
+        "timestamp": "2026-03-26T12:00:54Z",
+        "source": "LADbible",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1s439c3",
         "title": "Best place to sell TV.",
         "summary": "**The initial post have been removed by MOD, probably because I edited and put on the price per comment suggestion so I am repost it with intention to ask for a suggestion of the store that usually buy 2nd hand electronics stuffs, I beleive",
@@ -1153,6 +1242,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Big-ticket RCB deal underscores monetisation potential of IPL teams",
+        "summary": "According to USL’s annual report, in FY25, RCSPL reported revenue from operations of ₹504 crore, a 21 per cent decrease, primarily due to a lower number of Men’s Indian Premier League (IPL) matches played by RCB",
+        "url": "https://www.thehindubusinessline.com/news/big-ticket-rcb-deal-underscores-monetisation-potential-of-ipl-teams/article70784830.ece",
+        "timestamp": "2026-03-25T15:18:55Z",
+        "source": "BusinessLine",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1s3dhp1",
         "title": "Talabat pro-mislead",
         "summary": "Hey, now there is 70% discount is going on talabat pro. Such good offer and didnt want to miss it. But before subscribing to their pro, I had their agent call me to clear few information. I got to know about 2.5 omr to get free delivery its",
@@ -1196,6 +1300,36 @@
         "comments": 3,
         "mood": "HOPEFUL",
         "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Aimed at comprehensive industrial policy, which took around 6-8 weeks, 2,000+ man hours to design: Sanjeev Arora",
+        "summary": "Punjab indutry and power minister Sanjeev Arora, told Mint that the state has got an investment of about  ₹57,000 crore with big-ticket names like JSW, Vardhman Steel, Trident, IOL Chemicals, Verka Beverages and Fortis.",
+        "url": "https://www.livemint.com/industry/aimed-at-comprehensive-industrial-policy-which-took-around-6-8-weeks-2-000-man-hours-to-design-sanjeev-arora-11774324889136.html",
+        "timestamp": "2026-03-25T10:30:55Z",
+        "source": "Livemint",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Oz Lotto Number Result: Draw 1675, Drawn on Tuesday, March 24, 2026: $4 Million Jackpot to Single Winner",
+        "summary": "SYDNEY — A single lucky ticket holder claimed the entire $4 million Division 1 jackpot in Oz Lotto Draw 1675, drawn on Tuesday, March 24, 2026, while hundreds of thousands of other players across Australia shared in a total prize pool exceeding $8.2 million.",
+        "url": "https://www.ibtimes.com.au/oz-lotto-number-result-draw-1675-drawn-tuesday-march-24-2026-4-million-jackpot-single-winner-1864387",
+        "timestamp": "2026-03-25T07:03:10Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
       },
       {
         "id": "reddit-lot-1s33mrb",
@@ -1649,17 +1783,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 103,
-      "meSignals": 35,
+      "totalSignals": 112,
+      "meSignals": 37,
       "moodDist": {
-        "HOPEFUL": 81,
+        "HOPEFUL": 90,
         "CYNICAL": 0,
         "ANXIOUS": 14,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 21
+      "uncertaintyScore": 20
     }
   }
 }
