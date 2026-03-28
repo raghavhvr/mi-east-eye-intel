@@ -144,15 +144,32 @@ async function fetchRSS(src) {
 
 async function fetchReddit(entry) {
   try {
-    // after = 7 days ago as Unix timestamp — Pullpush requires this to avoid returning old all-time top posts
-    const after = Math.floor(Date.now()/1000) - 7*24*3600;
-    const url = `https://api.pullpush.io/reddit/search/submission/?subreddit=${entry.sub}&size=25&sort=desc&sort_type=created_utc&after=${after}`;
+    // Arctic Shift — active maintained Pushshift replacement with current data
+    // Pullpush only has data up to May 2025 and is unreliable
+    const after = new Date(Date.now() - 7*24*3600*1000).toISOString().split("T")[0];
+    const url = `https://arctic-shift.photon-reddit.com/api/posts/search` +
+      `?subreddit=${entry.sub}&after=${after}&limit=25&sort=created_utc&order=desc`;
     const res = await fetch(url, { headers: { "User-Agent": "OpenEye/1.0" }, signal: AbortSignal.timeout(12000) });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const d = await res.json();
-    return (d.data||[]).filter(p=>p.title&&!p.removed_by_category).slice(0,15).map(p => {
-      const txt = p.title + " " + (p.selftext||"");
-      return { id: `reddit-${p.id}`, title: p.title, summary: (p.selftext||"").replace(/\n+/g," ").trim().slice(0,220)||`↑${p.score||0} · 💬${p.num_comments||0}`, url: `https://reddit.com${p.permalink||""}`, timestamp: new Date((p.created_utc||0)*1000).toISOString(), source: `r/${entry.sub}`, sourceType: "Reddit", tag: "SOCIAL", country: entry.country==="Regional" ? detectCountry(txt) : entry.country, section: classify(txt), sentiment: senti(txt), score: p.score||0, comments: p.num_comments||0 };
+    const posts = d.data || d.posts || d || [];
+    return posts.filter(p => p.title && !p.removed_by_category).slice(0, 15).map(p => {
+      const txt = p.title + " " + (p.selftext || "");
+      return {
+        id: `reddit-${p.id}`,
+        title: p.title,
+        summary: (p.selftext || "").replace(/\n+/g, " ").trim().slice(0, 220) || `↑${p.score || 0} · 💬${p.num_comments || 0}`,
+        url: `https://reddit.com${p.permalink || ""}`,
+        timestamp: new Date((p.created_utc || 0) * 1000).toISOString(),
+        source: `r/${entry.sub}`,
+        sourceType: "Reddit",
+        tag: "SOCIAL",
+        country: entry.country === "Regional" ? detectCountry(txt) : entry.country,
+        section: classify(txt),
+        sentiment: senti(txt),
+        score: p.score || 0,
+        comments: p.num_comments || 0,
+      };
     });
   } catch (err) {
     console.error(`[reddit:${entry.sub}] failed:`, err.message);

@@ -276,9 +276,9 @@ async function fetchLotterySignals() {
   const all = [];
   const seen = new Set();
 
-  // Pullpush Reddit - lottery subreddits
-  // after = 30 days ago — sort by recency not all-time score
-  const after30d = Math.floor(Date.now()/1000) - 30*24*3600;
+  // Arctic Shift — active Pushshift replacement with current data
+  // Pullpush only has data up to May 2025 and is unreliable
+  const after30dDate = new Date(Date.now() - 30*24*3600*1000).toISOString().split("T")[0];
   const LOTTERY_SUBS = [
     { sub: "lottery",   meFocus: false },
     { sub: "dubai",     meFocus: true  },
@@ -288,18 +288,33 @@ async function fetchLotterySignals() {
 
   await Promise.allSettled(LOTTERY_SUBS.map(async ({ sub, meFocus }) => {
     try {
-      const url = `https://api.pullpush.io/reddit/search/submission/?subreddit=${sub}&size=100&sort=desc&sort_type=created_utc&after=${after30d}`;
+      const url = `https://arctic-shift.photon-reddit.com/api/posts/search` +
+        `?subreddit=${sub}&after=${after30dDate}&limit=100&sort=created_utc&order=desc`;
       const res = await fetch(url, { headers: { "User-Agent": "OpenEye/1.0" }, signal: AbortSignal.timeout(12000) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const d = await res.json();
-      for (const p of (d.data||[])) {
+      const posts = d.data || d.posts || d || [];
+      for (const p of posts) {
         if (!p.title || p.removed_by_category || seen.has(`r-${p.id}`)) continue;
-        const txt = p.title + " " + (p.selftext||"");
-        // For general lottery sub, require lottery keywords; for ME subs take all posts
-        if (!meFocus && !LOT_KW.some(k=>txt.toLowerCase().includes(k))) continue;
-        if (meFocus && !LOT_KW.some(k=>txt.toLowerCase().includes(k)) && !isME(txt)) continue;
+        const txt = p.title + " " + (p.selftext || "");
+        if (!meFocus && !LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
+        if (meFocus && !LOT_KW.some(k => txt.toLowerCase().includes(k)) && !isME(txt)) continue;
         seen.add(`r-${p.id}`);
-        all.push({ id:`reddit-lot-${p.id}`, title:p.title, summary:(p.selftext||"").replace(/\n+/g," ").trim().slice(0,240)||`↑${p.score||0} · 💬${p.num_comments||0}`, url:`https://reddit.com${p.permalink||""}`, timestamp:new Date((p.created_utc||0)*1000).toISOString(), source:`r/${sub}`, sourceType:"Reddit", tag:isME(txt)?"ME-LOT":"LOT", country:isME(txt)?"Regional":"Global", score:p.score||0, comments:p.num_comments||0, mood:classifyLottery(txt), isME:isME(txt) });
+        all.push({
+          id: `reddit-lot-${p.id}`,
+          title: p.title,
+          summary: (p.selftext || "").replace(/\n+/g, " ").trim().slice(0, 240) || `↑${p.score || 0} · 💬${p.num_comments || 0}`,
+          url: `https://reddit.com${p.permalink || ""}`,
+          timestamp: new Date((p.created_utc || 0) * 1000).toISOString(),
+          source: `r/${sub}`,
+          sourceType: "Reddit",
+          tag: isME(txt) ? "ME-LOT" : "LOT",
+          country: isME(txt) ? "Regional" : "Global",
+          score: p.score || 0,
+          comments: p.num_comments || 0,
+          mood: classifyLottery(txt),
+          isME: isME(txt),
+        });
       }
     } catch (err) { console.error(`[lottery:r/${sub}]`, err.message); }
   }));
