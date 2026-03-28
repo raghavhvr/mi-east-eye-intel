@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T13:35:11.759Z",
+  "generated_at": "2026-03-28T13:48:34.077Z",
   "acled": [],
   "gdelt_tone": {
     "UAE": null,
@@ -16,23 +16,17 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 23,
-      "wind_kmh": 23,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 24,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "Iran": {
       "temp_c": 12,
       "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Qatar": {
+      "temp_c": 24,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Doha"
     },
     "Yemen": {
       "temp_c": 21,
@@ -40,11 +34,35 @@
       "condition": "Clear",
       "city": "Sanaa"
     },
-    "Qatar": {
-      "temp_c": 24,
-      "wind_kmh": 19,
-      "condition": "Clear",
-      "city": "Doha"
+    "Oman": {
+      "temp_c": 25,
+      "wind_kmh": 18,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Iraq": {
+      "temp_c": 22,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Jordan": {
+      "temp_c": 16,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "UAE": {
+      "temp_c": 22,
+      "wind_kmh": 22,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 23,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
     },
     "Kuwait": {
       "temp_c": 24,
@@ -54,39 +72,21 @@
     },
     "Egypt": {
       "temp_c": 28,
-      "wind_kmh": 16,
+      "wind_kmh": 15,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Bahrain": {
       "temp_c": 23,
-      "wind_kmh": 17,
+      "wind_kmh": 16,
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
-    "Iraq": {
-      "temp_c": 22,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
     "Lebanon": {
       "temp_c": 19,
-      "wind_kmh": 10,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 17,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Oman": {
-      "temp_c": 25,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
     }
   },
   "fx": {
@@ -102,6 +102,36 @@
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1s60q6e",
+        "title": "Hey Bahrain",
+        "summary": "I'm Fady, a fellow Bahraini citizen. Wonderful things happen in this country every day such as record winds, unbeaten rugby teams, satellites in orbit, crabs with legal protection **BUT** there's no single place to find it all. So I built *",
+        "url": "https://reddit.com/r/Bahrain/comments/1s60q6e/hey_bahrain/",
+        "timestamp": "2026-03-28T13:43:52.000Z",
+        "source": "r/Bahrain",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1s60g2g",
+        "title": "Looking for a bed (140x200) with drawers/storage space.",
+        "summary": "Hello, I’m looking for a queen size bed (140x200) with drawers but I’m looking for something less than KD100. Please suggest alternate options to Ikea, safat, etc that would have cheaper options. Also, any suggestions for where I can get go",
+        "url": "https://reddit.com/r/Kuwait/comments/1s60g2g/looking_for_a_bed_140x200_with_drawersstorage/",
+        "timestamp": "2026-03-28T13:32:13.000Z",
+        "source": "r/Kuwait",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1s603kn",
         "title": "Are medical unis opening next week? UAE Medical colleges?",
@@ -1543,21 +1573,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1s08rvj",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1s08rvj/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-03-22T01:30:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
         "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
         "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
@@ -1634,17 +1649,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 102,
-      "meSignals": 34,
+      "totalSignals": 103,
+      "meSignals": 35,
       "moodDist": {
-        "HOPEFUL": 80,
+        "HOPEFUL": 81,
         "CYNICAL": 0,
         "ANXIOUS": 14,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 21
     }
   }
 }
