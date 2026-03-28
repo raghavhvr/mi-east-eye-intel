@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-28T12:27:46.711Z",
+  "generated_at": "2026-03-28T13:36:41.280Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "The region is experiencing increased tensions due to various conflicts and humanitarian issues, with reports of a Gaza toddler being released from Israeli custody with injuries. Social media posts also indicate concerns about safety and assistance in specific areas, such as Shj and Gaza.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran Nuclear Tensions",
+  "summary": "Recent US-Israeli strikes on Iranian nuclear sites have escalated regional tensions, with Russia and Iran condemning the actions. The situation is being closely monitored due to potential retaliation and nuclear safety concerns.",
   "keyTrends": [
-    "Gaza-Israel Conflict",
-    "Saudi Arabia Politics",
-    "Regional Humanitarian Issues"
+    "US-Iran Conflict",
+    "Nuclear Safety",
+    "Regional Escalation"
   ],
   "watchItems": [
-    "Saudi Crown Prince Mohammed Bin Salman",
-    "Gaza-Israel Border"
+    "Iranian Retaliation",
+    "US Troop Deployments"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Humanitarian Concerns",
-    "Regional Conflicts"
+    "Escalating Conflict",
+    "Nuclear Threats"
   ]
 }

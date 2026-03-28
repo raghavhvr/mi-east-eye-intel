@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-03-28T12:27:47.195Z",
+  "generated_at": "2026-03-28T13:36:41.892Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "overallMood": "ANXIOUS",
+  "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 20,
+    "positive": 60,
     "neutral": 30,
-    "negative": 50
+    "negative": 10
   },
-  "dominantNarrative": "UAE daily life struggles",
+  "dominantNarrative": "Winning lottery tickets",
   "keyEmotions": [
-    "frustration",
-    "concern",
-    "helplessness"
+    "excitement",
+    "optimism",
+    "gratitude"
   ],
-  "psychInsight": "The public is driven by a sense of uncertainty and insecurity, leading to increased anxiety and frustration. This mood is further exacerbated by the lack of control over daily life events, such as floods and visa cancellations.",
+  "psychInsight": "The public is driven by the thrill of winning and the desire for good fortune, which is amplified by the recent lottery wins. This hopefulness can lead to increased participation in gambling activities, especially during times of economic uncertainty.",
   "riskSignals": [
-    "visa cancellations",
-    "floods"
+    "incompetent leadership",
+    "travel restrictions"
   ],
   "opportunitySignals": [
-    "community engagement",
-    "information sharing"
+    "lottery participation",
+    "travel to Oman"
   ]
 }
