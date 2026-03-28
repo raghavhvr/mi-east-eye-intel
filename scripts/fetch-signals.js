@@ -81,21 +81,24 @@ function isME(text) {
 // ACLED now requires OAuth 2.0 (email + password → Bearer token, valid 24h)
 // Docs: https://acleddata.com/api-documentation/getting-started
 async function getACLEDToken() {
-  const res = await fetch("https://acleddata.com/oauth/token", {
-    method: "POST",
-    headers: { "Content-Type": "application/x-www-form-urlencoded" },
-    body: new URLSearchParams({
-      username:   ACLED_EMAIL,
-      password:   ACLED_PASSWORD,
-      grant_type: "password",
-      client_id:  "acled",
-    }),
-    signal: AbortSignal.timeout(15000),
-  });
-  if (!res.ok) throw new Error(`ACLED auth HTTP ${res.status}`);
-  const d = await res.json();
-  if (!d.access_token) throw new Error("No access_token in ACLED response");
-  return d.access_token;
+  // Try JSON body first (some ACLED endpoints prefer it), fall back to form-encoded
+  for (const [ct, body] of [
+    ["application/json",                JSON.stringify({ username: ACLED_EMAIL, password: ACLED_PASSWORD, grant_type: "password", client_id: "acled" })],
+    ["application/x-www-form-urlencoded", new URLSearchParams({ username: ACLED_EMAIL, password: ACLED_PASSWORD, grant_type: "password", client_id: "acled" }).toString()],
+  ]) {
+    try {
+      const res = await fetch("https://acleddata.com/oauth/token", {
+        method: "POST",
+        headers: { "Content-Type": ct, "Accept": "application/json" },
+        body,
+        signal: AbortSignal.timeout(15000),
+      });
+      if (!res.ok) { console.warn(`[acled] auth attempt CT=${ct} → HTTP ${res.status}`); continue; }
+      const d = await res.json();
+      if (d.access_token) return d.access_token;
+    } catch (e) { console.warn("[acled] auth attempt failed:", e.message); }
+  }
+  throw new Error("ACLED auth failed — both content-type attempts exhausted");
 }
 
 async function fetchACLED() {
@@ -254,7 +257,7 @@ async function fetchGDELTTone() {
         SourceCountryCode,
         AVG(CAST(REGEXP_EXTRACT(V2Tone, r'^([^,]+)') AS FLOAT64)) AS avg_tone,
         COUNT(*) AS article_count
-      FROM \`gdelt-bq.gdeltv2.gkg\`
+      FROM \`gdelt-bq.gdeltv2.gkg_partitioned\`
       WHERE _PARTITIONTIME >= TIMESTAMP('${sevenDaysAgo}')
         AND SourceCountryCode IN (${fipsList})
         AND V2Tone IS NOT NULL
@@ -546,20 +549,20 @@ async function fetchLotterySignals() {
   // ── RSS feeds — MENA lottery / prize coverage ────────────────────────────────
   // All free, no auth — keyword-filtered before pushing to results
   const LOT_RSS = [
-    // Core Gulf dailies
-    { name: "Al Arabiya",        url: "https://english.alarabiya.net/rss.xml" },
-    { name: "Gulf News",         url: "https://gulfnews.com/rss/uae" },
-    { name: "Khaleej Times",     url: "https://www.khaleejtimes.com/feed" },
-    { name: "Saudi Gazette",     url: "https://saudigazette.com.sa/rss" },
-    // Business / Finance angle
-    { name: "Arabian Business",  url: "https://www.arabianbusiness.com/rss" },
-    { name: "Gulf Business",     url: "https://gulfbusiness.com/feed/" },
-    { name: "Zawya",             url: "https://www.zawya.com/rss/world-business.xml" },
-    // Lifestyle / competitions
-    { name: "Time Out Dubai",    url: "https://www.timeoutdubai.com/rss" },
-    // Broader MENA English press
-    { name: "Arab News",         url: "https://www.arabnews.com/rss.xml" },
-    { name: "The National",      url: "https://www.thenationalnews.com/rss/uae" },
+    // ✅ Confirmed working
+    { name: "Gulf Business",    url: "https://gulfbusiness.com/feed/" },
+    { name: "Saudi Gazette",    url: "https://saudigazette.com.sa/rss" },
+    { name: "Gulf Business AE", url: "https://gulfbusiness.com/category/uae/feed/" },
+    // Fixed URLs for previously 403/404 sources
+    { name: "Arab News",        url: "https://www.arabnews.com/taxonomy/term/2/feed" },
+    { name: "Al Arabiya",       url: "https://english.alarabiya.net/tools/rss" },
+    { name: "Khaleej Times",    url: "https://www.khaleejtimes.com/rss/rss.xml" },
+    { name: "Gulf News UAE",    url: "https://gulfnews.com/rss/uae.xml" },
+    { name: "The National UAE", url: "https://www.thenationalnews.com/rss" },
+    // Additional working MENA RSS
+    { name: "Zawya Gulf",       url: "https://www.zawya.com/en/rss/world-business" },
+    { name: "Albawaba",         url: "https://www.albawaba.com/rss.xml" },
+    { name: "Middle East Eye",  url: "https://www.middleeasteye.net/rss" },
   ];
   await Promise.allSettled(LOT_RSS.map(async ({ name, url }) => {
     try {

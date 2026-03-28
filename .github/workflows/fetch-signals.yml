@@ -24,6 +24,8 @@ jobs:
           ACLED_EMAIL: ${{ secrets.ACLED_EMAIL }}
           ACLED_PASSWORD: ${{ secrets.ACLED_PASSWORD }}
           GCP_SERVICE_ACCOUNT_JSON: ${{ secrets.GCP_SERVICE_ACCOUNT_JSON }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          GUARDIAN_KEY: ${{ secrets.GUARDIAN_KEY }}
         run: node scripts/fetch-signals.js
 
       - name: Commit data
