@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // scripts/fetch-signals.js
-// Fetches ACLED conflict events, GDELT tone, Open-Meteo weather, FX, lottery signals
+// Fetches GDELT tone, Open-Meteo weather, FX rates, lottery signals
 // → public/data/signals.json
 // Run by GitHub Actions cron every hour.
 
@@ -13,8 +13,6 @@ const OUT = resolve(__dirname, "../public/data/signals.json");
 mkdirSync(dirname(OUT), { recursive: true });
 
 // ACLED uses OAuth 2.0 — store your myACLED email+password as GitHub Secrets
-const ACLED_EMAIL    = process.env.ACLED_EMAIL    || "";
-const ACLED_PASSWORD = process.env.ACLED_PASSWORD || "";
 const NEWSAPI_KEY    = process.env.NEWSAPI_KEY    || "";
 const GUARDIAN_KEY   = process.env.GUARDIAN_KEY   || "";
 
@@ -34,12 +32,6 @@ const CAPITALS = {
   "Iran":          { lat: 35.6892, lon: 51.3890, city: "Tehran" },
 };
 
-// ACLED country names (their API uses full country names)
-const ACLED_COUNTRIES = [
-  "United Arab Emirates","Saudi Arabia","Qatar","Kuwait","Bahrain","Oman",
-  "Jordan","Lebanon","Syria","Iraq","Palestine","Israel","Egypt","Libya",
-  "Tunisia","Algeria","Morocco","Sudan","Yemen","Iran"
-];
 
 // Lottery keywords
 const LOT_KW = ["lottery","jackpot","won","winner","winning","lucky","raffle","prize","draw","million","ticket","duty free","big ticket","mahzooz","gambling","lotto","lucky draw","grand prize","sweepstake","powerball"];
@@ -77,29 +69,7 @@ function isME(text) {
   ].some(k => t.includes(k));
 }
 
-// ── ACLED OAuth ──────────────────────────────────────────────────────────────
-// ACLED now requires OAuth 2.0 (email + password → Bearer token, valid 24h)
-// Docs: https://acleddata.com/api-documentation/getting-started
-async function getACLEDToken() {
-  // Try JSON body first (some ACLED endpoints prefer it), fall back to form-encoded
-  for (const [ct, body] of [
-    ["application/json",                JSON.stringify({ username: ACLED_EMAIL, password: ACLED_PASSWORD, grant_type: "password", client_id: "acled" })],
-    ["application/x-www-form-urlencoded", new URLSearchParams({ username: ACLED_EMAIL, password: ACLED_PASSWORD, grant_type: "password", client_id: "acled" }).toString()],
-  ]) {
-    try {
-      const res = await fetch("https://acleddata.com/oauth/token", {
-        method: "POST",
-        headers: { "Content-Type": ct, "Accept": "application/json" },
-        body,
-        signal: AbortSignal.timeout(15000),
-      });
-      if (!res.ok) { console.warn(`[acled] auth attempt CT=${ct} → HTTP ${res.status}`); continue; }
-      const d = await res.json();
-      if (d.access_token) return d.access_token;
-    } catch (e) { console.warn("[acled] auth attempt failed:", e.message); }
-  }
-  throw new Error("ACLED auth failed — both content-type attempts exhausted");
-}
+
 
 async function fetchACLED() {
   if (!ACLED_EMAIL || !ACLED_PASSWORD) {
@@ -483,7 +453,7 @@ async function fetchLotterySignals() {
         ' OR "lottery win" OR "jackpot winner" OR "prize draw" OR "raffle winner"' +
         ' OR "abu dhabi duty free" OR "dubai duty free" OR "saudi lottery"'
       );
-      const from = new Date(Date.now() - 30*24*3600*1000).toISOString().split("T")[0];
+      const from = new Date(Date.now() - 25*24*3600*1000).toISOString().split("T")[0]; // free tier max 30d
       const url = `https://newsapi.org/v2/everything?q=${q}&from=${from}&language=en&sortBy=publishedAt&pageSize=100&apiKey=${NEWSAPI_KEY}`;
       const res = await fetch(url, { signal: AbortSignal.timeout(12000) });
       if (!res.ok) throw new Error(`HTTP ${res.status} — ${await res.text().then(t=>t.slice(0,120))}`);
@@ -549,20 +519,16 @@ async function fetchLotterySignals() {
   // ── RSS feeds — MENA lottery / prize coverage ────────────────────────────────
   // All free, no auth — keyword-filtered before pushing to results
   const LOT_RSS = [
-    // ✅ Confirmed working
+    // ✅ Confirmed working from last run
     { name: "Gulf Business",    url: "https://gulfbusiness.com/feed/" },
     { name: "Saudi Gazette",    url: "https://saudigazette.com.sa/rss" },
-    { name: "Gulf Business AE", url: "https://gulfbusiness.com/category/uae/feed/" },
-    // Fixed URLs for previously 403/404 sources
-    { name: "Arab News",        url: "https://www.arabnews.com/taxonomy/term/2/feed" },
-    { name: "Al Arabiya",       url: "https://english.alarabiya.net/tools/rss" },
-    { name: "Khaleej Times",    url: "https://www.khaleejtimes.com/rss/rss.xml" },
-    { name: "Gulf News UAE",    url: "https://gulfnews.com/rss/uae.xml" },
-    { name: "The National UAE", url: "https://www.thenationalnews.com/rss" },
-    // Additional working MENA RSS
-    { name: "Zawya Gulf",       url: "https://www.zawya.com/en/rss/world-business" },
-    { name: "Albawaba",         url: "https://www.albawaba.com/rss.xml" },
     { name: "Middle East Eye",  url: "https://www.middleeasteye.net/rss" },
+    { name: "Albawaba",         url: "https://www.albawaba.com/rss.xml" },
+    // Retry with corrected URLs
+    { name: "Arab News",        url: "https://www.arabnews.com/rss.xml" },
+    { name: "Gulf News",        url: "https://gulfnews.com/rss/world" },
+    { name: "The National",     url: "https://www.thenationalnews.com/arc/outboundfeeds/rss/" },
+    { name: "Khaleej Times",    url: "https://www.khaleejtimes.com/rss" },
   ];
   await Promise.allSettled(LOT_RSS.map(async ({ name, url }) => {
     try {
@@ -642,8 +608,7 @@ async function fetchLotterySignals() {
 async function main() {
   console.log("[fetch-signals] Starting…");
 
-  const [acled, gdelt_tone, weather, fx, lotteryData] = await Promise.all([
-    fetchACLED(),
+  const [gdelt_tone, weather, fx, lotteryData] = await Promise.all([
     fetchGDELTTone(),
     fetchWeather(),
     fetchFX(),
@@ -652,7 +617,6 @@ async function main() {
 
   const output = {
     generated_at: new Date().toISOString(),
-    acled,
     gdelt_tone,
     weather,
     fx,
@@ -661,7 +625,7 @@ async function main() {
 
   writeFileSync(OUT, JSON.stringify(output, null, 2));
   console.log(`[fetch-signals] Done → ${OUT}`);
-  console.log(`  ACLED: ${acled.length} events | GDELT: ${Object.keys(gdelt_tone).length} countries | FX: ${Object.keys(fx).length} rates | Lottery: ${lotteryData.items.length} signals`);
+  console.log(`  GDELT: ${Object.keys(gdelt_tone).length} countries | FX: ${Object.keys(fx).length} rates | Lottery: ${lotteryData.items.length} signals`);
 }
 
 main().catch(err => { console.error("[fetch-signals] Fatal:", err); process.exit(0); });
