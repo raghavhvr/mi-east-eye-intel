@@ -389,11 +389,45 @@ async function fetchLotterySignals() {
   // Pullpush only has data up to May 2025 and is unreliable
   const after30dDate = new Date(Date.now() - 30*24*3600*1000).toISOString().split("T")[0];
   const LOTTERY_SUBS = [
-    { sub: "lottery",   meFocus: false },
-    { sub: "dubai",     meFocus: true  },
-    { sub: "UAE",       meFocus: true  },
-    { sub: "expats",    meFocus: true  },
+    // UAE / Gulf — primary market
+    { sub: "dubai",              meFocus: true  },
+    { sub: "UAE",                meFocus: true  },
+    { sub: "abudhabi",           meFocus: true  },
+    { sub: "sharjah",            meFocus: true  },
+    { sub: "saudiarabia",        meFocus: true  },
+    { sub: "qatar",              meFocus: true  },
+    { sub: "Kuwait",             meFocus: true  },
+    { sub: "Bahrain",            meFocus: true  },
+    { sub: "oman",               meFocus: true  },
+    // Expat source communities — huge lottery participation in MENA
+    { sub: "india",              meFocus: false },
+    { sub: "pakistan",           meFocus: false },
+    { sub: "Philippines",        meFocus: false },
+    { sub: "bangladesh",         meFocus: false },
+    { sub: "srilanka",           meFocus: false },
+    { sub: "Nepal",              meFocus: false },
+    { sub: "IndiansAbroad",      meFocus: false },
+    { sub: "PakistaniAbroad",    meFocus: false },
+    { sub: "expats",             meFocus: false },
+    { sub: "expat",              meFocus: false },
+    // Lottery-specific
+    { sub: "lottery",            meFocus: false },
+    { sub: "lotterywinners",     meFocus: false },
+    { sub: "Lottery_Winnings",   meFocus: false },
+    // Broader ME / North Africa
+    { sub: "egypt",              meFocus: true  },
+    { sub: "jordan",             meFocus: true  },
+    { sub: "lebanon",            meFocus: true  },
+    { sub: "morocco",            meFocus: true  },
   ];
+
+  // Expat source country subs — strong ME lottery connection needed to avoid noise
+  // A post from r/india about a local Indian state lottery is not relevant
+  const EXPAT_SUBS = new Set([
+    "india","pakistan","Philippines","bangladesh","srilanka","Nepal",
+    "IndiansAbroad","PakistaniAbroad","expats","expat",
+    "egypt","jordan","lebanon","morocco",
+  ]);
 
   await Promise.allSettled(LOTTERY_SUBS.map(async ({ sub, meFocus }) => {
     try {
@@ -403,13 +437,18 @@ async function fetchLotterySignals() {
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const d = await res.json();
       const posts = d.data || d.posts || d || [];
+      let subCount = 0;
       for (const p of posts) {
         if (!p.title || p.removed_by_category || seen.has(`r-${p.id}`)) continue;
         const txt = p.title + " " + (p.selftext || "");
-        // Always require at least one lottery keyword — even for ME-focused subs
-        // This was the bug: meFocus posts were passing through on isME() alone
-        if (!LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
+        const tl  = txt.toLowerCase();
+        // Always need a lottery keyword
+        if (!LOT_KW.some(k => tl.includes(k))) continue;
+        // For expat/non-Gulf subs: also require a ME geography or brand signal
+        // This filters out "won the Kerala lottery" from r/india etc.
+        if (EXPAT_SUBS.has(sub) && !isME(txt)) continue;
         seen.add(`r-${p.id}`);
+        subCount++;
         all.push({
           id: `reddit-lot-${p.id}`,
           title: p.title,
@@ -426,6 +465,7 @@ async function fetchLotterySignals() {
           isME: isME(txt),
         });
       }
+      if (subCount > 0) console.log(`[lottery:r/${sub}] ${subCount} signals`);
     } catch (err) { console.error(`[lottery:r/${sub}]`, err.message); }
   }));
 
