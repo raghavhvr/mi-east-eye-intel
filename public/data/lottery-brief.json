@@ -1,1 +1,25 @@
-{"generated_at":null,"model":"pending","overallMood":"NEUTRAL","sentimentSplit":{"positive":33,"neutral":34,"negative":33},"dominantNarrative":"Awaiting signal data","keyEmotions":[],"psychInsight":"Lottery signal pipeline initialising. Run GitHub Actions to populate data.","riskSignals":[],"opportunitySignals":[]}
+{
+  "generated_at": "2026-03-28T09:13:35.702Z",
+  "model": "groq/llama-3.3-70b-versatile",
+  "overallMood": "ANXIOUS",
+  "sentimentSplit": {
+    "positive": 30,
+    "neutral": 20,
+    "negative": 50
+  },
+  "dominantNarrative": "Uncertainty and doubt prevail",
+  "keyEmotions": [
+    "frustration",
+    "desperation",
+    "excitement"
+  ],
+  "psychInsight": "The posts reveal a sense of desperation and frustration, driven by the uncertainty of winning or losing, and the psychological impact of near-misses. The overall mood is anxious, with individuals seeking validation or relief through gambling, but often ending up disappointed or frustrated.",
+  "riskSignals": [
+    "gambling addiction",
+    "financial stress"
+  ],
+  "opportunitySignals": [
+    "hope for a big win",
+    "new beginnings"
+  ]
+}

@@ -1,1 +1,21 @@
-{"generated_at":null,"model":"pending","threatLevel":"LOW","topTheme":"Initialising","summary":"Data pipeline is being set up. Run GitHub Actions workflows to populate.","keyTrends":[],"watchItems":[],"userSentiment":"CAUTIOUS","sentimentDrivers":[]}
+{
+  "generated_at": "2026-03-28T09:13:35.091Z",
+  "model": "groq/llama-3.3-70b-versatile",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran Israel Conflict",
+  "summary": "The ongoing conflict between Iran and Israel continues to escalate, with Yemen's Houthis launching missile attacks on Israel, while global markets slide amidst the war. The situation remains volatile, with the US and UAE involved in discussions, and the potential for further escalation remains high.",
+  "keyTrends": [
+    "Escalating Conflict",
+    "Global Market Impact",
+    "Regional Involvement"
+  ],
+  "watchItems": [
+    "Houthi Missile Attacks",
+    "US-Israel Strategy"
+  ],
+  "userSentiment": "ANXIOUS",
+  "sentimentDrivers": [
+    "Conflict Escalation",
+    "Economic Uncertainty"
+  ]
+}
