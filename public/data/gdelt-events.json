@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-01-01T00:00:00.000Z",
+  "generated_at": "2026-03-28T13:20:46.597Z",
   "count": 0,
-  "date_range": { "from": null, "to": null },
+  "categories": {
+    "crisis": 0,
+    "social": 0,
+    "general": 0
+  },
+  "date_range": {
+    "from": null,
+    "to": null
+  },
+  "summary": [],
   "events": []
 }
