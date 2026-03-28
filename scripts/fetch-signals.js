@@ -39,16 +39,6 @@ const ACLED_COUNTRIES = [
   "Tunisia","Algeria","Morocco","Sudan","Yemen","Iran"
 ];
 
-// GDELT ISO2 codes for tone API
-const GDELT_COUNTRIES = [
-  { id: "UAE",          iso: "AE" }, { id: "Saudi Arabia",  iso: "SA" },
-  { id: "Qatar",        iso: "QA" }, { id: "Kuwait",        iso: "KW" },
-  { id: "Bahrain",      iso: "BH" }, { id: "Oman",          iso: "OM" },
-  { id: "Jordan",       iso: "JO" }, { id: "Lebanon",       iso: "LB" },
-  { id: "Iraq",         iso: "IQ" }, { id: "Egypt",         iso: "EG" },
-  { id: "Yemen",        iso: "YE" }, { id: "Iran",          iso: "IR" },
-];
-
 // Lottery keywords
 const LOT_KW = ["lottery","jackpot","won","winner","winning","lucky","raffle","prize","draw","million","ticket","duty free","big ticket","mahzooz","gambling","lotto","lucky draw","grand prize","sweepstake","powerball"];
 const LOT_HOPEFUL = ["win","winner","jackpot","lucky","dream","hope","million","ticket","chance","raffle","prize","draw","blessed","fortune","rich","wealth","congratulations","won","awarded"];
@@ -144,23 +134,69 @@ async function fetchACLED() {
 }
 
 // ── GDELT Tone ───────────────────────────────────────────────────────────────
+// Uses timelinetone mode — returns daily avg tone timeline, we average over 7d
+// Requests serialized with small delay to avoid GitHub Actions IP throttling
+// GDELT FIPS country codes (different from ISO2)
+const GDELT_COUNTRIES = [
+  { id: "UAE",          fips: "AE" }, { id: "Saudi Arabia",  fips: "SA" },
+  { id: "Qatar",        fips: "QA" }, { id: "Kuwait",        fips: "KU" },
+  { id: "Bahrain",      fips: "BA" }, { id: "Oman",          fips: "MU" },
+  { id: "Jordan",       fips: "JO" }, { id: "Lebanon",       fips: "LE" },
+  { id: "Iraq",         fips: "IZ" }, { id: "Egypt",         fips: "EG" },
+  { id: "Yemen",        fips: "YM" }, { id: "Iran",          fips: "IR" },
+];
+
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
 async function fetchGDELTTone() {
   const tone = {};
-  await Promise.allSettled(GDELT_COUNTRIES.map(async ({ id, iso }) => {
+
+  for (const { id, fips } of GDELT_COUNTRIES) {
     try {
-      const url = `https://api.gdeltproject.org/api/v2/doc/doc?query=sourcecountry:${iso}&mode=tonechart&format=json&TIMESPAN=7days`;
-      const res = await fetch(url, { signal: AbortSignal.timeout(12000) });
+      // timelinetone: returns [{date, value}] — daily average tone, last 7 days
+      // sourcecountry uses FIPS codes; TIMESPAN=7days; format=json
+      const url = `https://api.gdeltproject.org/api/v2/doc/doc` +
+        `?query=sourcecountry:${fips}` +
+        `&mode=timelinetone` +
+        `&TIMESPAN=7days` +
+        `&format=json`;
+
+      const res = await fetch(url, {
+        headers: { "User-Agent": "OpenEye-OSINT/4.0" },
+        signal: AbortSignal.timeout(15000),
+      });
+
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const d = await res.json();
-      // tonechart returns array of {date, tone} — average them
-      const tones = (d.tonechart||[]).map(t=>parseFloat(t.avgtone||0)).filter(n=>!isNaN(n));
-      tone[id] = tones.length ? Math.round((tones.reduce((a,b)=>a+b,0)/tones.length)*100)/100 : 0;
+      const text = await res.text();
+
+      // GDELT sometimes returns empty body or non-JSON on rate limit
+      if (!text || text.trim().length < 10) throw new Error("Empty response");
+
+      const d = JSON.parse(text);
+
+      // timelinetone response: { timeline: [{ series: [{ value: n, date: "..." }] }] }
+      // OR sometimes: { timeline: [{ data: [{ value: n }] }] }
+      const series = d?.timeline?.[0]?.series || d?.timeline?.[0]?.data || [];
+      const values = series
+        .map(p => parseFloat(p.value))
+        .filter(n => !isNaN(n) && n !== 0);
+
+      tone[id] = values.length
+        ? Math.round((values.reduce((a, b) => a + b, 0) / values.length) * 100) / 100
+        : null; // null = no data (don't show 0 as fake neutral)
+
+      console.log(`[gdelt:${id}] tone=${tone[id]} (${values.length} data points)`);
     } catch (err) {
       console.error(`[gdelt:${id}] failed:`, err.message);
-      tone[id] = 0;
+      tone[id] = null;
     }
-  }));
-  console.log("[gdelt] tone fetched for", Object.keys(tone).length, "countries");
+
+    // Stagger requests — GDELT throttles burst requests from datacenter IPs
+    await sleep(800);
+  }
+
+  const fetched = Object.values(tone).filter(v => v !== null).length;
+  console.log(`[gdelt] tone fetched for ${fetched}/${GDELT_COUNTRIES.length} countries`);
   return tone;
 }
 
