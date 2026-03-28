@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-28T09:31:39.340Z",
+  "generated_at": "2026-03-28T09:47:29.680Z",
   "count": 80,
   "articles": [
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/03/28/yemens-houthis-enter-the-iran-war-with-launch-of-ballistic-missile-at-israel/",
+      "title": "Yemen's Houthis enter the Iran war with launch of ballistic missile at Israel",
+      "summary": "Yemen 's Houthi militia say they fired a ballistic missile at Israel on Saturday, making good on their threat to join the Iran war on the side of their patron Iran and widening the conflict as it hits the four-week mark. They said they woul",
+      "url": "https://www.thenationalnews.com/news/mena/2026/03/28/yemens-houthis-enter-the-iran-war-with-launch-of-ballistic-missile-at-israel/",
+      "timestamp": "2026-03-28T09:39:49.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Israel",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
     {
       "id": "436876 at https://www.middleeasteye.net/",
       "title": "Drone attack damages radar system at Kuwait international airport",
@@ -70,6 +88,24 @@
       "sentiment": {
         "label": "NEUTRAL",
         "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1774686421",
+      "title": "Tiger Woods released on bail hours after arrest on suspicion of DUI",
+      "summary": "US golfer arrested in relation to rollover crash in Florida that did not ⁠cause any significant injuries.",
+      "url": "https://www.aljazeera.com/sports/2026/3/28/tiger-woods-released-on-bail-hours-after-arrest-on-suspicion-of-dui?traffic_source=rss",
+      "timestamp": "2026-03-28T09:09:45.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
       },
       "score": 0,
       "comments": 0
@@ -471,24 +507,6 @@
       "comments": 0
     },
     {
-      "id": "https://www.aljazeera.com/?t=1774533277",
-      "title": "Israel’s unending attacks in Lebanon push country’s population to the brink",
-      "summary": "Four weeks into the US-Israeli war on Iran, many in Lebanon are suffering under yet another Israeli aggression.",
-      "url": "https://www.aljazeera.com/features/2026/3/28/israels-unending-attacks-in-lebanon-push-countrys-population-to-the-brink?traffic_source=rss",
-      "timestamp": "2026-03-28T04:59:19.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Lebanon",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
       "id": "3882568",
       "title": "Morning Briefing: March 28, 2026",
       "summary": "Anadolu’s recap of top stories from around the globe",
@@ -574,24 +592,6 @@
       "sentiment": {
         "label": "NEUTRAL",
         "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/03/28/month-of-war-traps-iranians-between-hardening-regime-and-terrifying-trump/",
-      "title": "Month of war traps Iranians between hardening regime and 'terrifying' Trump",
-      "summary": "Live updates: Follow the latest news on US-Iran war The holidays marking Eid Al Fitr and the Persian new year Nowruz are almost over. But the war is not. Iranians have welcomed in their new year, which begins in late March, at the heart of ",
-      "url": "https://www.thenationalnews.com/news/mena/2026/03/28/month-of-war-traps-iranians-between-hardening-regime-and-terrifying-trump/",
-      "timestamp": "2026-03-28T02:00:00.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iran",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "CRITICAL",
-        "score": -2
       },
       "score": 0,
       "comments": 0
