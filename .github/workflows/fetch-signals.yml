@@ -2,7 +2,7 @@ name: Fetch Signals
 
 on:
   schedule:
-    - cron: "0 * * * *"   # Every hour UTC
+    - cron: "20 2 * * *"   # 2:05 AM UTC (6:05 AM Dubai)
   workflow_dispatch:
 
 jobs:
