@@ -36,7 +36,29 @@ function MENAMap({items,gdeltTone,onCountryClick}){
   const onMU=()=>{setDragging(false);setDragStart(null);};
   const onTS=e=>{if(e.touches.length===1)touchRef.current={tx:e.touches[0].clientX,ty:e.touches[0].clientY,px:pan.x,py:pan.y};};
   const onTM=e=>{if(!touchRef.current||!containerRef.current||e.touches.length!==1)return;const rect=containerRef.current.getBoundingClientRect();const dx=((touchRef.current.tx-e.touches[0].clientX)/rect.width)/zoom;const dy=((touchRef.current.ty-e.touches[0].clientY)/rect.height)*(0.44/(2/3))/zoom;setPan({x:touchRef.current.px+dx,y:touchRef.current.py+dy});e.preventDefault();};
-  const cData=id=>{const ci=items.filter(i=>i.country===id);const tone=(gdeltTone||{})[id]??null;if(!ci.length)return{count:0,col:T.outVar,dominant:"NEUTRAL",tone};const cnts={};ci.forEach(i=>{const l=i.sentiment?.label||"NEUTRAL";cnts[l]=(cnts[l]||0)+1;});const dom=Object.entries(cnts).sort((a,b)=>b[1]-a[1])[0]?.[0]||"NEUTRAL";const col=dom==="CRITICAL"?T.error:dom==="WARNING"?T.tertiary:dom==="POSITIVE"||dom==="STABLE"?T.secondary:T.primary;return{count:ci.length,col,dominant:dom,tone};};
+  const cData=id=>{
+    const ci=items.filter(i=>i.country===id);
+    const tone=(gdeltTone||{})[id]??null;
+    if(!ci.length&&tone===null)return{count:0,col:T.outVar,dominant:"NEUTRAL",tone};
+    // Feed-based sentiment
+    const cnts={};
+    ci.forEach(i=>{const l=i.sentiment?.label||"NEUTRAL";cnts[l]=(cnts[l]||0)+1;});
+    const dom=Object.entries(cnts).sort((a,b)=>b[1]-a[1])[0]?.[0]||"NEUTRAL";
+    // Derive colour: prefer GDELT tone when feeds are all neutral or count is low
+    // tone < -3 = critical (red), -3 to -1 = warning (orange), -1 to 1 = neutral, >1 = stable (green)
+    let col;
+    if(dom==="CRITICAL"){col=T.error;}
+    else if(dom==="WARNING"){col=T.tertiary;}
+    else if(dom==="POSITIVE"||dom==="STABLE"){col=T.secondary;}
+    else if(tone!==null){
+      // Use GDELT tone to colour-code when feeds are neutral
+      if(tone<=-3)col=T.error;
+      else if(tone<=-1.5)col=T.tertiary;
+      else if(tone>=1)col=T.secondary;
+      else col=T.primary;
+    }else{col=T.primary;}
+    return{count:ci.length,col,dominant:dom,tone};
+  };
   const ds=1/Math.sqrt(zoom);
   return(<div ref={containerRef} style={{width:"100%",borderRadius:8,overflow:"hidden",border:`1px solid ${T.outVar}33`,position:"relative",background:T.base,userSelect:"none",cursor:dragging?"grabbing":"grab"}} onWheel={onWheel} onMouseDown={onMD} onMouseMove={onMM} onMouseUp={onMU} onMouseLeave={onMU} onTouchStart={onTS} onTouchMove={onTM} onTouchEnd={()=>{touchRef.current=null;}}>
     <div style={{width:"100%",height:0,paddingBottom:"44%",position:"relative",overflow:"hidden"}}>
