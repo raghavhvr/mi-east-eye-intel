@@ -34,7 +34,20 @@ const CAPITALS = {
 
 
 // Lottery keywords
-const LOT_KW = ["lottery","jackpot","won","winner","winning","lucky","raffle","prize","draw","million","ticket","duty free","big ticket","mahzooz","gambling","lotto","lucky draw","grand prize","sweepstake","powerball"];
+// Strict: only unambiguous lottery terms — no "won"/"lucky"/"draw"/"prize" alone
+const LOT_KW = [
+  // Unmistakably lottery
+  "lottery","jackpot","lotto","raffle","sweepstake","powerball","megamillions",
+  // ME-specific brands (always lottery)
+  "mahzooz","big ticket","emirates draw","duty free draw","abu dhabi duty free",
+  "dubai duty free","emirates loto","dream dubai","gulf lottery","arab lottery",
+  // Strong compound terms
+  "lucky draw","grand prize","scratch card","lottery ticket","lottery winner",
+  "jackpot winner","lottery win","won the lottery","won a lottery",
+  "lottery result","draw result","raffle winner","prize draw",
+];
+// Soft keywords — only used for ME-branded subs where context is already set
+const LOT_KW_SOFT = ["jackpot","won","winner","prize","ticket","million","lucky","draw"];
 const LOT_HOPEFUL = ["win","winner","jackpot","lucky","dream","hope","million","ticket","chance","raffle","prize","draw","blessed","fortune","rich","wealth","congratulations","won","awarded"];
 const LOT_CYNICAL  = ["scam","fraud","rigged","impossible","waste","sucker","odds","cheat","fake","illegal","banned","haram","forbidden","corrupt","addiction","trap","beware","warning","regret"];
 const LOT_ANXIOUS  = ["debt","desperate","spent","need","last","only","please","help","poor","broke","struggling","worry","afford","savings","emergency"];
@@ -365,13 +378,24 @@ async function fetchLotterySignals() {
     { sub: "morocco",            meFocus: true  },
   ];
 
-  // Expat source country subs — strong ME lottery connection needed to avoid noise
-  // A post from r/india about a local Indian state lottery is not relevant
+  // ALL non-lottery-specific subs need either:
+  //   a) a ME lottery BRAND keyword (mahzooz, big ticket, emirates draw etc), OR
+  //   b) a strict LOT_KW match + isME() geography signal
+  // Pure Gulf subs (dubai, UAE) still need a lottery brand — "won" alone is not enough
   const EXPAT_SUBS = new Set([
+    // Gulf / ME geography subs
+    "dubai","UAE","abudhabi","sharjah","saudiarabia","qatar","Kuwait","Bahrain","oman",
+    "egypt","jordan","lebanon","morocco",
+    // Expat source country subs
     "india","pakistan","Philippines","bangladesh","srilanka","Nepal",
     "IndiansAbroad","PakistaniAbroad","expats","expat",
-    "egypt","jordan","lebanon","morocco",
   ]);
+
+  // ME lottery brands — any post mentioning these is definitely relevant
+  const ME_LOT_BRANDS = [
+    "mahzooz","big ticket","emirates draw","duty free draw","abu dhabi duty free",
+    "dubai duty free","emirates loto","dream dubai","gulf lottery",
+  ];
 
   await Promise.allSettled(LOTTERY_SUBS.map(async ({ sub, meFocus }) => {
     try {
@@ -386,11 +410,19 @@ async function fetchLotterySignals() {
         if (!p.title || p.removed_by_category || seen.has(`r-${p.id}`)) continue;
         const txt = p.title + " " + (p.selftext || "");
         const tl  = txt.toLowerCase();
-        // Always need a lottery keyword
-        if (!LOT_KW.some(k => tl.includes(k))) continue;
-        // For expat/non-Gulf subs: also require a ME geography or brand signal
-        // This filters out "won the Kerala lottery" from r/india etc.
-        if (EXPAT_SUBS.has(sub) && !isME(txt)) continue;
+        // Must match a strict lottery keyword
+        const hasStrictKW = LOT_KW.some(k => tl.includes(k));
+        // OR match a soft keyword + ME brand (e.g. "won" + "mahzooz")
+        const hasMEBrand  = ME_LOT_BRANDS.some(b => tl.includes(b));
+        const hasSoftKW   = LOT_KW_SOFT.some(k => tl.includes(k));
+
+        if (!hasStrictKW && !hasMEBrand) continue;
+        // For all geography subs (Gulf + expat): require ME brand OR strict KW + isME
+        if (EXPAT_SUBS.has(sub)) {
+          if (!hasMEBrand && !(hasStrictKW && isME(txt))) continue;
+        }
+        // For lottery-specific subs (r/lottery etc): strict KW is enough
+        // but soft-only matches still need a ME brand to be included
         seen.add(`r-${p.id}`);
         subCount++;
         all.push({
@@ -520,7 +552,11 @@ async function fetchLotterySignals() {
         const pubDate = (item.match(/<pubDate>(.*?)<\/pubDate>/))?.[1]?.trim() || "";
         if (!title || seen.has(`rss-${link}`)) continue;
         const txt = title + " " + desc;
-        if (!LOT_KW.some(k => txt.toLowerCase().includes(k))) continue;
+        const tl2 = txt.toLowerCase();
+        const strictMatches = LOT_KW.filter(k => tl2.includes(k)).length;
+        const hasBrand = ME_LOT_BRANDS.some(b => tl2.includes(b));
+        // RSS is general news — require 2+ strict keywords OR a ME brand hit
+        if (strictMatches < 1 || (!hasBrand && strictMatches < 2)) continue;
         const ts = pubDate ? new Date(pubDate).toISOString() : new Date().toISOString();
         seen.add(`rss-${link}`);
         all.push({
