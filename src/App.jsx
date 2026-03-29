@@ -11,7 +11,18 @@ const secColor=s=>SECTIONS[s]?.color||T.outVar;
 const sentColor=l=>l==="CRITICAL"?T.error:l==="WARNING"?T.tertiary:l==="POSITIVE"||l==="STABLE"?T.secondary:T.onVar;
 const sentBg=l=>l==="CRITICAL"?`${T.errCont}55`:l==="WARNING"?`${T.terCont}55`:l==="POSITIVE"||l==="STABLE"?`${T.secCont}33`:`${T.outVar}22`;
 const srcColor=t=>t==="Reddit"?"#ff6314":t==="RSS"?T.tertiary:t==="HN"?"#f97316":t==="Mastodon"?"#6364ff":t==="Lemmy"?"#00bc8c":T.primary;
-function calcPulse(items){if(!items.length)return 50;const c=items.filter(i=>i.sentiment?.label==="CRITICAL").length,w=items.filter(i=>i.sentiment?.label==="WARNING").length,p=items.filter(i=>i.sentiment?.label==="POSITIVE").length,s=items.filter(i=>i.sentiment?.label==="STABLE").length;return Math.min(98,Math.max(10,Math.round(50+(p*4+s*2)-(c*9+w*4))));}
+function calcPulse(items){
+  if(!items.length)return 50;
+  const n=items.length;
+  const c=items.filter(i=>i.sentiment?.label==="CRITICAL").length/n;
+  const w=items.filter(i=>i.sentiment?.label==="WARNING").length/n;
+  const p=items.filter(i=>i.sentiment?.label==="POSITIVE").length/n;
+  const s=items.filter(i=>i.sentiment?.label==="STABLE").length/n;
+  // Score 0-100 based on sentiment mix percentages
+  // 50 = baseline, positive shifts up, critical/warning shifts down
+  const score=50+(p*40+s*20)-(c*50+w*25);
+  return Math.min(98,Math.max(5,Math.round(score)));
+}
 function dedup(arr){const s=new Set();return arr.filter(i=>{if(!i.id||s.has(i.id))return false;s.add(i.id);return true;});}
 const LOT_HOPEFUL=["win","winner","jackpot","lucky","dream","hope","million","ticket","chance","raffle","prize","draw","blessed","fortune","rich","wealth","congratulations","won","awarded"];
 const LOT_CYNICAL=["scam","fraud","rigged","impossible","never","waste","sucker","odds","cheat","fake","illegal","banned","haram","corrupt","addiction","trap"];
