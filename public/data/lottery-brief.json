@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-03-29T05:01:13.567Z",
+  "generated_at": "2026-03-29T06:26:00.736Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning lottery tickets",
+  "dominantNarrative": "Winning Lottery Dreams",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "frustration"
+    "Excitement",
+    "Optimism",
+    "Curiosity"
   ],
-  "psychInsight": "The public is driven by the desire for a quick fix to their financial struggles, and the lottery represents a glimmer of hope. The use of AI to generate tickets also taps into the fascination with technology and its potential to improve lives",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, with many individuals seeking ways to increase their chances of winning. The use of AI and alternative methods, such as Tarot wisdom, suggests a willingness to explore unconventional approaches to achieve success.",
   "riskSignals": [
-    "political unrest",
-    "financial desperation"
+    "Misguided expectations",
+    "Unregulated platforms"
   ],
   "opportunitySignals": [
-    "growing interest in AI",
-    "increased lottery engagement"
+    "Innovative lottery solutions",
+    "Growing online market"
   ]
 }
