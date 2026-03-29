@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-28T14:09:19.064Z",
+  "generated_at": "2026-03-29T05:01:12.855Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Miscellaneous Topics",
-  "summary": "The provided headlines lack a cohesive theme, indicating a low threat level with no apparent regional security concerns. The topics range from personal inquiries and travel to technology and sports, with no notable patterns or trends that suggest a potential threat to regional stability.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran Conflict Escalation",
+  "summary": "The region is experiencing heightened tensions due to reported attacks and military preparations, with potential for further escalation. Analysts are closely monitoring the situation, particularly the involvement of the US and Iranian forces in the region.",
   "keyTrends": [
-    "Personal Interests",
-    "Travel",
-    "Technology"
+    "Iran-US Conflict",
+    "Regional Instability",
+    "Military Operations"
   ],
   "watchItems": [
-    "UAE Defense Forces",
-    "Gibraltar Opinions"
+    "Iranian Air Defenses",
+    "US Military Deployments"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Lack of Coherent Theme",
-    "Neutral Language"
+    "Escalating Violence",
+    "Uncertainty"
   ]
 }
