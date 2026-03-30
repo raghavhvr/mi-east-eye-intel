@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T06:26:00.736Z",
+  "generated_at": "2026-03-30T05:12:53.504Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Lottery Dreams",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
     "Excitement",
     "Optimism",
     "Curiosity"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, with many individuals seeking ways to increase their chances of winning. The use of AI and alternative methods, such as Tarot wisdom, suggests a willingness to explore unconventional approaches to achieve success.",
+  "psychInsight": "The public is driven by the desire for financial windfalls and the thrill of potentially life-changing wins, with many seeking ways to increase their chances of winning. The use of AI and unconventional methods like Tarot wisdom reflects a willingness to try innovative approaches to achieve success.",
   "riskSignals": [
     "Misguided expectations",
     "Unregulated platforms"
   ],
   "opportunitySignals": [
-    "Innovative lottery solutions",
-    "Growing online market"
+    "Innovative ticketing solutions",
+    "Growing online lottery market"
   ]
 }
