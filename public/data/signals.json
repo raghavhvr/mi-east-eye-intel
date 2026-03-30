@@ -1,103 +1,103 @@
 {
-  "generated_at": "2026-03-29T06:25:27.791Z",
+  "generated_at": "2026-03-30T05:08:31.143Z",
   "gdelt_tone": {
-    "UAE": -2.37,
-    "Saudi Arabia": -2.29,
-    "Qatar": -2.51,
-    "Kuwait": -3.5,
-    "Bahrain": -3.58,
-    "Oman": -2.95,
-    "Jordan": -2.84,
-    "Lebanon": -4.84,
-    "Iraq": -4.49,
-    "Egypt": -1.28,
-    "Yemen": -4.63,
-    "Iran": -3.84
+    "UAE": -2.36,
+    "Saudi Arabia": -2.25,
+    "Qatar": -2.15,
+    "Kuwait": -3.75,
+    "Bahrain": -3.51,
+    "Oman": -2.92,
+    "Jordan": -2.83,
+    "Lebanon": -4.81,
+    "Iraq": -4.59,
+    "Egypt": -1.4,
+    "Yemen": -4.76,
+    "Iran": -3.79
   },
   "weather": {
-    "Kuwait": {
+    "Lebanon": {
+      "temp_c": 14,
+      "wind_kmh": 15,
+      "condition": "Showers",
+      "city": "Beirut"
+    },
+    "Qatar": {
       "temp_c": 20,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
-      "temp_c": 21,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Iran": {
-      "temp_c": 12,
-      "wind_kmh": 8,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
-      "city": "Tehran"
+      "city": "Doha"
     },
-    "Yemen": {
-      "temp_c": 18,
-      "wind_kmh": 6,
+    "Oman": {
+      "temp_c": 23,
+      "wind_kmh": 11,
       "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Muscat"
     },
     "Saudi Arabia": {
-      "temp_c": 19,
+      "temp_c": 21,
       "wind_kmh": 5,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
+    "Kuwait": {
+      "temp_c": 20,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "Jordan": {
+      "temp_c": 9,
+      "wind_kmh": 20,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
     "Iraq": {
-      "temp_c": 19,
+      "temp_c": 16,
       "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "UAE": {
-      "temp_c": 24,
-      "wind_kmh": 25,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Jordan": {
-      "temp_c": 14,
-      "wind_kmh": 12,
-      "condition": "Rain",
-      "city": "Amman"
-    },
     "Egypt": {
-      "temp_c": 17,
-      "wind_kmh": 7,
-      "condition": "Rain",
+      "temp_c": 13,
+      "wind_kmh": 2,
+      "condition": "Clear",
       "city": "Cairo"
     },
-    "Oman": {
-      "temp_c": 24,
-      "wind_kmh": 31,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Lebanon": {
-      "temp_c": 18,
-      "wind_kmh": 28,
+    "UAE": {
+      "temp_c": 23,
+      "wind_kmh": 16,
       "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Abu Dhabi"
     },
-    "Qatar": {
+    "Bahrain": {
       "temp_c": 22,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Doha"
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Iran": {
+      "temp_c": 11,
+      "wind_kmh": 1,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 16,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307802,
+    "KWD": 0.307526,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.759664,
-    "IQD": 1310.384802
+    "EGP": 53.22507,
+    "IQD": 1311.637744
   },
   "lottery": {
     "items": [
@@ -174,6 +174,21 @@
         "score": 1,
         "comments": 0,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Jackpot Climbs to $166 Million for Saturday, March 28, 2026 Drawing: Cash Value $74.5 Million",
+        "summary": "The Powerball jackpot has rolled over to an estimated $166 million for Saturday night's drawing after no ticket matched all six numbers in Wednesday's drawing, lottery officials said.",
+        "url": "https://www.ibtimes.com.au/powerball-jackpot-climbs-166-million-saturday-march-28-2026-drawing-cash-value-745-million-1864789",
+        "timestamp": "2026-03-28T13:43:04Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -522,111 +537,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1s2010s",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1s2010s/powerball_winning_numbers_monday/",
-        "timestamp": "2026-03-24T01:20:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s1rpg8",
-        "title": "Lottery scratcher help",
-        "summary": "Is this a winning ticket ? I made 9 words total which would be $10k but for some reason when scanned it’s saying $100 prize  But whats confusing me is that If both puzzles were counted separately 5 words is $40 and 4 words is $20 so that’s ",
-        "url": "https://reddit.com/r/Lottery/comments/1s1rpg8/lottery_scratcher_help/",
-        "timestamp": "2026-03-23T19:58:43.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 7,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s1lebb",
-        "title": "When do you play the games like Powerball?",
-        "summary": "I was curious how others here decide when to play these? Do you do it randomly or wait till the Jackpot is a certain amount or any time? Do you do Quick Pick or your own numbers? For me,its usually I will buy one or two if its over like 500",
-        "url": "https://reddit.com/r/Lottery/comments/1s1lebb/when_do_you_play_the_games_like_powerball/",
-        "timestamp": "2026-03-23T16:17:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 25,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s1l1bf",
-        "title": "I track the 30-day variance for FL Pick 3. Here is why chasing \"due\" numbers is a mathematical trap. 📊",
-        "summary": "Hey everyone. I'm a data analyst down here in Melbourne, FL, and I got tired of seeing people sell \"guaranteed\" lottery prediction systems. The machines don't have a memory, and no number is ever \"due\" to hit. However, I do track short-term",
-        "url": "https://reddit.com/r/Lottery/comments/1s1l1bf/i_track_the_30day_variance_for_fl_pick_3_here_is/",
-        "timestamp": "2026-03-23T16:05:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s1fb1p",
-        "title": "New AI Lotto Hack????",
-        "summary": "Anybody heard about this recent AI lotto hack that is trending all over social media right now. Is this even legit? U hit the link and it takes u to some random site called www.jackpotinsights.site I’ve always been very cautious when it com",
-        "url": "https://reddit.com/r/Lottery/comments/1s1fb1p/new_ai_lotto_hack/",
-        "timestamp": "2026-03-23T12:20:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s18dwq",
-        "title": "(GA) What’s the most you have won from this?",
-        "summary": "I always get better odds at the retailer vs playing on the Georgia lottery app but curious if anyone has won a big prize off this? All I can seem to hit is $100 off the $10 ones and $50 off the $5 ones, I don’t even bother with the $2 ones.",
-        "url": "https://reddit.com/r/Lottery/comments/1s18dwq/ga_whats_the_most_you_have_won_from_this/",
-        "timestamp": "2026-03-23T05:34:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s16wdy",
-        "title": "Baited by a 10X win symbol hard",
-        "summary": "Of course I thought my first time ever hitting 10x on a $50 scratcher would be a claimer. Nope 10X times 10 bucks for $100 winner the minimum prize on this ticket 😂😭😎 Colorado lottery",
-        "url": "https://reddit.com/r/Lottery/comments/1s16wdy/baited_by_a_10x_win_symbol_hard/",
-        "timestamp": "2026-03-23T04:10:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 35,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
         "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
         "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
@@ -673,17 +583,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 38,
+      "totalSignals": 32,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 24,
+        "HOPEFUL": 20,
         "CYNICAL": 0,
-        "ANXIOUS": 6,
+        "ANXIOUS": 4,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 37
+      "uncertaintyScore": 38
     }
   }
 }
