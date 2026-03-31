@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-03-30T05:12:52.920Z",
+  "generated_at": "2026-03-31T04:59:56.467Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "MENA Conflict",
-  "summary": "Recent events in the MENA region indicate increased tensions and potential for further escalation, with multiple incidents of violence and military action reported. The situation is being closely monitored, with particular attention to the impact on regional stability and global security interests.",
+  "topTheme": "Mideast Conflict Escalation",
+  "summary": "The situation in the Middle East is deteriorating due to increased tensions between Iran and other regional actors, with potential implications for global oil supplies. The recent attack on a Kuwaiti oil tanker in Dubai and the transit of Chinese container ships through the Strait of Hormuz are key indicators of the escalating conflict.",
   "keyTrends": [
-    "Iran-Israel tensions",
+    "Iranian aggression",
     "Regional instability",
-    "Cybersecurity threats"
+    "Global oil market volatility"
   ],
   "watchItems": [
-    "Iranian missile activity",
-    "US military presence in Iraq"
+    "Strait of Hormuz",
+    "Dubai port security"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Escalating conflict",
-    "Regional instability"
+    "fear of oil spill",
+    "regional conflict escalation"
   ]
 }
