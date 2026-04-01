@@ -1,106 +1,151 @@
 {
-  "generated_at": "2026-03-31T04:44:51.753Z",
+  "generated_at": "2026-04-01T05:09:31.353Z",
   "gdelt_tone": {
-    "UAE": -2.38,
-    "Saudi Arabia": -2.19,
-    "Qatar": -1.78,
-    "Kuwait": -3.8,
-    "Bahrain": -3.54,
-    "Oman": -2.8,
-    "Jordan": -2.77,
-    "Lebanon": -4.78,
-    "Iraq": -4.58,
-    "Egypt": -1.28,
-    "Yemen": -4.68,
-    "Iran": -3.78
+    "UAE": -2.47,
+    "Saudi Arabia": -2.12,
+    "Qatar": -1.7,
+    "Kuwait": -3.86,
+    "Bahrain": -3.43,
+    "Oman": -2.65,
+    "Jordan": -2.73,
+    "Lebanon": -4.92,
+    "Iraq": -4.57,
+    "Egypt": -1.22,
+    "Yemen": -4.59,
+    "Iran": -3.82
   },
   "weather": {
-    "Iran": {
-      "temp_c": 9,
-      "wind_kmh": 7,
-      "condition": "Rain",
-      "city": "Tehran"
-    },
-    "Iraq": {
-      "temp_c": 14,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
     "Qatar": {
-      "temp_c": 22,
-      "wind_kmh": 19,
+      "temp_c": 20,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Doha"
     },
-    "Oman": {
-      "temp_c": 25,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Jordan": {
-      "temp_c": 8,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Saudi Arabia": {
-      "temp_c": 19,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "UAE": {
       "temp_c": 23,
-      "wind_kmh": 5,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
-    "Bahrain": {
-      "temp_c": 21,
-      "wind_kmh": 30,
-      "condition": "Showers",
-      "city": "Manama"
+    "Iraq": {
+      "temp_c": 14,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Jordan": {
+      "temp_c": 13,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iran": {
+      "temp_c": 10,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Tehran"
+    },
+    "Saudi Arabia": {
+      "temp_c": 19,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
     },
     "Yemen": {
-      "temp_c": 15,
+      "temp_c": 17,
       "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
     "Kuwait": {
-      "temp_c": 19,
-      "wind_kmh": 7,
+      "temp_c": 18,
+      "wind_kmh": 21,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Lebanon": {
-      "temp_c": 14,
-      "wind_kmh": 7,
+    "Oman": {
+      "temp_c": 25,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 21,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
     },
     "Egypt": {
-      "temp_c": 14,
-      "wind_kmh": 2,
+      "temp_c": 19,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Cairo"
+    },
+    "Lebanon": {
+      "temp_c": 15,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30863,
+    "KWD": 0.30895,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.458606,
-    "IQD": 1311.682193
+    "EGP": 54.565087,
+    "IQD": 1311.728818
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1s936se",
+        "title": "Recent $167m lottery winner arrested for allegedly stealing $12,000 in Kentucky",
+        "summary": "Some people just don’t want to disappear into the sunset after winning the jackpot.    [https://www.theguardian.com/us-news/2026/mar/30/powerball-lottery-winner-burglary-arrest](https://www.theguardian.com/us-news/2026/mar/30/powerball-lott",
+        "url": "https://reddit.com/r/Lottery/comments/1s936se/recent_167m_lottery_winner_arrested_for_allegedly/",
+        "timestamp": "2026-03-31T23:05:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1s928rm",
+        "title": "Free tickets and equal value.",
+        "summary": "free ticket prizes or equal value prizes piss me off. I'm just venting but the last 4 times I've played the same 20.00 I won on the previous ticket and I end up buying a 20.00 ticket only to win 20.00 again.  I get that hey... at least I di",
+        "url": "https://reddit.com/r/Lottery/comments/1s928rm/free_tickets_and_equal_value/",
+        "timestamp": "2026-03-31T22:26:48.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1s8oe05",
+        "title": "Built an app where the lottery jackpot is invested in a real security while you wait for the draw. Would you use this?",
+        "summary": "Concept: you buy a ticket ($5-$10). All tickets pool together and the money buys a real ETF like SPY. The pool sits in that security for \\\\\\~2 weeks. When the draw happens, the security gets sold and cash is distributed. Winners get their p",
+        "url": "https://reddit.com/r/Lottery/comments/1s8oe05/built_an_app_where_the_lottery_jackpot_is/",
+        "timestamp": "2026-03-31T14:05:55.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1s89hg2",
         "title": "Powerball Winning Numbers (Monday)",
@@ -141,9 +186,24 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 1,
         "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "SOS Music Creators Survey 2026",
+        "summary": "Complete our survey and enter the prize draw for a chance to win one of three $50 Amazon vouchers!",
+        "url": "https://www.soundonsound.com/news/sos-music-creators-survey-2026",
+        "timestamp": "2026-03-30T15:30:00Z",
+        "source": "Soundonsound.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -171,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 9,
+        "comments": 17,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -342,21 +402,6 @@
         "isME": true
       },
       {
-        "id": "reddit-lot-1s53p02",
-        "title": "Do good and you get good 😊",
-        "summary": "We’re often told that doing good deeds brings good back to you. I always believed it—but something that happened recently really helped me pass that lesson on to my 11-year-old son. It was Eid, and we went to Mall of Muscat in Seeb, Oman fo",
-        "url": "https://reddit.com/r/Oman/comments/1s53p02/do_good_and_you_get_good/",
-        "timestamp": "2026-03-27T13:11:38.000Z",
-        "source": "r/oman",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 51,
-        "comments": 7,
-        "mood": "ANXIOUS",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1s4zm02",
         "title": "Am I thinking about lottery tickets the wrong way?",
         "summary": "I know that every lottery combination has the same probability. But something feels a bit weird to me when I pick multiple tickets. If I choose numbers randomly, I sometimes end up repeating similar combinations without even noticing. So I ",
@@ -507,81 +552,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1s3bzpa",
-        "title": "What’s the biggest amount you’ve ever won from the lottery (or any similar game)?",
-        "summary": "I’ve been trying my luck in all kinds of lottery games for years, but my highest win has only been around 50 euros... What about you? What's the most you've ever won and which game was it from?",
-        "url": "https://reddit.com/r/Lottery/comments/1s3bzpa/whats_the_biggest_amount_youve_ever_won_from_the/",
-        "timestamp": "2026-03-25T14:15:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 26,
-        "comments": 55,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s33mrb",
-        "title": "Playing International Lotto from India",
-        "summary": "Namaste. I am from India. I have a question. Anyone has successfully played lottery from India and won something and bought back the winning amount after taxes without hassles?",
-        "url": "https://reddit.com/r/Lottery/comments/1s33mrb/playing_international_lotto_from_india/",
-        "timestamp": "2026-03-25T07:01:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s33d32",
-        "title": "thoughts on using state apps/websites to buy lotto tickets online vs in-store purchases?",
-        "summary": "Was just wondering how you guys felt about using the state apps/websites to get the tickets. I am assuming due to the sheer volume of in-store quick pick purchases leads to the winners almost always being from this pool of players. I haven'",
-        "url": "https://reddit.com/r/Lottery/comments/1s33d32/thoughts_on_using_state_appswebsites_to_buy_lotto/",
-        "timestamp": "2026-03-25T06:45:32.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s2y9l2",
-        "title": "Anyone interested in Kicking the Tires for an App I created?  I really could use the feedback.",
-        "summary": "👉 [https://grumpyoldvet.com/SandG](https://grumpyoldvet.com/SandG) There’s a trial version—go poke at it, break it, tell me what I did wrong. I can take it. I’m retired. That’s basically my full-time job now.    Version 1.0 is out and surp",
-        "url": "https://reddit.com/r/Lottery/comments/1s2y9l2/anyone_interested_in_kicking_the_tires_for_an_app/",
-        "timestamp": "2026-03-25T02:20:49.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s2wp18",
-        "title": "Fresh USA Lottery Insights: Powerball, Mega Millions & Lotto America (Updated March 23)",
-        "summary": "Just launched a clean insights hub with no-hype statistical breakdowns for the major USA lotteries. Check it out here: https://predictlottery.ai/insights/usa Latest highlights (March 23, 2026): •  Powerball: 12-18-47-56-63 PB 1 — Wild repea",
-        "url": "https://reddit.com/r/Lottery/comments/1s2wp18/fresh_usa_lottery_insights_powerball_mega/",
-        "timestamp": "2026-03-25T01:12:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
         "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
         "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
@@ -628,17 +598,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 35,
-      "meSignals": 3,
+      "totalSignals": 33,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 23,
+        "HOPEFUL": 21,
         "CYNICAL": 0,
         "ANXIOUS": 5,
         "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 34
+      "uncertaintyScore": 36
     }
   }
 }
