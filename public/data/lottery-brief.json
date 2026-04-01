@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T04:59:57.125Z",
+  "generated_at": "2026-04-01T05:13:43.487Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Big Wins Ahead",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Frustration"
+    "Skepticism"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with recent large jackpots fueling optimism. However, the presence of negative news, such as the arrest of a lottery winner, also triggers frustration and skepticism.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with the recent large jackpot winners fueling their optimism. However, the arrest of a lottery winner for theft also raises skepticism about the responsible use of winnings.",
   "riskSignals": [
     "Problem Gambling",
-    "Misleading Odds"
+    "Financial Irresponsibility"
   ],
   "opportunitySignals": [
     "Innovative Lottery Solutions",
-    "Growing Online Engagement"
+    "Growing Online Lottery Market"
   ]
 }
