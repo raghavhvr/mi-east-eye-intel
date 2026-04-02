@@ -1,41 +1,59 @@
 {
-  "generated_at": "2026-04-01T05:09:31.353Z",
+  "generated_at": "2026-04-02T04:39:15.846Z",
   "gdelt_tone": {
-    "UAE": -2.47,
-    "Saudi Arabia": -2.12,
-    "Qatar": -1.7,
-    "Kuwait": -3.86,
-    "Bahrain": -3.43,
-    "Oman": -2.65,
-    "Jordan": -2.73,
+    "UAE": -2.56,
+    "Saudi Arabia": -2.15,
+    "Qatar": -1.81,
+    "Kuwait": -3.9,
+    "Bahrain": -3.49,
+    "Oman": -2.3,
+    "Jordan": -2.67,
     "Lebanon": -4.92,
-    "Iraq": -4.57,
-    "Egypt": -1.22,
-    "Yemen": -4.59,
-    "Iran": -3.82
+    "Iraq": -4.45,
+    "Egypt": -1.09,
+    "Yemen": -4.64,
+    "Iran": -3.84
   },
   "weather": {
+    "Saudi Arabia": {
+      "temp_c": 17,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
+    "Kuwait": {
+      "temp_c": 18,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "Oman": {
+      "temp_c": 24,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 21,
+      "wind_kmh": 22,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
     "Qatar": {
       "temp_c": 20,
-      "wind_kmh": 9,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Doha"
     },
-    "UAE": {
-      "temp_c": 23,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
     "Iraq": {
-      "temp_c": 14,
-      "wind_kmh": 7,
-      "condition": "Clear",
+      "temp_c": 15,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
     "Jordan": {
       "temp_c": 13,
-      "wind_kmh": 5,
+      "wind_kmh": 22,
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
@@ -45,62 +63,89 @@
       "condition": "Clear",
       "city": "Tehran"
     },
-    "Saudi Arabia": {
-      "temp_c": 19,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Yemen": {
-      "temp_c": 17,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Kuwait": {
-      "temp_c": 18,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Oman": {
-      "temp_c": 25,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Bahrain": {
-      "temp_c": 21,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
+    "Lebanon": {
+      "temp_c": 20,
+      "wind_kmh": 15,
+      "condition": "Thunderstorm",
+      "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 19,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
+      "temp_c": 20,
+      "wind_kmh": 9,
+      "condition": "Showers",
       "city": "Cairo"
     },
-    "Lebanon": {
+    "Yemen": {
       "temp_c": 15,
-      "wind_kmh": 5,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
+    "UAE": {
+      "temp_c": 22,
+      "wind_kmh": 18,
       "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Abu Dhabi"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30895,
+    "KWD": 0.308481,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.565087,
-    "IQD": 1311.728818
+    "EGP": 53.557018,
+    "IQD": 1310.807082
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1s9zius",
+        "title": "$167 million Powerball lottery winner arrested a THIRD TIME after burglarizing home for $12k",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1s9zius/167_million_powerball_lottery_winner_arrested_a/",
+        "timestamp": "2026-04-01T22:26:42.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1s9srqz",
+        "title": "We analyzed every active scratch-off game across 41 states. 579 of them (17%) have zero top prizes remaining but are still being sold at full price.",
+        "summary": "We track prize data daily from official state lottery websites across 41 states — 3,348 active scratch-off games total. We ran one query: how many games currently on shelves have already paid out every single top prize? **579 games. That's ",
+        "url": "https://reddit.com/r/Lottery/comments/1s9srqz/we_analyzed_every_active_scratchoff_game_across/",
+        "timestamp": "2026-04-01T18:20:41.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1s9qr08",
+        "title": "Florida Lottery Heat Zone Analysis: April 1st Variance & The 7-8 Cluster",
+        "summary": "Happy Wednesday! As part of my midweek data audit, I’ve updated the **10x10 Hotspot Grid** to reflect the transition from March into April. While many see today as a day for pranks, the **Florida Lottery archives** are showing some very rea",
+        "url": "https://reddit.com/r/Lottery/comments/1s9qr08/florida_lottery_heat_zone_analysis_april_1st/",
+        "timestamp": "2026-04-01T17:12:00.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1s936se",
         "title": "Recent $167m lottery winner arrested for allegedly stealing $12,000 in Kentucky",
@@ -141,7 +186,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Winning Numbers for March 30, 2026: No Jackpot Winner as $180 Million Prize Rolls Over to Wednesday",
+        "summary": "The Powerball jackpot for the Monday, March 30, 2026, drawing rolled over after no ticket matched all six numbers, leaving an estimated $223 million annuity prize — or about $100 million cash option — for the next drawing on Wednesday, April 1, according to o…",
+        "url": "https://www.ibtimes.com.au/powerball-winning-numbers-march-30-2026-no-jackpot-winner-180-million-prize-rolls-over-1865058",
+        "timestamp": "2026-03-31T07:15:28Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -477,81 +537,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1s3wxov",
-        "title": "If you enter the lottery online, what would you think of this idea?",
-        "summary": "There are direct access to mental health services attached to the website/app to support those with addictions. These aren't like adds to push to stop entering but rather something you could reach out to if you need advice.",
-        "url": "https://reddit.com/r/Lottery/comments/1s3wxov/if_you_enter_the_lottery_online_what_would_you/",
-        "timestamp": "2026-03-26T03:49:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 1,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s3wo81",
-        "title": "Lotto Texas",
-        "summary": "some crazy numbers tonight lol. 🤪",
-        "url": "https://reddit.com/r/Lottery/comments/1s3wo81/lotto_texas/",
-        "timestamp": "2026-03-26T03:36:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 11,
-        "comments": 5,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s3s017",
-        "title": "Can We Stop With the Vibe Coded Slop Advertisements?",
-        "summary": "Every day there’s multiple posts of someone advertising their clearly AI written lottery website.  Sometimes these sites have blatant misinformation or they claim that they can improve winning odds. This is extremely dishonest. You cannot i",
-        "url": "https://reddit.com/r/Lottery/comments/1s3s017/can_we_stop_with_the_vibe_coded_slop/",
-        "timestamp": "2026-03-26T00:07:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 23,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s3ln66",
-        "title": "Anyone else just checks results like this?",
-        "summary": "Just saw the latest Powerball results updated here, looks pretty clean: [https://radarloto.com/powerball-results.html](https://radarloto.com/powerball-results.html) Way easier to check than most sites tbh",
-        "url": "https://reddit.com/r/Lottery/comments/1s3ln66/anyone_else_just_checks_results_like_this/",
-        "timestamp": "2026-03-25T20:04:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 4,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s3imq1",
-        "title": "Visualizing the \"Double\" Drift: 30 Days of Florida Pick 3 Evening Variance",
-        "summary": "As a Systems Admin and longtime data nerd, I’ve been spent my Mondays lately scraping the Florida Lottery archives to see if the human \"feeling\" of a hot streak actually holds up against the math. I used Python (Pandas/Matplotlib) to map th",
-        "url": "https://reddit.com/r/Lottery/comments/1s3imq1/visualizing_the_double_drift_30_days_of_florida/",
-        "timestamp": "2026-03-25T18:15:54.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
         "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
         "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
@@ -598,17 +583,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 33,
+      "totalSignals": 32,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 21,
+        "HOPEFUL": 24,
         "CYNICAL": 0,
-        "ANXIOUS": 5,
-        "NEUTRAL": 7
+        "ANXIOUS": 4,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 36
+      "uncertaintyScore": 25
     }
   }
 }
