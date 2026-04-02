@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-04-01T05:13:42.904Z",
+  "generated_at": "2026-04-02T04:53:45.591Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Middle East Tensions",
-  "summary": "The region is experiencing increased tensions due to potential military action and geopolitical statements. Analysts are closely monitoring the situation, particularly between the US, Iran, and Israel, for any signs of escalation.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "MENA Geopolitics",
+  "summary": "The region is experiencing heightened tensions due to potential military action and economic instability. Iran and Israel are at the forefront of these concerns, with possible implications for global trade and security",
   "keyTrends": [
-    "US-Iran Relations",
-    "Israel-Yemen Conflict",
-    "Regional Security"
+    "Iran-Israel Conflict",
+    "Hormuz Strait",
+    "Pipeline Development"
   ],
   "watchItems": [
-    "US Military Movements",
-    "Iranian Response",
-    "Israeli Defense"
+    "Donald Trump's Statements",
+    "Hezbollah's Attacks"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Trump's Statements",
-    "Missile Launch Reports"
+    "Escalating Conflict",
+    "Economic Uncertainty"
   ]
 }

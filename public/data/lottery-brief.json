@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T05:13:43.487Z",
+  "generated_at": "2026-04-02T04:53:46.440Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Big Wins Spark Hope",
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Skepticism"
+    "Frustration"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with the recent large jackpot winners fueling their optimism. However, the arrest of a lottery winner for theft also raises skepticism about the responsible use of winnings.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, but also frustrated by the low odds and questionable practices in the lottery industry. The psychology of variable rewards and social proof fuels the ongoing interest in lottery games despite the risks.",
   "riskSignals": [
     "Problem Gambling",
-    "Financial Irresponsibility"
+    "Misleading Practices"
   ],
   "opportunitySignals": [
-    "Innovative Lottery Solutions",
-    "Growing Online Lottery Market"
+    "Innovative Products",
+    "Player Engagement"
   ]
 }
