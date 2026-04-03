@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-02T04:53:45.591Z",
+  "generated_at": "2026-04-03T04:55:16.843Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "MENA Geopolitics",
-  "summary": "The region is experiencing heightened tensions due to potential military action and economic instability. Iran and Israel are at the forefront of these concerns, with possible implications for global trade and security",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Stability",
+  "summary": "The MENA region remains relatively calm with no major security threats emerging from the open-source headlines. However, some statements from regional officials and unusual warnings warrant continued monitoring and analysis.",
   "keyTrends": [
-    "Iran-Israel Conflict",
-    "Hormuz Strait",
-    "Pipeline Development"
+    "Regional Diplomacy",
+    "Personal Reflections",
+    "Travel and Security"
   ],
   "watchItems": [
-    "Donald Trump's Statements",
-    "Hezbollah's Attacks"
+    "UAE-Iran Relations",
+    "Radioactive Warning"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating Conflict",
-    "Economic Uncertainty"
+    "Unclear Warnings",
+    "Regional Tensions"
   ]
 }

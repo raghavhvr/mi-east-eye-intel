@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T04:53:46.440Z",
+  "generated_at": "2026-04-03T04:55:17.639Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Big Wins Spark Hope",
+  "dominantNarrative": "Winning big changes lives",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Frustration"
+    "excitement",
+    "optimism",
+    "skepticism"
   ],
-  "psychInsight": "The public is driven by the desire for life-changing wins, but also frustrated by the low odds and questionable practices in the lottery industry. The psychology of variable rewards and social proof fuels the ongoing interest in lottery games despite the risks.",
+  "psychInsight": "The public's reaction is driven by the desire for a life-changing event, with lottery wins symbolizing a escape from financial struggles. However, the presence of skepticism and negative sentiments suggests an awareness of the risks and potential downsides of gambling.",
   "riskSignals": [
-    "Problem Gambling",
-    "Misleading Practices"
+    "problem gambling",
+    "scams"
   ],
   "opportunitySignals": [
-    "Innovative Products",
-    "Player Engagement"
+    "innovative lottery products",
+    "financial freedom"
   ]
 }
