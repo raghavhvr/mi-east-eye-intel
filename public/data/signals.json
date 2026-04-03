@@ -1,106 +1,154 @@
 {
-  "generated_at": "2026-04-02T04:39:15.846Z",
+  "generated_at": "2026-04-03T04:40:08.636Z",
   "gdelt_tone": {
-    "UAE": -2.56,
-    "Saudi Arabia": -2.15,
-    "Qatar": -1.81,
-    "Kuwait": -3.9,
-    "Bahrain": -3.49,
-    "Oman": -2.3,
-    "Jordan": -2.67,
-    "Lebanon": -4.92,
-    "Iraq": -4.45,
-    "Egypt": -1.09,
-    "Yemen": -4.64,
+    "UAE": -2.71,
+    "Saudi Arabia": -2.14,
+    "Qatar": -1.77,
+    "Kuwait": -3.73,
+    "Bahrain": -3.42,
+    "Oman": -2.08,
+    "Jordan": -2.56,
+    "Lebanon": -4.91,
+    "Iraq": -4.38,
+    "Egypt": -0.95,
+    "Yemen": -4.59,
     "Iran": -3.84
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 17,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
-      "temp_c": 18,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Oman": {
-      "temp_c": 24,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Bahrain": {
       "temp_c": 21,
-      "wind_kmh": 22,
+      "wind_kmh": 17,
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
-    "Qatar": {
-      "temp_c": 20,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
-    "Iraq": {
-      "temp_c": 15,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Jordan": {
-      "temp_c": 13,
-      "wind_kmh": 22,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iran": {
-      "temp_c": 10,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Lebanon": {
-      "temp_c": 20,
-      "wind_kmh": 15,
-      "condition": "Thunderstorm",
-      "city": "Beirut"
-    },
     "Egypt": {
-      "temp_c": 20,
-      "wind_kmh": 9,
-      "condition": "Showers",
+      "temp_c": 14,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Yemen": {
-      "temp_c": 15,
+      "temp_c": 14,
       "wind_kmh": 2,
       "condition": "Clear",
       "city": "Sanaa"
     },
-    "UAE": {
-      "temp_c": 22,
-      "wind_kmh": 18,
+    "Saudi Arabia": {
+      "temp_c": 21,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
+      "city": "Riyadh"
+    },
+    "Iran": {
+      "temp_c": 12,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308481,
+    "KWD": 0.308828,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.557018,
-    "IQD": 1310.807082
+    "EGP": 54.323606,
+    "IQD": 1311.085178
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sb1pjg",
+        "title": "Whoops",
+        "summary": "I usually play scratch offs and whenever I do decide to play the draw games, I usually do quick pick. For some reason, I decided to fill out some playslips. I didn't intend to play them all at once, but somehow I did. Full boards with a 4 t",
+        "url": "https://reddit.com/r/Lottery/comments/1sb1pjg/whoops/",
+        "timestamp": "2026-04-03T02:49:51.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sazuc2",
+        "title": "Do you use meaningful numbers or go quick pick? Made an app for the \"meaningful numbers\" crowd",
+        "summary": "Informal poll — how do you pick your lottery numbers? A) Quick pick every time B) Same numbers always (birthdays, anniversaries) C) Mix of both D) Some other system I'm firmly in the \"meaningful numbers\" camp — so I built NumeroLuck. It tak",
+        "url": "https://reddit.com/r/Lottery/comments/1sazuc2/do_you_use_meaningful_numbers_or_go_quick_pick/",
+        "timestamp": "2026-04-03T01:23:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1saktt4",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1saktt4/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-04-02T15:38:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "guardian-lot-money-2026-apr-02-us-student-loan-debt-forgiveness",
+        "title": "Lucky few Americans whose student debt was forgiven: ‘I hit the lottery’",
+        "summary": "Only a small fraction of about 43 million have had their debt cancelled, the relief for those who have is transformative",
+        "url": "https://www.theguardian.com/money/2026/apr/02/us-student-loan-debt-forgiveness",
+        "timestamp": "2026-04-02T12:00:23Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sab608",
+        "title": "Won a “free travel raffle”… ended up in a sales trap 😂",
+        "summary": "So my friend and I “won” a raffle from a travel agency called West Avenue, free cinema tickets and dinner. We thought, sweet! Free stuff! 🍿🍽️ But of course, curiosity killed the cat… and we went. Once we got there, it quickly turned into ",
+        "url": "https://reddit.com/r/Sharjah/comments/1sab608/won_a_free_travel_raffle_ended_up_in_a_sales_trap/",
+        "timestamp": "2026-04-02T08:00:06.000Z",
+        "source": "r/sharjah",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": true
+      },
+      {
+        "id": "guardian-lot-commentisfree-2026-apr-02-labour-disability-cuts-universal-credit",
+        "title": "Next week’s disability cuts will make people destitute – and you might not understand how bad they are until it’s too late | Frances Ryan",
+        "summary": "If new claimants don’t meet strict criteria, they’ll lose half of the health element of universal credit. Don’t ignore that: in life’s lottery, that could easily be you, says Guardian columnist Frances Ryan",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/02/labour-disability-cuts-universal-credit",
+        "timestamp": "2026-04-02T05:00:19Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1s9zius",
         "title": "$167 million Powerball lottery winner arrested a THIRD TIME after burglarizing home for $12k",
@@ -147,6 +195,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "From 14-hour shifts to lottery win for former Tata Steel workers",
+        "summary": "The 15 winners, formerly finance colleagues, made a pact to stay connected by contributing £5 to the lottery draw.",
+        "url": "https://www.bbc.com/news/articles/c8x7gy4l1vro",
+        "timestamp": "2026-04-01T12:53:01Z",
+        "source": "BBC News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1s936se",
         "title": "Recent $167m lottery winner arrested for allegedly stealing $12,000 in Kentucky",
         "summary": "Some people just don’t want to disappear into the sunset after winning the jackpot.    [https://www.theguardian.com/us-news/2026/mar/30/powerball-lottery-winner-burglary-arrest](https://www.theguardian.com/us-news/2026/mar/30/powerball-lott",
@@ -156,8 +219,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 38,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +234,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 4,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -447,96 +510,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "About ₹2.38 lakh crore worth big ticket acquisitions by Defence Acquisition Council",
-        "summary": "This includes proposals for 60 Medium Transport Aircraft , additional S-400 Long Range Surface-to-Air Missile System, & Dhanush Gun System, taking total purchases cleared in FY26 to 55 at a cost of ₹6.73 lakh crore",
-        "url": "https://www.thehindubusinessline.com/news/about-238-lakh-crore-worth-big-ticket-acquisitions-by-defence-acquisition-council/article70792972.ece",
-        "timestamp": "2026-03-27T14:05:50Z",
-        "source": "BusinessLine",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1s4zm02",
-        "title": "Am I thinking about lottery tickets the wrong way?",
-        "summary": "I know that every lottery combination has the same probability. But something feels a bit weird to me when I pick multiple tickets. If I choose numbers randomly, I sometimes end up repeating similar combinations without even noticing. So I ",
-        "url": "https://reddit.com/r/Lottery/comments/1s4zm02/am_i_thinking_about_lottery_tickets_the_wrong_way/",
-        "timestamp": "2026-03-27T09:49:23.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 20,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cDovLzl0",
-        "title": "Amazon Big Spring Sale – Day 3: New Daily Deals and Doorbusters now live: Ray-Ban, desk chairs, vacs, more",
-        "summary": "The day 3 Amazon big Spring Sale deals are now live. We are looking at a fresh batch of Doorbusters, alongside a host of new discounts landing in the Started Today and Daily Deals section. Much like yesterday, plenty of the big ticket offers in brand name gea…",
-        "url": "http://9to5toys.com/2026/03/27/amazon-spring-sale-day-3-daily-deals-doorbusters/",
-        "timestamp": "2026-03-27T09:15:47Z",
-        "source": "9to5Toys",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1s4yt0h",
-        "title": "Welcome to Ku9: Your Premier Online Lottery Platform in Bangladesh",
-        "summary": "Welcome to [**Ku9**](https://ku9game.org/), the most trusted and advanced **online lottery platform in Bangladesh**. We bring the pulse-pounding excitement of global gaming directly to your fingertips through a secure, high-speed, and mobil",
-        "url": "https://reddit.com/r/Lottery/comments/1s4yt0h/welcome_to_ku9_your_premier_online_lottery/",
-        "timestamp": "2026-03-27T08:59:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s4nrjf",
-        "title": "How do I find out what the remaining scratch off tickets are left?",
-        "summary": "I live in Tennessee, and I want to play some scratch offs. I have played before, but I cannot find the site that shows the remaining winners for each scratch off. I went to the Tennessee lottery site, but it’s not pulling that information u",
-        "url": "https://reddit.com/r/Lottery/comments/1s4nrjf/how_do_i_find_out_what_the_remaining_scratch_off/",
-        "timestamp": "2026-03-26T23:37:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s4axgc",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1s4axgc/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-03-26T15:38:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
         "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
         "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
@@ -583,17 +556,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 32,
+      "totalSignals": 33,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 24,
+        "HOPEFUL": 22,
         "CYNICAL": 0,
-        "ANXIOUS": 4,
-        "NEUTRAL": 4
+        "ANXIOUS": 6,
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 25
+      "uncertaintyScore": 33
     }
   }
 }
