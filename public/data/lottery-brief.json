@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-03T04:55:17.639Z",
+  "generated_at": "2026-04-04T04:30:57.319Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "skepticism"
+    "anxiety"
   ],
-  "psychInsight": "The public's reaction is driven by the desire for a life-changing event, with lottery wins symbolizing a escape from financial struggles. However, the presence of skepticism and negative sentiments suggests an awareness of the risks and potential downsides of gambling.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking strategies to increase their chances. The discussion around lottery winners and near-misses fuels a sense of hope and possibility, while also highlighting the risks of gambling.",
   "riskSignals": [
-    "problem gambling",
-    "scams"
+    "LottoPark warning",
+    "losing streak"
   ],
   "opportunitySignals": [
-    "innovative lottery products",
-    "financial freedom"
+    "new lottery apps",
+    "winning stories"
   ]
 }

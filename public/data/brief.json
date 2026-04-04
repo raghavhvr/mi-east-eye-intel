@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-04-03T04:55:16.843Z",
+  "generated_at": "2026-04-04T04:30:56.687Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Stability",
-  "summary": "The MENA region remains relatively calm with no major security threats emerging from the open-source headlines. However, some statements from regional officials and unusual warnings warrant continued monitoring and analysis.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Middle East Conflict",
+  "summary": "The region is experiencing increased tensions with reported missile strikes and rocket fire in Israel, while Iran questions global shipping routes. Debris damage in Dubai and other incidents contribute to the elevated threat level",
   "keyTrends": [
-    "Regional Diplomacy",
-    "Personal Reflections",
-    "Travel and Security"
+    "Israel-Hezbollah Conflict",
+    "Iran Shipping Routes",
+    "Gulf Region Security"
   ],
   "watchItems": [
-    "UAE-Iran Relations",
-    "Radioactive Warning"
+    "Israel-Hezbollah Border",
+    "Dubai Security Measures",
+    "Iranian Naval Activity"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Unclear Warnings",
-    "Regional Tensions"
+    "Regional Conflict Escalation",
+    "Civilian Safety Concerns"
   ]
 }
