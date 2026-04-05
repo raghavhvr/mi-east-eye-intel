@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-04-04T04:27:03.790Z",
+  "generated_at": "2026-04-05T04:46:44.554Z",
   "gdelt_tone": {
-    "UAE": -2.73,
-    "Saudi Arabia": -2.28,
-    "Qatar": -1.76,
-    "Kuwait": -3.79,
-    "Bahrain": -3.22,
-    "Oman": -2.13,
-    "Jordan": -2.49,
-    "Lebanon": -4.87,
-    "Iraq": -4.34,
-    "Egypt": -0.91,
-    "Yemen": -4.65,
-    "Iran": -3.83
+    "UAE": -2.7,
+    "Saudi Arabia": -2.18,
+    "Qatar": -1.92,
+    "Kuwait": -3.83,
+    "Bahrain": -3.2,
+    "Oman": -1.73,
+    "Jordan": -2.43,
+    "Lebanon": -4.77,
+    "Iraq": -4.3,
+    "Egypt": -0.84,
+    "Yemen": -4.34,
+    "Iran": -3.88
   },
   "weather": {
     "Lebanon": {
       "temp_c": 15,
-      "wind_kmh": 7,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 13,
-      "wind_kmh": 2,
+      "temp_c": 15,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Cairo"
     },
     "Iran": {
-      "temp_c": 12,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
+      "temp_c": 10,
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Tehran"
     },
-    "Kuwait": {
-      "temp_c": 21,
-      "wind_kmh": 2,
-      "condition": "Rain",
-      "city": "Kuwait City"
-    },
-    "Iraq": {
-      "temp_c": 17,
-      "wind_kmh": 12,
+    "Saudi Arabia": {
+      "temp_c": 20,
+      "wind_kmh": 15,
       "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "city": "Riyadh"
+    },
+    "Bahrain": {
+      "temp_c": 22,
+      "wind_kmh": 23,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
     },
     "UAE": {
-      "temp_c": 22,
-      "wind_kmh": 7,
+      "temp_c": 24,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
     "Oman": {
-      "temp_c": 24,
-      "wind_kmh": 5,
+      "temp_c": 25,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Muscat"
     },
-    "Qatar": {
-      "temp_c": 22,
+    "Yemen": {
+      "temp_c": 17,
       "wind_kmh": 1,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Jordan": {
+      "temp_c": 9,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Qatar": {
+      "temp_c": 23,
+      "wind_kmh": 17,
       "condition": "Partly Cloudy",
       "city": "Doha"
     },
-    "Bahrain": {
-      "temp_c": 24,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 8,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Saudi Arabia": {
-      "temp_c": 26,
+    "Kuwait": {
+      "temp_c": 18,
       "wind_kmh": 14,
       "condition": "Partly Cloudy",
-      "city": "Riyadh"
+      "city": "Kuwait City"
     },
-    "Yemen": {
-      "temp_c": 13,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Sanaa"
+    "Iraq": {
+      "temp_c": 15,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308763,
+    "KWD": 0.308745,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.279005,
-    "IQD": 1311.089205
+    "EGP": 54.288915,
+    "IQD": 1311.095307
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1scqnw7",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1scqnw7/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-04-05T01:30:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1scqiio",
+        "title": "Places to go!",
+        "summary": "On the way to grab lotto tickets 🎟",
+        "url": "https://reddit.com/r/Lottery/comments/1scqiio/places_to_go/",
+        "timestamp": "2026-04-05T01:23:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1scqi53",
+        "title": "Places to go!",
+        "summary": "On the way to grab lotto tickets 🎟",
+        "url": "https://reddit.com/r/Lottery/comments/1scqi53/places_to_go/",
+        "timestamp": "2026-04-05T01:22:56.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1scnhdp",
+        "title": "How do you get 180 days to claim the powerball if the next drawing is only a couple days later?",
+        "summary": "Might be a dumb question, but I can’t figure it out. If you don’t go to claim your winnings, how do they know someone won? It could be a $100M jackpot, you win. You don’t claim for a month, and now the jackpot is $200M. Someone wins it and ",
+        "url": "https://reddit.com/r/Lottery/comments/1scnhdp/how_do_you_get_180_days_to_claim_the_powerball_if/",
+        "timestamp": "2026-04-04T23:02:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1scd7h3",
+        "title": "Cashing out a ticket becoming harder to do? SoCal",
+        "summary": "So I finally hit a big $500 win on a ticket recently after a very very long losing streak.  Super excited about it but when I go to cash it out, I am unable to find anyone willing or able too.  So far I have been to 7 locations, 2 of which ",
+        "url": "https://reddit.com/r/Lottery/comments/1scd7h3/cashing_out_a_ticket_becoming_harder_to_do_socal/",
+        "timestamp": "2026-04-04T16:10:34.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sbyrfq",
         "title": "I don’t understand why the GA lottery doesn’t stream the drawings live on youtube like FL does. GA lottery has a YT channel but it just advertises the latest promotions and games.",
@@ -209,15 +284,15 @@
       {
         "id": "reddit-lot-1sbhy3v",
         "title": "How much money have you ever won playing the lottery?",
-        "summary": "↑1 · 💬0",
+        "summary": "↑15 · 💬40",
         "url": "https://reddit.com/r/Lottery/comments/1sbhy3v/how_much_money_have_you_ever_won_playing_the/",
         "timestamp": "2026-04-03T16:13:37.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 15,
+        "comments": 40,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -252,6 +327,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Win! $1,600 Worth of Osprey Gear for Your Next Colorado Boys’ Trip",
+        "summary": "Prizes & Winning\n\nThe random prize draw will take place at 11:00 AM AEDT on 04/05/2026 at Man of Many, 69 Reservoir Street, Surry Hills, NSW 2010, Australia.\n\nPrize includes:\n\n The major prize pack includes:\n\n Farpoint 70, Farpoint Trek 70, Farpoint Wheels 65…",
+        "url": "https://www.ozbargain.com.au/node/954473",
+        "timestamp": "2026-04-03T06:12:20Z",
+        "source": "Ozbargain.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1sb1pjg",
         "title": "Whoops",
         "summary": "I usually play scratch offs and whenever I do decide to play the draw games, I usually do quick pick. For some reason, I decided to fill out some playslips. I didn't intend to play them all at once, but somehow I did. Full boards with a 4 t",
@@ -261,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -277,7 +367,7 @@
         "tag": "ME-LOT",
         "country": "Regional",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": true
       },
@@ -582,96 +672,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1s6kdvl",
-        "title": "I created a site where AI can generate and print tickets for you",
-        "summary": "This was generated by AI https://preview.redd.it/lq27barkkwrg1.png?width=901&format=png&auto=webp&s=b24c0c71c712c1da95186d6a2c39568e82adc9d9 not only will [Full Lotto AI](http://FullLotto.ai) actually generate tickets, but you can take thes",
-        "url": "https://reddit.com/r/Lottery/comments/1s6kdvl/i_created_a_site_where_ai_can_generate_and_print/",
-        "timestamp": "2026-03-29T03:24:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s6jxmv",
-        "title": "Ive built a REAL website where AI will actually generate tickets",
-        "summary": "not only will Full Lotto AI will actually generate tickets, but you can take these tickets strait to the kiosk and pay for the games generated NO MORE FILLING THE OUT. This also has tools for ticket generation methods that no other site Has",
-        "url": "https://reddit.com/r/Lottery/comments/1s6jxmv/ive_built_a_real_website_where_ai_will_actually/",
-        "timestamp": "2026-03-29T03:01:32.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s6itzk",
-        "title": "First ticket I bought in two weeks and I won $50",
-        "summary": "Why is it that whenever I play often, I usually end up losing, but when I don’t play for a while, I get a big win? I’ve noticed this always happens. It’s like the lottery fairies want to reel you back in with a good win to continue playing ",
-        "url": "https://reddit.com/r/Lottery/comments/1s6itzk/first_ticket_i_bought_in_two_weeks_and_i_won_50/",
-        "timestamp": "2026-03-29T02:07:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 21,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s6i23p",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1s6i23p/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-03-29T01:30:28.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s6hj4r",
-        "title": "Lotto numbers using Tarot wisdom",
-        "summary": "Receive wisdom from Tarot for the generated random lottery numbers.",
-        "url": "https://reddit.com/r/Lottery/comments/1s6hj4r/lotto_numbers_using_tarot_wisdom/",
-        "timestamp": "2026-03-29T01:05:43.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Jackpot Climbs to $166 Million for Saturday, March 28, 2026 Drawing: Cash Value $74.5 Million",
-        "summary": "The Powerball jackpot has rolled over to an estimated $166 million for Saturday night's drawing after no ticket matched all six numbers in Wednesday's drawing, lottery officials said.",
-        "url": "https://www.ibtimes.com.au/powerball-jackpot-climbs-166-million-saturday-march-28-2026-drawing-cash-value-745-million-1864789",
-        "timestamp": "2026-03-28T13:43:04Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
         "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
         "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
@@ -704,16 +704,16 @@
     ],
     "meta": {
       "totalSignals": 40,
-      "meSignals": 1,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 33,
         "CYNICAL": 0,
-        "ANXIOUS": 5,
-        "NEUTRAL": 5
+        "ANXIOUS": 3,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 25
+      "uncertaintyScore": 18
     }
   }
 }
