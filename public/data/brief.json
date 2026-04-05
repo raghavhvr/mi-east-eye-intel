@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-04-04T04:30:56.687Z",
+  "generated_at": "2026-04-05T05:01:52.663Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Middle East Conflict",
-  "summary": "The region is experiencing increased tensions with reported missile strikes and rocket fire in Israel, while Iran questions global shipping routes. Debris damage in Dubai and other incidents contribute to the elevated threat level",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Conflict",
+  "summary": "Regional tensions are escalating due to recent Israeli actions in Lebanon, while other headlines suggest a mix of everyday concerns and regional sports news. The situation warrants continued monitoring as the potential for further escalation exists",
   "keyTrends": [
-    "Israel-Hezbollah Conflict",
-    "Iran Shipping Routes",
-    "Gulf Region Security"
+    "Israel-Lebanon Conflict",
+    "UAE Sports",
+    "Regional Security"
   ],
   "watchItems": [
-    "Israel-Hezbollah Border",
-    "Dubai Security Measures",
-    "Iranian Naval Activity"
+    "Israeli-Lebanese Border",
+    "UAE-Iran Relations"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Conflict Escalation",
-    "Civilian Safety Concerns"
+    "Israeli military actions",
+    "Regional instability"
   ]
 }
