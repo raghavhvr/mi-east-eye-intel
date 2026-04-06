@@ -1,106 +1,121 @@
 {
-  "generated_at": "2026-04-05T04:46:44.554Z",
+  "generated_at": "2026-04-06T05:07:52.271Z",
   "gdelt_tone": {
-    "UAE": -2.7,
-    "Saudi Arabia": -2.18,
-    "Qatar": -1.92,
-    "Kuwait": -3.83,
-    "Bahrain": -3.2,
-    "Oman": -1.73,
-    "Jordan": -2.43,
-    "Lebanon": -4.77,
-    "Iraq": -4.3,
-    "Egypt": -0.84,
-    "Yemen": -4.34,
-    "Iran": -3.88
+    "UAE": -2.77,
+    "Saudi Arabia": -2,
+    "Qatar": -1.89,
+    "Kuwait": -3.79,
+    "Bahrain": -3.23,
+    "Oman": -1.7,
+    "Jordan": -2.19,
+    "Lebanon": -4.7,
+    "Iraq": -4.15,
+    "Egypt": -0.65,
+    "Yemen": -4.32,
+    "Iran": -3.83
   },
   "weather": {
-    "Lebanon": {
-      "temp_c": 15,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 15,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 10,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
     "Saudi Arabia": {
-      "temp_c": 20,
-      "wind_kmh": 15,
+      "temp_c": 19,
+      "wind_kmh": 18,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "Bahrain": {
-      "temp_c": 22,
-      "wind_kmh": 23,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "UAE": {
-      "temp_c": 24,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Oman": {
-      "temp_c": 25,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Yemen": {
-      "temp_c": 17,
-      "wind_kmh": 1,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Jordan": {
-      "temp_c": 9,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Qatar": {
-      "temp_c": 23,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
     "Kuwait": {
-      "temp_c": 18,
-      "wind_kmh": 14,
+      "temp_c": 19,
+      "wind_kmh": 13,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
-    "Iraq": {
-      "temp_c": 15,
+    "UAE": {
+      "temp_c": 25,
+      "wind_kmh": 18,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
+    "Qatar": {
+      "temp_c": 22,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 23,
+      "wind_kmh": 25,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 27,
       "wind_kmh": 5,
       "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Lebanon": {
+      "temp_c": 15,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 10,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 16,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
       "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 14,
+      "wind_kmh": 1,
+      "condition": "Fog/Haze",
+      "city": "Cairo"
+    },
+    "Yemen": {
+      "temp_c": 18,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 11,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308745,
+    "KWD": 0.308019,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.288915,
-    "IQD": 1311.095307
+    "EGP": 54.454376,
+    "IQD": 1311.677259
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sdg815",
+        "title": "Helps to win lotto in europe!!!",
+        "summary": "If you need methods to consistently win lotteries, an app has been launched with a method that helps with this. If you need more information, feel free to contact me.",
+        "url": "https://reddit.com/r/Lottery/comments/1sdg815/helps_to_win_lotto_in_europe/",
+        "timestamp": "2026-04-05T21:51:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1scqnw7",
         "title": "Powerball Winning Numbers (Saturday)",
@@ -179,7 +194,7 @@
       {
         "id": "reddit-lot-1sbyrfq",
         "title": "I don’t understand why the GA lottery doesn’t stream the drawings live on youtube like FL does. GA lottery has a YT channel but it just advertises the latest promotions and games.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑1 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1sbyrfq/i_dont_understand_why_the_ga_lottery_doesnt/",
         "timestamp": "2026-04-04T03:42:56.000Z",
         "source": "r/lottery",
@@ -187,7 +202,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 12,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
-        "comments": 0,
+        "score": 6,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 22,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,23 +261,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1sbnj7m",
         "title": "Can give you the lottery numbers I think Dm me",
-        "summary": "↑1 · 💬0",
+        "summary": "↑2 · 💬2",
         "url": "https://reddit.com/r/Lottery/comments/1sbnj7m/can_give_you_the_lottery_numbers_i_think_dm_me/",
         "timestamp": "2026-04-03T19:38:58.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 2,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -276,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -627,51 +642,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1s7lmrl",
-        "title": "Has anyone here actually won from an online lottery?",
-        "summary": "Hey everyone, I’ve been wondering about online lotteries lately and I am curious about real experiences. Have any of you actually won something through an online lottery? And if so, were you satisfied with how everything worked? Also, I am ",
-        "url": "https://reddit.com/r/Lottery/comments/1s7lmrl/has_anyone_here_actually_won_from_an_online/",
-        "timestamp": "2026-03-30T09:21:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 9,
-        "comments": 17,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Wining Number Result: No Jackpot Winner in March 28 Powerball Drawing; Prize Rolls to $180 Million",
-        "summary": "No ticket matched all six numbers in Saturday night's Powerball drawing, leaving the estimated jackpot at roughly $180 million for the next draw on Monday, March 30, 2026, as the game continues its steady climb amid strong ticket sales across the country.",
-        "url": "https://www.ibtimes.com.au/powerball-wining-number-result-no-jackpot-winner-march-28-powerball-drawing-prize-rolls-180-1864879",
-        "timestamp": "2026-03-29T10:10:49Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Lottery Powerball jackpot at $166M: Winning numbers for March 28 draw",
-        "summary": "Powerball is offered in 45 U.S. states, as well as Washington, D.C., Puerto Rico and the U.S. Virgin Islands. It is not available in Alabama, Alaska, Hawaii, Nevada or Utah.",
-        "url": "https://economictimes.indiatimes.com/news/international/us/lottery-powerball-jackpot-at-166m-winning-numbers-for-march-28-draw/articleshow/129878629.cms",
-        "timestamp": "2026-03-29T09:57:23Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
         "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
         "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
@@ -685,35 +655,20 @@
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
-      },
-      {
-        "id": "guardian-lot-business-2026-mar-06-bailiffs-debt-recovery-homes-water-england-wales",
-        "title": "Water firms sent bailiffs to tens of thousands of homes for debts under £1,000",
-        "summary": "Most recorded visits are for smaller debts, data from England and Wales suggests, though method of recovery is a postcode lottery",
-        "url": "https://www.theguardian.com/business/2026/mar/06/bailiffs-debt-recovery-homes-water-england-wales",
-        "timestamp": "2026-03-06T06:00:12Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 40,
+      "totalSignals": 37,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 33,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
-        "NEUTRAL": 4
+        "ANXIOUS": 4,
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 18
+      "uncertaintyScore": 19
     }
   }
 }
