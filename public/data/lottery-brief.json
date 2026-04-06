@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T05:01:53.288Z",
+  "generated_at": "2026-04-06T05:12:11.636Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning big jackpot",
+  "dominantNarrative": "Winning lottery dreams",
   "keyEmotions": [
     "excitement",
     "curiosity",
     "frustration"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with excitement and curiosity fueling their engagement with lottery discussions. However, frustration and anxiety also emerge due to concerns about the legitimacy and fairness of lottery systems.",
+  "psychInsight": "The public is driven by the desire for financial freedom and the thrill of potentially winning, but also expresses frustration with the process and concerns about legitimacy. The lottery serves as a coping mechanism for financial stress and a means to fantasize about a better life.",
   "riskSignals": [
-    "LottoPark warning",
-    "claiming difficulties"
+    "scams",
+    "claiming issues"
   ],
   "opportunitySignals": [
-    "live streaming demand",
+    "streaming lottery drawings",
     "structured number systems"
   ]
 }
