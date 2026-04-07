@@ -1,106 +1,93 @@
 {
-  "generated_at": "2026-04-06T05:07:52.271Z",
+  "generated_at": "2026-04-07T04:43:28.256Z",
   "gdelt_tone": {
-    "UAE": -2.77,
-    "Saudi Arabia": -2,
-    "Qatar": -1.89,
-    "Kuwait": -3.79,
+    "UAE": -2.83,
+    "Saudi Arabia": -1.89,
+    "Qatar": -2.24,
+    "Kuwait": -3.8,
     "Bahrain": -3.23,
-    "Oman": -1.7,
-    "Jordan": -2.19,
-    "Lebanon": -4.7,
-    "Iraq": -4.15,
-    "Egypt": -0.65,
-    "Yemen": -4.32,
-    "Iran": -3.83
+    "Oman": -1.67,
+    "Jordan": -2.23,
+    "Lebanon": -4.77,
+    "Iraq": -4.06,
+    "Egypt": -0.49,
+    "Yemen": -4.22,
+    "Iran": -3.89
   },
-  "weather": {
-    "Saudi Arabia": {
-      "temp_c": 19,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
-      "temp_c": 19,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "UAE": {
-      "temp_c": 25,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 22,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
-    "Bahrain": {
-      "temp_c": 23,
-      "wind_kmh": 25,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 27,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Lebanon": {
-      "temp_c": 15,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 10,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iraq": {
-      "temp_c": 16,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Egypt": {
-      "temp_c": 14,
-      "wind_kmh": 1,
-      "condition": "Fog/Haze",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 18,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 11,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Tehran"
-    }
-  },
+  "weather": {},
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308019,
+    "KWD": 0.308646,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.454376,
-    "IQD": 1311.677259
+    "EGP": 54.410757,
+    "IQD": 1311.706607
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sejvwb",
+        "title": "Oregon lottery scratch off ticket info",
+        "summary": "It looks like Oregon lottery has removed the  info for unclaimed winning tickets on their website. All I can find is how many \" grand\" prizes are unclaimed now.    I do not want to buy tickets that have none of the higher prizes still avail",
+        "url": "https://reddit.com/r/Lottery/comments/1sejvwb/oregon_lottery_scratch_off_ticket_info/",
+        "timestamp": "2026-04-07T02:51:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sehu3p",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1sehu3p/powerball_winning_numbers_monday/",
+        "timestamp": "2026-04-07T01:20:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sdwqbm",
+        "title": "Why I feel winning the lottery and then being nostalgic about it?",
+        "summary": "This will really sound random, I always dreaming about winning the lottery. I would move to another country but also I like to picture, before moving, me going to old places in my city before moving. (I don't like where I live at all) I lik",
+        "url": "https://reddit.com/r/Lottery/comments/1sdwqbm/why_i_feel_winning_the_lottery_and_then_being/",
+        "timestamp": "2026-04-06T11:55:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sdv6q2",
+        "title": "Does people of age group 18-35 purchase lottery tickets in India?",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1sdv6q2/does_people_of_age_group_1835_purchase_lottery/",
+        "timestamp": "2026-04-06T10:36:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sdg815",
         "title": "Helps to win lotto in europe!!!",
@@ -114,6 +101,51 @@
         "score": 1,
         "comments": 0,
         "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "How to be successful in life, as per psychology",
+        "summary": "While many people want to be successful, not many are able to be so. So, what's the secret to their success? Well, success isn't a cosmic lottery win or a lucky break. It’s a playbook that psychologists have been decoding for decades. Think of it as a softwar…",
+        "url": "https://timesofindia.indiatimes.com/relationships/how-to-be-successful-in-life-as-per-psychology/photostory/130043676.cms",
+        "timestamp": "2026-04-05T17:25:21Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball winning numbers: Did anyone win the jackpot on April 4? Power Play multiplier revealed",
+        "summary": "The Powerball Lottery continues to draw millions of participants due to its massive jackpots and widespread accessibility. Broadcast live on official lottery websites and local television stations, the draw remains a major event for players hoping to strike i…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-winning-numbers-did-anyone-win-the-jackpot-on-april-4-power-play-multiplier-revealed/articleshow/130038057.cms",
+        "timestamp": "2026-04-05T11:08:36Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Winning Numbers for April 4 2026: No Jackpot Winner, Prize to Climb to $231 Million",
+        "summary": "The Powerball jackpot rolled over again Saturday night after no ticket matched all six numbers in the April 4, 2026 drawing, leaving the estimated grand prize to climb toward $231 million for Monday's drawing.",
+        "url": "https://www.ibtimes.com.au/powerball-winning-numbers-april-4-2026-no-jackpot-winner-prize-climb-231-million-1865421",
+        "timestamp": "2026-04-05T10:19:03Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -141,8 +173,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +188,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +203,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +218,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 10,
+        "comments": 22,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -537,87 +569,12 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1s8oe05",
-        "title": "Built an app where the lottery jackpot is invested in a real security while you wait for the draw. Would you use this?",
-        "summary": "Concept: you buy a ticket ($5-$10). All tickets pool together and the money buys a real ETF like SPY. The pool sits in that security for \\\\\\~2 weeks. When the draw happens, the security gets sold and cash is distributed. Winners get their p",
-        "url": "https://reddit.com/r/Lottery/comments/1s8oe05/built_an_app_where_the_lottery_jackpot_is/",
-        "timestamp": "2026-03-31T14:05:55.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Powerball Winning Numbers for March 30, 2026: No Jackpot Winner as $180 Million Prize Rolls Over to Wednesday",
         "summary": "The Powerball jackpot for the Monday, March 30, 2026, drawing rolled over after no ticket matched all six numbers, leaving an estimated $223 million annuity prize — or about $100 million cash option — for the next drawing on Wednesday, April 1, according to o…",
         "url": "https://www.ibtimes.com.au/powerball-winning-numbers-march-30-2026-no-jackpot-winner-180-million-prize-rolls-over-1865058",
         "timestamp": "2026-03-31T07:15:28Z",
         "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s89hg2",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑2 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1s89hg2/powerball_winning_numbers_monday/",
-        "timestamp": "2026-03-31T01:20:33.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s877pb",
-        "title": "Highest odds of winning over 100K",
-        "summary": "I have a few winning scratch offs to redeem from Christmas gifts. I don’t usually play the lottery. What tickets have the highest odds of winning $100,000 in the PA Lottery? Scratch offs, Cash 5, Mega Millions, Powerball?",
-        "url": "https://reddit.com/r/Lottery/comments/1s877pb/highest_odds_of_winning_over_100k/",
-        "timestamp": "2026-03-30T23:40:14.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1s7w4zi",
-        "title": "Why the \"Double\" Drift is Real (FL Pick 3 Analysis)",
-        "summary": "As a Systems Admin and data analyst based in Melbourne, I’ve spent my Monday mornings scraping the Florida Lottery archives to see if the human \"feeling\" of a hot streak actually holds up against the math. Using Python (Pandas/Matplotlib), ",
-        "url": "https://reddit.com/r/Lottery/comments/1s7w4zi/why_the_double_drift_is_real_fl_pick_3_analysis/",
-        "timestamp": "2026-03-30T16:51:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 1,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "SOS Music Creators Survey 2026",
-        "summary": "Complete our survey and enter the prize draw for a chance to win one of three $50 Amazon vouchers!",
-        "url": "https://www.soundonsound.com/news/sos-music-creators-survey-2026",
-        "timestamp": "2026-03-30T15:30:00Z",
-        "source": "Soundonsound.com",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -658,17 +615,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 37,
+      "totalSignals": 39,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 33,
         "CYNICAL": 0,
-        "ANXIOUS": 4,
+        "ANXIOUS": 3,
         "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 19
+      "uncertaintyScore": 15
     }
   }
 }
