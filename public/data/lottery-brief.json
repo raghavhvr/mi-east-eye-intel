@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-06T05:12:11.636Z",
+  "generated_at": "2026-04-07T04:59:30.029Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning lottery dreams",
+  "dominantNarrative": "Winning Lottery Dreams",
   "keyEmotions": [
-    "excitement",
-    "curiosity",
-    "frustration"
+    "Excitement",
+    "Optimism",
+    "Frustration"
   ],
-  "psychInsight": "The public is driven by the desire for financial freedom and the thrill of potentially winning, but also expresses frustration with the process and concerns about legitimacy. The lottery serves as a coping mechanism for financial stress and a means to fantasize about a better life.",
+  "psychInsight": "The public's fascination with lottery and gambling is driven by the desire for financial freedom and the thrill of uncertainty, which activates the brain's reward system and releases dopamine. The emotional investment in potential wins also reveals a deeper psychological need for escapism and instant gratification.",
   "riskSignals": [
-    "scams",
-    "claiming issues"
+    "Losing streak",
+    "Cashing difficulties"
   ],
   "opportunitySignals": [
-    "streaming lottery drawings",
-    "structured number systems"
+    "Growing demand",
+    "Innovative gaming experiences"
   ]
 }
