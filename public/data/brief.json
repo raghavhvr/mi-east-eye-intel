@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-07T04:59:29.273Z",
+  "generated_at": "2026-04-08T05:01:37.831Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran Conflict",
-  "summary": "Regional tensions are escalating due to Iranian air raid threats and potential US military action, with key infrastructure such as the King Fahd Causeway being affected. The situation remains volatile, with various stakeholders weighing in on the possibility of a ceasefire or further conflict.",
+  "threatLevel": "LOW",
+  "topTheme": "Middle East Stability",
+  "summary": "The region appears stable with no major security concerns, despite some political developments. Online discussions focus on everyday life and regional beauty, with a notable mention of a potential Iran strikes pause.",
   "keyTrends": [
-    "Iran-US tensions",
-    "Regional instability",
-    "Air raid threats"
+    "Iran strikes pause",
+    "Middle East beauty",
+    "online activities"
   ],
   "watchItems": [
-    "King Fahd Causeway",
-    "US-Iran negotiations"
+    "Israel-Iran relations",
+    "Lebanon exclusion"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "OPTIMISTIC",
   "sentimentDrivers": [
-    "Fear of conflict escalation",
-    "Uncertainty over US decision-making"
+    "Dubai beauty",
+    "Golden Age mention"
   ]
 }
