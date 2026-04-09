@@ -1,52 +1,136 @@
 {
-  "generated_at": "2026-04-08T04:46:42.865Z",
+  "generated_at": "2026-04-09T04:43:28.555Z",
   "gdelt_tone": {
-    "UAE": -2.78,
-    "Saudi Arabia": -2.01,
-    "Qatar": -2.33,
-    "Kuwait": -3.76,
-    "Bahrain": -3.47,
-    "Oman": -1.63,
-    "Jordan": -2.23,
-    "Lebanon": -4.7,
-    "Iraq": -3.84,
-    "Egypt": -0.48,
-    "Yemen": -4.34,
-    "Iran": -3.98
+    "UAE": -2.91,
+    "Saudi Arabia": -1.88,
+    "Qatar": -2.15,
+    "Kuwait": -3.57,
+    "Bahrain": -3.2,
+    "Oman": -1.85,
+    "Jordan": -2.09,
+    "Lebanon": -4.64,
+    "Iraq": -3.57,
+    "Egypt": -0.53,
+    "Yemen": -4.12,
+    "Iran": -3.88
   },
   "weather": {
+    "Saudi Arabia": {
+      "temp_c": 23,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "UAE": {
       "temp_c": 24,
-      "wind_kmh": 21,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
-    "Saudi Arabia": {
-      "temp_c": 22,
-      "wind_kmh": 22,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
+    "Kuwait": {
+      "temp_c": 20,
+      "wind_kmh": 13,
+      "condition": "Showers",
+      "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 22,
-      "wind_kmh": 12,
+      "temp_c": 23,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 23,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 16,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 10,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 15,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 15,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Yemen": {
+      "temp_c": 16,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 10,
+      "wind_kmh": 1,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309208,
+    "KWD": 0.308371,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.688836,
-    "IQD": 1311.737878
+    "EGP": 53.320258,
+    "IQD": 1312.972909
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sgbc6a",
+        "title": "I built a free lottery analysis tool for every Australian game!",
+        "summary": "Number Oracle analyses real draw data for Powerball, Oz Lotto, Saturday Lotto, Weekday Windfall, Set for Life, and Super 66.  What you get:  🎲 6 number-picking strategies (Hot Numbers, Cold Numbers, Balanced, Weighted, Overdue, Random)  🍀",
+        "url": "https://reddit.com/r/Lottery/comments/1sgbc6a/i_built_a_free_lottery_analysis_tool_for_every/",
+        "timestamp": "2026-04-09T01:08:49.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sfm9i2",
+        "title": "How genuine is we love lotto?",
+        "summary": "I am from srilanka thinking to play international lotteries of different countries through WE LOVE LOTTO  website which is 3rd party vendor . I am just curious to know how genuine this website is",
+        "url": "https://reddit.com/r/Lottery/comments/1sfm9i2/how_genuine_is_we_love_lotto/",
+        "timestamp": "2026-04-08T07:45:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sfj0mh",
         "title": "What is this ? Mystery Scratcher?",
@@ -88,6 +172,21 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9w",
+        "title": "Hyundai Petaling Jaya grand launch bonanza from April 10-12 – win lucky draw prizes worth up to RM10k",
+        "summary": "Hyundai Petaling Jaya, operated by Palm Motor, is set to host its grand launch bonanza this weekend, and if you’re in the market for a Hyundai, you can look forward to exciting lucky draw prizes […]\nThe post Hyundai Petaling Jaya grand launch bonanza from Apr…",
+        "url": "https://paultan.org/2026/04/08/hyundai-petaling-jaya-grand-launch-bonanza/",
+        "timestamp": "2026-04-08T03:02:59Z",
+        "source": "Paul Tan's Automotive News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -138,6 +237,36 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9u",
+        "title": "California lottery accidentally releases $12M winner’s address: ‘This has never happened’",
+        "summary": "The California Lottery shared the address of a $12 million lottery winner...on accident.",
+        "url": "https://nypost.com/2026/04/07/us-news/california-lottery-accidentally-releases-winners-address/",
+        "timestamp": "2026-04-07T16:49:08Z",
+        "source": "New York Post",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Middle East and Africa Travel Retail Market Trends and Forecasts Report 2026: A $15.59 Billion Market by 2031 Featuring Dufry, Lagardere Travel Retail, Dubai Duty Free, and Qatar Duty Free",
+        "summary": "The Middle East and Africa travel retail market is driven by strong tourism policies, airport capacity growth, and mobile wallet use, which bolster leisure travel and e-commerce conversions. Duty-free perks, VAT refunds, and AfCFTA enhance business travel, wh…",
+        "url": "https://www.globenewswire.com/news-release/2026/04/07/3268891/28124/en/Middle-East-and-Africa-Travel-Retail-Market-Trends-and-Forecasts-Report-2026-A-15-59-Billion-Market-by-2031-Featuring-Dufry-Lagardere-Travel-Retail-Dubai-Duty-Free-and-Qatar-Duty-F.html",
+        "timestamp": "2026-04-07T08:48:00Z",
+        "source": "GlobeNewswire",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1sepp1g",
         "title": "Another Powerball win!!",
         "summary": "The jackpot winner is from Delaware. Congratulations to the winner 🏆 on your 230+ M prize!",
@@ -147,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 31,
+        "comments": 19,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -163,7 +292,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -177,23 +306,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1sehu3p",
         "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑3 · 💬3",
         "url": "https://reddit.com/r/Lottery/comments/1sehu3p/powerball_winning_numbers_monday/",
         "timestamp": "2026-04-07T01:20:04.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -528,36 +657,6 @@
         "isME": true
       },
       {
-        "id": "reddit-lot-1sb1pjg",
-        "title": "Whoops",
-        "summary": "I usually play scratch offs and whenever I do decide to play the draw games, I usually do quick pick. For some reason, I decided to fill out some playslips. I didn't intend to play them all at once, but somehow I did. Full boards with a 4 t",
-        "url": "https://reddit.com/r/Lottery/comments/1sb1pjg/whoops/",
-        "timestamp": "2026-04-03T02:49:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sazuc2",
-        "title": "Do you use meaningful numbers or go quick pick? Made an app for the \"meaningful numbers\" crowd",
-        "summary": "Informal poll — how do you pick your lottery numbers? A) Quick pick every time B) Same numbers always (birthdays, anniversaries) C) Mix of both D) Some other system I'm firmly in the \"meaningful numbers\" camp — so I built NumeroLuck. It tak",
-        "url": "https://reddit.com/r/Lottery/comments/1sazuc2/do_you_use_meaningful_numbers_or_go_quick_pick/",
-        "timestamp": "2026-04-03T01:23:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Powerball Winning Number April 1, 2026: No Jackpot Winner and $194 Million Prize Rolls Over",
         "summary": "No ticket matched all six numbers in Wednesday night's Powerball drawing, leaving the estimated $194 million jackpot unclaimed and rolling over for a bigger prize on Saturday, lottery officials confirmed Thursday.",
@@ -618,21 +717,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Winning Numbers for March 30, 2026: No Jackpot Winner as $180 Million Prize Rolls Over to Wednesday",
-        "summary": "The Powerball jackpot for the Monday, March 30, 2026, drawing rolled over after no ticket matched all six numbers, leaving an estimated $223 million annuity prize — or about $100 million cash option — for the next drawing on Wednesday, April 1, according to o…",
-        "url": "https://www.ibtimes.com.au/powerball-winning-numbers-march-30-2026-no-jackpot-winner-180-million-prize-rolls-over-1865058",
-        "timestamp": "2026-03-31T07:15:28Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-us-news-2026-mar-30-powerball-lottery-winner-burglary-arrest",
         "title": "Recent $167m lottery winner arrested for allegedly stealing $12,000 in Kentucky",
         "summary": "Burglary arrest was James Farthing’s latest run-in with the law after winning the Powerball jackpot last year",
@@ -664,17 +748,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 41,
+      "totalSignals": 43,
       "meSignals": 2,
       "moodDist": {
         "HOPEFUL": 35,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 3
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 15
+      "uncertaintyScore": 19
     }
   }
 }
