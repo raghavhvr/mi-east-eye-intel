@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T05:01:38.513Z",
+  "generated_at": "2026-04-09T04:58:58.653Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Lottery Dreams",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
     "Excitement",
     "Optimism",
     "Curiosity"
   ],
-  "psychInsight": "The public's fascination with lottery and gambling is driven by the desire for financial freedom and the thrill of uncertainty, which activates the brain's reward system and releases dopamine. The hopeful mood is also influenced by the social sharing of winning experiences and the perceived possibility of beating the odds.",
+  "psychInsight": "The public is driven by the desire for financial gain and the thrill of possibly winning, which activates the brain's reward system and releases dopamine. The variety of lottery tools and strategies being discussed indicates a sense of control and agency among participants, further fueling their optimism.",
   "riskSignals": [
     "Problem Gambling",
     "Financial Loss"
   ],
   "opportunitySignals": [
-    "Innovative Lottery Tools",
-    "Growing Demand"
+    "Innovative Tools",
+    "Growing Market"
   ]
 }
