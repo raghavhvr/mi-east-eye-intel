@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T04:58:58.653Z",
+  "generated_at": "2026-04-10T05:13:29.511Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -13,13 +13,13 @@
     "Optimism",
     "Curiosity"
   ],
-  "psychInsight": "The public is driven by the desire for financial gain and the thrill of possibly winning, which activates the brain's reward system and releases dopamine. The variety of lottery tools and strategies being discussed indicates a sense of control and agency among participants, further fueling their optimism.",
+  "psychInsight": "The public is driven by the desire for financial windfalls and the thrill of taking risks, with many seeking tools and strategies to improve their chances of winning. The anonymity of online platforms also allows individuals to freely express their emotions and seek support without fear of judgment",
   "riskSignals": [
-    "Problem Gambling",
-    "Financial Loss"
+    "Gambling addiction",
+    "Financial loss"
   ],
   "opportunitySignals": [
-    "Innovative Tools",
-    "Growing Market"
+    "Innovative lottery tools",
+    "Lucky wins"
   ]
 }

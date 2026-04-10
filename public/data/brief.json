@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-09T04:58:58.144Z",
+  "generated_at": "2026-04-10T05:13:28.944Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Oil Prices",
-  "summary": "The region remains stable with no significant security threats, while oil prices are rising due to concerns about the Strait of Hormuz. Online discussions are dominated by everyday topics and local sports news, indicating a sense of normalcy.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Conflict",
+  "summary": "Recent developments in the MENA region indicate increased tensions between Israel and neighboring countries, with potential for escalation. Civilian casualties and military actions are driving concerns about regional stability",
   "keyTrends": [
-    "Oil Market",
-    "Saudi Pro League",
-    "UAE Online Communities"
+    "Israel-Lebanon Tensions",
+    "Iranian Civilian Mobilization",
+    "Gulf Region Security"
   ],
   "watchItems": [
-    "Strait of Hormuz",
-    "Saudi Pro League title race"
+    "Israeli military actions",
+    "Iranian facility protection"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Lack of major security incidents",
-    "Everyday online discussions"
+    "Civilian casualties",
+    "Regional instability"
   ]
 }
