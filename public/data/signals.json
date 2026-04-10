@@ -1,106 +1,124 @@
 {
-  "generated_at": "2026-04-09T04:43:28.555Z",
+  "generated_at": "2026-04-10T05:10:19.912Z",
   "gdelt_tone": {
-    "UAE": -2.91,
-    "Saudi Arabia": -1.88,
-    "Qatar": -2.15,
-    "Kuwait": -3.57,
-    "Bahrain": -3.2,
-    "Oman": -1.85,
-    "Jordan": -2.09,
-    "Lebanon": -4.64,
-    "Iraq": -3.57,
-    "Egypt": -0.53,
-    "Yemen": -4.12,
-    "Iran": -3.88
+    "UAE": -2.57,
+    "Saudi Arabia": -1.75,
+    "Qatar": -2.05,
+    "Kuwait": -3.72,
+    "Bahrain": -3.02,
+    "Oman": -1.9,
+    "Jordan": -1.98,
+    "Lebanon": -4.63,
+    "Iraq": -3.49,
+    "Egypt": -0.57,
+    "Yemen": -3.83,
+    "Iran": -3.83
   },
   "weather": {
-    "Saudi Arabia": {
+    "UAE": {
       "temp_c": 23,
       "wind_kmh": 15,
+      "condition": "Rain",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 17,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 24,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
+    "Qatar": {
+      "temp_c": 21,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Doha"
     },
     "Kuwait": {
       "temp_c": 20,
-      "wind_kmh": 13,
-      "condition": "Showers",
+      "wind_kmh": 2,
+      "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Qatar": {
-      "temp_c": 23,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
     "Oman": {
-      "temp_c": 28,
-      "wind_kmh": 5,
-      "condition": "Clear",
+      "temp_c": 26,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
       "city": "Muscat"
-    },
-    "Bahrain": {
-      "temp_c": 23,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Lebanon": {
-      "temp_c": 16,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 10,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iraq": {
-      "temp_c": 15,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Egypt": {
-      "temp_c": 15,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 16,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 10,
-      "wind_kmh": 1,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308371,
+    "KWD": 0.308348,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.320258,
-    "IQD": 1312.972909
+    "EGP": 53.122458,
+    "IQD": 1311.919675
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sh0or3",
+        "title": "Thoughts on add-ons like EZ Match or Double Play for state lottos? Worth a shot or a waste of money?",
+        "summary": "I saw someone won a doubleplay jackpot in my state lotto but it seems the jackpot winners for that are pretty rare (I am assuming this is due to less players so less winners drawn)  As for EZ Match I was curious about trying it but I am won",
+        "url": "https://reddit.com/r/Lottery/comments/1sh0or3/thoughts_on_addons_like_ez_match_or_double_play/",
+        "timestamp": "2026-04-09T20:05:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sh0ckx",
+        "title": "CA lotto $20 win on a $3 bingo",
+        "summary": "Line with double bonus on card 3 $10 Line on card 4 $10 Card number 002 on ticket roll",
+        "url": "https://reddit.com/r/Lottery/comments/1sh0ckx/ca_lotto_20_win_on_a_3_bingo/",
+        "timestamp": "2026-04-09T19:53:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sgz3dg",
+        "title": "I GIVE YOU 500 RUPEE",
+        "summary": "TODAY I WIN A LOTTERY!      I'm absolutely thrilled to share this unbelievable news! After all these years of hoping, I've finally won the lottery! This is a dream come true, and I can't wait to see what amazing opportunities this opens up ",
+        "url": "https://reddit.com/r/Lottery/comments/1sgz3dg/i_give_you_500_rupee/",
+        "timestamp": "2026-04-09T19:08:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sgsaba",
+        "title": "Lotto Texas still unclaimed.",
+        "summary": "Looks like TX state jackpot is a dispute/eyebrows raised magnet, they either run into an issue with online claim, or someone buys it from overseas. Otherwise it remains unclaimed.",
+        "url": "https://reddit.com/r/Lottery/comments/1sgsaba/lotto_texas_still_unclaimed/",
+        "timestamp": "2026-04-09T15:07:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sgbc6a",
         "title": "I built a free lottery analysis tool for every Australian game!",
@@ -127,7 +145,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 2,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -141,8 +159,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +174,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,7 +189,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -201,8 +219,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 9,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -216,8 +234,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +249,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -582,51 +600,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sbmxsh",
-        "title": "Timothy Shultz",
-        "summary": "Do y’all watch him on YouTube? Honestly he gets on my nerves so much with his psychic/“astral projection” mumbo jumbo- I just find him to be a snake oil salesman but also I want to watch videos created by an actual lottery winner, sadly I t",
-        "url": "https://reddit.com/r/Lottery/comments/1sbmxsh/timothy_shultz/",
-        "timestamp": "2026-04-03T19:16:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sbhy3v",
-        "title": "How much money have you ever won playing the lottery?",
-        "summary": "↑15 · 💬40",
-        "url": "https://reddit.com/r/Lottery/comments/1sbhy3v/how_much_money_have_you_ever_won_playing_the/",
-        "timestamp": "2026-04-03T16:13:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 15,
-        "comments": 40,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sbfwwv",
-        "title": "WARNING: LottoPark (WhiteLotto) – Banned by multiple EU regulators. Is your money safe?",
-        "summary": "Hi everyone, I did some digging into LottoPark and their parent company WhiteLotto (owned by Wojciech Lysak) because something felt off. Here is what I found in official government records:  Poland: Their domains are officially blacklisted ",
-        "url": "https://reddit.com/r/Lottery/comments/1sbfwwv/warning_lottopark_whitelotto_banned_by_multiple/",
-        "timestamp": "2026-04-03T14:58:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-03-it-cant-be-them-london-national-lottery-jackpot-winner-misses-out-on-106m",
         "title": "It can’t be them: London national lottery jackpot winner misses out on £10.6m",
         "summary": "Ticket bought in Bexley expires after 180-day claim period, despite extensive search for holder",
@@ -748,17 +721,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 43,
+      "totalSignals": 44,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 35,
+        "HOPEFUL": 36,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 19
+      "uncertaintyScore": 18
     }
   }
 }
