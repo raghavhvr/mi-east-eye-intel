@@ -1,64 +1,136 @@
 {
-  "generated_at": "2026-04-10T05:10:19.912Z",
+  "generated_at": "2026-04-11T04:31:02.096Z",
   "gdelt_tone": {
-    "UAE": -2.57,
-    "Saudi Arabia": -1.75,
-    "Qatar": -2.05,
-    "Kuwait": -3.72,
-    "Bahrain": -3.02,
-    "Oman": -1.9,
-    "Jordan": -1.98,
-    "Lebanon": -4.63,
-    "Iraq": -3.49,
-    "Egypt": -0.57,
-    "Yemen": -3.83,
-    "Iran": -3.83
+    "UAE": -2.2,
+    "Saudi Arabia": -1.74,
+    "Qatar": -1.86,
+    "Kuwait": -3.68,
+    "Bahrain": -2.9,
+    "Oman": -1.77,
+    "Jordan": -1.95,
+    "Lebanon": -4.51,
+    "Iraq": -3.47,
+    "Egypt": -0.51,
+    "Yemen": -3.52,
+    "Iran": -3.77
   },
   "weather": {
-    "UAE": {
-      "temp_c": 23,
-      "wind_kmh": 15,
-      "condition": "Rain",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 17,
-      "wind_kmh": 12,
+    "Yemen": {
+      "temp_c": 16,
+      "wind_kmh": 6,
       "condition": "Clear",
-      "city": "Riyadh"
+      "city": "Sanaa"
     },
-    "Qatar": {
-      "temp_c": 21,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 20,
+    "Iran": {
+      "temp_c": 13,
       "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Oman": {
-      "temp_c": 26,
-      "wind_kmh": 15,
       "condition": "Partly Cloudy",
-      "city": "Muscat"
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308348,
+    "KWD": 0.30862,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.122458,
-    "IQD": 1311.919675
+    "EGP": 53.111992,
+    "IQD": 1311.884544
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1si79ph",
+        "title": "Virginia online lottery",
+        "summary": "How do you playthe online games?  do you just  buy 1 $5 game like you would buy a ticket in a retail store? Or do you play it like you are feeding a slot machine $ after $ after $ spending hundred or thousands of dollars?",
+        "url": "https://reddit.com/r/Lottery/comments/1si79ph/virginia_online_lottery/",
+        "timestamp": "2026-04-11T02:54:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1si4fei",
+        "title": "I stopped picking random lottery numbers — here’s what I’m using now",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1si4fei/i_stopped_picking_random_lottery_numbers_heres/",
+        "timestamp": "2026-04-11T00:42:42.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1shxkf4",
+        "title": "I built a simple Powerball number generator – looking for feedback",
+        "summary": "Hey everyone, I’ve been experimenting with lottery number patterns and ended up building a small Powerball app. It generates number combinations and I’m trying to improve it based on real user feedback. If anyone is interested in testing (f",
+        "url": "https://reddit.com/r/Lottery/comments/1shxkf4/i_built_a_simple_powerball_number_generator/",
+        "timestamp": "2026-04-10T20:04:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1shx5rl",
+        "title": "Scratch ticket ranking tool for MA, NH, ME, VT, RI, CT, NY, NJ, PA, MD, VA",
+        "summary": "Scrapes 11 Northeast state lottery sites every morning and ranks every game by remaining top prizes. Free top 5 daily picks, full per-state lists are $2/year. All in good fun!! 🎟️ If any of these are your state, check it out",
+        "url": "https://reddit.com/r/Lottery/comments/1shx5rl/scratch_ticket_ranking_tool_for_ma_nh_me_vt_ri_ct/",
+        "timestamp": "2026-04-10T19:49:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1shnjl0",
+        "title": "Has anyone actually been able to find grand prizes in scratch offs that are past their prime?",
+        "summary": "I have heard that some use a strategy of seeking out older scratch off tickets that are still active but no longer the main promoted game. There are less tickets out there but there are still prizes remaining, even a jackpot or two.  I've s",
+        "url": "https://reddit.com/r/Lottery/comments/1shnjl0/has_anyone_actually_been_able_to_find_grand/",
+        "timestamp": "2026-04-10T14:06:03.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Luck strikes anytime: Energy drink stop turns into $551,000 lottery windfall for Kentucky truck driver",
+        "summary": "What started as a quick stop for an energy drink turned into a moment James Milby will never forget. A simple detour to a local store in Glasgow, Kentucky, ended with the truck driver walking away with a lottery win worth more than half a million dollars, com…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/luck-strikes-anytime-energy-drink-stop-turns-into-551000-lottery-windfall-for-kentucky-truck-driver/articleshow/130153341.cms",
+        "timestamp": "2026-04-10T00:10:42Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sh0or3",
         "title": "Thoughts on add-ons like EZ Match or Double Play for state lottos? Worth a shot or a waste of money?",
@@ -114,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -129,7 +201,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -435,171 +507,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1scqnw7",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1scqnw7/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-04-05T01:30:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1scqiio",
-        "title": "Places to go!",
-        "summary": "On the way to grab lotto tickets 🎟",
-        "url": "https://reddit.com/r/Lottery/comments/1scqiio/places_to_go/",
-        "timestamp": "2026-04-05T01:23:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1scqi53",
-        "title": "Places to go!",
-        "summary": "On the way to grab lotto tickets 🎟",
-        "url": "https://reddit.com/r/Lottery/comments/1scqi53/places_to_go/",
-        "timestamp": "2026-04-05T01:22:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1scnhdp",
-        "title": "How do you get 180 days to claim the powerball if the next drawing is only a couple days later?",
-        "summary": "Might be a dumb question, but I can’t figure it out. If you don’t go to claim your winnings, how do they know someone won? It could be a $100M jackpot, you win. You don’t claim for a month, and now the jackpot is $200M. Someone wins it and ",
-        "url": "https://reddit.com/r/Lottery/comments/1scnhdp/how_do_you_get_180_days_to_claim_the_powerball_if/",
-        "timestamp": "2026-04-04T23:02:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 11,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1scd7h3",
-        "title": "Cashing out a ticket becoming harder to do? SoCal",
-        "summary": "So I finally hit a big $500 win on a ticket recently after a very very long losing streak.  Super excited about it but when I go to cash it out, I am unable to find anyone willing or able too.  So far I have been to 7 locations, 2 of which ",
-        "url": "https://reddit.com/r/Lottery/comments/1scd7h3/cashing_out_a_ticket_becoming_harder_to_do_socal/",
-        "timestamp": "2026-04-04T16:10:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 10,
-        "comments": 22,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sbyrfq",
-        "title": "I don’t understand why the GA lottery doesn’t stream the drawings live on youtube like FL does. GA lottery has a YT channel but it just advertises the latest promotions and games.",
-        "summary": "↑1 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1sbyrfq/i_dont_understand_why_the_ga_lottery_doesnt/",
-        "timestamp": "2026-04-04T03:42:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sbxudb",
-        "title": "Losing streak",
-        "summary": "Another 30 out the windows first time getting a ticket above 20 dollars . Hopefully my fantasy 5 ticket hits the jackpot lol",
-        "url": "https://reddit.com/r/Lottery/comments/1sbxudb/losing_streak/",
-        "timestamp": "2026-04-04T02:57:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 12,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sbw6y9",
-        "title": "Why do you need a lawyer, CPA, etc if you win the lottery?",
-        "summary": "Not that I have (I wish) but just in-case I figure I could pay the taxes, get the rest of the jackpot ($90M), put it in a well diversified dividend portfolio, run off grifters, and do just fine. What are things to look out for?",
-        "url": "https://reddit.com/r/Lottery/comments/1sbw6y9/why_do_you_need_a_lawyer_cpa_etc_if_you_win_the/",
-        "timestamp": "2026-04-04T01:38:35.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sbsql0",
-        "title": "poker nights",
-        "summary": "my local liquor store just had a jackpot winner of 75,000 i literally play this ticket ALL the time and can’t seem to win over $5 or $6 dollars. i did hit $50 and $100 one time. there are still a lot of jackpots available. i wonder if anyon",
-        "url": "https://reddit.com/r/Lottery/comments/1sbsql0/poker_nights/",
-        "timestamp": "2026-04-03T23:04:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 22,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sbo1f8",
-        "title": "Do structured number systems actually help in lottery play?",
-        "summary": "I’ve been thinking about this for a while. Mathematically, nothing changes the expected value — the game is still negative in the long run. But I’ve noticed that some players use structured number systems instead of random picks.   From wha",
-        "url": "https://reddit.com/r/Lottery/comments/1sbo1f8/do_structured_number_systems_actually_help_in/",
-        "timestamp": "2026-04-03T19:58:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sbnj7m",
-        "title": "Can give you the lottery numbers I think Dm me",
-        "summary": "↑2 · 💬2",
-        "url": "https://reddit.com/r/Lottery/comments/1sbnj7m/can_give_you_the_lottery_numbers_i_think_dm_me/",
-        "timestamp": "2026-04-03T19:38:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 2,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-03-it-cant-be-them-london-national-lottery-jackpot-winner-misses-out-on-106m",
         "title": "It can’t be them: London national lottery jackpot winner misses out on £10.6m",
         "summary": "Ticket bought in Bexley expires after 180-day claim period, despite extensive search for holder",
@@ -721,17 +628,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 44,
+      "totalSignals": 39,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 5
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 18
+      "uncertaintyScore": 23
     }
   }
 }
