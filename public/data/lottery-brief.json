@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T05:13:29.511Z",
+  "generated_at": "2026-04-11T04:34:41.898Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Winning big changes lives",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Curiosity"
+    "excitement",
+    "optimism",
+    "curiosity"
   ],
-  "psychInsight": "The public is driven by the desire for financial windfalls and the thrill of taking risks, with many seeking tools and strategies to improve their chances of winning. The anonymity of online platforms also allows individuals to freely express their emotions and seek support without fear of judgment",
+  "psychInsight": "The public is driven by the desire for a life-changing win, and the use of tools and strategies to increase chances of winning reflects a psychological need for control. The variety of lottery-related discussions and creations also indicates a sense of community and social interaction among participants.",
   "riskSignals": [
-    "Gambling addiction",
-    "Financial loss"
+    "addiction",
+    "scams"
   ],
   "opportunitySignals": [
-    "Innovative lottery tools",
-    "Lucky wins"
+    "innovation",
+    "engagement"
   ]
 }

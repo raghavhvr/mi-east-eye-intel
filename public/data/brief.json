@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-04-10T05:13:28.944Z",
+  "generated_at": "2026-04-11T04:34:41.023Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Conflict",
-  "summary": "Recent developments in the MENA region indicate increased tensions between Israel and neighboring countries, with potential for escalation. Civilian casualties and military actions are driving concerns about regional stability",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Middle East Conflict",
+  "summary": "Recent airstrikes in Gaza and potential Chinese air defence supplies to Iran have increased tensions in the region. The situation is likely to escalate further due to diplomatic clashes between South Korea and Israel",
   "keyTrends": [
-    "Israel-Lebanon Tensions",
-    "Iranian Civilian Mobilization",
-    "Gulf Region Security"
+    "Iran-China relations",
+    "Gaza conflict",
+    "Israel diplomacy"
   ],
   "watchItems": [
-    "Israeli military actions",
-    "Iranian facility protection"
+    "Chinese air defence supplies",
+    "Gaza airstrikes",
+    "Israel-South Korea relations"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Civilian casualties",
-    "Regional instability"
+    "Escalating violence",
+    "Diplomatic tensions"
   ]
 }
