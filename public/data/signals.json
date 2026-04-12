@@ -1,46 +1,181 @@
 {
-  "generated_at": "2026-04-11T04:31:02.096Z",
+  "generated_at": "2026-04-12T05:08:27.688Z",
   "gdelt_tone": {
-    "UAE": -2.2,
-    "Saudi Arabia": -1.74,
-    "Qatar": -1.86,
-    "Kuwait": -3.68,
-    "Bahrain": -2.9,
-    "Oman": -1.77,
-    "Jordan": -1.95,
-    "Lebanon": -4.51,
-    "Iraq": -3.47,
-    "Egypt": -0.51,
-    "Yemen": -3.52,
-    "Iran": -3.77
+    "UAE": -2.02,
+    "Saudi Arabia": -1.53,
+    "Qatar": -1.82,
+    "Kuwait": -3.48,
+    "Bahrain": -2.75,
+    "Oman": -1.63,
+    "Jordan": -1.96,
+    "Lebanon": -4.31,
+    "Iraq": -3.25,
+    "Egypt": -0.33,
+    "Yemen": -3.64,
+    "Iran": -3.6
   },
   "weather": {
-    "Yemen": {
+    "Saudi Arabia": {
+      "temp_c": 22,
+      "wind_kmh": 26,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
+    "Bahrain": {
+      "temp_c": 22,
+      "wind_kmh": 25,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "UAE": {
+      "temp_c": 23,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 20,
+      "wind_kmh": 15,
+      "condition": "Thunderstorm",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 22,
+      "wind_kmh": 17,
+      "condition": "Partly Cloudy",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 27,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Jordan": {
+      "temp_c": 10,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Lebanon": {
       "temp_c": 16,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 19,
       "wind_kmh": 6,
       "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Baghdad"
     },
     "Iran": {
-      "temp_c": 13,
-      "wind_kmh": 2,
+      "temp_c": 17,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Egypt": {
+      "temp_c": 14,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "Yemen": {
+      "temp_c": 17,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30862,
+    "KWD": 0.308502,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.111992,
-    "IQD": 1311.884544
+    "EGP": 53.118049,
+    "IQD": 1311.831296
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sj0xsu",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1sj0xsu/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-04-12T01:30:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sirjsa",
+        "title": "I won 5k on a scratcher and decided to try my luck again.",
+        "summary": "Well here's an update for anyone interested. I took the 5k and added 1k of mine and decided to reinvest into the game.  I asked the store to order me 10 books which they did, 5 came the next day and 5 came the day after. Both sets of 5 book",
+        "url": "https://reddit.com/r/Lottery/comments/1sirjsa/i_won_5k_on_a_scratcher_and_decided_to_try_my/",
+        "timestamp": "2026-04-11T18:54:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1siqu8g",
+        "title": "Won the lottery! Thank you.",
+        "summary": "Won the lottery. Thank you.",
+        "url": "https://reddit.com/r/Lottery/comments/1siqu8g/won_the_lottery_thank_you/",
+        "timestamp": "2026-04-11T18:28:01.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1simv1d",
+        "title": "This is strange.",
+        "summary": "I scratched this ticket and as you can see there are no winning numbers and all the bonuses on top say no bonus. However, when I scan it on the lottery app it says this and I confirmed the ticket number matches.  I even went to a convenient",
+        "url": "https://reddit.com/r/Lottery/comments/1simv1d/this_is_strange/",
+        "timestamp": "2026-04-11T15:58:55.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sielxh",
+        "title": "Suggestion between O millionaire or Emirates draw easy 6",
+        "summary": "I have been playing lotteries from last 2-3 years. I usually play 6 digit lotteries, where user can select his own numbers. Now i am confused between the O millionaire & Emirates Draw Easy 6.  both are 6 / 7 digit pick your own style lotter",
+        "url": "https://reddit.com/r/Lottery/comments/1sielxh/suggestion_between_o_millionaire_or_emirates_draw/",
+        "timestamp": "2026-04-11T09:38:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1si79ph",
         "title": "Virginia online lottery",
@@ -111,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 12,
+        "comments": 18,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,7 +291,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 20,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -171,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -447,21 +582,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sdg815",
-        "title": "Helps to win lotto in europe!!!",
-        "summary": "If you need methods to consistently win lotteries, an app has been launched with a method that helps with this. If you need more information, feel free to contact me.",
-        "url": "https://reddit.com/r/Lottery/comments/1sdg815/helps_to_win_lotto_in_europe/",
-        "timestamp": "2026-04-05T21:51:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly90",
         "title": "How to be successful in life, as per psychology",
         "summary": "While many people want to be successful, not many are able to be so. So, what's the secret to their success? Well, success isn't a cosmic lottery win or a lucky break. It’s a playbook that psychologists have been decoding for decades. Think of it as a softwar…",
@@ -610,35 +730,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "guardian-lot-commentisfree-2026-mar-13-ireland-basic-income-artist-scheme-pilot",
-        "title": "Ireland's basic income for artists changed my life. Other people deserve the same luck | Caelainn Hogan",
-        "summary": "A pilot scheme offering some artists €300-plus a week for three years is being made permanent. But should something so fundamental be run like a lottery, asks writer Caelainn Hogan",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/13/ireland-basic-income-artist-scheme-pilot",
-        "timestamp": "2026-03-13T05:00:42Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 39,
-      "meSignals": 2,
+      "totalSignals": 42,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 34,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 6
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 23
+      "uncertaintyScore": 19
     }
   }
 }
