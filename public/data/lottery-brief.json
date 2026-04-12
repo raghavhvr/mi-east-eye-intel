@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T04:34:41.898Z",
+  "generated_at": "2026-04-12T05:12:22.396Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Winning lottery dreams",
   "keyEmotions": [
     "excitement",
     "optimism",
     "curiosity"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, and the use of tools and strategies to increase chances of winning reflects a psychological need for control. The variety of lottery-related discussions and creations also indicates a sense of community and social interaction among participants.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking strategies to increase their chances. The lottery's unpredictable nature fuels a sense of hope and anticipation, leading people to share their experiences and seek feedback from others.",
   "riskSignals": [
-    "addiction",
-    "scams"
+    "gambler's fallacy",
+    "overspending"
   ],
   "opportunitySignals": [
-    "innovation",
-    "engagement"
+    "innovative tools",
+    "community engagement"
   ]
 }

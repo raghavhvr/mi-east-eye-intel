@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-04-11T04:34:41.023Z",
+  "generated_at": "2026-04-12T05:12:21.749Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Middle East Conflict",
-  "summary": "Recent airstrikes in Gaza and potential Chinese air defence supplies to Iran have increased tensions in the region. The situation is likely to escalate further due to diplomatic clashes between South Korea and Israel",
+  "threatLevel": "MODERATE",
+  "topTheme": "Iran US Talks",
+  "summary": "Iran and US negotiations have stalled due to key differences, with Pakistan urging a ceasefire and continued dialogue. The situation remains volatile, with Iran downplaying the likelihood of a swift deal",
   "keyTrends": [
-    "Iran-China relations",
-    "Gaza conflict",
-    "Israel diplomacy"
+    "Iran-US Relations",
+    "Middle East Diplomacy",
+    "Regional Security"
   ],
   "watchItems": [
-    "Chinese air defence supplies",
-    "Gaza airstrikes",
-    "Israel-South Korea relations"
+    "Iran Nuclear Program",
+    "US Middle East Policy"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating violence",
-    "Diplomatic tensions"
+    "Uncertainty over Iran deal",
+    "Regional instability concerns"
   ]
 }
