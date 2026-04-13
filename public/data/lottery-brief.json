@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-12T05:12:22.396Z",
+  "generated_at": "2026-04-13T05:30:00.894Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 60,
-    "neutral": 30,
+    "positive": 70,
+    "neutral": 20,
     "negative": 10
   },
-  "dominantNarrative": "Winning lottery dreams",
+  "dominantNarrative": "Winning big changes lives",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "curiosity"
+    "gratitude"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking strategies to increase their chances. The lottery's unpredictable nature fuels a sense of hope and anticipation, leading people to share their experiences and seek feedback from others.",
+  "psychInsight": "The prospect of winning the lottery triggers a strong emotional response, driven by the desire for financial freedom and a better life. The use of tools and strategies to increase chances of winning suggests a cognitive bias towards control and agency in an otherwise random process.",
   "riskSignals": [
-    "gambler's fallacy",
-    "overspending"
+    "gambling addiction",
+    "financial loss"
   ],
   "opportunitySignals": [
-    "innovative tools",
-    "community engagement"
+    "innovative lottery products",
+    "strategic playing"
   ]
 }

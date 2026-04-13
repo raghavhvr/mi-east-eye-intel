@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-12T05:12:21.749Z",
+  "generated_at": "2026-04-13T05:30:00.323Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Iran US Talks",
-  "summary": "Iran and US negotiations have stalled due to key differences, with Pakistan urging a ceasefire and continued dialogue. The situation remains volatile, with Iran downplaying the likelihood of a swift deal",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Tensions",
+  "summary": "The region is experiencing minimal security concerns, with most headlines focusing on non-political topics. However, the collapse of Iran talks and potential gas shortages may lead to increased tensions in the future.",
   "keyTrends": [
-    "Iran-US Relations",
-    "Middle East Diplomacy",
-    "Regional Security"
+    "Energy Security",
+    "Regional Politics",
+    "Social Issues"
   ],
   "watchItems": [
-    "Iran Nuclear Program",
-    "US Middle East Policy"
+    "Iran talks",
+    "Gas shortages"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Uncertainty over Iran deal",
-    "Regional instability concerns"
+    "Uncertainty over gas shortages",
+    "Concerns over regional stability"
   ]
 }
