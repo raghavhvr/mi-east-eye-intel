@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-04-12T05:08:27.688Z",
+  "generated_at": "2026-04-13T05:25:19.080Z",
   "gdelt_tone": {
-    "UAE": -2.02,
-    "Saudi Arabia": -1.53,
-    "Qatar": -1.82,
-    "Kuwait": -3.48,
-    "Bahrain": -2.75,
-    "Oman": -1.63,
-    "Jordan": -1.96,
-    "Lebanon": -4.31,
-    "Iraq": -3.25,
-    "Egypt": -0.33,
-    "Yemen": -3.64,
-    "Iran": -3.6
+    "UAE": -1.63,
+    "Saudi Arabia": -1.51,
+    "Qatar": -1.73,
+    "Kuwait": -3.17,
+    "Bahrain": -2.49,
+    "Oman": -1.62,
+    "Jordan": -1.71,
+    "Lebanon": -4.29,
+    "Iraq": -3.12,
+    "Egypt": -0.06,
+    "Yemen": -3.26,
+    "Iran": -3.49
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 22,
-      "wind_kmh": 26,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Bahrain": {
-      "temp_c": 22,
-      "wind_kmh": 25,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
     "UAE": {
-      "temp_c": 23,
-      "wind_kmh": 15,
+      "temp_c": 24,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
+    "Saudi Arabia": {
+      "temp_c": 21,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
     "Kuwait": {
       "temp_c": 20,
-      "wind_kmh": 15,
-      "condition": "Thunderstorm",
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 22,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
+      "temp_c": 25,
+      "wind_kmh": 13,
+      "condition": "Clear",
       "city": "Doha"
     },
-    "Oman": {
-      "temp_c": 27,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Jordan": {
-      "temp_c": 10,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
-      "temp_c": 16,
-      "wind_kmh": 14,
+      "temp_c": 17,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Iraq": {
-      "temp_c": 19,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Baghdad"
+    "Oman": {
+      "temp_c": 27,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
     },
-    "Iran": {
-      "temp_c": 17,
+    "Bahrain": {
+      "temp_c": 24,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 11,
       "wind_kmh": 5,
       "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iran": {
+      "temp_c": 16,
+      "wind_kmh": 4,
+      "condition": "Clear",
       "city": "Tehran"
     },
     "Egypt": {
-      "temp_c": 14,
-      "wind_kmh": 2,
+      "temp_c": 16,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Cairo"
     },
+    "Iraq": {
+      "temp_c": 17,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
     "Yemen": {
       "temp_c": 17,
-      "wind_kmh": 5,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     }
@@ -92,15 +92,45 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308502,
+    "KWD": 0.30807,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.118049,
-    "IQD": 1311.831296
+    "EGP": 53.132655,
+    "IQD": 1309.807272
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sji393",
+        "title": "Web3 lottery",
+        "summary": "I like playing lotto. same numbers every week.  but in web3 i didn't find a lot of lotteries that was worth trying. for me a lottery it must be simple, some numbers in given range. a fixed draw date every week. actually all games online are",
+        "url": "https://reddit.com/r/Lottery/comments/1sji393/web3_lottery/",
+        "timestamp": "2026-04-12T15:48:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sjcdin",
+        "title": "This would be absolutely the best thing that could happen to me right now",
+        "summary": "All I need is $10 so I can deposit into the Michigan lottery $10 is the minimum deposit I can make I would be so grateful thankful and appreciative if a special person could bless me out there and hell it might just pay off if I win I will ",
+        "url": "https://reddit.com/r/Lottery/comments/1sjcdin/this_would_be_absolutely_the_best_thing_that/",
+        "timestamp": "2026-04-12T11:47:50.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sj0xsu",
         "title": "Powerball Winning Numbers (Saturday)",
@@ -156,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 21,
+        "comments": 19,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,7 +201,7 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "ANXIOUS",
         "isME": true
@@ -194,15 +224,15 @@
       {
         "id": "reddit-lot-1si4fei",
         "title": "I stopped picking random lottery numbers — here’s what I’m using now",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬3",
         "url": "https://reddit.com/r/Lottery/comments/1si4fei/i_stopped_picking_random_lottery_numbers_heres/",
         "timestamp": "2026-04-11T00:42:42.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -216,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -537,51 +567,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sehu3p",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑3 · 💬3",
-        "url": "https://reddit.com/r/Lottery/comments/1sehu3p/powerball_winning_numbers_monday/",
-        "timestamp": "2026-04-07T01:20:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sdwqbm",
-        "title": "Why I feel winning the lottery and then being nostalgic about it?",
-        "summary": "This will really sound random, I always dreaming about winning the lottery. I would move to another country but also I like to picture, before moving, me going to old places in my city before moving. (I don't like where I live at all) I lik",
-        "url": "https://reddit.com/r/Lottery/comments/1sdwqbm/why_i_feel_winning_the_lottery_and_then_being/",
-        "timestamp": "2026-04-06T11:55:16.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sdv6q2",
-        "title": "Does people of age group 18-35 purchase lottery tickets in India?",
-        "summary": "↑0 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1sdv6q2/does_people_of_age_group_1835_purchase_lottery/",
-        "timestamp": "2026-04-06T10:36:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly90",
         "title": "How to be successful in life, as per psychology",
         "summary": "While many people want to be successful, not many are able to be so. So, what's the secret to their success? Well, success isn't a cosmic lottery win or a lucky break. It’s a playbook that psychologists have been decoding for decades. Think of it as a softwar…",
@@ -733,17 +718,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 42,
+      "totalSignals": 41,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 34,
+        "HOPEFUL": 33,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 19
+      "uncertaintyScore": 20
     }
   }
 }
