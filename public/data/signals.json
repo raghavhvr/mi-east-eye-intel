@@ -1,106 +1,151 @@
 {
-  "generated_at": "2026-04-13T05:25:19.080Z",
+  "generated_at": "2026-04-14T05:07:45.306Z",
   "gdelt_tone": {
-    "UAE": -1.63,
-    "Saudi Arabia": -1.51,
-    "Qatar": -1.73,
-    "Kuwait": -3.17,
-    "Bahrain": -2.49,
-    "Oman": -1.62,
-    "Jordan": -1.71,
-    "Lebanon": -4.29,
-    "Iraq": -3.12,
-    "Egypt": -0.06,
-    "Yemen": -3.26,
-    "Iran": -3.49
+    "UAE": -1.16,
+    "Saudi Arabia": -1.48,
+    "Qatar": -1.4,
+    "Kuwait": -2.87,
+    "Bahrain": -2.24,
+    "Oman": -1.34,
+    "Jordan": -1.72,
+    "Lebanon": -4.23,
+    "Iraq": -3.05,
+    "Egypt": -0.08,
+    "Yemen": -3.39,
+    "Iran": -3.4
   },
   "weather": {
     "UAE": {
-      "temp_c": 24,
-      "wind_kmh": 3,
+      "temp_c": 25,
+      "wind_kmh": 13,
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 21,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
+      "temp_c": 22,
+      "wind_kmh": 9,
+      "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 20,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
     "Qatar": {
-      "temp_c": 25,
-      "wind_kmh": 13,
-      "condition": "Clear",
+      "temp_c": 24,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
       "city": "Doha"
     },
-    "Lebanon": {
-      "temp_c": 17,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Oman": {
-      "temp_c": 27,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
+    "Kuwait": {
+      "temp_c": 21,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Kuwait City"
     },
     "Bahrain": {
       "temp_c": 24,
-      "wind_kmh": 8,
-      "condition": "Clear",
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
       "city": "Manama"
     },
-    "Jordan": {
-      "temp_c": 11,
-      "wind_kmh": 5,
+    "Oman": {
+      "temp_c": 29,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
-      "city": "Amman"
+      "city": "Muscat"
     },
-    "Iran": {
-      "temp_c": 16,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Egypt": {
-      "temp_c": 16,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Iraq": {
+    "Lebanon": {
       "temp_c": 17,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Beirut"
     },
     "Yemen": {
       "temp_c": 17,
       "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Jordan": {
+      "temp_c": 12,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 16,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 17,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "Iran": {
+      "temp_c": 10,
+      "wind_kmh": 20,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30807,
+    "KWD": 0.308413,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.132655,
-    "IQD": 1309.807272
+    "EGP": 53.14073,
+    "IQD": 1310.260078
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1skud9g",
+        "title": "What's the secret to winning on lottery tickets?",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1skud9g/whats_the_secret_to_winning_on_lottery_tickets/",
+        "timestamp": "2026-04-14T01:23:54.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1skua62",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1skua62/powerball_winning_numbers_monday/",
+        "timestamp": "2026-04-14T01:20:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1skey5q",
+        "title": "Ok, so how do I get over my numbers hitting when I didn’t play that night? Missed out on $85K",
+        "summary": "I’ve been playing the same numbers just about every day for over a decade, cash 5 lotto. Missed buying one for last night and lo and behold, all 5 hit. That would have been HUGE for me and my family, paid off debt, fix my house that’s falli",
+        "url": "https://reddit.com/r/Lottery/comments/1skey5q/ok_so_how_do_i_get_over_my_numbers_hitting_when_i/",
+        "timestamp": "2026-04-13T15:53:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sji393",
         "title": "Web3 lottery",
@@ -111,7 +156,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Check Powerball Winning Numbers April 11 2026: No Jackpot Winner as $35M Rolls Over to Monday",
+        "summary": "DES MOINES, Iowa — The latest Powerball drawing on Saturday, April 11, 2026, produced no jackpot winner, leaving the estimated prize to climb toward $45 million for Monday's draw after the white balls 6, 47, 49, 53 and 60 combined with a red Powerball of 6 an…",
+        "url": "https://www.ibtimes.com.au/check-powerball-winning-numbers-april-11-2026-no-jackpot-winner-35m-rolls-over-monday-1866251",
+        "timestamp": "2026-04-12T11:59:04Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -126,7 +186,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -156,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 162,
+        "comments": 46,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -447,51 +507,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sf89tl",
-        "title": "Need Help",
-        "summary": "I buy lottery tickets probably once every two weeks recently i had the urge to buy like 500$ wroth of tickets the most i have ever spent was 50$ and got 37$ back i know the lottery is basically a scam and chances are im going to lose most o",
-        "url": "https://reddit.com/r/Lottery/comments/1sf89tl/need_help/",
-        "timestamp": "2026-04-07T20:49:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 9,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sf6ptg",
-        "title": "Question re: NJ scratch off end game",
-        "summary": "I've been playing this game quite a bit the last few weeks since its odds of winning the remainder top prize have been relatively good. Fewer than 20% of tickets remain and it has been hard to find. Today, the liquor store I most recently g",
-        "url": "https://reddit.com/r/Lottery/comments/1sf6ptg/question_re_nj_scratch_off_end_game/",
-        "timestamp": "2026-04-07T19:51:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sf2b25",
-        "title": "I've built this analytic tools to perform lottery trend analysis",
-        "summary": "Please feel free to kick the tires on this comprehensive analytic tool.  I could use some feedback.   [https://mega-draw-stats.base44.app](https://mega-draw-stats.base44.app)",
-        "url": "https://reddit.com/r/Lottery/comments/1sf2b25/ive_built_this_analytic_tools_to_perform_lottery/",
-        "timestamp": "2026-04-07T17:15:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9u",
         "title": "California lottery accidentally releases $12M winner’s address: ‘This has never happened’",
         "summary": "The California Lottery shared the address of a $12 million lottery winner...on accident.",
@@ -520,51 +535,6 @@
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1sepp1g",
-        "title": "Another Powerball win!!",
-        "summary": "The jackpot winner is from Delaware. Congratulations to the winner 🏆 on your 230+ M prize!",
-        "url": "https://reddit.com/r/Lottery/comments/1sepp1g/another_powerball_win/",
-        "timestamp": "2026-04-07T08:02:48.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 31,
-        "comments": 19,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sepb4k",
-        "title": "Do structured number systems make sense for covering combinations?",
-        "summary": "I know that mathematically nothing changes expected value — the lottery is still negative in the long run. But I’ve been thinking about something more practical. If someone plays multiple tickets, does using a structured system (instead of ",
-        "url": "https://reddit.com/r/Lottery/comments/1sepb4k/do_structured_number_systems_make_sense_for/",
-        "timestamp": "2026-04-07T07:39:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sejvwb",
-        "title": "Oregon lottery scratch off ticket info",
-        "summary": "It looks like Oregon lottery has removed the  info for unclaimed winning tickets on their website. All I can find is how many \" grand\" prizes are unclaimed now.    I do not want to buy tickets that have none of the higher prizes still avail",
-        "url": "https://reddit.com/r/Lottery/comments/1sejvwb/oregon_lottery_scratch_off_ticket_info/",
-        "timestamp": "2026-04-07T02:51:40.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly90",
@@ -687,21 +657,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "From 14-hour shifts to lottery win for former Tata Steel workers",
-        "summary": "The 15 winners, formerly finance colleagues, made a pact to stay connected by contributing £5 to the lottery draw.",
-        "url": "https://www.bbc.com/news/articles/c8x7gy4l1vro",
-        "timestamp": "2026-04-01T12:53:01Z",
-        "source": "BBC News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-us-news-2026-mar-30-powerball-lottery-winner-burglary-arrest",
         "title": "Recent $167m lottery winner arrested for allegedly stealing $12,000 in Kentucky",
         "summary": "Burglary arrest was James Farthing’s latest run-in with the law after winning the Powerball jackpot last year",
@@ -718,17 +673,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 41,
+      "totalSignals": 38,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 33,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 20
+      "uncertaintyScore": 21
     }
   }
 }
