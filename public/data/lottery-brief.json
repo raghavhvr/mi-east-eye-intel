@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-13T05:30:00.894Z",
+  "generated_at": "2026-04-14T05:12:04.739Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 70,
+    "positive": 60,
     "neutral": 20,
-    "negative": 10
+    "negative": 20
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Winning big money",
   "keyEmotions": [
     "excitement",
-    "optimism",
-    "gratitude"
+    "disappointment",
+    "optimism"
   ],
-  "psychInsight": "The prospect of winning the lottery triggers a strong emotional response, driven by the desire for financial freedom and a better life. The use of tools and strategies to increase chances of winning suggests a cognitive bias towards control and agency in an otherwise random process.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking strategies to increase their chances, while others are motivated by the thrill of playing. The emotional rollercoaster of winning and losing is also evident, with some individuals experiencing disappointment and frustration when they miss out on potential wins.",
   "riskSignals": [
     "gambling addiction",
     "financial loss"
   ],
   "opportunitySignals": [
     "innovative lottery products",
-    "strategic playing"
+    "player engagement strategies"
   ]
 }
