@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-14T05:12:04.125Z",
+  "generated_at": "2026-04-15T05:12:18.813Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "Regional Travel",
-  "summary": "The region is experiencing a mix of travel and economic concerns, with some individuals seeking urgent visa help and others discussing oil prices. Overall, the tone remains cautious, with no major security threats identified in the open-source headlines.",
+  "topTheme": "MENA Regional Stability",
+  "summary": "The region remains relatively calm with no major security threats emerging from the headlines. Economic and social activities, such as airport operations and nursery reopenings, continue uninterrupted.",
   "keyTrends": [
-    "Travel Restrictions",
-    "Oil Prices",
-    "Visa Issues"
+    "Regional Trade",
+    "Airport Operations",
+    "Economic Stability"
   ],
   "watchItems": [
     "Strait of Hormuz",
-    "US Sanctions"
+    "US-Iran Relations"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Travel Ban",
-    "Economic Uncertainty"
+    "Lack of Security Incidents",
+    "Normalcy in Daily Life"
   ]
 }
