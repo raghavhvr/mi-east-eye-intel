@@ -1,49 +1,43 @@
 {
-  "generated_at": "2026-04-14T05:07:45.306Z",
+  "generated_at": "2026-04-15T05:08:39.075Z",
   "gdelt_tone": {
-    "UAE": -1.16,
-    "Saudi Arabia": -1.48,
-    "Qatar": -1.4,
-    "Kuwait": -2.87,
-    "Bahrain": -2.24,
-    "Oman": -1.34,
-    "Jordan": -1.72,
-    "Lebanon": -4.23,
-    "Iraq": -3.05,
-    "Egypt": -0.08,
-    "Yemen": -3.39,
-    "Iran": -3.4
+    "UAE": -0.95,
+    "Saudi Arabia": -1.22,
+    "Qatar": -1.04,
+    "Kuwait": -2.68,
+    "Bahrain": -1.95,
+    "Oman": -1.51,
+    "Jordan": -1.56,
+    "Lebanon": -4.01,
+    "Iraq": -2.81,
+    "Egypt": 0.09,
+    "Yemen": -3.53,
+    "Iran": -3.18
   },
   "weather": {
-    "UAE": {
-      "temp_c": 25,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 22,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Qatar": {
-      "temp_c": 24,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
     "Kuwait": {
-      "temp_c": 21,
-      "wind_kmh": 17,
+      "temp_c": 20,
+      "wind_kmh": 18,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Bahrain": {
-      "temp_c": 24,
-      "wind_kmh": 14,
+      "temp_c": 23,
+      "wind_kmh": 23,
       "condition": "Partly Cloudy",
       "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 20,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 16,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
     },
     "Oman": {
       "temp_c": 29,
@@ -51,56 +45,137 @@
       "condition": "Partly Cloudy",
       "city": "Muscat"
     },
-    "Lebanon": {
-      "temp_c": 17,
-      "wind_kmh": 3,
+    "Iran": {
+      "temp_c": 11,
+      "wind_kmh": 4,
       "condition": "Clear",
-      "city": "Beirut"
+      "city": "Tehran"
+    },
+    "Saudi Arabia": {
+      "temp_c": 18,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
     },
     "Yemen": {
       "temp_c": 17,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Sanaa"
     },
     "Jordan": {
-      "temp_c": 12,
-      "wind_kmh": 8,
-      "condition": "Clear",
+      "temp_c": 17,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 16,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Egypt": {
-      "temp_c": 17,
+      "temp_c": 18,
       "wind_kmh": 7,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 10,
-      "wind_kmh": 20,
-      "condition": "Clear",
-      "city": "Tehran"
+    "Qatar": {
+      "temp_c": 24,
+      "wind_kmh": 22,
+      "condition": "Partly Cloudy",
+      "city": "Doha"
+    },
+    "UAE": {
+      "temp_c": 25,
+      "wind_kmh": 22,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308413,
+    "KWD": 0.308432,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.14073,
-    "IQD": 1310.260078
+    "EGP": 52.486614,
+    "IQD": 1309.268315
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1slq70z",
+        "title": "Powerball is going international in an effort to build larger jackpots that draw more players",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1slq70z/powerball_is_going_international_in_an_effort_to/",
+        "timestamp": "2026-04-15T00:12:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1slonx0",
+        "title": "Scratch-offs in machine @ Lottery HQ (any state)",
+        "summary": "Are the machines in the lobby while you’re waiting for your winnings more or less lucrative or is there no rhyme or reason to any of the myths? TIA!",
+        "url": "https://reddit.com/r/Lottery/comments/1slonx0/scratchoffs_in_machine_lottery_hq_any_state/",
+        "timestamp": "2026-04-14T23:06:49.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1slo13r",
+        "title": "Small wins but still a win😁",
+        "summary": "I mostly play powerball but just wanted to try my luck at a scratch game definetly will start doing these more often.💪🏽",
+        "url": "https://reddit.com/r/Lottery/comments/1slo13r/small_wins_but_still_a_win/",
+        "timestamp": "2026-04-14T22:40:51.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sl6yam",
+        "title": "Lottery ticket dispensary machines @ grocery stores, gas stations",
+        "summary": "Does anybody know why the lottery machines stop receiving debit cards for payment?",
+        "url": "https://reddit.com/r/Lottery/comments/1sl6yam/lottery_ticket_dispensary_machines_grocery_stores/",
+        "timestamp": "2026-04-14T12:15:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9w",
+        "title": "BHPetrol Boom! Hadiah Percuma contest – eCard members stand a chance to win monthly grand prizes",
+        "summary": "Fuel retailer BHPetrol has announced a new contest called Boom! Hadiah Percuma, giving away prizes every month until January 31, 2027. The campaign is exclusive to BHPetrol eCard members, and customers who spend RM40 on […]\nThe post BHPetrol Boom! Hadiah Perc…",
+        "url": "https://paultan.org/2026/04/14/bhpetrol-boom-hadiah-percuma-contest-ecard-members-stand-a-chance-to-win-monthly-grand-prizes/",
+        "timestamp": "2026-04-14T02:27:38Z",
+        "source": "Paul Tan's Automotive News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1skud9g",
         "title": "What's the secret to winning on lottery tickets?",
@@ -132,6 +207,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "NBA mock draft 10.0: First-round projections before 2026 playoffs begin",
+        "summary": "The NBA regular season is over, which means many teams are shifting their focus entirely to the 2026 NBA Draft before the lottery in May.",
+        "url": "https://www.usatoday.com/story/sports/nba/draft/2026/04/13/nba-mock-draft-2026-first-round-predictions-playoffs-postseason/89593175007/",
+        "timestamp": "2026-04-13T20:35:24Z",
+        "source": "USA Today",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1skey5q",
         "title": "Ok, so how do I get over my numbers hitting when I didn’t play that night? Missed out on $85K",
         "summary": "I’ve been playing the same numbers just about every day for over a decade, cash 5 lotto. Missed buying one for last night and lo and behold, all 5 hit. That would have been HUGE for me and my family, paid off debt, fix my house that’s falli",
@@ -144,6 +234,21 @@
         "score": 1,
         "comments": 0,
         "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Lottery remains possible for play-in Heat . . . currently with 1% chance at No. 1",
+        "summary": "CHARLOTTE — Even with a singular goal of getting a victory Tuesday night at Spectrum Center against the Charlotte Hornets to extend their season, dual realities remain for the Miami Heat. In that regard, a fourth consecutive trip to the NBA play-in round chan…",
+        "url": "https://www.sun-sentinel.com/2026/04/13/lottery-remains-possible-for-play-in-heat-currently-with-1-chance-at-no-1/",
+        "timestamp": "2026-04-13T13:03:00Z",
+        "source": "Sun Sentinel",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -432,66 +537,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sfm9i2",
-        "title": "How genuine is we love lotto?",
-        "summary": "I am from srilanka thinking to play international lotteries of different countries through WE LOVE LOTTO  website which is 3rd party vendor . I am just curious to know how genuine this website is",
-        "url": "https://reddit.com/r/Lottery/comments/1sfm9i2/how_genuine_is_we_love_lotto/",
-        "timestamp": "2026-04-08T07:45:40.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sfj0mh",
-        "title": "What is this ? Mystery Scratcher?",
-        "summary": "I was on lotto website and I see a FREE scratcher game called Mystery scratcher. The idea is you get 7 days to get 3 symbols match and you get a few prizes and the major one is 10,000$ before taxes kick in. Each day you get 3 scratches.  It",
-        "url": "https://reddit.com/r/Lottery/comments/1sfj0mh/what_is_this_mystery_scratcher/",
-        "timestamp": "2026-04-08T04:36:36.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sfi188",
-        "title": "Lottery Insights Instruction Video for My App",
-        "summary": "Please watch the video and kick the tires on this tool.  Have Fun! [Lottery Insights by Aquila](https://mega-draw-stats.base44.app/)",
-        "url": "https://reddit.com/r/Lottery/comments/1sfi188/lottery_insights_instruction_video_for_my_app/",
-        "timestamp": "2026-04-08T03:47:01.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sfhpyb",
-        "title": "Created a Lottery Analytic Tool that is Gaining Momentum - See Quick Demo",
-        "summary": "[Please kick the tires and let me know what you think at:  https:\\/\\/mega-draw-stats.base44.app ](https://reddit.com/link/1sfhpyb/video/z1qd795iyvtg1/player) [Lottery Insights](https://mega-draw-stats.base44.app)",
-        "url": "https://reddit.com/r/Lottery/comments/1sfhpyb/created_a_lottery_analytic_tool_that_is_gaining/",
-        "timestamp": "2026-04-08T03:31:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9w",
         "title": "Hyundai Petaling Jaya grand launch bonanza from April 10-12 – win lucky draw prizes worth up to RM10k",
         "summary": "Hyundai Petaling Jaya, operated by Palm Motor, is set to host its grand launch bonanza this weekend, and if you’re in the market for a Hyundai, you can look forward to exciting lucky draw prizes […]\nThe post Hyundai Petaling Jaya grand launch bonanza from Apr…",
@@ -612,21 +657,6 @@
         "isME": true
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Winning Number April 1, 2026: No Jackpot Winner and $194 Million Prize Rolls Over",
-        "summary": "No ticket matched all six numbers in Wednesday night's Powerball drawing, leaving the estimated $194 million jackpot unclaimed and rolling over for a bigger prize on Saturday, lottery officials confirmed Thursday.",
-        "url": "https://www.ibtimes.com.au/powerball-winning-number-april-1-2026-no-jackpot-winner-194-million-prize-rolls-over-1865238",
-        "timestamp": "2026-04-02T14:24:11Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-money-2026-apr-02-us-student-loan-debt-forgiveness",
         "title": "Lucky few Americans whose student debt was forgiven: ‘I hit the lottery’",
         "summary": "Only a small fraction of about 43 million have had their debt cancelled, the relief for those who have is transformative",
@@ -673,17 +703,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 38,
-      "meSignals": 3,
+      "totalSignals": 40,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 32,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 21
+      "uncertaintyScore": 20
     }
   }
 }
