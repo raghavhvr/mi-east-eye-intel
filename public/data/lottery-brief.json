@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T05:12:19.539Z",
+  "generated_at": "2026-04-16T05:18:02.012Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Winning big prizes",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "disappointment"
+    "frustration"
   ],
-  "psychInsight": "The prospect of winning large jackpots triggers a strong emotional response, driven by the desire for financial freedom and a better life. The near-miss experiences, such as missing out on a potential win, can evoke feelings of frustration and regret, but also motivate individuals to continue playing.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, with many holding onto hope and optimism despite low odds. The occasional small wins reinforce this behavior, creating a psychological feedback loop of anticipation and expectation.",
   "riskSignals": [
-    "problem gambling",
-    "financial loss"
+    "scratch-off games manipulation",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "new market opportunities"
+    "expanding international lotteries",
+    "growing demand for lottery tickets"
   ]
 }
