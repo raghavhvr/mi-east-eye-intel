@@ -1,106 +1,211 @@
 {
-  "generated_at": "2026-04-16T05:14:39.635Z",
+  "generated_at": "2026-04-17T05:12:52.243Z",
   "gdelt_tone": {
-    "UAE": -0.54,
-    "Saudi Arabia": -1.07,
-    "Qatar": -0.9,
-    "Kuwait": -2.52,
-    "Bahrain": -1.48,
-    "Oman": -1.35,
-    "Jordan": -1.5,
-    "Lebanon": -3.86,
-    "Iraq": -2.85,
-    "Egypt": 0.27,
-    "Yemen": -3.63,
-    "Iran": -3.18
+    "UAE": -0.23,
+    "Saudi Arabia": -0.92,
+    "Qatar": -0.68,
+    "Kuwait": -2.27,
+    "Bahrain": -1.88,
+    "Oman": -1.02,
+    "Jordan": -1.43,
+    "Lebanon": -3.24,
+    "Iraq": -2.79,
+    "Egypt": 0.26,
+    "Yemen": -4.06,
+    "Iran": -3.08
   },
   "weather": {
-    "UAE": {
-      "temp_c": 25,
-      "wind_kmh": 26,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 21,
-      "wind_kmh": 2,
+      "temp_c": 22,
+      "wind_kmh": 1,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 23,
-      "wind_kmh": 18,
+    "Bahrain": {
+      "temp_c": 24,
+      "wind_kmh": 16,
       "condition": "Partly Cloudy",
-      "city": "Doha"
+      "city": "Manama"
+    },
+    "UAE": {
+      "temp_c": 25,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Jordan": {
+      "temp_c": 18,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
     },
     "Oman": {
-      "temp_c": 28,
+      "temp_c": 27,
       "wind_kmh": 7,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Kuwait": {
-      "temp_c": 21,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
+    "Qatar": {
       "temp_c": 24,
-      "wind_kmh": 21,
+      "wind_kmh": 12,
       "condition": "Partly Cloudy",
-      "city": "Manama"
+      "city": "Doha"
     },
     "Lebanon": {
-      "temp_c": 21,
+      "temp_c": 22,
       "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Jordan": {
-      "temp_c": 18,
-      "wind_kmh": 18,
+    "Kuwait": {
+      "temp_c": 23,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
-      "city": "Amman"
+      "city": "Kuwait City"
     },
     "Egypt": {
-      "temp_c": 17,
-      "wind_kmh": 2,
-      "condition": "Clear",
+      "temp_c": 23,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 16,
-      "wind_kmh": 1,
+    "Iraq": {
+      "temp_c": 19,
+      "wind_kmh": 8,
       "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Baghdad"
     },
     "Iran": {
       "temp_c": 11,
-      "wind_kmh": 2,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Tehran"
     },
-    "Iraq": {
+    "Yemen": {
       "temp_c": 18,
-      "wind_kmh": 11,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308369,
+    "KWD": 0.308037,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.028264,
-    "IQD": 1309.952698
+    "EGP": 51.81009,
+    "IQD": 1309.326547
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sno1zb",
+        "title": "Powerball tool",
+        "summary": "I built a simple Powerball tool just out of curiosity about the data Basically it does a few things: * 📊 Frequency stats — shows which numbers appear more/less often in real draws * 🎲 Random number generator — quick free picks * 🔍 Number",
+        "url": "https://reddit.com/r/Lottery/comments/1sno1zb/powerball_tool/",
+        "timestamp": "2026-04-17T02:27:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sndhw5",
+        "title": "Eurojackpot Discord",
+        "summary": "Hey Eurojackpot and lottery players!    If you happen to play Eurojackpot actively or are just interested to talk about the lottery game, please join the link below: [https://discord.gg/vWpfkAQegR](https://discord.gg/vWpfkAQegR)    We have ",
+        "url": "https://reddit.com/r/Lottery/comments/1sndhw5/eurojackpot_discord/",
+        "timestamp": "2026-04-16T19:19:14.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1snakme",
+        "title": "If I win",
+        "summary": "I would find an island somewhere and buy it and have little cabanas for my friends.  Always buying and always checking [lotteryoddsnow.com](http://lotteryoddsnow.com)",
+        "url": "https://reddit.com/r/Lottery/comments/1snakme/if_i_win/",
+        "timestamp": "2026-04-16T17:37:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sn755d",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1sn755d/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-04-16T15:38:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sn3rnb",
+        "title": "I built a \"No-Gambling\" Lotto Simulator because I love the thrill but hate the risk. Would love your feedback!",
+        "summary": "Hi Reddit, I'm a solo developer who's always been fascinated by the \"what if\" of lottery numbers. I wanted to create a space where people can experience that 5+1 ball-drawing excitement without the stress of losing real money. So, I built \"",
+        "url": "https://reddit.com/r/Lottery/comments/1sn3rnb/i_built_a_nogambling_lotto_simulator_because_i/",
+        "timestamp": "2026-04-16T13:36:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1smypji",
+        "title": "(UK) I’m playing the lottery for the last time this Friday (17 April 2026), I’ve spent £50 on my last draw- EuroMillions.",
+        "summary": "For most of my life, I’ve never been into the lottery or gambling. The maths just doesn’t add up. It’s not a scam, but it’s far less likely to make you rich than almost any other route. As a bit of a maths nerd, I never saw the appeal, and ",
+        "url": "https://reddit.com/r/Lottery/comments/1smypji/uk_im_playing_the_lottery_for_the_last_time_this/",
+        "timestamp": "2026-04-16T09:39:31.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1smwwtz",
+        "title": "Which lottery is actually \"better\" in terms of odds and expected value?",
+        "summary": "Hey guys, I’ve been wondering about this for a while and wanted to get some more informed opinions. From a purely mathematical perspective, which lottery would you consider “better”? I’m comparing things like the Eurojackpot against the Pow",
+        "url": "https://reddit.com/r/Lottery/comments/1smwwtz/which_lottery_is_actually_better_in_terms_of_odds/",
+        "timestamp": "2026-04-16T07:51:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1smreid",
         "title": "Powerball expanding to the UK!!",
@@ -162,6 +267,36 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Edgy Arsenal squeeze past Sporting Lisbon to set up Atlético semi-final",
+        "summary": "Kai Havertz first-leg goal proves the difference after Emirates draw",
+        "url": "https://www.irishtimes.com/sport/soccer/2026/04/15/edgy-arsenal-squeeze-past-sporting-lisbon-to-set-up-atletico-semi-final/",
+        "timestamp": "2026-04-15T21:16:20Z",
+        "source": "The Irish Times",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Raffle winner surprised — even skeptical — upon landing $1M Picasso",
+        "summary": "A Parisian art enthusiast could not believe his luck when he found out Tuesday he'd won a Pablo Picasso painting worth more than $1 million in a raffle.",
+        "url": "https://www.cbc.ca/news/entertainment/raffle-winner-picasso-painting-9.7164517",
+        "timestamp": "2026-04-15T17:16:04Z",
+        "source": "CBC News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1smbigy",
         "title": "State lotteries are pulling scratch-off games early — before the top prizes are ever paid out. 7 years of data shows it happens in 60% of ended games and is getting worse in several states.",
         "summary": "We built a database that tracks prize data daily from official state lottery websites across 40+ states, and we used it to answer a question the lottery industry never has to answer publicly: when a state ends a scratch-off game, how often ",
@@ -177,6 +312,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Haiku on ARM64 boots to desktop in QEMU",
+        "summary": "Another Haiku monthly activity report, but this time around, there’s actually a big ticket item. Haiku has been in a pretty solid and stable state for a while now, so the activity reports have been dominated by fairly small, obscure changes, but during March …",
+        "url": "https://www.osnews.com/story/144799/haiku-on-arm64-boots-to-desktop-in-qemu/",
+        "timestamp": "2026-04-15T15:10:58Z",
+        "source": "Osnews.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
         "id": "guardian-lot-world-2026-apr-15-picasso-painting-winner-charity-raffle",
         "title": "Paris art enthusiast wins €1m Picasso painting in €100 charity raffle",
         "summary": "Ari Hodara initially thought it might be a hoax after winning raffle he found out about by chance while dining out",
@@ -184,6 +334,21 @@
         "timestamp": "2026-04-15T13:36:22Z",
         "source": "The Guardian",
         "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "US lottery with 'uncapped' jackpot to launch in UK",
+        "summary": "The Powerball which has an uncapped jackpot and resulted in the largest ever lottery win is going to launch in the UK",
+        "url": "https://www.ladbible.com/news/uk-news/powerball-lottery-launch-uk-uncapped-jackpot-652608-20260415",
+        "timestamp": "2026-04-15T12:35:07Z",
+        "source": "LADbible",
+        "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
         "score": 0,
@@ -222,6 +387,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
+        "summary": "\"How do I check that it's not a hoax?\" said Ari Hodara. The Parisian art enthusiast could not believe his luck when he found out he'd won a Pablo Picasso painting worth $1 million.",
+        "url": "https://www.npr.org/2026/04/15/g-s1-117480/raffle-winner-picasso",
+        "timestamp": "2026-04-15T08:20:44Z",
+        "source": "NPR",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1slq70z",
         "title": "Powerball is going international in an effort to build larger jackpots that draw more players",
         "summary": "↑1 · 💬0",
@@ -246,8 +426,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -261,8 +441,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 21,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -276,8 +456,8 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": true
       },
@@ -537,51 +717,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1shxkf4",
-        "title": "I built a simple Powerball number generator – looking for feedback",
-        "summary": "Hey everyone, I’ve been experimenting with lottery number patterns and ended up building a small Powerball app. It generates number combinations and I’m trying to improve it based on real user feedback. If anyone is interested in testing (f",
-        "url": "https://reddit.com/r/Lottery/comments/1shxkf4/i_built_a_simple_powerball_number_generator/",
-        "timestamp": "2026-04-10T20:04:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1shx5rl",
-        "title": "Scratch ticket ranking tool for MA, NH, ME, VT, RI, CT, NY, NJ, PA, MD, VA",
-        "summary": "Scrapes 11 Northeast state lottery sites every morning and ranks every game by remaining top prizes. Free top 5 daily picks, full per-state lists are $2/year. All in good fun!! 🎟️ If any of these are your state, check it out",
-        "url": "https://reddit.com/r/Lottery/comments/1shx5rl/scratch_ticket_ranking_tool_for_ma_nh_me_vt_ri_ct/",
-        "timestamp": "2026-04-10T19:49:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1shnjl0",
-        "title": "Has anyone actually been able to find grand prizes in scratch offs that are past their prime?",
-        "summary": "I have heard that some use a strategy of seeking out older scratch off tickets that are still active but no longer the main promoted game. There are less tickets out there but there are still prizes remaining, even a jackpot or two.  I've s",
-        "url": "https://reddit.com/r/Lottery/comments/1shnjl0/has_anyone_actually_been_able_to_find_grand/",
-        "timestamp": "2026-04-10T14:06:03.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 12,
-        "comments": 18,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Luck strikes anytime: Energy drink stop turns into $551,000 lottery windfall for Kentucky truck driver",
         "summary": "What started as a quick stop for an energy drink turned into a moment James Milby will never forget. A simple detour to a local store in Glasgow, Kentucky, ended with the truck driver walking away with a lottery win worth more than half a million dollars, com…",
@@ -640,51 +775,6 @@
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "How to be successful in life, as per psychology",
-        "summary": "While many people want to be successful, not many are able to be so. So, what's the secret to their success? Well, success isn't a cosmic lottery win or a lucky break. It’s a playbook that psychologists have been decoding for decades. Think of it as a softwar…",
-        "url": "https://timesofindia.indiatimes.com/relationships/how-to-be-successful-in-life-as-per-psychology/photostory/130043676.cms",
-        "timestamp": "2026-04-05T17:25:21Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball winning numbers: Did anyone win the jackpot on April 4? Power Play multiplier revealed",
-        "summary": "The Powerball Lottery continues to draw millions of participants due to its massive jackpots and widespread accessibility. Broadcast live on official lottery websites and local television stations, the draw remains a major event for players hoping to strike i…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-winning-numbers-did-anyone-win-the-jackpot-on-april-4-power-play-multiplier-revealed/articleshow/130038057.cms",
-        "timestamp": "2026-04-05T11:08:36Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Winning Numbers for April 4 2026: No Jackpot Winner, Prize to Climb to $231 Million",
-        "summary": "The Powerball jackpot rolled over again Saturday night after no ticket matched all six numbers in the April 4, 2026 drawing, leaving the estimated grand prize to climb toward $231 million for Monday's drawing.",
-        "url": "https://www.ibtimes.com.au/powerball-winning-numbers-april-4-2026-no-jackpot-winner-prize-climb-231-million-1865421",
-        "timestamp": "2026-04-05T10:19:03Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       },
       {
         "id": "guardian-lot-uk-news-2026-apr-03-it-cant-be-them-london-national-lottery-jackpot-winner-misses-out-on-106m",
@@ -748,17 +838,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 43,
-      "meSignals": 3,
+      "totalSignals": 49,
+      "meSignals": 5,
       "moodDist": {
-        "HOPEFUL": 32,
+        "HOPEFUL": 38,
         "CYNICAL": 0,
-        "ANXIOUS": 4,
-        "NEUTRAL": 7
+        "ANXIOUS": 5,
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 26
+      "uncertaintyScore": 22
     }
   }
 }
