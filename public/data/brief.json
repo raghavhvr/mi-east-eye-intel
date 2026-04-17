@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-16T05:18:01.263Z",
+  "generated_at": "2026-04-17T05:16:32.506Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "UAE Daily Life",
-  "summary": "The open-source headlines indicate a focus on everyday life in the UAE, with discussions on parking, driving tests, and tourist attractions. There is no indication of any significant security threats or concerns in the region",
+  "threatLevel": "MODERATE",
+  "topTheme": "Regional Security",
+  "summary": "The MENA region is experiencing a mix of security concerns and everyday issues, with some users seeking advice on residency and licenses. Regional tensions, such as the potential for war with Iran, are also a concern for some users.",
   "keyTrends": [
-    "UAE tourism",
-    "daily life",
-    "expat experiences"
+    "Regional Security",
+    "Daily Life",
+    "Technology"
   ],
   "watchItems": [
-    "UAE infrastructure",
-    "expat sentiment"
+    "Iran-Israel Tensions",
+    "Kuwait Residency Policies"
   ],
-  "userSentiment": "OPTIMISTIC",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "positive experiences in UAE",
-    "appreciation for UAE lifestyle"
+    "Regional Conflict",
+    "Economic Uncertainty"
   ]
 }
