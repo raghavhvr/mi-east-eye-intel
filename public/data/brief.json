@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-17T05:16:32.506Z",
+  "generated_at": "2026-04-18T04:56:50.021Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Regional Security",
-  "summary": "The MENA region is experiencing a mix of security concerns and everyday issues, with some users seeking advice on residency and licenses. Regional tensions, such as the potential for war with Iran, are also a concern for some users.",
+  "topTheme": "Iran Nuclear Tensions",
+  "summary": "The US and Iran remain at odds over nuclear negotiations, with the US threatening consequences if a deal is not reached. Regional dialogue efforts, such as those convened by Turkey, may help mitigate escalating tensions in the MENA region.",
   "keyTrends": [
-    "Regional Security",
-    "Daily Life",
-    "Technology"
+    "US-Iran Relations",
+    "Nuclear Negotiations",
+    "Regional Dialogue"
   ],
   "watchItems": [
-    "Iran-Israel Tensions",
-    "Kuwait Residency Policies"
+    "Strait of Hormuz",
+    "Iranian Uranium Enrichment"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Conflict",
-    "Economic Uncertainty"
+    "Escalating US-Iran Rhetoric",
+    "Regional Security Concerns"
   ]
 }

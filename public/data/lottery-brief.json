@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-04-17T05:16:33.315Z",
+  "generated_at": "2026-04-18T04:56:50.657Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Winning Big Dreams",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "frustration"
+    "envy"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking thrills without risking financial stability. The lottery's potential for massive payouts taps into people's inherent optimism and desire for a better life",
+  "psychInsight": "The public's fascination with lottery and gambling is driven by the desire for a life-changing windfall, and the thrill of possibility is a powerful motivator. The willingness to take risks and invest in lottery tickets is often fueled by a mix of hope and desperation, with the potential for a big win overriding concerns about the odds of success.",
   "riskSignals": [
     "problem gambling",
-    "unfair odds"
+    "financial loss"
   ],
   "opportunitySignals": [
     "innovative gaming tools",
