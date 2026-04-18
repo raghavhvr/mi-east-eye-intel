@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-04-17T05:12:52.243Z",
+  "generated_at": "2026-04-18T04:42:36.602Z",
   "gdelt_tone": {
-    "UAE": -0.23,
-    "Saudi Arabia": -0.92,
-    "Qatar": -0.68,
-    "Kuwait": -2.27,
-    "Bahrain": -1.88,
-    "Oman": -1.02,
-    "Jordan": -1.43,
-    "Lebanon": -3.24,
-    "Iraq": -2.79,
-    "Egypt": 0.26,
-    "Yemen": -4.06,
-    "Iran": -3.08
+    "UAE": -0.56,
+    "Saudi Arabia": -0.61,
+    "Qatar": -0.58,
+    "Kuwait": -1.77,
+    "Bahrain": -1.86,
+    "Oman": -1.07,
+    "Jordan": -1.47,
+    "Lebanon": -2.94,
+    "Iraq": -2.84,
+    "Egypt": 0.22,
+    "Yemen": -3.94,
+    "Iran": -2.96
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 22,
-      "wind_kmh": 1,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Bahrain": {
-      "temp_c": 24,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
     "UAE": {
       "temp_c": 25,
-      "wind_kmh": 13,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Jordan": {
-      "temp_c": 18,
-      "wind_kmh": 14,
+    "Saudi Arabia": {
+      "temp_c": 23,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Oman": {
-      "temp_c": 27,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Qatar": {
-      "temp_c": 24,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
-    "Lebanon": {
-      "temp_c": 22,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Riyadh"
     },
     "Kuwait": {
       "temp_c": 23,
-      "wind_kmh": 10,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
-    "Egypt": {
+    "Qatar": {
       "temp_c": 23,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 24,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 28,
       "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Jordan": {
+      "temp_c": 18,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Lebanon": {
+      "temp_c": 23,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 21,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 21,
+      "wind_kmh": 15,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iraq": {
-      "temp_c": 19,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Iran": {
-      "temp_c": 11,
-      "wind_kmh": 4,
+      "temp_c": 13,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Tehran"
     },
     "Yemen": {
-      "temp_c": 18,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
+      "temp_c": 16,
+      "wind_kmh": 5,
+      "condition": "Clear",
       "city": "Sanaa"
     }
   },
@@ -92,15 +92,30 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308037,
+    "KWD": 0.308143,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.81009,
-    "IQD": 1309.326547
+    "EGP": 51.799412,
+    "IQD": 1309.314055
   },
   "lottery": {
     "items": [
+      {
+        "id": "guardian-lot-uk-news-2026-apr-17-richard-desmond-loses-damages-battle-with-gambling-commission-ending-national-lottery-dispute",
+        "title": "Richard Desmond loses £1.3bn damages battle over national lottery licence",
+        "summary": "Media tycoon vows to appeal after dismissal of action against Gambling Commission for awarding Allwyn the franchise",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/17/richard-desmond-loses-damages-battle-with-gambling-commission-ending-national-lottery-dispute",
+        "timestamp": "2026-04-17T10:54:12Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sno1zb",
         "title": "Powerball tool",
@@ -162,6 +177,36 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9y",
+        "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
+        "summary": "\"How do I check that it's not a hoax?\" Ari Hodara, 58, said after organizers called him following the draw at a Paris auction house.",
+        "url": "https://richmond.com/life-entertainment/nation-world/art-theater/article_6fbc9294-5b39-5fe1-b437-989ca0b2de97.html",
+        "timestamp": "2026-04-16T14:30:00Z",
+        "source": "Richmond.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9y",
+        "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
+        "summary": "\"How do I check that it's not a hoax?\" Ari Hodara, 58, said after organizers called him following the draw at a Paris auction house.",
+        "url": "https://roanoke.com/life-entertainment/nation-world/art-theater/article_2bb453e8-a7a3-5834-abd1-ff45dd11d2a5.html",
+        "timestamp": "2026-04-16T14:30:00Z",
+        "source": "Roanoke Times",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1sn3rnb",
         "title": "I built a \"No-Gambling\" Lotto Simulator because I love the thrill but hate the risk. Would love your feedback!",
         "summary": "Hi Reddit, I'm a solo developer who's always been fascinated by the \"what if\" of lottery numbers. I wanted to create a space where people can experience that 5+1 ball-drawing excitement without the stress of losing real money. So, I built \"",
@@ -172,6 +217,21 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Numbers April 15 2026: No Jackpot Winner as $58M Prize Rolls Over to $75M",
+        "summary": "DES MOINES, Iowa — No ticket matched all six numbers in Wednesday night's Powerball drawing, leaving the estimated $58 million jackpot unclaimed and setting the stage for a larger prize Saturday as the game continues its rollover streak.",
+        "url": "https://www.ibtimes.com.au/powerball-numbers-april-15-2026-no-jackpot-winner-58m-prize-rolls-over-75m-1866745",
+        "timestamp": "2026-04-16T13:04:07Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -306,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 28,
+        "comments": 25,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -366,8 +426,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -404,15 +464,15 @@
       {
         "id": "reddit-lot-1slq70z",
         "title": "Powerball is going international in an effort to build larger jackpots that draw more players",
-        "summary": "↑1 · 💬0",
+        "summary": "↑23 · 💬51",
         "url": "https://reddit.com/r/Lottery/comments/1slq70z/powerball_is_going_international_in_an_effort_to/",
         "timestamp": "2026-04-15T00:12:10.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 23,
+        "comments": 51,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -687,36 +747,6 @@
         "isME": true
       },
       {
-        "id": "reddit-lot-1si79ph",
-        "title": "Virginia online lottery",
-        "summary": "How do you playthe online games?  do you just  buy 1 $5 game like you would buy a ticket in a retail store? Or do you play it like you are feeding a slot machine $ after $ after $ spending hundred or thousands of dollars?",
-        "url": "https://reddit.com/r/Lottery/comments/1si79ph/virginia_online_lottery/",
-        "timestamp": "2026-04-11T02:54:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1si4fei",
-        "title": "I stopped picking random lottery numbers — here’s what I’m using now",
-        "summary": "↑0 · 💬3",
-        "url": "https://reddit.com/r/Lottery/comments/1si4fei/i_stopped_picking_random_lottery_numbers_heres/",
-        "timestamp": "2026-04-11T00:42:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Luck strikes anytime: Energy drink stop turns into $551,000 lottery windfall for Kentucky truck driver",
         "summary": "What started as a quick stop for an energy drink turned into a moment James Milby will never forget. A simple detour to a local store in Glasgow, Kentucky, ended with the truck driver walking away with a lottery win worth more than half a million dollars, com…",
@@ -760,21 +790,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Middle East and Africa Travel Retail Market Trends and Forecasts Report 2026: A $15.59 Billion Market by 2031 Featuring Dufry, Lagardere Travel Retail, Dubai Duty Free, and Qatar Duty Free",
-        "summary": "The Middle East and Africa travel retail market is driven by strong tourism policies, airport capacity growth, and mobile wallet use, which bolster leisure travel and e-commerce conversions. Duty-free perks, VAT refunds, and AfCFTA enhance business travel, wh…",
-        "url": "https://www.globenewswire.com/news-release/2026/04/07/3268891/28124/en/Middle-East-and-Africa-Travel-Retail-Market-Trends-and-Forecasts-Report-2026-A-15-59-Billion-Market-by-2031-Featuring-Dufry-Lagardere-Travel-Retail-Dubai-Duty-Free-and-Qatar-Duty-F.html",
-        "timestamp": "2026-04-07T08:48:00Z",
-        "source": "GlobeNewswire",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": true
       },
       {
         "id": "guardian-lot-uk-news-2026-apr-03-it-cant-be-them-london-national-lottery-jackpot-winner-misses-out-on-106m",
@@ -838,17 +853,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 49,
-      "meSignals": 5,
+      "totalSignals": 50,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 38,
+        "HOPEFUL": 41,
         "CYNICAL": 0,
         "ANXIOUS": 5,
-        "NEUTRAL": 6
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 18
     }
   }
 }
