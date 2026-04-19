@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-04-18T04:42:36.602Z",
+  "generated_at": "2026-04-19T05:12:51.664Z",
   "gdelt_tone": {
-    "UAE": -0.56,
-    "Saudi Arabia": -0.61,
-    "Qatar": -0.58,
-    "Kuwait": -1.77,
-    "Bahrain": -1.86,
-    "Oman": -1.07,
-    "Jordan": -1.47,
-    "Lebanon": -2.94,
-    "Iraq": -2.84,
-    "Egypt": 0.22,
-    "Yemen": -3.94,
-    "Iran": -2.96
+    "UAE": -0.62,
+    "Saudi Arabia": -0.68,
+    "Qatar": -0.38,
+    "Kuwait": -1.89,
+    "Bahrain": -1.6,
+    "Oman": -1.18,
+    "Jordan": -1.29,
+    "Lebanon": -3.05,
+    "Iraq": -2.92,
+    "Egypt": 0.15,
+    "Yemen": -3.56,
+    "Iran": -3.04
   },
   "weather": {
-    "UAE": {
-      "temp_c": 25,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 23,
-      "wind_kmh": 4,
+      "temp_c": 28,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 23,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
     "Qatar": {
-      "temp_c": 23,
-      "wind_kmh": 6,
+      "temp_c": 27,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Bahrain": {
-      "temp_c": 24,
-      "wind_kmh": 10,
+    "Kuwait": {
+      "temp_c": 26,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "UAE": {
+      "temp_c": 26,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Bahrain": {
+      "temp_c": 25,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 17,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 22,
+      "wind_kmh": 6,
+      "condition": "Showers",
+      "city": "Baghdad"
+    },
+    "Iran": {
+      "temp_c": 15,
+      "wind_kmh": 1,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     },
     "Oman": {
       "temp_c": 28,
       "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 18,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 23,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
-    "Iraq": {
-      "temp_c": 21,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Egypt": {
-      "temp_c": 21,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 13,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
     "Yemen": {
-      "temp_c": 16,
-      "wind_kmh": 5,
+      "temp_c": 18,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Jordan": {
+      "temp_c": 14,
+      "wind_kmh": 18,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 18,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308143,
+    "KWD": 0.308073,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.799412,
-    "IQD": 1309.314055
+    "EGP": 51.8068,
+    "IQD": 1309.295088
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sph17e",
+        "title": "Well Well Well",
+        "summary": "I just helped fund my trip to Massachusetts to try and leave a scratch off millionaire. Iam based out of NY and have been playing VIP millions and recently hit on a couple of mid tier prizes and had about 1700 in scratchers that I was going",
+        "url": "https://reddit.com/r/Lottery/comments/1sph17e/well_well_well/",
+        "timestamp": "2026-04-19T02:51:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1spfda2",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1spfda2/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-04-19T01:30:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "guardian-lot-uk-news-2026-apr-17-richard-desmond-loses-damages-battle-with-gambling-commission-ending-national-lottery-dispute",
         "title": "Richard Desmond loses £1.3bn damages battle over national lottery licence",
@@ -216,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 8,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -261,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -276,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 0,
-        "comments": 0,
+        "score": 28,
+        "comments": 20,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -306,7 +336,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 29,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -321,7 +351,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 5,
         "comments": 0,
         "mood": "ANXIOUS",
         "isME": false
@@ -687,102 +717,12 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sirjsa",
-        "title": "I won 5k on a scratcher and decided to try my luck again.",
-        "summary": "Well here's an update for anyone interested. I took the 5k and added 1k of mine and decided to reinvest into the game.  I asked the store to order me 10 books which they did, 5 came the next day and 5 came the day after. Both sets of 5 book",
-        "url": "https://reddit.com/r/Lottery/comments/1sirjsa/i_won_5k_on_a_scratcher_and_decided_to_try_my/",
-        "timestamp": "2026-04-11T18:54:47.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 162,
-        "comments": 46,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1siqu8g",
-        "title": "Won the lottery! Thank you.",
-        "summary": "Won the lottery. Thank you.",
-        "url": "https://reddit.com/r/Lottery/comments/1siqu8g/won_the_lottery_thank_you/",
-        "timestamp": "2026-04-11T18:28:01.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1simv1d",
-        "title": "This is strange.",
-        "summary": "I scratched this ticket and as you can see there are no winning numbers and all the bonuses on top say no bonus. However, when I scan it on the lottery app it says this and I confirmed the ticket number matches.  I even went to a convenient",
-        "url": "https://reddit.com/r/Lottery/comments/1simv1d/this_is_strange/",
-        "timestamp": "2026-04-11T15:58:55.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 21,
-        "comments": 19,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sielxh",
-        "title": "Suggestion between O millionaire or Emirates draw easy 6",
-        "summary": "I have been playing lotteries from last 2-3 years. I usually play 6 digit lotteries, where user can select his own numbers. Now i am confused between the O millionaire & Emirates Draw Easy 6.  both are 6 / 7 digit pick your own style lotter",
-        "url": "https://reddit.com/r/Lottery/comments/1sielxh/suggestion_between_o_millionaire_or_emirates_draw/",
-        "timestamp": "2026-04-11T09:38:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 2,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": true
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Luck strikes anytime: Energy drink stop turns into $551,000 lottery windfall for Kentucky truck driver",
         "summary": "What started as a quick stop for an energy drink turned into a moment James Milby will never forget. A simple detour to a local store in Glasgow, Kentucky, ended with the truck driver walking away with a lottery win worth more than half a million dollars, com…",
         "url": "https://economictimes.indiatimes.com/news/international/us/luck-strikes-anytime-energy-drink-stop-turns-into-551000-lottery-windfall-for-kentucky-truck-driver/articleshow/130153341.cms",
         "timestamp": "2026-04-10T00:10:42Z",
         "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9w",
-        "title": "Hyundai Petaling Jaya grand launch bonanza from April 10-12 – win lucky draw prizes worth up to RM10k",
-        "summary": "Hyundai Petaling Jaya, operated by Palm Motor, is set to host its grand launch bonanza this weekend, and if you’re in the market for a Hyundai, you can look forward to exciting lucky draw prizes […]\nThe post Hyundai Petaling Jaya grand launch bonanza from Apr…",
-        "url": "https://paultan.org/2026/04/08/hyundai-petaling-jaya-grand-launch-bonanza/",
-        "timestamp": "2026-04-08T03:02:59Z",
-        "source": "Paul Tan's Automotive News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9u",
-        "title": "California lottery accidentally releases $12M winner’s address: ‘This has never happened’",
-        "summary": "The California Lottery shared the address of a $12 million lottery winner...on accident.",
-        "url": "https://nypost.com/2026/04/07/us-news/california-lottery-accidentally-releases-winners-address/",
-        "timestamp": "2026-04-07T16:49:08Z",
-        "source": "New York Post",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -853,17 +793,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 50,
-      "meSignals": 4,
+      "totalSignals": 46,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 41,
+        "HOPEFUL": 37,
         "CYNICAL": 0,
         "ANXIOUS": 5,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 18
+      "uncertaintyScore": 20
     }
   }
 }
