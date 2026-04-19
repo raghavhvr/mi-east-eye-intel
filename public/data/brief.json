@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-18T04:56:50.021Z",
+  "generated_at": "2026-04-19T05:16:42.680Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Iran Nuclear Tensions",
-  "summary": "The US and Iran remain at odds over nuclear negotiations, with the US threatening consequences if a deal is not reached. Regional dialogue efforts, such as those convened by Turkey, may help mitigate escalating tensions in the MENA region.",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Security",
+  "summary": "The majority of headlines are unrelated to regional security, but a Houthi official's statement on closing Bab al-Mandeb raises concerns. Overall, the region's security landscape remains stable, with no major escalations reported.",
   "keyTrends": [
-    "US-Iran Relations",
-    "Nuclear Negotiations",
-    "Regional Dialogue"
+    "Houthi statements",
+    "expat job market",
+    "education comparisons"
   ],
   "watchItems": [
-    "Strait of Hormuz",
-    "Iranian Uranium Enrichment"
+    "Bab al-Mandeb",
+    "Houthi movements"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating US-Iran Rhetoric",
-    "Regional Security Concerns"
+    "regional instability",
+    "economic uncertainty"
   ]
 }
