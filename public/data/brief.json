@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-19T05:16:42.680Z",
+  "generated_at": "2026-04-20T05:28:40.126Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Security",
-  "summary": "The majority of headlines are unrelated to regional security, but a Houthi official's statement on closing Bab al-Mandeb raises concerns. Overall, the region's security landscape remains stable, with no major escalations reported.",
+  "threatLevel": "MODERATE",
+  "topTheme": "Iran Regional Tensions",
+  "summary": "Iran's refusal to attend US talks and recent executions of alleged spies indicate heightened tensions, while regional issues like rent and labor disputes continue to affect daily life. Ongoing construction and everyday concerns also dominate local discourse",
   "keyTrends": [
-    "Houthi statements",
-    "expat job market",
-    "education comparisons"
+    "Iran-US Relations",
+    "Regional Security",
+    "Economic Concerns"
   ],
   "watchItems": [
-    "Bab al-Mandeb",
-    "Houthi movements"
+    "Iran-Israel Relations",
+    "Lebanon Truce Talks"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "regional instability",
-    "economic uncertainty"
+    "Regional Instability",
+    "Economic Uncertainty"
   ]
 }
