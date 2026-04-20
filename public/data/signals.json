@@ -1,89 +1,65 @@
 {
-  "generated_at": "2026-04-19T05:12:51.664Z",
+  "generated_at": "2026-04-20T05:24:03.837Z",
   "gdelt_tone": {
-    "UAE": -0.62,
-    "Saudi Arabia": -0.68,
-    "Qatar": -0.38,
-    "Kuwait": -1.89,
-    "Bahrain": -1.6,
-    "Oman": -1.18,
-    "Jordan": -1.29,
+    "UAE": -0.81,
+    "Saudi Arabia": -0.72,
+    "Qatar": -0.39,
+    "Kuwait": -1.54,
+    "Bahrain": -1.66,
+    "Oman": -1.43,
+    "Jordan": -1.46,
     "Lebanon": -3.05,
-    "Iraq": -2.92,
-    "Egypt": 0.15,
+    "Iraq": -2.93,
+    "Egypt": 0.02,
     "Yemen": -3.56,
-    "Iran": -3.04
+    "Iran": -3.2
   },
   "weather": {
-    "Saudi Arabia": {
+    "UAE": {
       "temp_c": 28,
-      "wind_kmh": 6,
+      "wind_kmh": 1,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 25,
+      "wind_kmh": 16,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
     "Qatar": {
       "temp_c": 27,
       "wind_kmh": 7,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 26,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
+      "temp_c": 22,
+      "wind_kmh": 15,
+      "condition": "Rain",
       "city": "Kuwait City"
     },
-    "UAE": {
-      "temp_c": 26,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Bahrain": {
-      "temp_c": 25,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Lebanon": {
-      "temp_c": 17,
+      "temp_c": 26,
       "wind_kmh": 14,
       "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Manama"
     },
     "Iraq": {
-      "temp_c": 22,
-      "wind_kmh": 6,
-      "condition": "Showers",
+      "temp_c": 23,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Iran": {
-      "temp_c": 15,
-      "wind_kmh": 1,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
     "Oman": {
-      "temp_c": 28,
-      "wind_kmh": 7,
+      "temp_c": 30,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Yemen": {
-      "temp_c": 18,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
-    "Jordan": {
-      "temp_c": 14,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
     "Egypt": {
-      "temp_c": 18,
-      "wind_kmh": 2,
+      "temp_c": 16,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     }
@@ -92,15 +68,45 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308073,
+    "KWD": 0.307707,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.8068,
-    "IQD": 1309.295088
+    "EGP": 51.768775,
+    "IQD": 1309.279216
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sqfu3q",
+        "title": "Lottery Champ",
+        "summary": "[https://lottochamp24.com/help/affiliates.php/#aff=jensen1979226d9](https://lottochamp24.com/help/affiliates.php/#aff=jensen1979226d9)",
+        "url": "https://reddit.com/r/Lottery/comments/1sqfu3q/lottery_champ/",
+        "timestamp": "2026-04-20T05:08:54.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1spmiyz",
+        "title": "13L Game Login Official Website:",
+        "summary": "13L Game Login is one of the easiest ways to start playing online and earning rewards. With a simple interface and fast access, users can log in within seconds. 👉 13L Game Login Official Website: [https://13lgames.online/](https://13lgames",
+        "url": "https://reddit.com/r/Lottery/comments/1spmiyz/13l_game_login_official_website/",
+        "timestamp": "2026-04-19T07:45:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sph17e",
         "title": "Well Well Well",
@@ -201,8 +207,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -687,36 +693,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sjcdin",
-        "title": "This would be absolutely the best thing that could happen to me right now",
-        "summary": "All I need is $10 so I can deposit into the Michigan lottery $10 is the minimum deposit I can make I would be so grateful thankful and appreciative if a special person could bless me out there and hell it might just pay off if I win I will ",
-        "url": "https://reddit.com/r/Lottery/comments/1sjcdin/this_would_be_absolutely_the_best_thing_that/",
-        "timestamp": "2026-04-12T11:47:50.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sj0xsu",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1sj0xsu/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-04-12T01:30:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Luck strikes anytime: Energy drink stop turns into $551,000 lottery windfall for Kentucky truck driver",
         "summary": "What started as a quick stop for an energy drink turned into a moment James Milby will never forget. A simple detour to a local store in Glasgow, Kentucky, ended with the truck driver walking away with a lottery win worth more than half a million dollars, com…",
@@ -796,14 +772,14 @@
       "totalSignals": 46,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 37,
+        "HOPEFUL": 36,
         "CYNICAL": 0,
         "ANXIOUS": 5,
-        "NEUTRAL": 4
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 20
+      "uncertaintyScore": 22
     }
   }
 }
