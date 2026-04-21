@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-20T05:28:40.126Z",
+  "generated_at": "2026-04-21T05:15:30.708Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Iran Regional Tensions",
-  "summary": "Iran's refusal to attend US talks and recent executions of alleged spies indicate heightened tensions, while regional issues like rent and labor disputes continue to affect daily life. Ongoing construction and everyday concerns also dominate local discourse",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Daily Life",
+  "summary": "The open-source headlines indicate a focus on everyday life and personal concerns in the MENA region, with no major security threats or geopolitical tensions evident. The overall tone is mundane, with individuals seeking help or discussing routine topics such as carpooling, food, and banking.",
   "keyTrends": [
-    "Iran-US Relations",
-    "Regional Security",
-    "Economic Concerns"
+    "Daily Life",
+    "Personal Finance",
+    "Nostalgia"
   ],
   "watchItems": [
-    "Iran-Israel Relations",
-    "Lebanon Truce Talks"
+    "US-Iran relations",
+    "Regional entertainment news"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Economic Uncertainty"
+    "Lack of major security concerns",
+    "Focus on personal routine"
   ]
 }

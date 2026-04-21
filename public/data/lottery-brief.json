@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T05:28:40.875Z",
+  "generated_at": "2026-04-21T05:15:31.297Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Big Dreams",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Envy"
+    "excitement",
+    "optimism",
+    "greed"
   ],
-  "psychInsight": "The public's fascination with lottery and gambling is driven by the desire for a life-changing windfall, and the thrill of taking a calculated risk can activate the brain's reward system. The hope of winning big can also create a sense of escapism from financial stress and everyday worries.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount of money. The posts also reveal a sense of community and shared experience among individuals participating in lottery discussions.",
   "riskSignals": [
-    "Problem Gambling",
-    "Financial Loss"
+    "gambling addiction",
+    "financial loss"
   ],
   "opportunitySignals": [
-    "Life-Changing Wins",
-    "Entertainment Value"
+    "increased engagement",
+    "lottery tool development"
   ]
 }
