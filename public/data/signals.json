@@ -1,82 +1,181 @@
 {
-  "generated_at": "2026-04-20T05:24:03.837Z",
+  "generated_at": "2026-04-21T05:11:33.359Z",
   "gdelt_tone": {
-    "UAE": -0.81,
-    "Saudi Arabia": -0.72,
-    "Qatar": -0.39,
-    "Kuwait": -1.54,
-    "Bahrain": -1.66,
+    "UAE": -1.15,
+    "Saudi Arabia": -0.64,
+    "Qatar": -0.33,
+    "Kuwait": -1.52,
+    "Bahrain": -1.16,
     "Oman": -1.43,
-    "Jordan": -1.46,
-    "Lebanon": -3.05,
-    "Iraq": -2.93,
-    "Egypt": 0.02,
-    "Yemen": -3.56,
-    "Iran": -3.2
+    "Jordan": -1.15,
+    "Lebanon": -2.97,
+    "Iraq": -3,
+    "Egypt": 0.19,
+    "Yemen": -3.53,
+    "Iran": -3.21
   },
   "weather": {
-    "UAE": {
-      "temp_c": 28,
-      "wind_kmh": 1,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 25,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "Qatar": {
       "temp_c": 27,
-      "wind_kmh": 7,
+      "wind_kmh": 21,
       "condition": "Partly Cloudy",
       "city": "Doha"
     },
     "Kuwait": {
       "temp_c": 22,
-      "wind_kmh": 15,
-      "condition": "Rain",
+      "wind_kmh": 11,
+      "condition": "Showers",
       "city": "Kuwait City"
     },
+    "Lebanon": {
+      "temp_c": 17,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Bahrain": {
-      "temp_c": 26,
-      "wind_kmh": 14,
+      "temp_c": 25,
+      "wind_kmh": 26,
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
+    "Jordan": {
+      "temp_c": 11,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
     "Iraq": {
-      "temp_c": 23,
-      "wind_kmh": 7,
+      "temp_c": 19,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
-    },
-    "Oman": {
-      "temp_c": 30,
-      "wind_kmh": 1,
-      "condition": "Clear",
-      "city": "Muscat"
     },
     "Egypt": {
       "temp_c": 16,
       "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Cairo"
+    },
+    "UAE": {
+      "temp_c": 28,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 22,
+      "wind_kmh": 19,
+      "condition": "Showers",
+      "city": "Riyadh"
+    },
+    "Oman": {
+      "temp_c": 29,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Iran": {
+      "temp_c": 18,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 18,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307707,
+    "KWD": 0.308089,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.768775,
-    "IQD": 1309.279216
+    "EGP": 51.944199,
+    "IQD": 1309.243486
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1sr9a0q",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1sr9a0q/powerball_winning_numbers_monday/",
+        "timestamp": "2026-04-21T01:20:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sr4hno",
+        "title": "All right, I’m back again everybody I failed last time first 100 people that comment get $200 out to win the Powerball through tonight",
+        "summary": "I need the manifestation I’m about to leave for my medical mission trip in Central America in a couple months. My job did not approve my time off. I’m going to go, but I will probably lose my job in the process. So I wasted some of my last ",
+        "url": "https://reddit.com/r/Lottery/comments/1sr4hno/all_right_im_back_again_everybody_i_failed_last/",
+        "timestamp": "2026-04-20T22:00:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 3,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sqyo9g",
+        "title": "🔮 I got sick of picking random lotto numbers… so I built this 👇",
+        "summary": "Hey guys 👋 I accidentally deleted my last post 😅 so reposting this again… I’ve been working on a little side project lately and it turned into something pretty cool It’s called \\*\\*Number Oracle\\*\\* — a free Aussie lotto analysis app 🇦🇺",
+        "url": "https://reddit.com/r/Lottery/comments/1sqyo9g/i_got_sick_of_picking_random_lotto_numbers_so_i/",
+        "timestamp": "2026-04-20T18:47:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sqw7id",
+        "title": "420k jackpot on 420!!! Lets go!!!!!!",
+        "summary": "WA Lottery Hit 5! How many of you guys play this game?",
+        "url": "https://reddit.com/r/Lottery/comments/1sqw7id/420k_jackpot_on_420_lets_go/",
+        "timestamp": "2026-04-20T17:31:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sqlo43",
+        "title": "If you gave your $30 million lottery ticket to your high school bullies who bullied you for years with zero cares and no sorry, how dumb is this scale 1-10?",
+        "summary": "I feel like it's worth it, I want to give my lottery ticket to them. Should I do this guys? I think I'm the smartest man alive if I do.  I can eat burger king while live in a cardboard box for free happily, they only bullied me a year ago a",
+        "url": "https://reddit.com/r/Lottery/comments/1sqlo43/if_you_gave_your_30_million_lottery_ticket_to/",
+        "timestamp": "2026-04-20T10:44:50.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sqfu3q",
         "title": "Lottery Champ",
@@ -90,6 +189,21 @@
         "score": 1,
         "comments": 0,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Result April 18, 2026: No Jackpot Winner in Powerball Draw: $75 Million Rolls Over",
+        "summary": "DES MOINES, Iowa — The Powerball jackpot climbed to an estimated $75.8 million for the Saturday, April 18, 2026, drawing, but no ticket matched all six numbers, sending the grand prize rolling over for a bigger payday in the coming week.",
+        "url": "https://www.ibtimes.com.au/powerball-result-april-18-2026-no-jackpot-winner-powerball-draw-75-million-rolls-over-1867015",
+        "timestamp": "2026-04-19T12:54:07Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -117,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 160,
+        "comments": 19,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -663,21 +777,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sji393",
-        "title": "Web3 lottery",
-        "summary": "I like playing lotto. same numbers every week.  but in web3 i didn't find a lot of lotteries that was worth trying. for me a lottery it must be simple, some numbers in given range. a fixed draw date every week. actually all games online are",
-        "url": "https://reddit.com/r/Lottery/comments/1sji393/web3_lottery/",
-        "timestamp": "2026-04-12T15:48:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Check Powerball Winning Numbers April 11 2026: No Jackpot Winner as $35M Rolls Over to Monday",
         "summary": "DES MOINES, Iowa — The latest Powerball drawing on Saturday, April 11, 2026, produced no jackpot winner, leaving the estimated prize to climb toward $45 million for Monday's draw after the white balls 6, 47, 49, 53 and 60 combined with a red Powerball of 6 an…",
@@ -769,17 +868,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 46,
+      "totalSignals": 51,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 39,
         "CYNICAL": 0,
-        "ANXIOUS": 5,
+        "ANXIOUS": 7,
         "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 24
     }
   }
 }
