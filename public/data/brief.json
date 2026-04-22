@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-21T05:15:30.708Z",
+  "generated_at": "2026-04-22T05:13:56.187Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Daily Life",
-  "summary": "The open-source headlines indicate a focus on everyday life and personal concerns in the MENA region, with no major security threats or geopolitical tensions evident. The overall tone is mundane, with individuals seeking help or discussing routine topics such as carpooling, food, and banking.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Geopolitics",
+  "summary": "The region is experiencing heightened tensions due to the Hormuz standoff and US-Iran negotiations, while energy crisis and economic instability are also major concerns. Expats in the GCC are weighing their options to stay or leave amidst these uncertainties.",
   "keyTrends": [
-    "Daily Life",
-    "Personal Finance",
-    "Nostalgia"
+    "US-Iran relations",
+    "Energy crisis",
+    "GCC expat concerns"
   ],
   "watchItems": [
-    "US-Iran relations",
-    "Regional entertainment news"
+    "Iran-US negotiations",
+    "Lebanon-Israel talks"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Lack of major security concerns",
-    "Focus on personal routine"
+    "regional instability",
+    "economic uncertainty"
   ]
 }

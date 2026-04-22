@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T05:15:31.297Z",
+  "generated_at": "2026-04-22T05:13:56.731Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -9,17 +9,17 @@
   },
   "dominantNarrative": "Winning Big",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "greed"
+    "Excitement",
+    "Optimism",
+    "Desperation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount of money. The posts also reveal a sense of community and shared experience among individuals participating in lottery discussions.",
+  "psychInsight": "The desire to win is driven by a mix of financial need and the thrill of potentially life-changing outcomes. The posts reflect a sense of community and shared experience among those participating in or discussing lottery and gambling activities.",
   "riskSignals": [
-    "gambling addiction",
-    "financial loss"
+    "Financial desperation",
+    "Unrealistic expectations"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "lottery tool development"
+    "Innovative lottery tools",
+    "Community engagement"
   ]
 }
