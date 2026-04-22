@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-04-21T05:11:33.359Z",
+  "generated_at": "2026-04-22T05:09:26.099Z",
   "gdelt_tone": {
-    "UAE": -1.15,
-    "Saudi Arabia": -0.64,
-    "Qatar": -0.33,
-    "Kuwait": -1.52,
-    "Bahrain": -1.16,
-    "Oman": -1.43,
-    "Jordan": -1.15,
-    "Lebanon": -2.97,
-    "Iraq": -3,
-    "Egypt": 0.19,
-    "Yemen": -3.53,
-    "Iran": -3.21
+    "UAE": -1.31,
+    "Saudi Arabia": -0.39,
+    "Qatar": -0.36,
+    "Kuwait": -1.5,
+    "Bahrain": -0.45,
+    "Oman": -1.26,
+    "Jordan": -1.14,
+    "Lebanon": -3.02,
+    "Iraq": -3.06,
+    "Egypt": 0.16,
+    "Yemen": -3.45,
+    "Iran": -3.31
   },
   "weather": {
+    "UAE": {
+      "temp_c": 28,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
     "Qatar": {
-      "temp_c": 27,
-      "wind_kmh": 21,
+      "temp_c": 26,
+      "wind_kmh": 19,
       "condition": "Partly Cloudy",
       "city": "Doha"
     },
+    "Saudi Arabia": {
+      "temp_c": 22,
+      "wind_kmh": 20,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
     "Kuwait": {
       "temp_c": 22,
-      "wind_kmh": 11,
-      "condition": "Showers",
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Kuwait City"
+    },
+    "Oman": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
     },
     "Lebanon": {
       "temp_c": 17,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 2,
+      "condition": "Clear",
       "city": "Beirut"
-    },
-    "Bahrain": {
-      "temp_c": 25,
-      "wind_kmh": 26,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
     },
     "Jordan": {
       "temp_c": 11,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 1,
+      "condition": "Clear",
       "city": "Amman"
     },
     "Iraq": {
       "temp_c": 19,
-      "wind_kmh": 11,
+      "wind_kmh": 1,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Egypt": {
-      "temp_c": 16,
-      "wind_kmh": 4,
+    "Bahrain": {
+      "temp_c": 24,
+      "wind_kmh": 24,
       "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Egypt": {
+      "temp_c": 15,
+      "wind_kmh": 5,
+      "condition": "Clear",
       "city": "Cairo"
     },
-    "UAE": {
-      "temp_c": 28,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 22,
-      "wind_kmh": 19,
-      "condition": "Showers",
-      "city": "Riyadh"
-    },
-    "Oman": {
-      "temp_c": 29,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Iran": {
-      "temp_c": 18,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
+      "temp_c": 16,
+      "wind_kmh": 14,
+      "condition": "Clear",
       "city": "Tehran"
     },
     "Yemen": {
       "temp_c": 18,
-      "wind_kmh": 4,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Sanaa"
     }
@@ -92,15 +92,75 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308089,
+    "KWD": 0.30786,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.944199,
-    "IQD": 1309.243486
+    "EGP": 51.769329,
+    "IQD": 1309.205402
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1ss8q76",
+        "title": "I really need to win the lottery. I just need to know the pattern.",
+        "summary": "I just want to know how people win the lottery.",
+        "url": "https://reddit.com/r/Lottery/comments/1ss8q76/i_really_need_to_win_the_lottery_i_just_need_to/",
+        "timestamp": "2026-04-22T02:36:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ss2qie",
+        "title": "Top jackpot prize on $30 tickets are now $5,000?",
+        "summary": "Kinda of a two part question. How often do new scratch off games come out? Also, is Washington phasing out the $2M jackpot $30 scratchers and opting for $5,000 jackpot $30 scratchers? I went to the website to check this one scratcher I used",
+        "url": "https://reddit.com/r/Lottery/comments/1ss2qie/top_jackpot_prize_on_30_tickets_are_now_5000/",
+        "timestamp": "2026-04-21T22:19:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ss20os",
+        "title": "Everyone says they wouldn’t immediately quit their job if they won millions, I’m finding a hard time believing this",
+        "summary": "So, I’ve been reading a lot about winning the lottery, many people claim they wouldn’t immediately quit their jobs. Do you really believe this? Would you? I’d like to hear some scenarios. Let’s chat!",
+        "url": "https://reddit.com/r/Lottery/comments/1ss20os/everyone_says_they_wouldnt_immediately_quit_their/",
+        "timestamp": "2026-04-21T21:51:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1srereh",
+        "title": "Ever heard of 4x Texas Lotto Grand Prize winner Joan Ginther? No? That's the way she wanted it.",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1srereh/ever_heard_of_4x_texas_lotto_grand_prize_winner/",
+        "timestamp": "2026-04-21T05:42:34.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sr9a0q",
         "title": "Powerball Winning Numbers (Monday)",
@@ -162,6 +222,36 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9z",
+        "title": "Devils Draft Lottery Odds: How High Can They Actually Climb?",
+        "summary": "By unpopular demand—at least, from the fans and the media, the 2026 NHL Draft is decentralized once again. The New […]",
+        "url": "https://sportsnaut.com/nhl/new-jersey-devils/devils-news-2026-draft-lottery-odds-can-they-move/",
+        "timestamp": "2026-04-20T15:15:13Z",
+        "source": "Sportsnaut",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Win 1 of 4 TV and Soundbar Packages Worth up to $6,994 and 1 of 16,000 $20 90 Day StoreCash Prizes from The Good Guys",
+        "summary": "Maximum one entry per Prize Draw per entrant will be accepted during the Competition Period.\n\n<table>\n\n<tr>\n <th>Prize Draw</th>\n <th>SKU</th>\n <th>Product (“Prize”) Description</th>\n <th>Valued as at 18/03/2026</th>\n <th>Number of Prizes</th>\n</tr>\n\r\n\n\n<tr>\n…",
+        "url": "https://www.ozbargain.com.au/node/956307",
+        "timestamp": "2026-04-20T13:07:27Z",
+        "source": "Ozbargain.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1sqlo43",
         "title": "If you gave your $30 million lottery ticket to your high school bullies who bullied you for years with zero cares and no sorry, how dumb is this scale 1-10?",
         "summary": "I feel like it's worth it, I want to give my lottery ticket to them. Should I do this guys? I think I'm the smartest man alive if I do.  I can eat burger king while live in a cardboard box for free happily, they only bullied me a year ago a",
@@ -171,7 +261,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Activate Offer & Process $10,000 in Payment Before 31 May, Get 2,000 Bonus PayRewards Points @ Pay.com.au",
+        "summary": "2,000 Bonus PayRewards Points When You Process $10,000 Before 31 May 2026 Plus entries to 2M Points Prize Draw (Competition removed from title. Please post competitions in Comps section. — …",
+        "url": "https://www.ozbargain.com.au/node/956288",
+        "timestamp": "2026-04-20T09:26:57Z",
+        "source": "Ozbargain.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -702,36 +807,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1skud9g",
-        "title": "What's the secret to winning on lottery tickets?",
-        "summary": "↑2 · 💬17",
-        "url": "https://reddit.com/r/Lottery/comments/1skud9g/whats_the_secret_to_winning_on_lottery_tickets/",
-        "timestamp": "2026-04-14T01:23:54.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 17,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1skua62",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1skua62/powerball_winning_numbers_monday/",
-        "timestamp": "2026-04-14T01:20:12.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "NBA mock draft 10.0: First-round projections before 2026 playoffs begin",
         "summary": "The NBA regular season is over, which means many teams are shifting their focus entirely to the 2026 NBA Draft before the lottery in May.",
@@ -747,57 +822,12 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1skey5q",
-        "title": "Ok, so how do I get over my numbers hitting when I didn’t play that night? Missed out on $85K",
-        "summary": "I’ve been playing the same numbers just about every day for over a decade, cash 5 lotto. Missed buying one for last night and lo and behold, all 5 hit. That would have been HUGE for me and my family, paid off debt, fix my house that’s falli",
-        "url": "https://reddit.com/r/Lottery/comments/1skey5q/ok_so_how_do_i_get_over_my_numbers_hitting_when_i/",
-        "timestamp": "2026-04-13T15:53:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 57,
-        "comments": 32,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Lottery remains possible for play-in Heat . . . currently with 1% chance at No. 1",
         "summary": "CHARLOTTE — Even with a singular goal of getting a victory Tuesday night at Spectrum Center against the Charlotte Hornets to extend their season, dual realities remain for the Miami Heat. In that regard, a fourth consecutive trip to the NBA play-in round chan…",
         "url": "https://www.sun-sentinel.com/2026/04/13/lottery-remains-possible-for-play-in-heat-currently-with-1-chance-at-no-1/",
         "timestamp": "2026-04-13T13:03:00Z",
         "source": "Sun Sentinel",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Check Powerball Winning Numbers April 11 2026: No Jackpot Winner as $35M Rolls Over to Monday",
-        "summary": "DES MOINES, Iowa — The latest Powerball drawing on Saturday, April 11, 2026, produced no jackpot winner, leaving the estimated prize to climb toward $45 million for Monday's draw after the white balls 6, 47, 49, 53 and 60 combined with a red Powerball of 6 an…",
-        "url": "https://www.ibtimes.com.au/check-powerball-winning-numbers-april-11-2026-no-jackpot-winner-35m-rolls-over-monday-1866251",
-        "timestamp": "2026-04-12T11:59:04Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Luck strikes anytime: Energy drink stop turns into $551,000 lottery windfall for Kentucky truck driver",
-        "summary": "What started as a quick stop for an energy drink turned into a moment James Milby will never forget. A simple detour to a local store in Glasgow, Kentucky, ended with the truck driver walking away with a lottery win worth more than half a million dollars, com…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/luck-strikes-anytime-energy-drink-stop-turns-into-551000-lottery-windfall-for-kentucky-truck-driver/articleshow/130153341.cms",
-        "timestamp": "2026-04-10T00:10:42Z",
-        "source": "The Times of India",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -868,17 +898,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 51,
+      "totalSignals": 53,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 39,
+        "HOPEFUL": 41,
         "CYNICAL": 0,
-        "ANXIOUS": 7,
-        "NEUTRAL": 5
+        "ANXIOUS": 6,
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 24
+      "uncertaintyScore": 23
     }
   }
 }
