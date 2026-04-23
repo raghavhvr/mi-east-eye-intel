@@ -1,106 +1,121 @@
 {
-  "generated_at": "2026-04-22T05:09:26.099Z",
+  "generated_at": "2026-04-23T05:13:15.738Z",
   "gdelt_tone": {
-    "UAE": -1.31,
-    "Saudi Arabia": -0.39,
-    "Qatar": -0.36,
-    "Kuwait": -1.5,
-    "Bahrain": -0.45,
-    "Oman": -1.26,
-    "Jordan": -1.14,
-    "Lebanon": -3.02,
-    "Iraq": -3.06,
-    "Egypt": 0.16,
-    "Yemen": -3.45,
-    "Iran": -3.31
+    "UAE": -1.4,
+    "Saudi Arabia": -0.3,
+    "Qatar": -0.22,
+    "Kuwait": -1.29,
+    "Bahrain": -0.47,
+    "Oman": -1.24,
+    "Jordan": -1.24,
+    "Lebanon": -3.14,
+    "Iraq": -3.08,
+    "Egypt": 0.24,
+    "Yemen": -3.73,
+    "Iran": -3.41
   },
   "weather": {
     "UAE": {
       "temp_c": 28,
-      "wind_kmh": 15,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
     "Qatar": {
-      "temp_c": 26,
-      "wind_kmh": 19,
+      "temp_c": 27,
+      "wind_kmh": 21,
       "condition": "Partly Cloudy",
       "city": "Doha"
     },
+    "Oman": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 25,
+      "wind_kmh": 30,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
     "Saudi Arabia": {
-      "temp_c": 22,
-      "wind_kmh": 20,
+      "temp_c": 20,
+      "wind_kmh": 19,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
     "Kuwait": {
       "temp_c": 22,
-      "wind_kmh": 8,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
-    "Oman": {
-      "temp_c": 28,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Lebanon": {
-      "temp_c": 17,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
     "Jordan": {
-      "temp_c": 11,
-      "wind_kmh": 1,
+      "temp_c": 13,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 19,
-      "wind_kmh": 1,
+    "Lebanon": {
+      "temp_c": 16,
+      "wind_kmh": 2,
       "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Bahrain": {
-      "temp_c": 24,
-      "wind_kmh": 24,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
+      "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 15,
-      "wind_kmh": 5,
+      "temp_c": 17,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 16,
-      "wind_kmh": 14,
+    "Iraq": {
+      "temp_c": 20,
+      "wind_kmh": 7,
       "condition": "Clear",
-      "city": "Tehran"
+      "city": "Baghdad"
     },
     "Yemen": {
       "temp_c": 18,
+      "wind_kmh": 1,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 17,
       "wind_kmh": 3,
       "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30786,
+    "KWD": 0.307699,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.769329,
-    "IQD": 1309.205402
+    "EGP": 52.002432,
+    "IQD": 1309.634141
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1ssx0qk",
+        "title": "Would I be investigated if I won the the Super Lotto Plus and then maybe a few years after win the Powerball?",
+        "summary": "Ive been practicing my manifestation abilities for a bit, I was able to manifest some other pretty nice things, so I think I stand a pretty good chance. But if I did win the Super Lotto and then the Powerball after, would that send alarm be",
+        "url": "https://reddit.com/r/Lottery/comments/1ssx0qk/would_i_be_investigated_if_i_won_the_the_super/",
+        "timestamp": "2026-04-22T20:18:54.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1ss8q76",
         "title": "I really need to win the lottery. I just need to know the pattern.",
@@ -112,6 +127,21 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Two UK ticket holders have won their share of a £126MILLION EuroMillions jackpot",
+        "summary": "A pair of Brits have won more than £41million each after splitting tonight's EuroMillions jackpot, National Lottery operator Allwyn has said.",
+        "url": "https://www.dailymail.com/news/article-15753375/UK-ticket-won-41-million-EuroMillion.html",
+        "timestamp": "2026-04-21T22:21:21Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -147,24 +177,39 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Numbers for April 20 2026 Revealed No Jackpot Winner as $87M Prize Rolls Over",
+        "summary": "DES MOINES, Iowa — The Powerball winning numbers for Monday, April 20, 2026, have been drawn, but no ticket matched all six numbers to claim the $87 million jackpot, lottery officials said.",
+        "url": "https://www.ibtimes.com.au/powerball-numbers-april-20-2026-revealed-no-jackpot-winner-87m-prize-rolls-over-1867138",
+        "timestamp": "2026-04-21T09:36:51Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1srereh",
         "title": "Ever heard of 4x Texas Lotto Grand Prize winner Joan Ginther? No? That's the way she wanted it.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑7 · 💬2",
         "url": "https://reddit.com/r/Lottery/comments/1srereh/ever_heard_of_4x_texas_lotto_grand_prize_winner/",
         "timestamp": "2026-04-21T05:42:34.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 7,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1sr9a0q",
         "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑1 · 💬2",
         "url": "https://reddit.com/r/Lottery/comments/1sr9a0q/powerball_winning_numbers_monday/",
         "timestamp": "2026-04-21T01:20:11.000Z",
         "source": "r/lottery",
@@ -172,7 +217,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 3,
-        "comments": 3,
+        "score": 34,
+        "comments": 68,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -201,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -216,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 35,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -732,51 +777,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1slonx0",
-        "title": "Scratch-offs in machine @ Lottery HQ (any state)",
-        "summary": "Are the machines in the lobby while you’re waiting for your winnings more or less lucrative or is there no rhyme or reason to any of the myths? TIA!",
-        "url": "https://reddit.com/r/Lottery/comments/1slonx0/scratchoffs_in_machine_lottery_hq_any_state/",
-        "timestamp": "2026-04-14T23:06:49.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1slo13r",
-        "title": "Small wins but still a win😁",
-        "summary": "I mostly play powerball but just wanted to try my luck at a scratch game definetly will start doing these more often.💪🏽",
-        "url": "https://reddit.com/r/Lottery/comments/1slo13r/small_wins_but_still_a_win/",
-        "timestamp": "2026-04-14T22:40:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 21,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sl6yam",
-        "title": "Lottery ticket dispensary machines @ grocery stores, gas stations",
-        "summary": "Does anybody know why the lottery machines stop receiving debit cards for payment?",
-        "url": "https://reddit.com/r/Lottery/comments/1sl6yam/lottery_ticket_dispensary_machines_grocery_stores/",
-        "timestamp": "2026-04-14T12:15:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 6,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Kerala Sthree Shakthi SS 515 lottery result out today, 14-04-2026; Check ₹1 crore jackpot winner and full list here",
         "summary": "Sthree Shakthi SS-515 Lottery Result (14-04-2026): The Kerala State Lotteries Department is conducting the much-awaited draw for the Sthree Shakthi weekly lottery today, April 14, 2026. The draw takes place at Gorky Bhavan in Thiruvananthapuram and features a…",
@@ -899,7 +899,7 @@
     ],
     "meta": {
       "totalSignals": 53,
-      "meSignals": 3,
+      "meSignals": 2,
       "moodDist": {
         "HOPEFUL": 41,
         "CYNICAL": 0,
