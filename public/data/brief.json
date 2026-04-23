@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-22T05:13:56.187Z",
+  "generated_at": "2026-04-23T05:17:18.106Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
   "topTheme": "MENA Geopolitics",
-  "summary": "The region is experiencing heightened tensions due to the Hormuz standoff and US-Iran negotiations, while energy crisis and economic instability are also major concerns. Expats in the GCC are weighing their options to stay or leave amidst these uncertainties.",
+  "summary": "Regional tensions persist with reports of Israeli soldiers looting civilian property in southern Lebanon, while Iran's Foreign Minister criticizes US-Israeli actions. Economic and social interests are also on display, with discussions of remote work visas and high-end consumer goods in the UAE and Qatar.",
   "keyTrends": [
-    "US-Iran relations",
-    "Energy crisis",
-    "GCC expat concerns"
+    "Geopolitical Tensions",
+    "Economic Migration",
+    "Consumerism"
   ],
   "watchItems": [
-    "Iran-US negotiations",
-    "Lebanon-Israel talks"
+    "Israel-Lebanon Conflict",
+    "Iran-US Relations"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "regional instability",
-    "economic uncertainty"
+    "Regional Conflict",
+    "Economic Uncertainty"
   ]
 }
