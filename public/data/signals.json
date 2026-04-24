@@ -1,106 +1,301 @@
 {
-  "generated_at": "2026-04-23T05:13:15.738Z",
+  "generated_at": "2026-04-24T05:18:48.878Z",
   "gdelt_tone": {
-    "UAE": -1.4,
-    "Saudi Arabia": -0.3,
-    "Qatar": -0.22,
-    "Kuwait": -1.29,
-    "Bahrain": -0.47,
-    "Oman": -1.24,
-    "Jordan": -1.24,
-    "Lebanon": -3.14,
-    "Iraq": -3.08,
+    "UAE": -1.36,
+    "Saudi Arabia": -0.36,
+    "Qatar": -0.08,
+    "Kuwait": -1.11,
+    "Bahrain": -0.14,
+    "Oman": -1.17,
+    "Jordan": -1.17,
+    "Lebanon": -3.53,
+    "Iraq": -3.17,
     "Egypt": 0.24,
-    "Yemen": -3.73,
-    "Iran": -3.41
+    "Yemen": -3.45,
+    "Iran": -3.51
   },
   "weather": {
-    "UAE": {
-      "temp_c": 28,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 27,
-      "wind_kmh": 21,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
-    "Oman": {
-      "temp_c": 28,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Bahrain": {
-      "temp_c": 25,
-      "wind_kmh": 30,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
     "Saudi Arabia": {
-      "temp_c": 20,
-      "wind_kmh": 19,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
       "temp_c": 22,
       "wind_kmh": 11,
       "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 29,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 23,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
-    "Jordan": {
-      "temp_c": 13,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
-      "temp_c": 16,
+      "temp_c": 17,
       "wind_kmh": 2,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Egypt": {
-      "temp_c": 17,
-      "wind_kmh": 2,
+    "Jordan": {
+      "temp_c": 15,
+      "wind_kmh": 3,
       "condition": "Clear",
-      "city": "Cairo"
+      "city": "Amman"
+    },
+    "Qatar": {
+      "temp_c": 26,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Doha"
     },
     "Iraq": {
-      "temp_c": 20,
-      "wind_kmh": 7,
+      "temp_c": 24,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 18,
-      "wind_kmh": 1,
+    "Bahrain": {
+      "temp_c": 24,
+      "wind_kmh": 25,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Manama"
+    },
+    "Egypt": {
+      "temp_c": 18,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Oman": {
+      "temp_c": 30,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Muscat"
     },
     "Iran": {
-      "temp_c": 17,
+      "temp_c": 18,
       "wind_kmh": 3,
       "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 18,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307699,
+    "KWD": 0.307457,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.002432,
-    "IQD": 1309.634141
+    "EGP": 52.606816,
+    "IQD": 1309.998571
   },
   "lottery": {
     "items": [
+      {
+        "id": "guardian-lot-lifeandstyle-2026-apr-24-experience-ive-won-1m-on-the-lottery-twice",
+        "title": "Experience: I’ve won £1m on the lottery – twice",
+        "summary": "The chances of that happening? Over 24 trillion to one",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/apr/24/experience-ive-won-1m-on-the-lottery-twice",
+        "timestamp": "2026-04-24T04:00:29Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1su0l4z",
+        "title": "Am I stupid or is the machine wrong?",
+        "summary": "So I got these two tickets, the yellow one I have the words SET, TEA, SWEET for puzzle one and  AGE, WATCH for puzzle  2  Scanning it says it's only a $10 winner and 5 words should be $30 The blue ticket I have REFER, UNDO, RECIPE for puzzl",
+        "url": "https://reddit.com/r/Lottery/comments/1su0l4z/am_i_stupid_or_is_the_machine_wrong/",
+        "timestamp": "2026-04-24T00:41:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stvu5m",
+        "title": "Forensic Autopsy of 10 Years of CA Lottery Data: Mapping \"Dead Zones\" with Markov Chains",
+        "summary": "I’m a Solutions Architect by trade. I build high-volume data ingestion engines. Recently, I decided to treat the California Lottery’s public API like a hostile network intrusion and actually look at the structural math behind the variance. ",
+        "url": "https://reddit.com/r/Lottery/comments/1stvu5m/forensic_autopsy_of_10_years_of_ca_lottery_data/",
+        "timestamp": "2026-04-23T21:21:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stux4h",
+        "title": "How much did I win? Az Lottery",
+        "summary": "Bought a scratch off today and I’m confused of how much I won the app is saying $20 could it be wrong?",
+        "url": "https://reddit.com/r/Lottery/comments/1stux4h/how_much_did_i_win_az_lottery/",
+        "timestamp": "2026-04-23T20:46:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stt3wr",
+        "title": "NC Education Lottery looking spiffy!",
+        "summary": "The North Carolina Education Lottery has a new look!  And all right, I get it. This might be an Android-only thing, but the app just updated on my Pixel, and it looks great and functions smoothly. Big thanks to the folks who get my money on",
+        "url": "https://reddit.com/r/Lottery/comments/1stt3wr/nc_education_lottery_looking_spiffy/",
+        "timestamp": "2026-04-23T19:39:28.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stpsou",
+        "title": "So close, but yet so far..",
+        "summary": "The Powerball winning numbers for Wed, Apr 22, 2026 were: **24 29 32 49 63 11** My numbers were: 25 28 31 37 63 09",
+        "url": "https://reddit.com/r/Lottery/comments/1stpsou/so_close_but_yet_so_far/",
+        "timestamp": "2026-04-23T17:41:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stp2fm",
+        "title": "What are the chances I picked up a winning ticket on the ground?",
+        "summary": "I pick lottery tickets off the ground when I walk and check them. Usually all losers. Until just now. 10 dollar ticket, 50 dollar winner. But here is the thing. I am extremely skeptical. Both prizes on the winning numbers are scratched off,",
+        "url": "https://reddit.com/r/Lottery/comments/1stp2fm/what_are_the_chances_i_picked_up_a_winning_ticket/",
+        "timestamp": "2026-04-23T17:16:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stnu3b",
+        "title": "Mural Artist - Helping Out Nanny's Son From Sri Lanka",
+        "summary": "hi guys, my nanny's son is a really talented mural painter in Sri Lanka but struggling to find regular work. The guy is also a qualified mechanical engineer (like I said talented guy)...the things he can do with some basic paints and brushe",
+        "url": "https://reddit.com/r/dubai/comments/1stnu3b/mural_artist_helping_out_nannys_son_from_sri_lanka/",
+        "timestamp": "2026-04-23T16:32:35.000Z",
+        "source": "r/dubai",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1stn73g",
+        "title": "Powerball overtaking MegaMillions",
+        "summary": "https://preview.redd.it/eiwvs1y1sywg1.png?width=911&format=png&auto=webp&s=590a5fe2d7b9f169fa768180294b17d4884e0c07 Do you think PB will overtake MM in the coming weeks, knowing that MM crawls like a snail. Won't be suprised. What do you gu",
+        "url": "https://reddit.com/r/Lottery/comments/1stn73g/powerball_overtaking_megamillions/",
+        "timestamp": "2026-04-23T16:09:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stmbjo",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1stmbjo/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-04-23T15:38:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stguvk",
+        "title": "$25 ticket, but I bought 2. Still good hit. I think my biggest on a lotto ticket",
+        "summary": "$250!",
+        "url": "https://reddit.com/r/Lottery/comments/1stguvk/25_ticket_but_i_bought_2_still_good_hit_i_think/",
+        "timestamp": "2026-04-23T12:07:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stf9f9",
+        "title": "Back to Back Hotspot Wins With Reddit Theory🔥🔥🔥(4-16-2026)(4-17-2026)",
+        "summary": "Copy and Pasted Method From Original Post Shoutout to HomeworkLost HomeworkLost · 101d Play 100 consecutive plays with picking 5 numbers…so 5 spot! I’ve had very good odds hitting 5 numbers at least once out of 100 so $450 when it was that…",
+        "url": "https://reddit.com/r/Lottery/comments/1stf9f9/back_to_back_hotspot_wins_with_reddit/",
+        "timestamp": "2026-04-23T10:50:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1stf6nj",
+        "title": "Back to Back Hotspot Wins With Reddit Theory 4-16-205 and  4-17-2025 🔥🔥🔥🔥",
+        "summary": "Copy and Pasted Method From Original Post Shoutout to HomeworkLost  HomeworkLost · 101d Play 100 consecutive plays with picking 5 numbers…so 5 spot! I’ve had very good odds hitting 5 numbers at least once out of 100 so $450 when it was that",
+        "url": "https://reddit.com/r/Lottery/comments/1stf6nj/back_to_back_hotspot_wins_with_reddit_theory/",
+        "timestamp": "2026-04-23T10:46:51.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1ssx0qk",
         "title": "Would I be investigated if I won the the Super Lotto Plus and then maybe a few years after win the Powerball?",
@@ -126,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 30,
+        "comments": 35,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 9,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 32,
+        "comments": 36,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -480,9 +675,9 @@
         "id": "newsapi-lot-aHR0cHM6Ly9y",
         "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
         "summary": "\"How do I check that it's not a hoax?\" Ari Hodara, 58, said after organizers called him following the draw at a Paris auction house.",
-        "url": "https://richmond.com/life-entertainment/nation-world/art-theater/article_6fbc9294-5b39-5fe1-b437-989ca0b2de97.html",
+        "url": "https://roanoke.com/life-entertainment/nation-world/art-theater/article_2bb453e8-a7a3-5834-abd1-ff45dd11d2a5.html",
         "timestamp": "2026-04-16T14:30:00Z",
-        "source": "Richmond.com",
+        "source": "Roanoke Times",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -495,9 +690,9 @@
         "id": "newsapi-lot-aHR0cHM6Ly9y",
         "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
         "summary": "\"How do I check that it's not a hoax?\" Ari Hodara, 58, said after organizers called him following the draw at a Paris auction house.",
-        "url": "https://roanoke.com/life-entertainment/nation-world/art-theater/article_2bb453e8-a7a3-5834-abd1-ff45dd11d2a5.html",
+        "url": "https://richmond.com/life-entertainment/nation-world/art-theater/article_6fbc9294-5b39-5fe1-b437-989ca0b2de97.html",
         "timestamp": "2026-04-16T14:30:00Z",
-        "source": "Roanoke Times",
+        "source": "Richmond.com",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -567,66 +762,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1smreid",
-        "title": "Powerball expanding to the UK!!",
-        "summary": "So powerball is deciding to expand to the UK, what are your thoughts on this? I’m going to be calling my state congressman to try and stop this because I think it’s unfair to US players",
-        "url": "https://reddit.com/r/Lottery/comments/1smreid/powerball_expanding_to_the_uk/",
-        "timestamp": "2026-04-16T02:59:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 28,
-        "comments": 20,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1smotib",
-        "title": "My Aunt has been playing the same numbers since 1979",
-        "summary": "Recently her pile has hit 5 times in the last two weeks  when I told my mom about this, she said yes when you’re Aunt Rosie’s numbers hit they are hot and then they are cold for a while and she was right. When I picked up her pile, the numb",
-        "url": "https://reddit.com/r/Lottery/comments/1smotib/my_aunt_has_been_playing_the_same_numbers_since/",
-        "timestamp": "2026-04-16T01:04:23.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1smoeuo",
-        "title": "$50 winner CA lottery Cash Crush",
-        "summary": "Time to let it ride with this win I got : 1 x $20  1 x $10 2 x $5 2 x $3 2 x super lotto $1 1 x powerball $2",
-        "url": "https://reddit.com/r/Lottery/comments/1smoeuo/50_winner_ca_lottery_cash_crush/",
-        "timestamp": "2026-04-16T00:46:32.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sml762",
-        "title": "Someone in VA won 1 million in the Bank A Million Game",
-        "summary": "State pays the taxes in this game: https://www.valottery.com/winnersnews/latestwinners Somewhere there is a ticket worth a cool million dollars. The ticket matched six numbers in the Virginia Lottery’s Bank a Million game. The top prize in ",
-        "url": "https://reddit.com/r/Lottery/comments/1sml762/someone_in_va_won_1_million_in_the_bank_a_million/",
-        "timestamp": "2026-04-15T22:30:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Edgy Arsenal squeeze past Sporting Lisbon to set up Atlético semi-final",
         "summary": "Kai Havertz first-leg goal proves the difference after Emirates draw",
@@ -653,21 +788,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1smbigy",
-        "title": "State lotteries are pulling scratch-off games early — before the top prizes are ever paid out. 7 years of data shows it happens in 60% of ended games and is getting worse in several states.",
-        "summary": "We built a database that tracks prize data daily from official state lottery websites across 40+ states, and we used it to answer a question the lottery industry never has to answer publicly: when a state ends a scratch-off game, how often ",
-        "url": "https://reddit.com/r/Lottery/comments/1smbigy/state_lotteries_are_pulling_scratchoff_games/",
-        "timestamp": "2026-04-15T16:43:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 28,
-        "comments": 25,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -717,117 +837,12 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sm2c3k",
-        "title": "LOTTERY TICKET @ ₹ 25 (₹ 1-LAKH WORTH PRIZES)",
-        "summary": "Hey everyone! For Melange 2026 at Loyola Academy, Hyderabad, we’re selling entry tickets with a prize-winning opportunity 🎉 Buy a ticket and get a chance to enter a lottery and win prizes worth ₹1,00,000 — including smartphones, AirPods, p",
-        "url": "https://reddit.com/r/Lottery/comments/1sm2c3k/lottery_ticket_25_1lakh_worth_prizes/",
-        "timestamp": "2026-04-15T10:40:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sm24lh",
-        "title": "LOTTERY TICKET @25 RS (₹ 1L + WORTH PRIZES)",
-        "summary": "Hey everyone! For Melange 2026 at Loyola Academy, Hyderabad, we’re selling entry tickets with a prize-winning opportunity 🎉 Buy a ticket and get a chance to enter a lottery and win prizes worth ₹1,00,000 — including smartphones, AirPods, p",
-        "url": "https://reddit.com/r/Lottery/comments/1sm24lh/lottery_ticket_25_rs_1l_worth_prizes/",
-        "timestamp": "2026-04-15T10:29:28.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
         "summary": "\"How do I check that it's not a hoax?\" said Ari Hodara. The Parisian art enthusiast could not believe his luck when he found out he'd won a Pablo Picasso painting worth $1 million.",
         "url": "https://www.npr.org/2026/04/15/g-s1-117480/raffle-winner-picasso",
         "timestamp": "2026-04-15T08:20:44Z",
         "source": "NPR",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1slq70z",
-        "title": "Powerball is going international in an effort to build larger jackpots that draw more players",
-        "summary": "↑23 · 💬51",
-        "url": "https://reddit.com/r/Lottery/comments/1slq70z/powerball_is_going_international_in_an_effort_to/",
-        "timestamp": "2026-04-15T00:12:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 23,
-        "comments": 51,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Kerala Sthree Shakthi SS 515 lottery result out today, 14-04-2026; Check ₹1 crore jackpot winner and full list here",
-        "summary": "Sthree Shakthi SS-515 Lottery Result (14-04-2026): The Kerala State Lotteries Department is conducting the much-awaited draw for the Sthree Shakthi weekly lottery today, April 14, 2026. The draw takes place at Gorky Bhavan in Thiruvananthapuram and features a…",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/kerala-sthree-shakthi-ss-515-lottery-result-out-today-14-04-2026-check-1-crore-prize-winner-and-complete-list-here/articleshow/130254180.cms",
-        "timestamp": "2026-04-14T09:52:54Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9w",
-        "title": "BHPetrol Boom! Hadiah Percuma contest – eCard members stand a chance to win monthly grand prizes",
-        "summary": "Fuel retailer BHPetrol has announced a new contest called Boom! Hadiah Percuma, giving away prizes every month until January 31, 2027. The campaign is exclusive to BHPetrol eCard members, and customers who spend RM40 on […]\nThe post BHPetrol Boom! Hadiah Perc…",
-        "url": "https://paultan.org/2026/04/14/bhpetrol-boom-hadiah-percuma-contest-ecard-members-stand-a-chance-to-win-monthly-grand-prizes/",
-        "timestamp": "2026-04-14T02:27:38Z",
-        "source": "Paul Tan's Automotive News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "NBA mock draft 10.0: First-round projections before 2026 playoffs begin",
-        "summary": "The NBA regular season is over, which means many teams are shifting their focus entirely to the 2026 NBA Draft before the lottery in May.",
-        "url": "https://www.usatoday.com/story/sports/nba/draft/2026/04/13/nba-mock-draft-2026-first-round-predictions-playoffs-postseason/89593175007/",
-        "timestamp": "2026-04-13T20:35:24Z",
-        "source": "USA Today",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Lottery remains possible for play-in Heat . . . currently with 1% chance at No. 1",
-        "summary": "CHARLOTTE — Even with a singular goal of getting a victory Tuesday night at Spectrum Center against the Charlotte Hornets to extend their season, dual realities remain for the Miami Heat. In that regard, a fourth consecutive trip to the NBA play-in round chan…",
-        "url": "https://www.sun-sentinel.com/2026/04/13/lottery-remains-possible-for-play-in-heat-currently-with-1-chance-at-no-1/",
-        "timestamp": "2026-04-13T13:03:00Z",
-        "source": "Sun Sentinel",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -898,17 +913,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 53,
-      "meSignals": 2,
+      "totalSignals": 54,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 41,
+        "HOPEFUL": 44,
         "CYNICAL": 0,
         "ANXIOUS": 6,
-        "NEUTRAL": 6
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 23
+      "uncertaintyScore": 19
     }
   }
 }
