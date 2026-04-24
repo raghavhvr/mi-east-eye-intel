@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-23T05:17:18.854Z",
+  "generated_at": "2026-04-24T05:23:18.242Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
-  "dominantNarrative": "Winning Big Jackpots",
+  "dominantNarrative": "Winning big dreams",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Desperation"
+    "excitement",
+    "optimism",
+    "desperation"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking patterns or strategies to increase their chances. The allure of large jackpots and stories of past winners fuels their optimism and motivation to continue playing.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with some individuals exhibiting a gambler's fallacy mindset. The pursuit of patterns and strategies reveals a psychological need for control in an uncertain environment.",
   "riskSignals": [
-    "Problem Gambling",
-    "Unrealistic Expectations"
+    "problem gambling",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "Increased Engagement",
-    "Loyalty Programs"
+    "engagement with lottery games",
+    "community building around shared experiences"
   ]
 }

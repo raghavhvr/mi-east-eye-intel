@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-23T05:17:18.106Z",
-  "model": "groq/llama-3.3-70b-versatile",
+  "generated_at": "2026-04-24T05:23:17.640Z",
+  "model": "keyword-fallback",
   "threatLevel": "MODERATE",
-  "topTheme": "MENA Geopolitics",
-  "summary": "Regional tensions persist with reports of Israeli soldiers looting civilian property in southern Lebanon, while Iran's Foreign Minister criticizes US-Israeli actions. Economic and social interests are also on display, with discussions of remote work visas and high-end consumer goods in the UAE and Qatar.",
+  "topTheme": "Regional Security",
+  "summary": "Regional signals indicate moderate activity with focus on regional security. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "Geopolitical Tensions",
-    "Economic Migration",
-    "Consumerism"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Israel-Lebanon Conflict",
-    "Iran-US Relations"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Conflict",
-    "Economic Uncertainty"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }
