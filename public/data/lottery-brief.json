@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-04-24T05:23:18.242Z",
+  "generated_at": "2026-04-25T05:01:23.122Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning big dreams",
+  "dominantNarrative": "Winning the lottery",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "desperation"
+    "frustration"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with some individuals exhibiting a gambler's fallacy mindset. The pursuit of patterns and strategies reveals a psychological need for control in an uncertain environment.",
+  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with many individuals exhibiting optimistic biases. The lottery's unpredictable nature fuels excitement and frustration, leading to a mix of hopeful and anxious emotions.",
   "riskSignals": [
-    "problem gambling",
-    "unrealistic expectations"
+    "addiction",
+    "misinformation"
   ],
   "opportunitySignals": [
-    "engagement with lottery games",
-    "community building around shared experiences"
+    "engagement",
+    "entertainment"
   ]
 }

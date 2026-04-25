@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-24T05:23:17.640Z",
-  "model": "keyword-fallback",
+  "generated_at": "2026-04-25T05:01:22.497Z",
+  "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Regional Security",
-  "summary": "Regional signals indicate moderate activity with focus on regional security. Monitoring 12 open-source data points.",
+  "topTheme": "Maritime Standoff",
+  "summary": "A maritime standoff in the Hormuz Strait is ongoing, with thousands of sailors stranded, while Israeli operations in the West Bank have resulted in arrests. Regional tensions are elevated, but no immediate escalation is expected",
   "keyTrends": [
-    "Ongoing monitoring",
-    "Signal analysis active",
-    "Data refresh scheduled"
+    "Maritime Security",
+    "Middle East Conflict",
+    "Regional Tensions"
   ],
   "watchItems": [
-    "Regional escalation indicators",
-    "Economic sentiment shifts"
+    "Hormuz Strait",
+    "West Bank Operations"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Geopolitical uncertainty",
-    "Economic signals"
+    "Regional Instability",
+    "Geopolitical Tensions"
   ]
 }
