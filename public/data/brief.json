@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-25T05:01:22.497Z",
+  "generated_at": "2026-04-26T05:27:08.556Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Maritime Standoff",
-  "summary": "A maritime standoff in the Hormuz Strait is ongoing, with thousands of sailors stranded, while Israeli operations in the West Bank have resulted in arrests. Regional tensions are elevated, but no immediate escalation is expected",
+  "threatLevel": "LOW",
+  "topTheme": "Iran Sanctions",
+  "summary": "The region remains stable despite concerns over Iran sanctions and their impact on local markets. Online discussions focus on everyday life, with some anxiety about school closures and food safety.",
   "keyTrends": [
-    "Maritime Security",
-    "Middle East Conflict",
-    "Regional Tensions"
+    "Iran sanctions",
+    "school closures",
+    "food safety"
   ],
   "watchItems": [
-    "Hormuz Strait",
-    "West Bank Operations"
+    "Iran market trends",
+    "US-Iran relations"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Geopolitical Tensions"
+    "economic uncertainty",
+    "health concerns"
   ]
 }
