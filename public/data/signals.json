@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-04-25T04:45:54.031Z",
+  "generated_at": "2026-04-26T05:22:25.101Z",
   "gdelt_tone": {
-    "UAE": -1.15,
-    "Saudi Arabia": -0.17,
-    "Qatar": -0.29,
-    "Kuwait": -1.3,
-    "Bahrain": 0.29,
-    "Oman": -1.13,
-    "Jordan": -0.8,
-    "Lebanon": -3.83,
-    "Iraq": -3.06,
-    "Egypt": 0.28,
-    "Yemen": -3.68,
-    "Iran": -3.57
+    "UAE": -1.2,
+    "Saudi Arabia": -0.13,
+    "Qatar": -0.46,
+    "Kuwait": -1.74,
+    "Bahrain": 0.31,
+    "Oman": -1.08,
+    "Jordan": -0.69,
+    "Lebanon": -3.84,
+    "Iraq": -3.05,
+    "Egypt": 0.22,
+    "Yemen": -3.87,
+    "Iran": -3.58
   },
   "weather": {
-    "Bahrain": {
-      "temp_c": 26,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Iran": {
-      "temp_c": 19,
-      "wind_kmh": 1,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "UAE": {
-      "temp_c": 30,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 23,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "Kuwait": {
-      "temp_c": 25,
-      "wind_kmh": 3,
+      "temp_c": 27,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
-    "Jordan": {
-      "temp_c": 18,
-      "wind_kmh": 3,
+    "Saudi Arabia": {
+      "temp_c": 24,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Egypt": {
-      "temp_c": 18,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Lebanon": {
-      "temp_c": 19,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Riyadh"
     },
     "Oman": {
-      "temp_c": 35,
+      "temp_c": 37,
       "wind_kmh": 9,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Yemen": {
-      "temp_c": 20,
-      "wind_kmh": 5,
+    "Bahrain": {
+      "temp_c": 28,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Manama"
+    },
+    "UAE": {
+      "temp_c": 32,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Lebanon": {
+      "temp_c": 20,
+      "wind_kmh": 1,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Qatar": {
+      "temp_c": 31,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Egypt": {
+      "temp_c": 20,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Jordan": {
+      "temp_c": 20,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Iran": {
+      "temp_c": 21,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     },
     "Iraq": {
-      "temp_c": 23,
-      "wind_kmh": 9,
+      "temp_c": 24,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Qatar": {
-      "temp_c": 29,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
+    "Yemen": {
+      "temp_c": 20,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307616,
+    "KWD": 0.307627,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.617006,
-    "IQD": 1313.924802
+    "EGP": 52.616942,
+    "IQD": 1313.562667
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1svtxu1",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1svtxu1/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-04-26T01:30:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1svqu85",
+        "title": "Lottery website down",
+        "summary": "On my side of the world the lottery website is down, this is just after they posted advertising their website on instagram. How am I going to know if my ticket won now without going all the way to the store.",
+        "url": "https://reddit.com/r/Lottery/comments/1svqu85/lottery_website_down/",
+        "timestamp": "2026-04-25T23:07:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sv06th",
         "title": "When you think you hit the jackpot.",
@@ -179,15 +209,15 @@
       {
         "id": "reddit-lot-1sulwuz",
         "title": "Has anyone else been playing with this? It's called ballvault stats I typed in powerball stats and found it",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬3",
         "url": "https://reddit.com/r/Lottery/comments/1sulwuz/has_anyone_else_been_playing_with_this_its_called/",
         "timestamp": "2026-04-24T17:13:33.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -201,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -277,7 +307,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -291,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 1,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -306,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -321,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -735,9 +765,9 @@
         "id": "newsapi-lot-aHR0cHM6Ly9y",
         "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
         "summary": "\"How do I check that it's not a hoax?\" Ari Hodara, 58, said after organizers called him following the draw at a Paris auction house.",
-        "url": "https://roanoke.com/life-entertainment/nation-world/art-theater/article_2bb453e8-a7a3-5834-abd1-ff45dd11d2a5.html",
+        "url": "https://richmond.com/life-entertainment/nation-world/art-theater/article_6fbc9294-5b39-5fe1-b437-989ca0b2de97.html",
         "timestamp": "2026-04-16T14:30:00Z",
-        "source": "Roanoke Times",
+        "source": "Richmond.com",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -750,9 +780,9 @@
         "id": "newsapi-lot-aHR0cHM6Ly9y",
         "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
         "summary": "\"How do I check that it's not a hoax?\" Ari Hodara, 58, said after organizers called him following the draw at a Paris auction house.",
-        "url": "https://richmond.com/life-entertainment/nation-world/art-theater/article_6fbc9294-5b39-5fe1-b437-989ca0b2de97.html",
+        "url": "https://roanoke.com/life-entertainment/nation-world/art-theater/article_2bb453e8-a7a3-5834-abd1-ff45dd11d2a5.html",
         "timestamp": "2026-04-16T14:30:00Z",
-        "source": "Richmond.com",
+        "source": "Roanoke Times",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -805,21 +835,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Haiku on ARM64 boots to desktop in QEMU",
-        "summary": "Another Haiku monthly activity report, but this time around, there’s actually a big ticket item. Haiku has been in a pretty solid and stable state for a while now, so the activity reports have been dominated by fairly small, obscure changes, but during March …",
-        "url": "https://www.osnews.com/story/144799/haiku-on-arm64-boots-to-desktop-in-qemu/",
-        "timestamp": "2026-04-15T15:10:58Z",
-        "source": "Osnews.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       },
       {
         "id": "guardian-lot-world-2026-apr-15-picasso-painting-winner-charity-raffle",
@@ -898,10 +913,10 @@
       }
     ],
     "meta": {
-      "totalSignals": 53,
-      "meSignals": 2,
+      "totalSignals": 54,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 43,
+        "HOPEFUL": 44,
         "CYNICAL": 0,
         "ANXIOUS": 4,
         "NEUTRAL": 6
