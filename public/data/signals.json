@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-04-26T05:22:25.101Z",
+  "generated_at": "2026-04-27T05:36:07.097Z",
   "gdelt_tone": {
-    "UAE": -1.2,
-    "Saudi Arabia": -0.13,
-    "Qatar": -0.46,
-    "Kuwait": -1.74,
-    "Bahrain": 0.31,
-    "Oman": -1.08,
-    "Jordan": -0.69,
-    "Lebanon": -3.84,
-    "Iraq": -3.05,
-    "Egypt": 0.22,
-    "Yemen": -3.87,
-    "Iran": -3.58
+    "UAE": -1.04,
+    "Saudi Arabia": 0.03,
+    "Qatar": -0.59,
+    "Kuwait": -1.93,
+    "Bahrain": 0.78,
+    "Oman": -1.06,
+    "Jordan": -0.9,
+    "Lebanon": -3.87,
+    "Iraq": -3.1,
+    "Egypt": 0.23,
+    "Yemen": -3.96,
+    "Iran": -3.53
   },
   "weather": {
-    "Kuwait": {
-      "temp_c": 27,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
     "Saudi Arabia": {
-      "temp_c": 24,
-      "wind_kmh": 4,
+      "temp_c": 27,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "Oman": {
-      "temp_c": 37,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Bahrain": {
-      "temp_c": 28,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
     "UAE": {
-      "temp_c": 32,
-      "wind_kmh": 10,
+      "temp_c": 31,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Lebanon": {
-      "temp_c": 20,
-      "wind_kmh": 1,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
     "Qatar": {
-      "temp_c": 31,
-      "wind_kmh": 15,
+      "temp_c": 32,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Kuwait": {
+      "temp_c": 29,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Bahrain": {
+      "temp_c": 29,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 37,
+      "wind_kmh": 20,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Lebanon": {
+      "temp_c": 18,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 16,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Egypt": {
-      "temp_c": 20,
+      "temp_c": 19,
       "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Jordan": {
-      "temp_c": 20,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Iran": {
-      "temp_c": 21,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
     "Iraq": {
       "temp_c": 24,
-      "wind_kmh": 14,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
     "Yemen": {
-      "temp_c": 20,
-      "wind_kmh": 5,
+      "temp_c": 21,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 20,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307627,
+    "KWD": 0.307113,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.616942,
-    "IQD": 1313.562667
+    "EGP": 52.669544,
+    "IQD": 1310.938522
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1swh3b3",
+        "title": "📊 Lotto Texas Mon Apr 27 ($5.5M) Audit: Sat results left a “Low Vacuum.” 46 is overdue (39 draws). Ideas: 01-04-05-08-09-20 10-15-27-32-44-46 12-16-26-31-46-50 Note: 46 is a major outlier. Play responsibly. #TexasLottery #Math #DataAnalysis",
+        "summary": "**\\[Lotto Texas\\] Data Audit & Suggestions for Monday 4/27 ($5.5M Jackpot)**",
+        "url": "https://reddit.com/r/Lottery/comments/1swh3b3/lotto_texas_mon_apr_27_55m_audit_sat_results_left/",
+        "timestamp": "2026-04-26T19:29:56.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
+        "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
+        "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/26/families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
+        "timestamp": "2026-04-26T09:00:10Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1svtxu1",
         "title": "Powerball Winning Numbers (Saturday)",
@@ -141,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 11,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,7 +201,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -186,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -202,7 +232,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -702,51 +732,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1spmiyz",
-        "title": "13L Game Login Official Website:",
-        "summary": "13L Game Login is one of the easiest ways to start playing online and earning rewards. With a simple interface and fast access, users can log in within seconds. 👉 13L Game Login Official Website: [https://13lgames.online/](https://13lgames",
-        "url": "https://reddit.com/r/Lottery/comments/1spmiyz/13l_game_login_official_website/",
-        "timestamp": "2026-04-19T07:45:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sph17e",
-        "title": "Well Well Well",
-        "summary": "I just helped fund my trip to Massachusetts to try and leave a scratch off millionaire. Iam based out of NY and have been playing VIP millions and recently hit on a couple of mid tier prizes and had about 1700 in scratchers that I was going",
-        "url": "https://reddit.com/r/Lottery/comments/1sph17e/well_well_well/",
-        "timestamp": "2026-04-19T02:51:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 160,
-        "comments": 19,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1spfda2",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1spfda2/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-04-19T01:30:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-17-richard-desmond-loses-damages-battle-with-gambling-commission-ending-national-lottery-dispute",
         "title": "Richard Desmond loses £1.3bn damages battle over national lottery licence",
         "summary": "Media tycoon vows to appeal after dismissal of action against Gambling Commission for awarding Allwyn the franchise",
@@ -754,21 +739,6 @@
         "timestamp": "2026-04-17T10:54:12Z",
         "source": "The Guardian",
         "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9y",
-        "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
-        "summary": "\"How do I check that it's not a hoax?\" Ari Hodara, 58, said after organizers called him following the draw at a Paris auction house.",
-        "url": "https://richmond.com/life-entertainment/nation-world/art-theater/article_6fbc9294-5b39-5fe1-b437-989ca0b2de97.html",
-        "timestamp": "2026-04-16T14:30:00Z",
-        "source": "Richmond.com",
-        "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
         "score": 0,
@@ -792,12 +762,12 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Numbers April 15 2026: No Jackpot Winner as $58M Prize Rolls Over to $75M",
-        "summary": "DES MOINES, Iowa — No ticket matched all six numbers in Wednesday night's Powerball drawing, leaving the estimated $58 million jackpot unclaimed and setting the stage for a larger prize Saturday as the game continues its rollover streak.",
-        "url": "https://www.ibtimes.com.au/powerball-numbers-april-15-2026-no-jackpot-winner-58m-prize-rolls-over-75m-1866745",
-        "timestamp": "2026-04-16T13:04:07Z",
-        "source": "Ibtimes.com.au",
+        "id": "newsapi-lot-aHR0cHM6Ly9y",
+        "title": "Raffle winner thrilled to claim a $1 million Picasso with a $117 ticket",
+        "summary": "\"How do I check that it's not a hoax?\" Ari Hodara, 58, said after organizers called him following the draw at a Paris auction house.",
+        "url": "https://richmond.com/life-entertainment/nation-world/art-theater/article_6fbc9294-5b39-5fe1-b437-989ca0b2de97.html",
+        "timestamp": "2026-04-16T14:30:00Z",
+        "source": "Richmond.com",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -808,26 +778,11 @@
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Edgy Arsenal squeeze past Sporting Lisbon to set up Atlético semi-final",
-        "summary": "Kai Havertz first-leg goal proves the difference after Emirates draw",
-        "url": "https://www.irishtimes.com/sport/soccer/2026/04/15/edgy-arsenal-squeeze-past-sporting-lisbon-to-set-up-atletico-semi-final/",
-        "timestamp": "2026-04-15T21:16:20Z",
-        "source": "The Irish Times",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Raffle winner surprised — even skeptical — upon landing $1M Picasso",
-        "summary": "A Parisian art enthusiast could not believe his luck when he found out Tuesday he'd won a Pablo Picasso painting worth more than $1 million in a raffle.",
-        "url": "https://www.cbc.ca/news/entertainment/raffle-winner-picasso-painting-9.7164517",
-        "timestamp": "2026-04-15T17:16:04Z",
-        "source": "CBC News",
+        "title": "Powerball Numbers April 15 2026: No Jackpot Winner as $58M Prize Rolls Over to $75M",
+        "summary": "DES MOINES, Iowa — No ticket matched all six numbers in Wednesday night's Powerball drawing, leaving the estimated $58 million jackpot unclaimed and setting the stage for a larger prize Saturday as the game continues its rollover streak.",
+        "url": "https://www.ibtimes.com.au/powerball-numbers-april-15-2026-no-jackpot-winner-58m-prize-rolls-over-75m-1866745",
+        "timestamp": "2026-04-16T13:04:07Z",
+        "source": "Ibtimes.com.au",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -913,17 +868,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 54,
-      "meSignals": 1,
+      "totalSignals": 51,
+      "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 44,
+        "HOPEFUL": 41,
         "CYNICAL": 0,
-        "ANXIOUS": 4,
-        "NEUTRAL": 6
+        "ANXIOUS": 3,
+        "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 19
+      "uncertaintyScore": 20
     }
   }
 }
