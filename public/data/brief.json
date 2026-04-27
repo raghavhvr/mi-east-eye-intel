@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-26T05:27:08.556Z",
+  "generated_at": "2026-04-27T05:40:22.005Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Iran Sanctions",
-  "summary": "The region remains stable despite concerns over Iran sanctions and their impact on local markets. Online discussions focus on everyday life, with some anxiety about school closures and food safety.",
+  "threatLevel": "MODERATE",
+  "topTheme": "Iranian Military Tech",
+  "summary": "Regional security dynamics are shifting due to Iranian advancements in drone technology, while everyday life and economic activities continue uninterrupted. The situation warrants close monitoring as it may impact regional stability and global demand for electric vehicles.",
   "keyTrends": [
-    "Iran sanctions",
-    "school closures",
-    "food safety"
+    "Iranian Drone Tech",
+    "EV Demand",
+    "Regional Security"
   ],
   "watchItems": [
-    "Iran market trends",
-    "US-Iran relations"
+    "Iran-China-Russia Relations",
+    "Lebanon-Israel Tensions"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "economic uncertainty",
-    "health concerns"
+    "Regional Conflict Fears",
+    "Economic Uncertainty"
   ]
 }

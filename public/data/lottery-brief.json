@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T05:27:09.176Z",
+  "generated_at": "2026-04-27T05:40:22.618Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -13,13 +13,13 @@
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with the lottery serving as a means to escape financial struggles. The emotional investment in lottery games is fueled by the occasional win, creating a psychological feedback loop of hope and anticipation.",
+  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with many individuals exhibiting optimistic biases and a tendency to overestimate their chances of winning. The use of data analysis and statistics to inform lottery choices also suggests a psychological need for control in an otherwise unpredictable outcome.",
   "riskSignals": [
     "addiction",
-    "disappointment"
+    "technical issues"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "lottery innovation"
+    "data-driven decision making",
+    "responsible gaming promotion"
   ]
 }
