@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-27T05:40:22.005Z",
+  "generated_at": "2026-04-28T05:45:26.651Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Iranian Military Tech",
-  "summary": "Regional security dynamics are shifting due to Iranian advancements in drone technology, while everyday life and economic activities continue uninterrupted. The situation warrants close monitoring as it may impact regional stability and global demand for electric vehicles.",
+  "topTheme": "MENA Geopolitics",
+  "summary": "Tensions between Israel and Lebanon are escalating, while Iran's influence in the region remains a concern. Oil prices are rising despite proposals to reopen the Strait of Hormuz, indicating ongoing instability in the region.",
   "keyTrends": [
-    "Iranian Drone Tech",
-    "EV Demand",
-    "Regional Security"
+    "Israel-Lebanon Conflict",
+    "Iran's Regional Influence",
+    "Oil Price Volatility"
   ],
   "watchItems": [
-    "Iran-China-Russia Relations",
-    "Lebanon-Israel Tensions"
+    "Strait of Hormuz",
+    "Iran-Israel Relations"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Conflict Fears",
+    "Regional Conflict",
     "Economic Uncertainty"
   ]
 }

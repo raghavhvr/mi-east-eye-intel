@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T05:40:22.618Z",
+  "generated_at": "2026-04-28T05:45:27.270Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning the lottery",
+  "dominantNarrative": "Winning Lottery Dreams",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "frustration"
+    "Excitement",
+    "Optimism",
+    "Anticipation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with many individuals exhibiting optimistic biases and a tendency to overestimate their chances of winning. The use of data analysis and statistics to inform lottery choices also suggests a psychological need for control in an otherwise unpredictable outcome.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount of money. The use of mathematical analysis and data-driven approaches to predict lottery numbers also suggests a sense of control and agency among the public.",
   "riskSignals": [
-    "addiction",
-    "technical issues"
+    "Gaming addiction",
+    "Financial irresponsibility"
   ],
   "opportunitySignals": [
-    "data-driven decision making",
-    "responsible gaming promotion"
+    "Responsible gaming practices",
+    "Financial literacy education"
   ]
 }
