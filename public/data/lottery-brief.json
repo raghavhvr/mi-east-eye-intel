@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T05:45:27.270Z",
+  "generated_at": "2026-04-29T05:40:48.667Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -11,15 +11,15 @@
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Anticipation"
+    "Curiosity"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount of money. The use of mathematical analysis and data-driven approaches to predict lottery numbers also suggests a sense of control and agency among the public.",
+  "psychInsight": "The public is driven by the desire for financial freedom and the thrill of possibility, with many individuals seeking to improve their lives through lottery wins. The use of mathematical strategies and cosmic inspirations reflects a psychological need for control and meaning in an uncertain environment.",
   "riskSignals": [
-    "Gaming addiction",
-    "Financial irresponsibility"
+    "Gambling Addiction",
+    "Financial Ruin"
   ],
   "opportunitySignals": [
-    "Responsible gaming practices",
-    "Financial literacy education"
+    "Life-Changing Wins",
+    "Financial Freedom"
   ]
 }
