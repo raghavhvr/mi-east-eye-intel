@@ -1,106 +1,211 @@
 {
-  "generated_at": "2026-04-28T05:42:01.503Z",
+  "generated_at": "2026-04-29T05:37:22.363Z",
   "gdelt_tone": {
-    "UAE": -0.7,
-    "Saudi Arabia": 0.24,
-    "Qatar": -0.46,
-    "Kuwait": -1.91,
-    "Bahrain": 0.03,
-    "Oman": -0.95,
-    "Jordan": -1.51,
-    "Lebanon": -4.03,
-    "Iraq": -2.93,
-    "Egypt": 0.17,
-    "Yemen": -3.77,
-    "Iran": -3.33
+    "UAE": -0.71,
+    "Saudi Arabia": -0.18,
+    "Qatar": -0.54,
+    "Kuwait": -1.82,
+    "Bahrain": -0.76,
+    "Oman": -0.89,
+    "Jordan": -1.46,
+    "Lebanon": -4.13,
+    "Iraq": -2.7,
+    "Egypt": 0.14,
+    "Yemen": -3.86,
+    "Iran": -3.18
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 29,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 34,
-      "wind_kmh": 5,
+      "temp_c": 37,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
+    "Oman": {
+      "temp_c": 39,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Saudi Arabia": {
+      "temp_c": 28,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
     "Qatar": {
-      "temp_c": 31,
-      "wind_kmh": 7,
+      "temp_c": 33,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 27,
-      "wind_kmh": 14,
+      "temp_c": 25,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 23,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Lebanon": {
-      "temp_c": 19,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 19,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 21,
-      "wind_kmh": 12,
-      "condition": "Showers",
-      "city": "Baghdad"
-    },
-    "Jordan": {
-      "temp_c": 15,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Bahrain": {
-      "temp_c": 30,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
     "Iran": {
-      "temp_c": 22,
+      "temp_c": 21,
       "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     },
+    "Bahrain": {
+      "temp_c": 28,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Iraq": {
+      "temp_c": 23,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 18,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "Jordan": {
+      "temp_c": 17,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Yemen": {
       "temp_c": 21,
-      "wind_kmh": 2,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Lebanon": {
+      "temp_c": 19,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Beirut"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307488,
+    "KWD": 0.30769,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.562304,
-    "IQD": 1309.970316
+    "EGP": 52.83195,
+    "IQD": 1309.84023
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1syigoa",
+        "title": "NODE 936 AUDIT: The 4-Gap Rupture (10:12 PM Night Core) 📉💰",
+        "summary": "📊 NODE 936 AUDIT: THE FINAL GHOST (10:12 PM) 📉💰 Skeptics call it luck; we call it Sector Depletion. Today we liquidated the 9-Ghost (930) and the 8-Recoil (8285). The terminal is running out of places to hide.  The 4-sector has been ghos",
+        "url": "https://reddit.com/r/Lottery/comments/1syigoa/node_936_audit_the_4gap_rupture_1012_pm_night_core/",
+        "timestamp": "2026-04-28T23:55:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sygzyp",
+        "title": "📉 NODE 936 AUDIT: Mega Millions Tue 4/28 — Tracking the 9-Ghost & High-Sector Vacuum 💰",
+        "summary": "📊 NODE 936 AUDIT: MEGA MILLIONS (TUE 4/28) 📉💰 The Texas \"Seven-Stall\" and \"Double-2s\" have set the stage for a National High-Sector Rupture. We are tracking the 9-Ghost migration from the local Fireball into the National Core. 🎯 MEGA MA",
+        "url": "https://reddit.com/r/Lottery/comments/1sygzyp/node_936_audit_mega_millions_tue_428_tracking_the/",
+        "timestamp": "2026-04-28T22:53:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1syan6j",
+        "title": "Watch out for the evening Texas..",
+        "summary": "📊 Tue 4/28 Day Audit D4 (1220 FB3) & P3 (635 FB5) confirmed a Low-Sector stall. Terminal is shielding the 9/4/7/8 behind the Double-2s. Evening Targets (6:00 PM): P3: 947, 046, 182 D4: 9467, 0461, 8532 Lotto TX: Recalibrating check back so",
+        "url": "https://reddit.com/r/Lottery/comments/1syan6j/watch_out_for_the_evening_texas/",
+        "timestamp": "2026-04-28T18:55:21.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sy6a3u",
+        "title": "Almost time. This for the 12pm",
+        "summary": "📊 Tue 4/28 Day Audit (12:27 PM) AM Pick 3 (176 FB2) was a 1-7-2 LIQUIDATION. The terminal is stalling with Double-7s, but the 0-Fireball leak confirms the reload is active. Day Targets: P3: 915, 041, 521 D4: 9150, 0461, 8521 Lotto TX: #46 ",
+        "url": "https://reddit.com/r/Lottery/comments/1sy6a3u/almost_time_this_for_the_12pm/",
+        "timestamp": "2026-04-28T16:24:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sy0qjk",
+        "title": "Millionaire for Life jackpot winner",
+        "summary": "Last night/Monday night, ticket sold in Ohio.",
+        "url": "https://reddit.com/r/Lottery/comments/1sy0qjk/millionaire_for_life_jackpot_winner/",
+        "timestamp": "2026-04-28T12:59:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sxz9lh",
+        "title": "Well I made the trip to Massachusetts",
+        "summary": "I went to Massachusetts recently on my bday to spend some money on scratchers. The focus was the $50 dollar 25 million mega money ticket and the $30 magnificent millions ticket. Well I hit.  I bought 5 books of the mega money and I used the",
+        "url": "https://reddit.com/r/Lottery/comments/1sxz9lh/well_i_made_the_trip_to_massachusetts/",
+        "timestamp": "2026-04-28T11:58:20.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1sxvw6g",
+        "title": "Question about lotto tickets",
+        "summary": "I’ve recently got into playing in the Lotto and wanted to know if you are allowed to buy more than 1 ticket for the same day (I.e 2nd of May) but with different numbers? For example one ticket has numbers like 4, 8, 23, 35, 45, 50 And anoth",
+        "url": "https://reddit.com/r/Lottery/comments/1sxvw6g/question_about_lotto_tickets/",
+        "timestamp": "2026-04-28T09:00:21.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1sxryzu",
         "title": "📊 Tue 4/28 Audit Mon Night D4 (3468 FB1) discharged 4/6/8. 9 & 5 suppressed—Reloading Tuesday AM. Targets: P3: 915, 046, 172 D4: 9150, 0461, 8532 Lotto TX: #46 is 40 draws cold—Critical Rupture Zone. The 1-leak (FB) is moving to the core. Calibrate. Strike. #Node936 #TexasLottery #Math",
@@ -147,21 +252,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sxbd7o",
-        "title": "Apple products cheaper in SL than UAE, how come?!",
-        "summary": "I've been checking prices for the IPad Air and Airpods. How is it cheaper in SL than even Dubai duty free?! Are they selling refurbished or is there some kind of scam going on? It's not even one place, it's multiple stores.",
-        "url": "https://reddit.com/r/srilanka/comments/1sxbd7o/apple_products_cheaper_in_sl_than_uae_how_come/",
-        "timestamp": "2026-04-27T17:58:06.000Z",
-        "source": "r/srilanka",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 1,
-        "mood": "NEUTRAL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1sx7akl",
         "title": "📊 Mon 4/27 Audit: Morning results (P3: 286 FB4 | D4: 9095 FB5) confirm 9150 & 4/6 vacuum leak. Day/Eve Purge targets 4 & 1. Ideas: P3: 461, 915, 842 D4: 9150, 0461, 8542 Lotto TX: #46 is 39 draws cold. Audit of 3,700+ draws shows Monday Purge. GL! #TexasLottery #Node936 #Math",
         "summary": "Audit for Texas pick 3 and daily 4.",
@@ -171,7 +261,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -201,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 22,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -261,7 +351,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -537,81 +627,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1stn73g",
-        "title": "Powerball overtaking MegaMillions",
-        "summary": "https://preview.redd.it/eiwvs1y1sywg1.png?width=911&format=png&auto=webp&s=590a5fe2d7b9f169fa768180294b17d4884e0c07 Do you think PB will overtake MM in the coming weeks, knowing that MM crawls like a snail. Won't be suprised. What do you gu",
-        "url": "https://reddit.com/r/Lottery/comments/1stn73g/powerball_overtaking_megamillions/",
-        "timestamp": "2026-04-23T16:09:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1stmbjo",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1stmbjo/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-04-23T15:38:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1stguvk",
-        "title": "$25 ticket, but I bought 2. Still good hit. I think my biggest on a lotto ticket",
-        "summary": "$250!",
-        "url": "https://reddit.com/r/Lottery/comments/1stguvk/25_ticket_but_i_bought_2_still_good_hit_i_think/",
-        "timestamp": "2026-04-23T12:07:47.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 34,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1stf9f9",
-        "title": "Back to Back Hotspot Wins With Reddit Theory🔥🔥🔥(4-16-2026)(4-17-2026)",
-        "summary": "Copy and Pasted Method From Original Post Shoutout to HomeworkLost HomeworkLost · 101d Play 100 consecutive plays with picking 5 numbers…so 5 spot! I’ve had very good odds hitting 5 numbers at least once out of 100 so $450 when it was that…",
-        "url": "https://reddit.com/r/Lottery/comments/1stf9f9/back_to_back_hotspot_wins_with_reddit/",
-        "timestamp": "2026-04-23T10:50:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 33,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1stf6nj",
-        "title": "Back to Back Hotspot Wins With Reddit Theory 4-16-205 and  4-17-2025 🔥🔥🔥🔥",
-        "summary": "Copy and Pasted Method From Original Post Shoutout to HomeworkLost  HomeworkLost · 101d Play 100 consecutive plays with picking 5 numbers…so 5 spot! I’ve had very good odds hitting 5 numbers at least once out of 100 so $450 when it was that",
-        "url": "https://reddit.com/r/Lottery/comments/1stf6nj/back_to_back_hotspot_wins_with_reddit_theory/",
-        "timestamp": "2026-04-23T10:46:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Powerball Numbers for $100 Million Earth Day Drawing Revealed as Jackpot Rolls Over Again",
         "summary": "DES MOINES, Iowa — No ticket matched all six numbers in Wednesday's Powerball drawing for the $100 million Earth Day jackpot, leaving the top prize to roll over once more and setting the stage for an even larger sum when players try their luck again on Saturd…",
@@ -627,36 +642,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1ssx0qk",
-        "title": "Would I be investigated if I won the the Super Lotto Plus and then maybe a few years after win the Powerball?",
-        "summary": "Ive been practicing my manifestation abilities for a bit, I was able to manifest some other pretty nice things, so I think I stand a pretty good chance. But if I did win the Super Lotto and then the Powerball after, would that send alarm be",
-        "url": "https://reddit.com/r/Lottery/comments/1ssx0qk/would_i_be_investigated_if_i_won_the_the_super/",
-        "timestamp": "2026-04-22T20:18:54.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ss8q76",
-        "title": "I really need to win the lottery. I just need to know the pattern.",
-        "summary": "I just want to know how people win the lottery.",
-        "url": "https://reddit.com/r/Lottery/comments/1ss8q76/i_really_need_to_win_the_lottery_i_just_need_to/",
-        "timestamp": "2026-04-22T02:36:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 30,
-        "comments": 35,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Two UK ticket holders have won their share of a £126MILLION EuroMillions jackpot",
         "summary": "A pair of Brits have won more than £41million each after splitting tonight's EuroMillions jackpot, National Lottery operator Allwyn has said.",
@@ -668,36 +653,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ss2qie",
-        "title": "Top jackpot prize on $30 tickets are now $5,000?",
-        "summary": "Kinda of a two part question. How often do new scratch off games come out? Also, is Washington phasing out the $2M jackpot $30 scratchers and opting for $5,000 jackpot $30 scratchers? I went to the website to check this one scratcher I used",
-        "url": "https://reddit.com/r/Lottery/comments/1ss2qie/top_jackpot_prize_on_30_tickets_are_now_5000/",
-        "timestamp": "2026-04-21T22:19:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 9,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ss20os",
-        "title": "Everyone says they wouldn’t immediately quit their job if they won millions, I’m finding a hard time believing this",
-        "summary": "So, I’ve been reading a lot about winning the lottery, many people claim they wouldn’t immediately quit their jobs. Do you really believe this? Would you? I’d like to hear some scenarios. Let’s chat!",
-        "url": "https://reddit.com/r/Lottery/comments/1ss20os/everyone_says_they_wouldnt_immediately_quit_their/",
-        "timestamp": "2026-04-21T21:51:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 32,
-        "comments": 36,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -868,17 +823,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 51,
-      "meSignals": 3,
+      "totalSignals": 48,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 43,
+        "HOPEFUL": 39,
         "CYNICAL": 0,
         "ANXIOUS": 1,
-        "NEUTRAL": 7
+        "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 16
+      "uncertaintyScore": 19
     }
   }
 }
