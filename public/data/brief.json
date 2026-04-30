@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-04-29T05:40:47.959Z",
+  "generated_at": "2026-04-30T05:45:46.564Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Middle East tensions",
-  "summary": "Regional security remains a concern due to ongoing conflicts and military actions, while economic and trade disruptions are also on the rise. The situation is being closely monitored by global powers, with diplomatic efforts underway to build partnerships and mitigate risks",
+  "topTheme": "Regional Tensions",
+  "summary": "The region is experiencing increased tensions due to Israeli interception of a Gaza-bound flotilla and claims of Russian involvement in Iranian uranium enrichment. These developments are likely to escalate existing conflicts and impact regional stability",
   "keyTrends": [
-    "Regional conflicts",
-    "Economic disruptions",
-    "Diplomatic efforts"
+    "Israeli-Palestinian Conflict",
+    "Iranian Nuclear Program",
+    "Regional Security"
   ],
   "watchItems": [
-    "West Bank raids",
-    "US-Cuba relations",
-    "Gulf defence partnerships"
+    "Gaza Flotilla",
+    "Iran-Russia Relations"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Military actions",
-    "Trade uncertainty",
-    "Diplomatic tensions"
+    "Regional Conflicts",
+    "Nuclear Proliferation"
   ]
 }

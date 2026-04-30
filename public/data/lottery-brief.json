@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T05:40:48.667Z",
+  "generated_at": "2026-04-30T05:45:47.190Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Lottery Dreams",
+  "dominantNarrative": "Big wins inspire hope",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Curiosity"
+    "excitement",
+    "optimism",
+    "greed"
   ],
-  "psychInsight": "The public is driven by the desire for financial freedom and the thrill of possibility, with many individuals seeking to improve their lives through lottery wins. The use of mathematical strategies and cosmic inspirations reflects a psychological need for control and meaning in an uncertain environment.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, and recent winners inspire others to take a chance. The thrill of possibly winning a large sum of money overrides rational thinking about the low odds of winning.",
   "riskSignals": [
-    "Gambling Addiction",
-    "Financial Ruin"
+    "irrational betting",
+    "chasing losses"
   ],
   "opportunitySignals": [
-    "Life-Changing Wins",
-    "Financial Freedom"
+    "increased engagement",
+    "new player acquisition"
   ]
 }
