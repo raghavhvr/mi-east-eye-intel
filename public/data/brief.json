@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-04-30T05:45:46.564Z",
+  "generated_at": "2026-05-01T05:55:57.774Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Regional Tensions",
-  "summary": "The region is experiencing increased tensions due to Israeli interception of a Gaza-bound flotilla and claims of Russian involvement in Iranian uranium enrichment. These developments are likely to escalate existing conflicts and impact regional stability",
+  "topTheme": "MENA Conflict",
+  "summary": "The region is experiencing increased tensions due to reported use of white phosphorus in southern Lebanon and an Israeli attack in Nabatiyeh. Regional instability is also influenced by arms smuggling and geopolitical developments, including the US stance on Iran's participation in the World Cup",
   "keyTrends": [
-    "Israeli-Palestinian Conflict",
-    "Iranian Nuclear Program",
-    "Regional Security"
+    "Lebanon Conflict",
+    "Iran Tensions",
+    "Gulf Travel Recovery"
   ],
   "watchItems": [
-    "Gaza Flotilla",
-    "Iran-Russia Relations"
+    "Israeli-Lebanese Border",
+    "Iran-US Relations"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Conflicts",
-    "Nuclear Proliferation"
+    "Regional Violence",
+    "Geopolitical Uncertainty"
   ]
 }
