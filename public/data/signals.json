@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-04-30T05:41:48.901Z",
+  "generated_at": "2026-05-01T05:51:16.841Z",
   "gdelt_tone": {
-    "UAE": -0.59,
-    "Saudi Arabia": -0.39,
-    "Qatar": -0.48,
-    "Kuwait": -1.83,
-    "Bahrain": -0.56,
-    "Oman": -0.86,
-    "Jordan": -1.52,
-    "Lebanon": -4.18,
-    "Iraq": -2.4,
-    "Egypt": 0.06,
+    "UAE": -0.69,
+    "Saudi Arabia": -0.48,
+    "Qatar": -0.53,
+    "Kuwait": -2,
+    "Bahrain": -0.46,
+    "Oman": -0.8,
+    "Jordan": -1.79,
+    "Lebanon": -4.16,
+    "Iraq": -2.06,
+    "Egypt": 0.12,
     "Yemen": -3.74,
-    "Iran": -3.12
+    "Iran": -3.07
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 26,
-      "wind_kmh": 6,
+      "temp_c": 27,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 26,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 10,
+      "temp_c": 31,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 27,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
     },
     "Qatar": {
       "temp_c": 31,
@@ -40,67 +40,202 @@
       "city": "Doha"
     },
     "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 9,
+      "temp_c": 39,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 27,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 18,
-      "wind_kmh": 3,
+      "temp_c": 28,
+      "wind_kmh": 16,
       "condition": "Clear",
-      "city": "Amman"
+      "city": "Manama"
     },
     "Lebanon": {
       "temp_c": 19,
-      "wind_kmh": 2,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
+    "Jordan": {
+      "temp_c": 18,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Iraq": {
-      "temp_c": 24,
-      "wind_kmh": 1,
+      "temp_c": 26,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 18,
+      "temp_c": 19,
       "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 21,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
     "Iran": {
-      "temp_c": 20,
-      "wind_kmh": 13,
+      "temp_c": 19,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 22,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307396,
+    "KWD": 0.307958,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.009091,
-    "IQD": 1310.119862
+    "EGP": 53.622122,
+    "IQD": 1310.588483
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1t0h8ik",
+        "title": "Do you think you’ll ever win big?",
+        "summary": "Most of my wins have been free tickets, $20, $50 a handful, $100. I’ve yet to win more than that, though I play lower denomination tickets like $2-5$ tickets and $10 tickets here and there too. Even winning a few grand, or 10k would be pret",
+        "url": "https://reddit.com/r/Lottery/comments/1t0h8ik/do_you_think_youll_ever_win_big/",
+        "timestamp": "2026-05-01T02:59:25.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t0ffq0",
+        "title": "I was so close to 5 numbers, not exactly the lottery but still",
+        "summary": "It's the uk lottery, basically 3 numbers gets £30, 4 is £140, 5 is £1750 and 6 is the  jackpot  I played a different ticket, just to see if that would win  That had 14 and 38 If I'd have done that for the picture above,  £1750 I hate this g",
+        "url": "https://reddit.com/r/Lottery/comments/1t0ffq0/i_was_so_close_to_5_numbers_not_exactly_the/",
+        "timestamp": "2026-05-01T01:37:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t06upj",
+        "title": "What Indiana, Kansas, and New Jersey Lottery PB Play Slips look like",
+        "summary": "Since there's some people still saying that it's fraud, here's what the Indiana, Kansas, and New Jersey Powerball play slips look like. (Disclaimer: Got the images from Google) As a reminder, the numbers were: 3-19-35-51-67-15 Indiana: [Ind",
+        "url": "https://reddit.com/r/Lottery/comments/1t06upj/what_indiana_kansas_and_new_jersey_lottery_pb/",
+        "timestamp": "2026-04-30T19:46:50.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t04u86",
+        "title": "20$ by in MI lottery",
+        "summary": "Planning on spending 20$ for some scratch offs or fast cash’s what yall think are some good tickets. Cash surge ($10) and ($5) are my way but I could just play 1 20$ ticket",
+        "url": "https://reddit.com/r/Lottery/comments/1t04u86/20_by_in_mi_lottery/",
+        "timestamp": "2026-04-30T18:34:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t01mtj",
+        "title": "Powerball results last night.",
+        "summary": "This cannot be right or we have some serious fraud going on with the Lotto.",
+        "url": "https://reddit.com/r/Lottery/comments/1t01mtj/powerball_results_last_night/",
+        "timestamp": "2026-04-30T16:39:48.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t00gxp",
+        "title": "Texas Pick 3 & Daily 4: NODE 936 Morning Core Breach. The Vault is Cracking. 🛡️🎯",
+        "summary": "📉 NODE 936: VAULT’S ALREADY LEAKING. 🛡️🎯 While y'all were calling it \"gibberish,\" the math was busy taking receipts. The morning draw just bled 75% of the ledger before lunch.  THE RECEIPTS: ✅ 3-GHOST: Touched down (D4 Lead) ✅ 6-SECTOR: ",
+        "url": "https://reddit.com/r/Lottery/comments/1t00gxp/texas_pick_3_daily_4_node_936_morning_core_breach/",
+        "timestamp": "2026-04-30T15:58:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1szztp8",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1szztp8/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-04-30T15:38:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1szsyxw",
+        "title": "NODE 936: Thursday All-Day Master Ledger. One Audit. All Sessions. 🛡️🎯",
+        "summary": "📉 NODE 936: THURSDAY ALL-DAY MASTER LEDGER 🛡️🎯 Valid for all 4 draws (Apr 30, 2026) Wednesday was a bloodbath. The 0271 hit at 6:00 PM cleared the main vault. Now, the terminal is pivoting.  We are tracking the 3-GHOST and the 4-MIRROR. ",
+        "url": "https://reddit.com/r/Lottery/comments/1szsyxw/node_936_thursday_allday_master_ledger_one_audit/",
+        "timestamp": "2026-04-30T11:09:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1szqmpz",
+        "title": "**Powerball — Longest Absent Numbers (2026)**",
+        "summary": "10 — last seen 8 draws ago 11 — last seen 11 draws ago 31 — last seen 14 draws ago 32 — last seen 17 draws ago 33 — last seen 20 draws ago Each draw is independent so \"overdue\" is meaningless statistically. But it's interesting data. Anyone",
+        "url": "https://reddit.com/r/Lottery/comments/1szqmpz/powerball_longest_absent_numbers_2026/",
+        "timestamp": "2026-04-30T09:00:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1szlt7m",
         "title": "What happened?! So MANY Powerball winners!",
@@ -201,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,7 +351,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 3,
+        "comments": 6,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Oz Lotto Result: Winner Claims $80 Million Jackpot After 14-Week Roll, Remains Anonymous",
+        "summary": "BRISBANE — A single ticket holder in Queensland has become the latest Oz Lotto millionaire after winning the $80 million Division 1 prize in Tuesday night's draw, ending a 14-week rollover that had captured national attention and sent ticket sales soaring acr…",
+        "url": "https://www.ibtimes.com.au/oz-lotto-result-winner-claims-80-million-jackpot-after-14-week-roll-remains-anonymous-1867782",
+        "timestamp": "2026-04-29T12:22:25Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -231,7 +381,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
@@ -246,7 +396,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Mega Millions Winning Numbers April 28 2026: No Jackpot Winner, $163M Rolls Over",
+        "summary": "NEW YORK — No ticket matched all six numbers in Tuesday's Mega Millions drawing for the $163 million jackpot, meaning the top prize will roll over to an even larger amount for Friday's draw as players across the country continue chasing the life-changing fort…",
+        "url": "https://www.ibtimes.com.au/mega-millions-winning-numbers-april-28-2026-no-jackpot-winner-163m-rolls-over-1867751",
+        "timestamp": "2026-04-29T07:21:14Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -261,8 +426,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -276,8 +441,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -291,7 +456,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
@@ -522,96 +687,6 @@
         "isME": true
       },
       {
-        "id": "reddit-lot-1svtxu1",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑2 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1svtxu1/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-04-26T01:30:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1svqu85",
-        "title": "Lottery website down",
-        "summary": "On my side of the world the lottery website is down, this is just after they posted advertising their website on instagram. How am I going to know if my ticket won now without going all the way to the store.",
-        "url": "https://reddit.com/r/Lottery/comments/1svqu85/lottery_website_down/",
-        "timestamp": "2026-04-25T23:07:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sv06th",
-        "title": "When you think you hit the jackpot.",
-        "summary": "Dealer had Jack high.  Let the hilarity ensue.",
-        "url": "https://reddit.com/r/Lottery/comments/1sv06th/when_you_think_you_hit_the_jackpot/",
-        "timestamp": "2026-04-25T02:54:00.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 11,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1suydy8",
-        "title": "Crossword Loser or Winner??",
-        "summary": "This ticket looks like a winner but maybe rules are not understood because when scanning the bar code in the lottery app it says loser. What gives?",
-        "url": "https://reddit.com/r/Lottery/comments/1suydy8/crossword_loser_or_winner/",
-        "timestamp": "2026-04-25T01:29:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1suvcoq",
-        "title": "I’m going to win the Powerball. Anyone reads the winning stories on the Powerball is?",
-        "summary": "Matter of fact I already won! The signs are showing.",
-        "url": "https://reddit.com/r/Lottery/comments/1suvcoq/im_going_to_win_the_powerball_anyone_reads_the/",
-        "timestamp": "2026-04-24T23:11:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sutlfh",
-        "title": "This is addictive and I hardly even play 😂😂😂",
-        "summary": "I was searching for stat tools and I found one called ball vault status I was searching for Powerball stats and it came up on the Apple store must be new or AI or something?",
-        "url": "https://reddit.com/r/Lottery/comments/1sutlfh/this_is_addictive_and_i_hardly_even_play/",
-        "timestamp": "2026-04-24T21:59:39.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-lifeandstyle-2026-apr-24-experience-ive-won-1m-on-the-lottery-twice",
         "title": "Experience: I’ve won £1m on the lottery – twice",
         "summary": "The chances of that happening? Over 24 trillion to one",
@@ -677,66 +752,6 @@
         "summary": "DES MOINES, Iowa — The Powerball winning numbers for Monday, April 20, 2026, have been drawn, but no ticket matched all six numbers to claim the $87 million jackpot, lottery officials said.",
         "url": "https://www.ibtimes.com.au/powerball-numbers-april-20-2026-revealed-no-jackpot-winner-87m-prize-rolls-over-1867138",
         "timestamp": "2026-04-21T09:36:51Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9z",
-        "title": "Devils Draft Lottery Odds: How High Can They Actually Climb?",
-        "summary": "By unpopular demand—at least, from the fans and the media, the 2026 NHL Draft is decentralized once again. The New […]",
-        "url": "https://sportsnaut.com/nhl/new-jersey-devils/devils-news-2026-draft-lottery-odds-can-they-move/",
-        "timestamp": "2026-04-20T15:15:13Z",
-        "source": "Sportsnaut",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Win 1 of 4 TV and Soundbar Packages Worth up to $6,994 and 1 of 16,000 $20 90 Day StoreCash Prizes from The Good Guys",
-        "summary": "Maximum one entry per Prize Draw per entrant will be accepted during the Competition Period.\n\n<table>\n\n<tr>\n <th>Prize Draw</th>\n <th>SKU</th>\n <th>Product (“Prize”) Description</th>\n <th>Valued as at 18/03/2026</th>\n <th>Number of Prizes</th>\n</tr>\n\r\n\n\n<tr>\n…",
-        "url": "https://www.ozbargain.com.au/node/956307",
-        "timestamp": "2026-04-20T13:07:27Z",
-        "source": "Ozbargain.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Activate Offer & Process $10,000 in Payment Before 31 May, Get 2,000 Bonus PayRewards Points @ Pay.com.au",
-        "summary": "2,000 Bonus PayRewards Points When You Process $10,000 Before 31 May 2026 Plus entries to 2M Points Prize Draw (Competition removed from title. Please post competitions in Comps section. — …",
-        "url": "https://www.ozbargain.com.au/node/956288",
-        "timestamp": "2026-04-20T09:26:57Z",
-        "source": "Ozbargain.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Result April 18, 2026: No Jackpot Winner in Powerball Draw: $75 Million Rolls Over",
-        "summary": "DES MOINES, Iowa — The Powerball jackpot climbed to an estimated $75.8 million for the Saturday, April 18, 2026, drawing, but no ticket matched all six numbers, sending the grand prize rolling over for a bigger payday in the coming week.",
-        "url": "https://www.ibtimes.com.au/powerball-result-april-18-2026-no-jackpot-winner-powerball-draw-75-million-rolls-over-1867015",
-        "timestamp": "2026-04-19T12:54:07Z",
         "source": "Ibtimes.com.au",
         "sourceType": "NewsAPI",
         "tag": "LOT",
@@ -823,17 +838,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 48,
+      "totalSignals": 49,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 39,
+        "HOPEFUL": 40,
         "CYNICAL": 0,
-        "ANXIOUS": 2,
-        "NEUTRAL": 7
+        "ANXIOUS": 3,
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 19
+      "uncertaintyScore": 18
     }
   }
 }
