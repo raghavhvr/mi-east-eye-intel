@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T05:55:58.486Z",
+  "generated_at": "2026-05-02T05:24:21.178Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -11,12 +11,12 @@
   "keyEmotions": [
     "excitement",
     "optimism",
-    "frustration"
+    "anticipation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning big, with some individuals experiencing frustration when they come close but don't win. The use of cryptic language and codes, such as NODE 936, suggests a sense of community and exclusivity among some lottery enthusiasts.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with the lottery serving as a means to escape financial struggles and achieve a better life. The frequent discussion of winning and near-wins reinforces a sense of possibility and motivates continued participation.",
   "riskSignals": [
     "problem gambling",
-    "financial desperation"
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
     "increased engagement",

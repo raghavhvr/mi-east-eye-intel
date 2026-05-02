@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-01T05:55:57.774Z",
+  "generated_at": "2026-05-02T05:24:20.565Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "MENA Conflict",
-  "summary": "The region is experiencing increased tensions due to reported use of white phosphorus in southern Lebanon and an Israeli attack in Nabatiyeh. Regional instability is also influenced by arms smuggling and geopolitical developments, including the US stance on Iran's participation in the World Cup",
+  "topTheme": "Middle East Conflict",
+  "summary": "Recent headlines indicate increased tensions between Israel and Lebanon, with reports of evacuations and casualties. The region's geopolitical instability is a concern, but the overall threat level remains moderate due to the lack of direct involvement from other major regional players.",
   "keyTrends": [
-    "Lebanon Conflict",
-    "Iran Tensions",
-    "Gulf Travel Recovery"
+    "Israel-Lebanon Conflict",
+    "Regional Instability",
+    "Space Debris"
   ],
   "watchItems": [
-    "Israeli-Lebanese Border",
-    "Iran-US Relations"
+    "Iran-US Defence Systems",
+    "UAE Job Market"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Violence",
-    "Geopolitical Uncertainty"
+    "Israeli attacks on Lebanon",
+    "US defence system gaps"
   ]
 }
