@@ -1,106 +1,121 @@
 {
-  "generated_at": "2026-05-01T05:51:16.841Z",
+  "generated_at": "2026-05-02T05:21:15.087Z",
   "gdelt_tone": {
-    "UAE": -0.69,
-    "Saudi Arabia": -0.48,
-    "Qatar": -0.53,
-    "Kuwait": -2,
-    "Bahrain": -0.46,
-    "Oman": -0.8,
-    "Jordan": -1.79,
-    "Lebanon": -4.16,
-    "Iraq": -2.06,
-    "Egypt": 0.12,
-    "Yemen": -3.74,
-    "Iran": -3.07
+    "UAE": -0.66,
+    "Saudi Arabia": -0.72,
+    "Qatar": -0.46,
+    "Kuwait": -2.17,
+    "Bahrain": -0.4,
+    "Oman": -0.85,
+    "Jordan": -1.67,
+    "Lebanon": -4.47,
+    "Iraq": -2.03,
+    "Egypt": 0.2,
+    "Yemen": -3.6,
+    "Iran": -3.16
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 27,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 31,
-      "wind_kmh": 9,
+      "temp_c": 32,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Kuwait": {
-      "temp_c": 27,
+    "Saudi Arabia": {
+      "temp_c": 28,
       "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 31,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
-    "Oman": {
-      "temp_c": 39,
-      "wind_kmh": 15,
       "condition": "Clear",
-      "city": "Muscat"
+      "city": "Riyadh"
     },
     "Bahrain": {
-      "temp_c": 28,
-      "wind_kmh": 16,
+      "temp_c": 29,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Lebanon": {
-      "temp_c": 19,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+    "Qatar": {
+      "temp_c": 31,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 28,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Oman": {
+      "temp_c": 40,
+      "wind_kmh": 19,
+      "condition": "Clear",
+      "city": "Muscat"
     },
     "Jordan": {
-      "temp_c": 18,
-      "wind_kmh": 12,
+      "temp_c": 16,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 26,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Egypt": {
-      "temp_c": 19,
+      "temp_c": 21,
       "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 19,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
     "Yemen": {
       "temp_c": 22,
-      "wind_kmh": 3,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iraq": {
+      "temp_c": 25,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Lebanon": {
+      "temp_c": 18,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Iran": {
+      "temp_c": 21,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307958,
+    "KWD": 0.307611,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.622122,
-    "IQD": 1310.588483
+    "EGP": 53.334453,
+    "IQD": 1310.593433
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Win a Pair of Apple AirPods Max Wireless over-Ear Headphones from Man of Many",
+        "summary": "Prizes & Winning\n\nThe random prize draw will take place at 11:00 AM AEST on 02/06/2026 at Man of Many, 69 Reservoir Street, Surry Hills, NSW 2010, Australia.\n\nPrize includes:\n\n 1 x Apple AirPods Max (USB-C) Wireless Over-Ear Headphones (Winner’s choice of ava…",
+        "url": "https://www.ozbargain.com.au/node/957581",
+        "timestamp": "2026-05-01T03:59:50Z",
+        "source": "Ozbargain.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1t0h8ik",
         "title": "Do you think you’ll ever win big?",
@@ -162,6 +177,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Toronto Maple Leafs winning NHL draft lottery would be ‘massive’, per O’Neill",
+        "summary": "The Toronto Maple Leafs head into the 2026 NHL Draft Lottery with pressure and hope after a disappointing season. Toronto’s 2025-26 campaign collapsed in dramatic fashion. The team finished 32-36-14, ending a nine-year playoff streak and dropping to last in…",
+        "url": "https://www.thebiglead.com/toronto-maple-leafs-winning-nhl-draft-lottery-would-be-massive-per-oneill/",
+        "timestamp": "2026-04-30T16:44:24Z",
+        "source": "The Big Lead",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1t01mtj",
         "title": "Powerball results last night.",
         "summary": "This cannot be right or we have some serious fraud going on with the Lotto.",
@@ -171,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 75,
+        "comments": 45,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -186,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,7 +231,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 4,
+        "comments": 6,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Former National Lottery winners lead search to find missing ticket holder days before they run out of time to claim £1m jackpot",
+        "summary": "Winners of the National Lottery have 180 days from the day of the draw to claim their prize.",
+        "url": "https://www.dailymail.com/news/article-15779701/National-Lottery-winners-missing-ticket-1m.html",
+        "timestamp": "2026-04-30T15:18:39Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -216,7 +261,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "ANXIOUS",
         "isME": false
@@ -231,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
-        "comments": 0,
+        "score": 248,
+        "comments": 242,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -262,7 +307,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -276,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -291,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 29,
+        "comments": 20,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -306,7 +351,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 5,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -321,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -552,36 +597,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sxbgcw",
-        "title": "📊 Mon 4/27 Day Audit: P3 (884 FB9) & D4 (1200 FB3) confirm a “Double-Stall” defense. The 4 hit the core—Vacuum is breaking. Evening/Night Target: P3: 915, 641 D4: 9150, 4618 Lotto TX: #46 is 39 draws cold. Focus on the 4/6 rupture. 9/5 are ghosting the core—expect the flip. #Node936 #Math",
-        "summary": "↑1 · 💬2",
-        "url": "https://reddit.com/r/Lottery/comments/1sxbgcw/mon_427_day_audit_p3_884_fb9_d4_1200_fb3_confirm/",
-        "timestamp": "2026-04-27T18:01:00.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sx7akl",
-        "title": "📊 Mon 4/27 Audit: Morning results (P3: 286 FB4 | D4: 9095 FB5) confirm 9150 & 4/6 vacuum leak. Day/Eve Purge targets 4 & 1. Ideas: P3: 461, 915, 842 D4: 9150, 0461, 8542 Lotto TX: #46 is 39 draws cold. Audit of 3,700+ draws shows Monday Purge. GL! #TexasLottery #Node936 #Math",
-        "summary": "Audit for Texas pick 3 and daily 4.",
-        "url": "https://reddit.com/r/Lottery/comments/1sx7akl/mon_427_audit_morning_results_p3_286_fb4_d4_9095/",
-        "timestamp": "2026-04-27T15:36:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -594,51 +609,6 @@
         "score": 0,
         "comments": 0,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sx1tvm",
-        "title": "If you are single and win the lottery, would you date and marry someone after?",
-        "summary": "Would you trust in anyone? it doesn't matter the gender",
-        "url": "https://reddit.com/r/Lottery/comments/1sx1tvm/if_you_are_single_and_win_the_lottery_would_you/",
-        "timestamp": "2026-04-27T12:12:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 22,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sx1t5c",
-        "title": "If you are single and win the lottery, would you date someone after?",
-        "summary": "Would you trust anyone after winning the lottery? (it doesn't matter the gender)",
-        "url": "https://reddit.com/r/Lottery/comments/1sx1t5c/if_you_are_single_and_win_the_lottery_would_you/",
-        "timestamp": "2026-04-27T12:11:49.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1swvuip",
-        "title": "What if math, the cosmos, and AI all picked your lottery numbers — and you saw the exact moment they agreed?",
-        "summary": "What if your numbers didn't come from one source — but four?                                                                                                                                                                                    ",
-        "url": "https://reddit.com/r/Lottery/comments/1swvuip/what_if_math_the_cosmos_and_ai_all_picked_your/",
-        "timestamp": "2026-04-27T06:42:55.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 11,
-        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -655,21 +625,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1swh3b3",
-        "title": "📊 Lotto Texas Mon Apr 27 ($5.5M) Audit: Sat results left a “Low Vacuum.” 46 is overdue (39 draws). Ideas: 01-04-05-08-09-20 10-15-27-32-44-46 12-16-26-31-46-50 Note: 46 is a major outlier. Play responsibly. #TexasLottery #Math #DataAnalysis",
-        "summary": "**\\[Lotto Texas\\] Data Audit & Suggestions for Monday 4/27 ($5.5M Jackpot)**",
-        "url": "https://reddit.com/r/Lottery/comments/1swh3b3/lotto_texas_mon_apr_27_55m_audit_sat_results_left/",
-        "timestamp": "2026-04-26T19:29:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
@@ -747,21 +702,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Numbers for April 20 2026 Revealed No Jackpot Winner as $87M Prize Rolls Over",
-        "summary": "DES MOINES, Iowa — The Powerball winning numbers for Monday, April 20, 2026, have been drawn, but no ticket matched all six numbers to claim the $87 million jackpot, lottery officials said.",
-        "url": "https://www.ibtimes.com.au/powerball-numbers-april-20-2026-revealed-no-jackpot-winner-87m-prize-rolls-over-1867138",
-        "timestamp": "2026-04-21T09:36:51Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-17-richard-desmond-loses-damages-battle-with-gambling-commission-ending-national-lottery-dispute",
         "title": "Richard Desmond loses £1.3bn damages battle over national lottery licence",
         "summary": "Media tycoon vows to appeal after dismissal of action against Gambling Commission for awarding Allwyn the franchise",
@@ -820,31 +760,16 @@
         "comments": 0,
         "mood": "ANXIOUS",
         "isME": false
-      },
-      {
-        "id": "guardian-lot-commentisfree-2026-apr-02-labour-disability-cuts-universal-credit",
-        "title": "Next week’s disability cuts will make people destitute – and you might not understand how bad they are until it’s too late | Frances Ryan",
-        "summary": "If new claimants don’t meet strict criteria, they’ll lose half of the health element of universal credit. Don’t ignore that: in life’s lottery, that could easily be you, says Guardian columnist Frances Ryan",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/02/labour-disability-cuts-universal-credit",
-        "timestamp": "2026-04-02T05:00:19Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 49,
+      "totalSignals": 44,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 40,
+        "HOPEFUL": 36,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 6
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
