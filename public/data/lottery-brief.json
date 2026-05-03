@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T05:24:21.178Z",
+  "generated_at": "2026-05-03T05:45:19.346Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -9,17 +9,17 @@
   },
   "dominantNarrative": "Winning Big Dreams",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "anticipation"
+    "Excitement",
+    "Optimism",
+    "Disappointment"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with the lottery serving as a means to escape financial struggles and achieve a better life. The frequent discussion of winning and near-wins reinforces a sense of possibility and motivates continued participation.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, with lottery and gambling outcomes influencing their emotional state. The hope of winning big fuels their engagement and interest in these activities.",
   "riskSignals": [
-    "problem gambling",
-    "unrealistic expectations"
+    "Price increase backlash",
+    "Tax concerns"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "loyalty programs"
+    "Jackpot growth excitement",
+    "New winner stories"
   ]
 }

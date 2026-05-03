@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-02T05:24:20.565Z",
+  "generated_at": "2026-05-03T05:45:18.690Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Middle East Conflict",
-  "summary": "Recent headlines indicate increased tensions between Israel and Lebanon, with reports of evacuations and casualties. The region's geopolitical instability is a concern, but the overall threat level remains moderate due to the lack of direct involvement from other major regional players.",
+  "topTheme": "MENA Geopolitics",
+  "summary": "Regional tensions persist with Israeli actions in Lebanon and US arms supply, while Iran's peace proposal demands guarantees. Ongoing developments in the MENA region require continued monitoring of geopolitical and social trends.",
   "keyTrends": [
-    "Israel-Lebanon Conflict",
-    "Regional Instability",
-    "Space Debris"
+    "Iran Peace Proposal",
+    "US-Israel Relations",
+    "Lebanon Tensions"
   ],
   "watchItems": [
-    "Iran-US Defence Systems",
-    "UAE Job Market"
+    "Iran's Guarantees",
+    "US Arms Supply"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Israeli attacks on Lebanon",
-    "US defence system gaps"
+    "Geopolitical Uncertainty",
+    "Regional Instability"
   ]
 }
