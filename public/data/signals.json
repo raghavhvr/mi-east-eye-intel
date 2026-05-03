@@ -1,106 +1,226 @@
 {
-  "generated_at": "2026-05-02T05:21:15.087Z",
+  "generated_at": "2026-05-03T05:41:10.247Z",
   "gdelt_tone": {
-    "UAE": -0.66,
-    "Saudi Arabia": -0.72,
-    "Qatar": -0.46,
-    "Kuwait": -2.17,
-    "Bahrain": -0.4,
-    "Oman": -0.85,
-    "Jordan": -1.67,
-    "Lebanon": -4.47,
-    "Iraq": -2.03,
+    "UAE": -0.62,
+    "Saudi Arabia": -0.77,
+    "Qatar": -0.42,
+    "Kuwait": -1.63,
+    "Bahrain": -0.36,
+    "Oman": -0.79,
+    "Jordan": -1.79,
+    "Lebanon": -4.58,
+    "Iraq": -1.83,
     "Egypt": 0.2,
-    "Yemen": -3.6,
-    "Iran": -3.16
+    "Yemen": -3.5,
+    "Iran": -3.3
   },
   "weather": {
-    "UAE": {
-      "temp_c": 32,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 28,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Bahrain": {
-      "temp_c": 29,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Qatar": {
-      "temp_c": 31,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Kuwait": {
       "temp_c": 28,
-      "wind_kmh": 3,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Kuwait City"
     },
+    "Qatar": {
+      "temp_c": 35,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Saudi Arabia": {
+      "temp_c": 31,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 37,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Bahrain": {
+      "temp_c": 33,
+      "wind_kmh": 1,
+      "condition": "Clear",
+      "city": "Manama"
+    },
     "Oman": {
-      "temp_c": 40,
-      "wind_kmh": 19,
+      "temp_c": 37,
+      "wind_kmh": 23,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 16,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Egypt": {
-      "temp_c": 21,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 22,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
     "Iraq": {
-      "temp_c": 25,
-      "wind_kmh": 12,
+      "temp_c": 27,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
+    "Iran": {
+      "temp_c": 23,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Egypt": {
+      "temp_c": 20,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Jordan": {
+      "temp_c": 23,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Lebanon": {
-      "temp_c": 18,
-      "wind_kmh": 6,
+      "temp_c": 20,
+      "wind_kmh": 25,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Iran": {
-      "temp_c": 21,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
+    "Yemen": {
+      "temp_c": 22,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307611,
+    "KWD": 0.30763,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.334453,
-    "IQD": 1310.593433
+    "EGP": 53.423736,
+    "IQD": 1310.60095
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1t2b50r",
+        "title": "2 Powerball Jackpot Winners Again",
+        "summary": "On Wednesday someone from Indiana and Kansas won, tonight someone from Florida and Texas.",
+        "url": "https://reddit.com/r/Lottery/comments/1t2b50r/2_powerball_jackpot_winners_again/",
+        "timestamp": "2026-05-03T04:12:57.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t27yg9",
+        "title": "Mega Millions sales down 24% in Massachusetts after price increase",
+        "summary": "That stat is buried in the article below       [https://www.cbsnews.com/boston/news/massachusetts-lottery-keno-scratch-ticket/](https://www.cbsnews.com/boston/news/massachusetts-lottery-keno-scratch-ticket/)",
+        "url": "https://reddit.com/r/Lottery/comments/1t27yg9/mega_millions_sales_down_24_in_massachusetts/",
+        "timestamp": "2026-05-03T01:37:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t27sqo",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1t27sqo/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-05-03T01:30:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t232bn",
+        "title": "i have a probably stupid question about PA lottery taxes",
+        "summary": "i never gamble so i have no idea how this all works. i won $200 and $500 in separate games on fanduel. so as far as taxes go, is the $600 limit for individual game winnings? or is it $600 limit yearly and anything else i win for the year ha",
+        "url": "https://reddit.com/r/Lottery/comments/1t232bn/i_have_a_probably_stupid_question_about_pa/",
+        "timestamp": "2026-05-02T21:57:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t1q8v2",
+        "title": "PowerBall jackpot growth",
+        "summary": "I bet the powerball jackpot growth is only the minimum $2 million per draw after Wednesday's $90M+ 2nd place wins.  Normally, it would grow $10-12M.  They need to recoup that huge payout.",
+        "url": "https://reddit.com/r/Lottery/comments/1t1q8v2/powerball_jackpot_growth/",
+        "timestamp": "2026-05-02T13:41:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t1ptyd",
+        "title": "Today’s lottery numbers from Danny Wins",
+        "summary": "Here are some of the numbers from Dannywins.com",
+        "url": "https://reddit.com/r/Lottery/comments/1t1ptyd/todays_lottery_numbers_from_danny_wins/",
+        "timestamp": "2026-05-02T13:24:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Lorry driver, 66, celebrates becoming Omaze millionaire a week after retiring by getting a tattoo of raffle firm's logo",
+        "summary": "Andrew Williams, 66, won £1M just a week after retiring - and marked the moment with a unique new tattoo.",
+        "url": "https://www.dailymail.com/news/article-15782017/Lorry-driver-66-celebrates-Omaze-millionaire-week-retiring-getting-tattoo-raffle-firms-logo.html",
+        "timestamp": "2026-05-01T10:33:46Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "'Promise made, promise kept'? It depends on who you ask about the PCs' first budget",
+        "summary": "In the roadmap outlined by the new PC Newfoundland and Labrador government for the fiscal year ahead, there were big ticket items some groups had been hoping for, as well as disappointment for some.",
+        "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/pc-budget-reaction-9.7182853",
+        "timestamp": "2026-05-01T08:30:00Z",
+        "source": "CBC News",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Win a Pair of Apple AirPods Max Wireless over-Ear Headphones from Man of Many",
@@ -126,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 24,
+        "comments": 27,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,7 +261,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -156,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 16,
+        "comments": 15,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -522,81 +642,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1sy0qjk",
-        "title": "Millionaire for Life jackpot winner",
-        "summary": "Last night/Monday night, ticket sold in Ohio.",
-        "url": "https://reddit.com/r/Lottery/comments/1sy0qjk/millionaire_for_life_jackpot_winner/",
-        "timestamp": "2026-04-28T12:59:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 16,
-        "comments": 13,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sxz9lh",
-        "title": "Well I made the trip to Massachusetts",
-        "summary": "I went to Massachusetts recently on my bday to spend some money on scratchers. The focus was the $50 dollar 25 million mega money ticket and the $30 magnificent millions ticket. Well I hit.  I bought 5 books of the mega money and I used the",
-        "url": "https://reddit.com/r/Lottery/comments/1sxz9lh/well_i_made_the_trip_to_massachusetts/",
-        "timestamp": "2026-04-28T11:58:20.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 123,
-        "comments": 43,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sxvw6g",
-        "title": "Question about lotto tickets",
-        "summary": "I’ve recently got into playing in the Lotto and wanted to know if you are allowed to buy more than 1 ticket for the same day (I.e 2nd of May) but with different numbers? For example one ticket has numbers like 4, 8, 23, 35, 45, 50 And anoth",
-        "url": "https://reddit.com/r/Lottery/comments/1sxvw6g/question_about_lotto_tickets/",
-        "timestamp": "2026-04-28T09:00:21.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sxryzu",
-        "title": "📊 Tue 4/28 Audit Mon Night D4 (3468 FB1) discharged 4/6/8. 9 & 5 suppressed—Reloading Tuesday AM. Targets: P3: 915, 046, 172 D4: 9150, 0461, 8532 Lotto TX: #46 is 40 draws cold—Critical Rupture Zone. The 1-leak (FB) is moving to the core. Calibrate. Strike. #Node936 #TexasLottery #Math",
-        "summary": "Watch out for Tuesday lottery",
-        "url": "https://reddit.com/r/Lottery/comments/1sxryzu/tue_428_audit_mon_night_d4_3468_fb1_discharged/",
-        "timestamp": "2026-04-28T05:16:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sxmxsf",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1sxmxsf/powerball_winning_numbers_monday/",
-        "timestamp": "2026-04-28T01:20:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -687,21 +732,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Two UK ticket holders have won their share of a £126MILLION EuroMillions jackpot",
-        "summary": "A pair of Brits have won more than £41million each after splitting tonight's EuroMillions jackpot, National Lottery operator Allwyn has said.",
-        "url": "https://www.dailymail.com/news/article-15753375/UK-ticket-won-41-million-EuroMillion.html",
-        "timestamp": "2026-04-21T22:21:21Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-17-richard-desmond-loses-damages-battle-with-gambling-commission-ending-national-lottery-dispute",
         "title": "Richard Desmond loses £1.3bn damages battle over national lottery licence",
         "summary": "Media tycoon vows to appeal after dismissal of action against Gambling Commission for awarding Allwyn the franchise",
@@ -745,28 +775,13 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "guardian-lot-money-2026-apr-02-us-student-loan-debt-forgiveness",
-        "title": "Lucky few Americans whose student debt was forgiven: ‘I hit the lottery’",
-        "summary": "Only a small fraction of about 43 million have had their debt cancelled, the relief for those who have is transformative",
-        "url": "https://www.theguardian.com/money/2026/apr/02/us-student-loan-debt-forgiveness",
-        "timestamp": "2026-04-02T12:00:23Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 44,
-      "meSignals": 2,
+      "totalSignals": 45,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 37,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 5
