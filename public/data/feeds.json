@@ -1,7 +1,853 @@
 {
-  "generated_at": "2026-05-03T05:32:18.703Z",
-  "count": 21683,
+  "generated_at": "2026-05-04T05:36:29.301Z",
+  "count": 21727,
   "articles": [
+    {
+      "id": "hn-48005000",
+      "title": "Israel national security minister served gold death penalty noose birthday cake",
+      "summary": "1 pts · 0 comments",
+      "url": "https://www.independent.co.uk/news/world/middle-east/israel-minister-death-penalty-noose-birthday-cake-b2969820.html",
+      "timestamp": "2026-05-04T05:34:14.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Israel",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/05/04/make-it-in-the-emirates-starts-us-to-escort-ships-in-strait-iran-receives-response-on-peace-plan-trending/",
+      "title": "Make it in the Emirates starts, US to escort ships in strait, Iran receives response on peace plan - Trending",
+      "summary": "In today’s episode of Trending Middle East , the US prepares to begin escorting foreign vessels through the Strait of Hormuz under a new initiative aimed at easing pressure on global shipping. In Tehran, Iran says it has received a US respo",
+      "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/05/04/make-it-in-the-emirates-starts-us-to-escort-ships-in-strait-iran-receives-response-on-peace-plan-trending/",
+      "timestamp": "2026-05-04T05:31:57.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439523 at https://www.middleeasteye.net/",
+      "title": "Rights group accuses Israel of torturing detained flotilla activists",
+      "summary": "<article data-history-node-id=\"439523\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-accuses-israeli-forces-torturing-flotilla-detainees\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rights-group-accuses-israeli-forces-torturing-flotilla-detainees",
+      "timestamp": "2026-05-04T05:22:29.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Israel",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777870735",
+      "title": "Fireworks in Milan as Inter clinch Serie A title with a 2-0 win over Parma",
+      "summary": "Inter Milan win their 21st Scudetto with three matches remaining in the Italian football league season, edging Napoli.",
+      "url": "https://www.aljazeera.com/sports/2026/5/4/fireworks-in-milan-as-inter-clinch-serie-a-title-with-a-2-0-win-over-parma?traffic_source=rss",
+      "timestamp": "2026-05-04T05:15:35.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439522 at https://www.middleeasteye.net/",
+      "title": "US transfers crew of seized Iranian ship to Pakistan",
+      "summary": "<article data-history-node-id=\"439522\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/us-transfers-crew-seized-iranian-ship-pakistan\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/li",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-transfers-crew-seized-iranian-ship-pakistan",
+      "timestamp": "2026-05-04T05:04:47.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777869648",
+      "title": "Detained Gaza aid flotilla activists arrive in Netherlands",
+      "summary": "Two activists from the Global Sumud Flotilla arrived in the Netherlands after being released from Israeli custody.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/detained-gaza-aid-flotilla-activists-arrive-in-netherlands?traffic_source=rss",
+      "timestamp": "2026-05-04T04:45:52.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439521 at https://www.middleeasteye.net/",
+      "title": "Iran executes three men accused of collaborating with Israeli Mossad",
+      "summary": "<article data-history-node-id=\"439521\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-three-men-accused-collaborating-israeli-mossad\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middle",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-three-men-accused-collaborating-israeli-mossad",
+      "timestamp": "2026-05-04T04:39:25.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Israel",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "3925991",
+      "title": "Morning Briefing: May 4, 2026",
+      "summary": "Anadolu’s recap of top stories from around the globe",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-may-4-2026/3925991",
+      "timestamp": "2026-05-04T04:27:09.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439520 at https://www.middleeasteye.net/",
+      "title": "Medicine prices surge in Iran after war, shortages reported",
+      "summary": "<article data-history-node-id=\"439520\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/medicine-prices-surge-iran-after-war-shortages-reported\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeaste",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/medicine-prices-surge-iran-after-war-shortages-reported",
+      "timestamp": "2026-05-04T04:12:50.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/energy/2026/05/04/aiq-to-boost-uae-plans-as-it-expects-faster-market-activity-after-opec-exit/",
+      "title": "AIQ to boost UAE plans as it expects faster market activity after Opec exit",
+      "summary": "Abu Dhabi's AIQ, which specialises in artificial intelligence for the energy sector, will seek to tap into opportunities brought about by the UAE's decision to leave Opec , its chief executive has said. The exit from the oil-producing group",
+      "url": "https://www.thenationalnews.com/business/energy/2026/05/04/aiq-to-boost-uae-plans-as-it-expects-faster-market-activity-after-opec-exit/",
+      "timestamp": "2026-05-04T04:00:00.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uk/2026/05/04/momentum-on-the-extremes-as-greens-and-reform-scrap-for-hastings-vote/",
+      "title": "Momentum on political extremes as Greens and Reform battle for Hastings vote",
+      "summary": "Britain’s politics is changing at a dramatic rate, with the traditional centrist parties being shoved aside in favour of those from the extremes. In Hastings, a town close to the 1066 battlefield where the course of England’s history was fo",
+      "url": "https://www.thenationalnews.com/news/uk/2026/05/04/momentum-on-the-extremes-as-greens-and-reform-scrap-for-hastings-vote/",
+      "timestamp": "2026-05-04T04:00:00.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439519 at https://www.middleeasteye.net/",
+      "title": "IMO says 20,000 seafarers stranded in Hormuz crisis",
+      "summary": "<article data-history-node-id=\"439519\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/imo-says-20000-seafarers-stranded-hormuz-crisis\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/l",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/imo-says-20000-seafarers-stranded-hormuz-crisis",
+      "timestamp": "2026-05-04T03:58:06.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777866090",
+      "title": "Trump says US to begin escorting ships in Strait of Hormuz",
+      "summary": "US President Donald Trump has announced a naval mission to escort stranded ships through the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/trump-says-us-to-begin-escorting-ships-in-strait-of-hormuz?traffic_source=rss",
+      "timestamp": "2026-05-04T03:47:00.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/05/04/cristiano-ronaldos-saudi-pro-league-title-hopes-hit-as-al-qadsiah-stun-al-nassr/",
+      "title": "Cristiano Ronaldo’s Saudi Pro League title hopes hit as Al Qadsiah stun Al Nassr",
+      "summary": "Cristiano Ronaldo’s pursuit of a first notable trophy since moving to Saudi Arabia was dealt a blow as Al Nassr were shocked by Al Qadsiah on Sunday night. Julian Quinones extended his lead at the top of the Saudi Pro League scoring charts ",
+      "url": "https://www.thenationalnews.com/sport/football/2026/05/04/cristiano-ronaldos-saudi-pro-league-title-hopes-hit-as-al-qadsiah-stun-al-nassr/",
+      "timestamp": "2026-05-04T03:44:29.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777858902",
+      "title": "Oil prices flat as Trump’s plan for Strait of Hormuz fails to calm market",
+      "summary": "Brent crude is largely unmoved by Trump's announcement of the operation, dubbed Project Freedom.",
+      "url": "https://www.aljazeera.com/economy/2026/5/4/oil-prices-flat-as-trumps-plan-for-strait-of-hormuz-fails-to-move-markets?traffic_source=rss",
+      "timestamp": "2026-05-04T03:37:09.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439518 at https://www.middleeasteye.net/",
+      "title": "Iranian oil tankers reach Indonesian waters despite blockade",
+      "summary": "<article data-history-node-id=\"439518\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/iranian-oil-tankers-reach-indonesian-waters-despite-blockade\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middle",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-oil-tankers-reach-indonesian-waters-despite-blockade",
+      "timestamp": "2026-05-04T03:34:00.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/economy/2026/05/04/resilience-and-investment-are-key-themes-of-make-it-in-the-emirates-summit/",
+      "title": "Resilience and investment are key themes of Make it in the Emirates summit",
+      "summary": "Resilience will be the buzz word when policymakers, senior government officials and business leaders gather in Abu Dhabi next week for the Make it in the Emirates summit. Initiatives and strategies to expand and protect the UAE’s industrial",
+      "url": "https://www.thenationalnews.com/business/economy/2026/05/04/resilience-and-investment-are-key-themes-of-make-it-in-the-emirates-summit/",
+      "timestamp": "2026-05-04T03:32:33.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439517 at https://www.middleeasteye.net/",
+      "title": "Iranian diplomat says ‘satisfactory’ deal must include compensation",
+      "summary": "<article data-history-node-id=\"439517\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/iranian-diplomat-says-satisfactory-deal-must-include-compensation\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.m",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-diplomat-says-satisfactory-deal-must-include-compensation",
+      "timestamp": "2026-05-04T03:24:03.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "Other",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/money/2026/05/04/uae-will-be-the-centre-for-money-says-binance-founder-changpeng-zhao/",
+      "title": "'UAE will be the centre for money,' says Binance founder Changpeng Zhao",
+      "summary": "The UAE offers “freedom” in cryptocurrency and has succeeded in building a globally competitive crypto ecosystem , Changpeng Zhao has said in an interview with The National . “They have a lot of room to experiment,” said the former Binance ",
+      "url": "https://www.thenationalnews.com/business/money/2026/05/04/uae-will-be-the-centre-for-money-says-binance-founder-changpeng-zhao/",
+      "timestamp": "2026-05-04T03:22:32.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/f1/2026/05/04/miami-gp-talking-points-antonellis-hot-streak-continues-ferrari-fumble-strategy-and-norris-dumbfounded/",
+      "title": "Miami GP talking points: Antonelli's hot streak continues, Ferrari fumble strategy and Norris dumbfounded",
+      "summary": "Formula One returned after five weeks away and produced a race of almost absurd drama, with collisions, an early safety car and a final lap of pure bedlam. The race had been brought forward three hours because of forecast storms, but the we",
+      "url": "https://www.thenationalnews.com/sport/f1/2026/05/04/miami-gp-talking-points-antonellis-hot-streak-continues-ferrari-fumble-strategy-and-norris-dumbfounded/",
+      "timestamp": "2026-05-04T03:16:43.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/2026/05/04/ai-filmmaker-james-gerde-finds-a-creative-testing-ground-in-abu-dhabis-push-towards-the-future/",
+      "title": "AI filmmaker James Gerde finds a creative testing ground in Abu Dhabi’s push towards the future",
+      "summary": "Artificial intelligence is often framed in terms of disruption. In Abu Dhabi , the focus is increasingly on integration. For James Gerde, the distinction became clear during his time in the emirate as part of an AI-focused arts fellowship. ",
+      "url": "https://www.thenationalnews.com/arts-culture/2026/05/04/ai-filmmaker-james-gerde-finds-a-creative-testing-ground-in-abu-dhabis-push-towards-the-future/",
+      "timestamp": "2026-05-04T03:06:00.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/opinion/editorial/2026/05/04/uae-make-it-in-the-emirates-summit-industrial-revolution-resilience-iran-war/",
+      "title": "Don't confuse the UAE’s prudence with protectionism",
+      "summary": "It isn’t surprising that the emphasis at this year’s Make it in the Emirates summit, starting in Abu Dhabi on Monday, is to further develop industrial and economic resilience in the UAE as it continues to adapt to an increasingly unpredicta",
+      "url": "https://www.thenationalnews.com/opinion/editorial/2026/05/04/uae-make-it-in-the-emirates-summit-industrial-revolution-resilience-iran-war/",
+      "timestamp": "2026-05-04T03:00:00.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439516 at https://www.middleeasteye.net/",
+      "title": "US Senator Graham rejects Iran offer, backs diplomacy with pressure",
+      "summary": "<article data-history-node-id=\"439516\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-graham-rejects-iran-offer-backs-diplomacy-pressure\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senator-graham-rejects-iran-offer-backs-diplomacy-pressure",
+      "timestamp": "2026-05-04T02:33:29.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/05/04/man-united-ratings-v-liverpool-kobbie-mainoo-shines-in-unforgettable-win-at-old-trafford/",
+      "title": "Man United ratings v Liverpool: Kobbie Mainoo shines in unforgettable win at Old Trafford",
+      "summary": "Manchester ​United had an evening to remember as Kobbie Mainoo struck late to seal a dramatic 3-2 victory over Liverpool on Sunday at Old Trafford to secure their ⁠return to the Uefa Champions League next season after a two-year absence. Un",
+      "url": "https://www.thenationalnews.com/sport/football/2026/05/04/man-united-ratings-v-liverpool-kobbie-mainoo-shines-in-unforgettable-win-at-old-trafford/",
+      "timestamp": "2026-05-04T02:32:39.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439515 at https://www.middleeasteye.net/",
+      "title": "White House posts Trump's photo with ‘I have all the cards’ message",
+      "summary": "<article data-history-node-id=\"439515\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/white-house-posts-trumps-photo-i-have-all-cards-message\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeaste",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/white-house-posts-trumps-photo-i-have-all-cards-message",
+      "timestamp": "2026-05-04T02:19:52.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "439514 at https://www.middleeasteye.net/",
+      "title": "Tanker hit by projectiles off UAE coast, maritime agency says",
+      "summary": "<article data-history-node-id=\"439514\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-projectiles-uae-coast-maritime-agency-says\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tanker-hit-projectiles-uae-coast-maritime-agency-says",
+      "timestamp": "2026-05-04T02:12:39.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777854873",
+      "title": "Illegal ‘free party’ at French military site draws up to 40,000 ravers",
+      "summary": "Tens of thousands of partygoers gathered for an illegal “free party” at a military firing range near Bourges.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/4/illegal-free-party-at-french-military-site-draws-up-to-40000-ravers?traffic_source=rss",
+      "timestamp": "2026-05-04T00:40:20.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777849941",
+      "title": "Iran war live: Tehran warns Trump’s Hormuz mission will violate ceasefire",
+      "summary": "Iran protests as Trump announces 'Project Freedom' to free stranded ships out of the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire?traffic_source=rss",
+      "timestamp": "2026-05-04T00:00:00.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777849213",
+      "title": "Thousands in India’s Manipur mark three years since ethnic clashes began",
+      "summary": "Thousands of protesters gathered in India’s Manipur state to mark three years since ethnic violence erupted.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss",
+      "timestamp": "2026-05-03T23:04:52.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+      "title": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
+      "summary": "<p>Dutch husband and wife and third unidentified person reported to have died, with three further people taken ill</p><p>A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people – incl",
+      "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
+      "timestamp": "2026-05-03T22:55:44.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-48002447",
+      "title": "Show HN: Stigmem – open-source federated knowledge fabric for AI agents (v1.0)",
+      "summary": "2 pts · 0 comments",
+      "url": "https://news.ycombinator.com/item?id=48002447",
+      "timestamp": "2026-05-03T22:52:44.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 2,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777841762",
+      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+      "summary": "Three of six passengers ill from a suspected rodent-transmitted virus have died, and one is in intensive care, WHO says.",
+      "url": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
+      "timestamp": "2026-05-03T21:59:20.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777834296",
+      "title": "French left-wing’s Melenchon says he will run for president in 2027",
+      "summary": "Melenchon says he will make fourth bid for presidency with President Macron term-limited and Le Pen facing ban.",
+      "url": "https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027?traffic_source=rss",
+      "timestamp": "2026-05-03T21:25:48.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1777840941",
+      "title": "Real Madrid stays alive in La Liga title race with victory at Espanyol",
+      "summary": "Two goals by Vinicius Jr allowed Madrid to remain in title contention with Barcelona ahead of El Clasico next Sunday.",
+      "url": "https://www.aljazeera.com/sports/2026/5/3/real-madrid-stays-alive-in-la-liga-title-race-with-victory-at-espanyol?traffic_source=rss",
+      "timestamp": "2026-05-03T21:22:15.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "3925856",
+      "title": "UN rights chief warns attacks on journalists threaten global freedom",
+      "summary": "Volker Turk calls Gaza ‘death trap’ for media workers, noting nearly 300 journalists killed since October 2023",
+      "url": "https://www.aa.com.tr/en/world/un-rights-chief-warns-attacks-on-journalists-threaten-global-freedom/3925856",
+      "timestamp": "2026-05-03T18:43:52.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-47999712",
+      "title": "Open source desktop app for studying online courses",
+      "summary": "3 pts · 0 comments",
+      "url": "https://github.com/tonhowtf/omniget",
+      "timestamp": "2026-05-03T18:10:50.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 3,
+      "comments": 0
+    },
+    {
+      "id": "hn-47999589",
+      "title": "Show HN: Orchestrate Dockerized Claude Code sessions from your issue tracker",
+      "summary": "2 pts · 0 comments",
+      "url": "https://github.com/smithy-ai/smithy-ai",
+      "timestamp": "2026-05-03T17:58:55.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 2,
+      "comments": 0
+    },
+    {
+      "id": "3925791",
+      "title": "Global Sumud Flotilla says Israel subjected abducted activist to ‘systematic torture’",
+      "summary": "Coalition reports abuse of Saif Abukeshek after interception of aid boats in international waters",
+      "url": "https://www.aa.com.tr/en/world/global-sumud-flotilla-says-israel-subjected-abducted-activist-to-systematic-torture-/3925791",
+      "timestamp": "2026-05-03T16:50:18.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Israel",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+      "title": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "summary": "<p>PM’s attendance at European Political Community meeting in Yerevan seen as part of effort to build new ties after US rupture</p><p>Canada is to become the first non-European country to attend a meeting of the European Political Community",
+      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+      "timestamp": "2026-05-03T14:57:14.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-47996499",
+      "title": "Amazon says restoring damaged Middle East cloud operations to take months",
+      "summary": "16 pts · 5 comments",
+      "url": "https://www.reuters.com/world/middle-east/amazon-says-damaged-uae-cloud-region-recovery-take-several-months-2026-04-30/",
+      "timestamp": "2026-05-03T12:55:15.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 16,
+      "comments": 5
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
+      "title": "Two US service members missing after military exercises in Morocco",
+      "summary": "<p>Search and rescue operation launched after service members reported missing near south-western city of Tan Tan</p><p>Two US service members are missing in south-western <a href=\"https://www.theguardian.com/world/morocco\">Morocco</a> afte",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/service-members-missing-military-exercises-morocco",
+      "timestamp": "2026-05-03T12:23:59.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Morocco",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "3925620",
+      "title": "Pope to meet US secretary of state at Vatican next week: Report",
+      "summary": "Meeting between Marco Rubio, Pope Leo XIV expected to take place on May 7, according to ANSA news agency",
+      "url": "https://www.aa.com.tr/en/world/pope-to-meet-us-secretary-of-state-at-vatican-next-week-report/3925620",
+      "timestamp": "2026-05-03T12:00:54.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-47995893",
+      "title": "Ask HN: Can I trust GitHub not to use my code for LLM training?",
+      "summary": "3 pts · 3 comments",
+      "url": "https://news.ycombinator.com/item?id=47995893",
+      "timestamp": "2026-05-03T11:30:22.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 3,
+      "comments": 3
+    },
+    {
+      "id": "3925588",
+      "title": "EU urges full investigation into killings of journalists in conflict zones",
+      "summary": "'International law is clear: journalists must be protected at all times,' foreign policy chief says",
+      "url": "https://www.aa.com.tr/en/europe/eu-urges-full-investigation-into-killings-of-journalists-in-conflict-zones/3925588",
+      "timestamp": "2026-05-03T11:19:19.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-47995206",
+      "title": "Show HN: Speq – A collaborative web-based repository for your product's spec",
+      "summary": "2 pts · 0 comments",
+      "url": "https://getspeq.com",
+      "timestamp": "2026-05-03T09:38:18.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 2,
+      "comments": 0
+    },
+    {
+      "id": "hn-47995125",
+      "title": "Investors pile into clean energy as Iran war drives push for energy security",
+      "summary": "120 pts · 168 comments",
+      "url": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
+      "timestamp": "2026-05-03T09:26:48.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 120,
+      "comments": 168
+    },
+    {
+      "id": "3925404",
+      "title": "US military aircraft activity surges toward Middle East amid Iran tensions: Tracker",
+      "summary": "Unusual rise in number of US military aircraft traveling from Europe to Middle East, according to Flightradar24 data",
+      "url": "https://www.aa.com.tr/en/world/us-military-aircraft-activity-surges-toward-middle-east-amid-iran-tensions-tracker/3925404",
+      "timestamp": "2026-05-03T07:08:37.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
     {
       "id": "reddit-1t2cl3z",
       "title": "Fighting Game Community?",
@@ -3065,7 +3911,7 @@
     {
       "id": "hn-47987109",
       "title": "US blockade costs Iran $4.8B, US Navy acting 'sort of like pirates,' Trump says",
-      "summary": "5 pts · 4 comments",
+      "summary": "6 pts · 4 comments",
       "url": "https://www.jpost.com/middle-east/iran-news/article-894867",
       "timestamp": "2026-05-02T15:12:22.000Z",
       "source": "Hacker News",
@@ -3077,7 +3923,7 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 5,
+      "score": 6,
       "comments": 4
     },
     {
@@ -3947,7 +4793,7 @@
     {
       "id": "hn-47985077",
       "title": "Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks",
-      "summary": "63 pts · 10 comments",
+      "summary": "68 pts · 10 comments",
       "url": "https://mljar.com/",
       "timestamp": "2026-05-02T10:21:31.000Z",
       "source": "Hacker News",
@@ -3959,7 +4805,7 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 63,
+      "score": 68,
       "comments": 10
     },
     {
@@ -4163,7 +5009,7 @@
     {
       "id": "hn-47984734",
       "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "summary": "37 pts · 11 comments",
+      "summary": "39 pts · 14 comments",
       "url": "https://iesna.eu/?wasm=skyglow_demo",
       "timestamp": "2026-05-02T09:08:18.000Z",
       "source": "Hacker News",
@@ -4175,8 +5021,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 37,
-      "comments": 11
+      "score": 39,
+      "comments": 14
     },
     {
       "id": "reddit-1t1kqc5",
@@ -4217,7 +5063,7 @@
     {
       "id": "hn-47984675",
       "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "summary": "51 pts · 23 comments",
+      "summary": "53 pts · 25 comments",
       "url": "https://copilot.simplepdf.com/?share=a7d00ad073c75a75d493228e6ff7b11eb3f2d945b6175913e87898ec96ca8076&form=w9&lang=en",
       "timestamp": "2026-05-02T08:54:27.000Z",
       "source": "Hacker News",
@@ -4229,8 +5075,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 51,
-      "comments": 23
+      "score": 53,
+      "comments": 25
     },
     {
       "id": "reddit-1t1khsu",
@@ -4266,6 +5112,24 @@
         "score": 1
       },
       "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "hn-47984509",
+      "title": "Lucide: Open-source icon library with 1600 vector (SVG) files for icons",
+      "summary": "6 pts · 0 comments",
+      "url": "https://github.com/lucide-icons/lucide",
+      "timestamp": "2026-05-02T08:21:07.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 6,
       "comments": 0
     },
     {
@@ -390223,78 +391087,6 @@
       },
       "score": 0,
       "comments": 0
-    },
-    {
-      "id": "hn-46860249",
-      "title": "Show HN: Osprey 1.0, open-source rules engine for online safety",
-      "summary": "3 pts · 0 comments",
-      "url": "https://roost.tools/blog/introducing-osprey-v1-0-open-source-infrastructure-for-real-time-abuse-mitigation/",
-      "timestamp": "2026-02-02T19:37:52.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1qu2248",
-      "title": "Need a better way to receive money from India to Germany without Wise asking passport and visa details",
-      "summary": "I have been using the Wise app for a year to transfer money from Germany to India and it works fine. Now my friend in India wants to send money to me in Germany but Wise is asking for my passport and visa details and the",
-      "url": "https://reddit.com/r/expat/comments/1qu2248/need_a_better_way_to_receive_money_from_india_to/",
-      "timestamp": "2026-02-02T17:49:01.000Z",
-      "source": "r/expat",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "hn-46857487",
-      "title": "Ask HN: Who wants to be hired? (February 2026)",
-      "summary": "142 pts · 568 comments",
-      "url": "https://news.ycombinator.com/item?id=46857487",
-      "timestamp": "2026-02-02T16:01:30.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 142,
-      "comments": 568
-    },
-    {
-      "id": "reddit-1qtq4jg",
-      "title": "Language based jobs in Europe",
-      "summary": "Hi everyone!  I have two friends who are currently looking for a job in Europe where they can use their language skills as an entry point. They're looking to start working as Customer Support Agents for their markets (Ge",
-      "url": "https://reddit.com/r/expat/comments/1qtq4jg/language_based_jobs_in_europe/",
-      "timestamp": "2026-02-02T09:05:04.000Z",
-      "source": "r/expat",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "POSITIVE",
-        "score": 2
-      },
-      "score": 0,
-      "comments": 11
     }
   ]
 }
