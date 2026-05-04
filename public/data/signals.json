@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-05-03T05:41:10.247Z",
+  "generated_at": "2026-05-04T05:46:34.264Z",
   "gdelt_tone": {
     "UAE": -0.62,
-    "Saudi Arabia": -0.77,
-    "Qatar": -0.42,
-    "Kuwait": -1.63,
-    "Bahrain": -0.36,
-    "Oman": -0.79,
-    "Jordan": -1.79,
-    "Lebanon": -4.58,
+    "Saudi Arabia": -0.83,
+    "Qatar": -0.26,
+    "Kuwait": -1.51,
+    "Bahrain": -0.27,
+    "Oman": -0.83,
+    "Jordan": -1.78,
+    "Lebanon": -4.57,
     "Iraq": -1.83,
-    "Egypt": 0.2,
-    "Yemen": -3.5,
-    "Iran": -3.3
+    "Egypt": 0.31,
+    "Yemen": -3.29,
+    "Iran": -3.32
   },
   "weather": {
-    "Kuwait": {
-      "temp_c": 28,
-      "wind_kmh": 1,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Saudi Arabia": {
-      "temp_c": 31,
-      "wind_kmh": 5,
+      "temp_c": 33,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Riyadh"
     },
+    "Kuwait": {
+      "temp_c": 33,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "UAE": {
-      "temp_c": 37,
-      "wind_kmh": 6,
+      "temp_c": 33,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Bahrain": {
-      "temp_c": 33,
-      "wind_kmh": 1,
+    "Qatar": {
+      "temp_c": 36,
+      "wind_kmh": 9,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Doha"
     },
     "Oman": {
-      "temp_c": 37,
+      "temp_c": 39,
       "wind_kmh": 23,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Lebanon": {
+      "temp_c": 14,
+      "wind_kmh": 30,
+      "condition": "Showers",
+      "city": "Beirut"
+    },
+    "Bahrain": {
+      "temp_c": 32,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 12,
+      "wind_kmh": 25,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 17,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
     "Iraq": {
-      "temp_c": 27,
-      "wind_kmh": 8,
+      "temp_c": 28,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Iran": {
-      "temp_c": 23,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Egypt": {
-      "temp_c": 20,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 20,
-      "wind_kmh": 25,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Yemen": {
-      "temp_c": 22,
-      "wind_kmh": 3,
+      "temp_c": 24,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 26,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30763,
+    "KWD": 0.30705,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.423736,
-    "IQD": 1310.60095
+    "EGP": 53.559957,
+    "IQD": 1309.064256
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1t30sle",
+        "title": "How I Win the Lottery Multiple Times: YOU ARE THE UNIVERSE LOOKING AT ITSELF I have a book about it",
+        "summary": "Winning isn't a fluke; it’s a realization. If you are the universe looking at itself, then \"luck\" is just you agreeing with your own reflection. I’ve been looking at the concept of winning through the lens of identity rather than effort. If",
+        "url": "https://reddit.com/r/Lottery/comments/1t30sle/how_i_win_the_lottery_multiple_times_you_are_the/",
+        "timestamp": "2026-05-03T23:19:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t30hkc",
+        "title": "My win/loss ratio",
+        "summary": "9 numbers out of 49 are drawn, this is how I bet on pairs of numbers . . . Czech lottery. I have my own scientific schedules.",
+        "url": "https://reddit.com/r/Lottery/comments/1t30hkc/my_winloss_ratio/",
+        "timestamp": "2026-05-03T23:06:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t2yzwr",
+        "title": "Jackpot Hunt!",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1t2yzwr/jackpot_hunt/",
+        "timestamp": "2026-05-03T22:03:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t2qx9x",
+        "title": "Those bigger wins just hit different in the Michigan lottery app.",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1t2qx9x/those_bigger_wins_just_hit_different_in_the/",
+        "timestamp": "2026-05-03T16:59:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t2fh8m",
+        "title": "I built a lottery number generator that avoids duplicate combinations — feedback?",
+        "summary": "Hi everyone, I built a lottery number generator app as a personal project and I’d like to get honest feedback. The idea is not to “predict” winning numbers or promise anything like that. The main feature is uniqueness: when a combination is",
+        "url": "https://reddit.com/r/Lottery/comments/1t2fh8m/i_built_a_lottery_number_generator_that_avoids/",
+        "timestamp": "2026-05-03T08:12:14.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1t2b50r",
         "title": "2 Powerball Jackpot Winners Again",
@@ -171,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 11,
+        "comments": 17,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -186,7 +261,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 8,
+        "comments": 12,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Who won the lottery? Why you may never know the full name of some jackpot winners going forward",
+        "summary": "Publicizing the names of those lucky enough to win the lottery has long been seen as a way to ensure transparency and fairness on behalf of gaming giants. But in an age where those stories can live online forever, some lottery commissions are reconsidering ho…",
+        "url": "https://www.cbc.ca/news/canada/lottery-winnings-privacy-changes-ontario-bc-9.7185252",
+        "timestamp": "2026-05-02T08:00:00Z",
+        "source": "CBC News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -582,66 +672,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1syigoa",
-        "title": "NODE 936 AUDIT: The 4-Gap Rupture (10:12 PM Night Core) 📉💰",
-        "summary": "📊 NODE 936 AUDIT: THE FINAL GHOST (10:12 PM) 📉💰 Skeptics call it luck; we call it Sector Depletion. Today we liquidated the 9-Ghost (930) and the 8-Recoil (8285). The terminal is running out of places to hide.  The 4-sector has been ghos",
-        "url": "https://reddit.com/r/Lottery/comments/1syigoa/node_936_audit_the_4gap_rupture_1012_pm_night_core/",
-        "timestamp": "2026-04-28T23:55:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sygzyp",
-        "title": "📉 NODE 936 AUDIT: Mega Millions Tue 4/28 — Tracking the 9-Ghost & High-Sector Vacuum 💰",
-        "summary": "📊 NODE 936 AUDIT: MEGA MILLIONS (TUE 4/28) 📉💰 The Texas \"Seven-Stall\" and \"Double-2s\" have set the stage for a National High-Sector Rupture. We are tracking the 9-Ghost migration from the local Fireball into the National Core. 🎯 MEGA MA",
-        "url": "https://reddit.com/r/Lottery/comments/1sygzyp/node_936_audit_mega_millions_tue_428_tracking_the/",
-        "timestamp": "2026-04-28T22:53:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1syan6j",
-        "title": "Watch out for the evening Texas..",
-        "summary": "📊 Tue 4/28 Day Audit D4 (1220 FB3) & P3 (635 FB5) confirmed a Low-Sector stall. Terminal is shielding the 9/4/7/8 behind the Double-2s. Evening Targets (6:00 PM): P3: 947, 046, 182 D4: 9467, 0461, 8532 Lotto TX: Recalibrating check back so",
-        "url": "https://reddit.com/r/Lottery/comments/1syan6j/watch_out_for_the_evening_texas/",
-        "timestamp": "2026-04-28T18:55:21.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sy6a3u",
-        "title": "Almost time. This for the 12pm",
-        "summary": "📊 Tue 4/28 Day Audit (12:27 PM) AM Pick 3 (176 FB2) was a 1-7-2 LIQUIDATION. The terminal is stalling with Double-7s, but the 0-Fireball leak confirms the reload is active. Day Targets: P3: 915, 041, 521 D4: 9150, 0461, 8521 Lotto TX: #46 ",
-        "url": "https://reddit.com/r/Lottery/comments/1sy6a3u/almost_time_this_for_the_12pm/",
-        "timestamp": "2026-04-28T16:24:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -760,35 +790,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "guardian-lot-uk-news-2026-apr-03-it-cant-be-them-london-national-lottery-jackpot-winner-misses-out-on-106m",
-        "title": "It can’t be them: London national lottery jackpot winner misses out on £10.6m",
-        "summary": "Ticket bought in Bexley expires after 180-day claim period, despite extensive search for holder",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/03/it-cant-be-them-london-national-lottery-jackpot-winner-misses-out-on-106m",
-        "timestamp": "2026-04-03T12:15:40Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 45,
+      "totalSignals": 46,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 37,
+        "HOPEFUL": 40,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 5
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 18
+      "uncertaintyScore": 13
     }
   }
 }
