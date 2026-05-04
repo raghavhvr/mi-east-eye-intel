@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T05:45:19.346Z",
+  "generated_at": "2026-05-04T05:51:14.020Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Big Dreams",
+  "dominantNarrative": "Winning Big Jackpots",
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Disappointment"
+    "Curiosity"
   ],
-  "psychInsight": "The public is driven by the desire for life-changing wins, with lottery and gambling outcomes influencing their emotional state. The hope of winning big fuels their engagement and interest in these activities.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with many individuals seeking strategies to increase their chances of winning. The posts also reveal a sense of community and shared experience among lottery players, with some individuals seeking feedback and advice from others.",
   "riskSignals": [
-    "Price increase backlash",
+    "Price increases",
     "Tax concerns"
   ],
   "opportunitySignals": [
-    "Jackpot growth excitement",
-    "New winner stories"
+    "Innovative lottery tools",
+    "Growing online engagement"
   ]
 }

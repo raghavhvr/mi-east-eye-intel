@@ -1,21 +1,23 @@
 {
-  "generated_at": "2026-05-03T05:45:18.690Z",
+  "generated_at": "2026-05-04T05:51:13.474Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Geopolitics",
-  "summary": "Regional tensions persist with Israeli actions in Lebanon and US arms supply, while Iran's peace proposal demands guarantees. Ongoing developments in the MENA region require continued monitoring of geopolitical and social trends.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "The region is experiencing heightened tensions due to recent incidents involving Israel, Iran, and the US, with potential for further escalation. Ongoing conflicts and economic pressures are contributing to instability and humanitarian concerns in the area.",
   "keyTrends": [
-    "Iran Peace Proposal",
-    "US-Israel Relations",
-    "Lebanon Tensions"
+    "Iran-Israel Conflict",
+    "Maritime Security",
+    "Economic Instability"
   ],
   "watchItems": [
-    "Iran's Guarantees",
-    "US Arms Supply"
+    "Strait of Hormuz",
+    "Gaza Aid Flotilla",
+    "Iranian Executions"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Geopolitical Uncertainty",
-    "Regional Instability"
+    "Human Rights Abuses",
+    "Economic Hardship",
+    "Regional Power Struggles"
   ]
 }
