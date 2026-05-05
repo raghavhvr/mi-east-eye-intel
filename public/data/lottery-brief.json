@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-04T05:51:14.020Z",
+  "generated_at": "2026-05-05T05:30:34.759Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "positive": 80,
+    "neutral": 15,
+    "negative": 5
   },
-  "dominantNarrative": "Winning Big Jackpots",
+  "dominantNarrative": "Big wins inspire hope",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Curiosity"
+    "excitement",
+    "optimism",
+    "greed"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with many individuals seeking strategies to increase their chances of winning. The posts also reveal a sense of community and shared experience among lottery players, with some individuals seeking feedback and advice from others.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, and recent big wins fuel their optimism. The lottery's unpredictable nature triggers a mix of emotions, from excitement to anxiety, as people chase the dream of winning.",
   "riskSignals": [
-    "Price increases",
-    "Tax concerns"
+    "problem gambling",
+    "financial stress"
   ],
   "opportunitySignals": [
-    "Innovative lottery tools",
-    "Growing online engagement"
+    "increased engagement",
+    "new players"
   ]
 }

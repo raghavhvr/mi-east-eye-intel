@@ -1,23 +1,21 @@
 {
-  "generated_at": "2026-05-04T05:51:13.474Z",
+  "generated_at": "2026-05-05T05:30:34.155Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "The region is experiencing heightened tensions due to recent incidents involving Israel, Iran, and the US, with potential for further escalation. Ongoing conflicts and economic pressures are contributing to instability and humanitarian concerns in the area.",
+  "topTheme": "Iran UAE Conflict",
+  "summary": "Iran's recent attacks on the UAE have sparked international condemnation, with over 85% of drone strikes thwarted by defence systems. The situation remains volatile, with potential for further escalation in the region",
   "keyTrends": [
-    "Iran-Israel Conflict",
-    "Maritime Security",
-    "Economic Instability"
+    "Iranian Aggression",
+    "UAE Defence",
+    "Regional Tensions"
   ],
   "watchItems": [
-    "Strait of Hormuz",
-    "Gaza Aid Flotilla",
-    "Iranian Executions"
+    "Iran-UAE Relations",
+    "Brazil-UAE Military Deal"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Human Rights Abuses",
-    "Economic Hardship",
-    "Regional Power Struggles"
+    "Iran's Military Actions",
+    "International Condemnation"
   ]
 }
