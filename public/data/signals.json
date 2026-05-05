@@ -1,106 +1,196 @@
 {
-  "generated_at": "2026-05-04T05:46:34.264Z",
+  "generated_at": "2026-05-05T05:25:03.380Z",
   "gdelt_tone": {
-    "UAE": -0.62,
-    "Saudi Arabia": -0.83,
-    "Qatar": -0.26,
-    "Kuwait": -1.51,
-    "Bahrain": -0.27,
-    "Oman": -0.83,
-    "Jordan": -1.78,
-    "Lebanon": -4.57,
-    "Iraq": -1.83,
-    "Egypt": 0.31,
-    "Yemen": -3.29,
-    "Iran": -3.32
+    "UAE": -1.18,
+    "Saudi Arabia": -0.91,
+    "Qatar": -0.42,
+    "Kuwait": -1.64,
+    "Bahrain": 0.16,
+    "Oman": -0.81,
+    "Jordan": -1.45,
+    "Lebanon": -4.43,
+    "Iraq": -1.82,
+    "Egypt": 0.29,
+    "Yemen": -3.34,
+    "Iran": -3.51
   },
   "weather": {
     "Saudi Arabia": {
       "temp_c": 33,
-      "wind_kmh": 2,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 33,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "UAE": {
-      "temp_c": 33,
-      "wind_kmh": 12,
+      "temp_c": 31,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Kuwait": {
+      "temp_c": 31,
+      "wind_kmh": 1,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Bahrain": {
+      "temp_c": 33,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Egypt": {
+      "temp_c": 16,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iran": {
+      "temp_c": 25,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
     "Qatar": {
       "temp_c": 36,
-      "wind_kmh": 9,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Doha"
     },
     "Oman": {
-      "temp_c": 39,
-      "wind_kmh": 23,
+      "temp_c": 36,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
-      "temp_c": 14,
-      "wind_kmh": 30,
+      "temp_c": 15,
+      "wind_kmh": 21,
       "condition": "Showers",
       "city": "Beirut"
     },
-    "Bahrain": {
-      "temp_c": 32,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 12,
-      "wind_kmh": 25,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Egypt": {
-      "temp_c": 17,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 28,
-      "wind_kmh": 9,
+      "temp_c": 24,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
+    "Jordan": {
+      "temp_c": 11,
+      "wind_kmh": 21,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
     "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 4,
+      "temp_c": 22,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 26,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30705,
+    "KWD": 0.307735,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.559957,
-    "IQD": 1309.064256
+    "EGP": 53.531117,
+    "IQD": 1309.029035
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1t40yyf",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1t40yyf/powerball_winning_numbers_monday/",
+        "timestamp": "2026-05-05T01:20:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t3z6yp",
+        "title": "Powerball reset to $20M — fresh start energy, who's playing tonight?",
+        "summary": "After two jackpot winners back to back, we're starting fresh at $20M. Cash option is already down thanks to interest rates but still life-changing money. Anyone feeling good about tonight's draw? What numbers are you going with?",
+        "url": "https://reddit.com/r/Lottery/comments/1t3z6yp/powerball_reset_to_20m_fresh_start_energy_whos/",
+        "timestamp": "2026-05-05T00:02:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t3pg6o",
+        "title": "2,800 people won $2,500 from Illinois Pick 4 on Sunday! ($7,000,000+ Total)",
+        "summary": "Illinois Lottery response: \"7-7-7-7 Fireball 6 was hit during yesterday's midday draw, creating a whopping prize payout of $7,000,000+!\" First it was the Powerball, and now it's Illinois lol.",
+        "url": "https://reddit.com/r/Lottery/comments/1t3pg6o/2800_people_won_2500_from_illinois_pick_4_on/",
+        "timestamp": "2026-05-04T18:01:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t3n3h4",
+        "title": "New look for Nclottery player",
+        "summary": "**NC Lottery got a new look… and I still didn’t win anything lol**",
+        "url": "https://reddit.com/r/Lottery/comments/1t3n3h4/new_look_for_nclottery_player/",
+        "timestamp": "2026-05-04T16:40:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t3k5kw",
+        "title": "Powerball confirms player patterns led to 91 tickets winning $1M+",
+        "summary": "Does anyone else have a pattern?",
+        "url": "https://reddit.com/r/Lottery/comments/1t3k5kw/powerball_confirms_player_patterns_led_to_91/",
+        "timestamp": "2026-05-04T14:57:56.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t3bm0j",
+        "title": "a small lottery site (1300 jackpot smt more)",
+        "summary": "there is a small lottery site starting those days a big winning chance simple and easy to use (n i promiseee that's not a scam) anyone interested dm me ask me about anything and ill explain",
+        "url": "https://reddit.com/r/Lottery/comments/1t3bm0j/a_small_lottery_site_1300_jackpot_smt_more/",
+        "timestamp": "2026-05-04T08:26:38.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1t30sle",
         "title": "How I Win the Lottery Multiple Times: YOU ARE THE UNIVERSE LOOKING AT ITSELF I have a book about it",
@@ -149,14 +239,44 @@
       {
         "id": "reddit-lot-1t2qx9x",
         "title": "Those bigger wins just hit different in the Michigan lottery app.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑25 · 💬3",
         "url": "https://reddit.com/r/Lottery/comments/1t2qx9x/those_bigger_wins_just_hit_different_in_the/",
         "timestamp": "2026-05-03T16:59:22.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 25,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Dublin lottery player hits €8.7 m jackpot from Saturday night draw",
+        "summary": "A Westmeath player also won €146,878.",
+        "url": "https://www.thejournal.ie/national-lottery-ireland-2-7030281-May2026/",
+        "timestamp": "2026-05-03T12:07:17Z",
+        "source": "TheJournal.ie",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Location of huge €8.7m Lotto jackpot win revealed",
+        "summary": "The location of the €8.7 million jackpot win has been revealed by the National Lottery, as Ireland has welcomed its newest millionaire this Bank Holiday weekend.",
+        "url": "https://www.independent.ie/irish-news/location-of-huge-87m-lotto-jackpot-win-revealed/a1802196637.html",
+        "timestamp": "2026-05-03T11:13:58Z",
+        "source": "Independent.ie",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -171,7 +291,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 3,
+        "comments": 11,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Dublin player scoops €8.7m National Lottery jackpot",
+        "summary": "The player is the second Lotto jackpot winner of the year to date",
+        "url": "https://www.irishtimes.com/ireland/dublin/2026/05/03/dublin-player-scoops-87m-national-lottery-jackpot/",
+        "timestamp": "2026-05-03T07:57:30Z",
+        "source": "The Irish Times",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -186,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 75,
+        "comments": 33,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,15 +336,15 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 9,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1t27sqo",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑1 · 💬2",
         "url": "https://reddit.com/r/Lottery/comments/1t27sqo/powerball_winning_numbers_saturday/",
         "timestamp": "2026-05-03T01:30:09.000Z",
         "source": "r/lottery",
@@ -217,7 +352,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -537,81 +672,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1szezg8",
-        "title": "Found another winner scratcher in trash 😭",
-        "summary": "I love Trash digging and my dream is to someday find a huge win in the trash.  They didn't scratch the barcode to verify if it was a winner or loser. Every day there's a winner ticket thrown in the trash and it could be a jackpot win and we",
-        "url": "https://reddit.com/r/Lottery/comments/1szezg8/found_another_winner_scratcher_in_trash/",
-        "timestamp": "2026-04-29T23:18:28.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 20,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sz8sc5",
-        "title": "PSA For Massachusetts Scratchers - There's An Incredibly Good Odds Scratcher To Play",
-        "summary": "Ticket: $4,000,000 Bonus Loot Game #: 413 Jackpot odds:  1 in 1.2 million Tickets Left: 15% For every ticket you buy you PROFIT $1.33 on average. By the math it's a winning bet (excluding taxes, etc) It's very rare for a scratcher to have t",
-        "url": "https://reddit.com/r/Lottery/comments/1sz8sc5/psa_for_massachusetts_scratchers_theres_an/",
-        "timestamp": "2026-04-29T19:20:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sz6bxw",
-        "title": "NODE 936: The Final Wednesday Ledger. The Debt Must Be Paid. 🗣️💼",
-        "summary": "📉 NODE 936: THE LEDGER MUST BALANCE 🛡️🎯 Final Discharge Manifest (Evening/Night - Apr 29) The morning/day sessions have liquidated the 7-Mirror and 5-Sector. The terminal has cleared the \"Guardians\" but is still hiding the debt.  The 0-V",
-        "url": "https://reddit.com/r/Lottery/comments/1sz6bxw/node_936_the_final_wednesday_ledger_the_debt_must/",
-        "timestamp": "2026-04-29T17:56:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sz3ge6",
-        "title": "NODE 936: The Ledger Must Balance. 12:27 PM Day Core Audit 📉💰",
-        "summary": "📊 NODE 936 AUDIT: MORNING SECTOR STRIKE 📉💰 The 1 and 6 signals just liquidated in the Daily 4 Core (1-6-8-9).  The 7-Mirror hit the P3 Fireball.  The 5-Sector hit the P3 Core and D4 Fireball.  Every digit in the morning manifest has disc",
-        "url": "https://reddit.com/r/Lottery/comments/1sz3ge6/node_936_the_ledger_must_balance_1227_pm_day_core/",
-        "timestamp": "2026-04-29T16:15:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sz16ww",
-        "title": "Lotto Texas game confusion",
-        "summary": "Went to my usual corner store where I always buy Lotto Texas tickets. Asked for 5 quick picks like I’ve done a hundred times. New guy was working and handed me a $5 ticket—but it only had one set of numbers on it (looked like a $1 single pl",
-        "url": "https://reddit.com/r/Lottery/comments/1sz16ww/lotto_texas_game_confusion/",
-        "timestamp": "2026-04-29T14:55:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Oz Lotto Result: Winner Claims $80 Million Jackpot After 14-Week Roll, Remains Anonymous",
         "summary": "BRISBANE — A single ticket holder in Queensland has become the latest Oz Lotto millionaire after winning the $80 million Division 1 prize in Tuesday night's draw, ending a 14-week rollover that had captured national attention and sent ticket sales soaring acr…",
@@ -623,36 +683,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1sywkwm",
-        "title": "Tuesday Ledger Liquidated. Now we hunt the Wednesday Morning 0-Vacuum. 🗣️💼",
-        "summary": "📊 NODE 936: WEDNESDAY MORNING AUDIT (APR 29) 📉💰 Tuesday was a total liquidation.  ✅ 9-Ghost HIT (930) ✅ 8-Recoil HIT (8285) ✅ 4-Gap HIT (243 & 3419) We called the 4-Gap when it was ghosted for 6 sessions. Now, we hunt the 0/7 Recoil for ",
-        "url": "https://reddit.com/r/Lottery/comments/1sywkwm/tuesday_ledger_liquidated_now_we_hunt_the/",
-        "timestamp": "2026-04-29T11:54:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1systfs",
-        "title": "MATHEMATICAL OBSERVATION — Hidden symmetries in Euromillions lottery draws",
-        "summary": "🔢 MATHEMATICAL OBSERVATION — Hidden symmetries in Euromillions lottery draws I am an independent researcher without academic affiliation. After analyzing the complete Euromillions draw history (1,686 draws, 2004-2026), I have observed a re",
-        "url": "https://reddit.com/r/Lottery/comments/1systfs/mathematical_observation_hidden_symmetries_in/",
-        "timestamp": "2026-04-29T08:31:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -747,21 +777,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Numbers for $100 Million Earth Day Drawing Revealed as Jackpot Rolls Over Again",
-        "summary": "DES MOINES, Iowa — No ticket matched all six numbers in Wednesday's Powerball drawing for the $100 million Earth Day jackpot, leaving the top prize to roll over once more and setting the stage for an even larger sum when players try their luck again on Saturd…",
-        "url": "https://www.ibtimes.com.au/powerball-numbers-100-million-earth-day-drawing-revealed-jackpot-rolls-over-again-1867341",
-        "timestamp": "2026-04-23T09:09:52Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-17-richard-desmond-loses-damages-battle-with-gambling-commission-ending-national-lottery-dispute",
         "title": "Richard Desmond loses £1.3bn damages battle over national lottery licence",
         "summary": "Media tycoon vows to appeal after dismissal of action against Gambling Commission for awarding Allwyn the franchise",
@@ -793,17 +808,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 46,
+      "totalSignals": 47,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 40,
+        "HOPEFUL": 42,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 3
+        "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 13
+      "uncertaintyScore": 11
     }
   }
 }
