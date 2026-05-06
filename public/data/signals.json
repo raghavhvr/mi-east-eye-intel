@@ -1,106 +1,124 @@
 {
-  "generated_at": "2026-05-05T05:25:03.380Z",
+  "generated_at": "2026-05-06T05:40:35.106Z",
   "gdelt_tone": {
-    "UAE": -1.18,
-    "Saudi Arabia": -0.91,
-    "Qatar": -0.42,
-    "Kuwait": -1.64,
-    "Bahrain": 0.16,
-    "Oman": -0.81,
-    "Jordan": -1.45,
-    "Lebanon": -4.43,
-    "Iraq": -1.82,
+    "UAE": -1.54,
+    "Saudi Arabia": -0.82,
+    "Qatar": -0.45,
+    "Kuwait": -1.38,
+    "Bahrain": 0.7,
+    "Oman": -1.15,
+    "Jordan": -1.12,
+    "Lebanon": -4.29,
+    "Iraq": -1.92,
     "Egypt": 0.29,
-    "Yemen": -3.34,
-    "Iran": -3.51
+    "Yemen": -3.08,
+    "Iran": -3.64
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 33,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 31,
-      "wind_kmh": 5,
+      "temp_c": 33,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 31,
-      "wind_kmh": 1,
+      "temp_c": 28,
+      "wind_kmh": 19,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 33,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Egypt": {
-      "temp_c": 16,
-      "wind_kmh": 4,
+    "Saudi Arabia": {
+      "temp_c": 30,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 25,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
+      "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 36,
-      "wind_kmh": 8,
+      "temp_c": 33,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Lebanon": {
-      "temp_c": 15,
-      "wind_kmh": 21,
-      "condition": "Showers",
-      "city": "Beirut"
-    },
-    "Iraq": {
-      "temp_c": 24,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Jordan": {
-      "temp_c": 11,
-      "wind_kmh": 21,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Yemen": {
-      "temp_c": 22,
-      "wind_kmh": 1,
+      "temp_c": 17,
+      "wind_kmh": 6,
       "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Beirut"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307735,
+    "KWD": 0.307894,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.531117,
-    "IQD": 1309.029035
+    "EGP": 53.691296,
+    "IQD": 1309.623236
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1t4w76o",
+        "title": "Powerball at $30M tonight — \nWednesday draw, who's playing?",
+        "summary": "No winner Monday so we're rolling into Wednesday at $30M. Still under $150M so the 10X Power Play multiplier is in play ， best value add in Powerball right now. What numbers are you going with tonight?",
+        "url": "https://reddit.com/r/Lottery/comments/1t4w76o/powerball_at_30m_tonight_wednesday_draw_whos/",
+        "timestamp": "2026-05-05T23:35:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t4nq3d",
+        "title": "Weird excel sheet",
+        "summary": "Idk if this is the right place but here it goes: So,I have been thinking about this a while and I just wanted someone to orientate,me.So I have a cousin who is a really good person he doesn't have any addiction(this may make you think that ",
+        "url": "https://reddit.com/r/Lottery/comments/1t4nq3d/weird_excel_sheet/",
+        "timestamp": "2026-05-05T18:17:54.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t4lusk",
+        "title": "Different state lotteries",
+        "summary": "Those of us who live near state lines, do you play the lottery in different states? Who is better or worse and why? Good luck!",
+        "url": "https://reddit.com/r/Lottery/comments/1t4lusk/different_state_lotteries/",
+        "timestamp": "2026-05-05T17:14:31.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t4hyge",
+        "title": "Why is there an uptick in jackpot winners?",
+        "summary": "I've been playing the lottery for a few years now, and recently I've noticed there are a lot more frequent jackpot winners. Used to be you'd have to wait for it to get to in the high millions or over a billion, but now it's back to back wit",
+        "url": "https://reddit.com/r/Lottery/comments/1t4hyge/why_is_there_an_uptick_in_jackpot_winners/",
+        "timestamp": "2026-05-05T14:59:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1t40yyf",
         "title": "Powerball Winning Numbers (Monday)",
@@ -132,6 +150,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Who Wants To Be A Millionaire's biggest EVER losers and the questions that caught them out - as contestant misses out on £186,000 after Phone A Friend disaster",
+        "summary": "Only seven contestants have thus far won the ITV show's jackpot, but plenty more found themselves tripped up on difficult questions.",
+        "url": "https://www.dailymail.com/tvshowbiz/article-15788843/who-wants-millionaire-biggest-losers.html",
+        "timestamp": "2026-05-04T23:47:34Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1t3pg6o",
         "title": "2,800 people won $2,500 from Illinois Pick 4 on Sunday! ($7,000,000+ Total)",
         "summary": "Illinois Lottery response: \"7-7-7-7 Fireball 6 was hit during yesterday's midday draw, creating a whopping prize payout of $7,000,000+!\" First it was the Powerball, and now it's Illinois lol.",
@@ -156,8 +189,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +204,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 64,
+        "comments": 23,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,7 +234,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -224,15 +257,15 @@
       {
         "id": "reddit-lot-1t2yzwr",
         "title": "Jackpot Hunt!",
-        "summary": "↑1 · 💬0",
+        "summary": "↑5 · 💬10",
         "url": "https://reddit.com/r/Lottery/comments/1t2yzwr/jackpot_hunt/",
         "timestamp": "2026-05-03T22:03:18.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -537,51 +570,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1t01mtj",
-        "title": "Powerball results last night.",
-        "summary": "This cannot be right or we have some serious fraud going on with the Lotto.",
-        "url": "https://reddit.com/r/Lottery/comments/1t01mtj/powerball_results_last_night/",
-        "timestamp": "2026-04-30T16:39:48.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 75,
-        "comments": 45,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t00gxp",
-        "title": "Texas Pick 3 & Daily 4: NODE 936 Morning Core Breach. The Vault is Cracking. 🛡️🎯",
-        "summary": "📉 NODE 936: VAULT’S ALREADY LEAKING. 🛡️🎯 While y'all were calling it \"gibberish,\" the math was busy taking receipts. The morning draw just bled 75% of the ledger before lunch.  THE RECEIPTS: ✅ 3-GHOST: Touched down (D4 Lead) ✅ 6-SECTOR: ",
-        "url": "https://reddit.com/r/Lottery/comments/1t00gxp/texas_pick_3_daily_4_node_936_morning_core_breach/",
-        "timestamp": "2026-04-30T15:58:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1szztp8",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1szztp8/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-04-30T15:38:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Former National Lottery winners lead search to find missing ticket holder days before they run out of time to claim £1m jackpot",
         "summary": "Winners of the National Lottery have 180 days from the day of the draw to claim their prize.",
@@ -594,81 +582,6 @@
         "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1szsyxw",
-        "title": "NODE 936: Thursday All-Day Master Ledger. One Audit. All Sessions. 🛡️🎯",
-        "summary": "📉 NODE 936: THURSDAY ALL-DAY MASTER LEDGER 🛡️🎯 Valid for all 4 draws (Apr 30, 2026) Wednesday was a bloodbath. The 0271 hit at 6:00 PM cleared the main vault. Now, the terminal is pivoting.  We are tracking the 3-GHOST and the 4-MIRROR. ",
-        "url": "https://reddit.com/r/Lottery/comments/1szsyxw/node_936_thursday_allday_master_ledger_one_audit/",
-        "timestamp": "2026-04-30T11:09:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1szqmpz",
-        "title": "**Powerball — Longest Absent Numbers (2026)**",
-        "summary": "10 — last seen 8 draws ago 11 — last seen 11 draws ago 31 — last seen 14 draws ago 32 — last seen 17 draws ago 33 — last seen 20 draws ago Each draw is independent so \"overdue\" is meaningless statistically. But it's interesting data. Anyone",
-        "url": "https://reddit.com/r/Lottery/comments/1szqmpz/powerball_longest_absent_numbers_2026/",
-        "timestamp": "2026-04-30T09:00:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1szlt7m",
-        "title": "What happened?! So MANY Powerball winners!",
-        "summary": "I should've bought a ticket...",
-        "url": "https://reddit.com/r/Lottery/comments/1szlt7m/what_happened_so_many_powerball_winners/",
-        "timestamp": "2026-04-30T04:30:33.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 248,
-        "comments": 242,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1szhf7t",
-        "title": "Question about buying a powerball quick pick.",
-        "summary": "When buying a quick pick, is a different number sequence generated by the machine at any given moment that the clerk prints the ticket...? Or, would the next quick pick number be the same number sequence, whether the clerk printed it a minu",
-        "url": "https://reddit.com/r/Lottery/comments/1szhf7t/question_about_buying_a_powerball_quick_pick/",
-        "timestamp": "2026-04-30T01:05:22.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1szg5kg",
-        "title": "NODE 936: The 0271 Liquidation Receipts. Wednesday Night Cleanup 📉💰",
-        "summary": "📉 NODE 936: THE LEDGER IS BALANCED 🛡️🎯 Wednesday Night Cleanup (10:12 PM) Earlier today, we dropped the manifest: 0 — 7 — 1 — 2. At 6:00 PM, the Terminal paid the debt: 0 — 2 — 7 — 1. That is 100% Core Saturation. To the people calling i",
-        "url": "https://reddit.com/r/Lottery/comments/1szg5kg/node_936_the_0271_liquidation_receipts_wednesday/",
-        "timestamp": "2026-04-30T00:08:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "ANXIOUS",
         "isME": false
       },
       {
@@ -762,21 +675,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Komodo Brings New Manga to Honolulu",
-        "summary": "ALOHA, KAWAII KON! KOMODO BRINGS NEW MANGA TO HONOLULU Enjoy demos, enter our lucky draw, and pick up exclusive MOON CIDERS items in Honolulu. April 23,...",
-        "url": "https://www.animenewsnetwork.com/press-release/2026-04-23/komodo-brings-new-manga-to-honolulu/.236732",
-        "timestamp": "2026-04-23T21:02:00Z",
-        "source": "Anime News Network",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-17-richard-desmond-loses-damages-battle-with-gambling-commission-ending-national-lottery-dispute",
         "title": "Richard Desmond loses £1.3bn damages battle over national lottery licence",
         "summary": "Media tycoon vows to appeal after dismissal of action against Gambling Commission for awarding Allwyn the franchise",
@@ -808,17 +706,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 47,
+      "totalSignals": 43,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 42,
+        "HOPEFUL": 40,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
+        "ANXIOUS": 1,
         "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 11
+      "uncertaintyScore": 7
     }
   }
 }
