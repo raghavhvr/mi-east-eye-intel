@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-05T05:30:34.155Z",
+  "generated_at": "2026-05-06T05:44:24.003Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran UAE Conflict",
-  "summary": "Iran's recent attacks on the UAE have sparked international condemnation, with over 85% of drone strikes thwarted by defence systems. The situation remains volatile, with potential for further escalation in the region",
+  "threatLevel": "LOW",
+  "topTheme": "UAE Economic Growth",
+  "summary": "The UAE's economy and military are experiencing growth and development, with advancements in technology and infrastructure. However, regional tensions and food insecurity in the Arab world are ongoing concerns.",
   "keyTrends": [
-    "Iranian Aggression",
-    "UAE Defence",
-    "Regional Tensions"
+    "UAE Economic Diversification",
+    "Graphene Production",
+    "Regional Geopolitics"
   ],
   "watchItems": [
-    "Iran-UAE Relations",
-    "Brazil-UAE Military Deal"
+    "US-Israel War Against Iran",
+    "UAE Military Expansion"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Iran's Military Actions",
-    "International Condemnation"
+    "Regional Tensions",
+    "Food Insecurity"
   ]
 }
