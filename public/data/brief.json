@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-06T05:44:24.003Z",
+  "generated_at": "2026-05-07T05:47:49.243Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "UAE Economic Growth",
-  "summary": "The UAE's economy and military are experiencing growth and development, with advancements in technology and infrastructure. However, regional tensions and food insecurity in the Arab world are ongoing concerns.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran Israel Tensions",
+  "summary": "The region is experiencing heightened tensions due to recent military actions and diplomatic exchanges between Iran and Israel. The UAE's stance on defence agreements and Iran's threats has added to the complexity of the situation.",
   "keyTrends": [
-    "UAE Economic Diversification",
-    "Graphene Production",
-    "Regional Geopolitics"
+    "Iran-Israel Conflict",
+    "Gulf Security",
+    "Regional Diplomacy"
   ],
   "watchItems": [
-    "US-Israel War Against Iran",
-    "UAE Military Expansion"
+    "Iran's Response",
+    "Israel's Military Actions"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Tensions",
-    "Food Insecurity"
+    "Escalating Conflict",
+    "Regional Instability"
   ]
 }

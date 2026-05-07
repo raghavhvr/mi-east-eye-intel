@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-06T05:44:24.819Z",
+  "generated_at": "2026-05-07T05:47:49.867Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 70,
-    "neutral": 20,
+    "positive": 60,
+    "neutral": 30,
     "negative": 10
   },
   "dominantNarrative": "Big wins inspire hope",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "greed"
+    "frustration"
   ],
-  "psychInsight": "The public is driven by the desire for life-changing wins, and recent jackpot winners fuel their optimism. The thrill of possibly winning big overrides concerns about odds and losses, showcasing a cognitive bias towards positive outcomes.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with big jackpots and recent wins fueling optimism. However, past losses and perceived unfairness also evoke frustration and skepticism.",
   "riskSignals": [
-    "problem gambling",
-    "financial stress"
+    "gambler's fallacy",
+    "false patterns"
   ],
   "opportunitySignals": [
     "increased engagement",
-    "lottery innovation"
+    "lottery syndicates"
   ]
 }
