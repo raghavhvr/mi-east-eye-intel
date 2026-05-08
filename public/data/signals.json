@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-05-07T05:43:08.077Z",
+  "generated_at": "2026-05-08T05:13:33.390Z",
   "gdelt_tone": {
-    "UAE": -1.59,
-    "Saudi Arabia": -0.42,
-    "Qatar": -0.36,
-    "Kuwait": -1.11,
-    "Bahrain": 0.82,
-    "Oman": -1.07,
-    "Jordan": -0.84,
-    "Lebanon": -4.07,
-    "Iraq": -2.01,
-    "Egypt": 0.41,
-    "Yemen": -2.96,
+    "UAE": -1.49,
+    "Saudi Arabia": -0.37,
+    "Qatar": -0.31,
+    "Kuwait": -1.06,
+    "Bahrain": 0.59,
+    "Oman": -1.49,
+    "Jordan": -0.81,
+    "Lebanon": -3.93,
+    "Iraq": -2.37,
+    "Egypt": 0.15,
+    "Yemen": -2.88,
     "Iran": -3.49
   },
   "weather": {
+    "Saudi Arabia": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
     "UAE": {
-      "temp_c": 35,
+      "temp_c": 32,
       "wind_kmh": 8,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Saudi Arabia": {
-      "temp_c": 29,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
-      "temp_c": 27,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Qatar": {
       "temp_c": 33,
-      "wind_kmh": 12,
+      "wind_kmh": 17,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Lebanon": {
-      "temp_c": 17,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
-    "Oman": {
-      "temp_c": 39,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Muscat"
+    "Kuwait": {
+      "temp_c": 26,
+      "wind_kmh": 17,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
     },
     "Bahrain": {
-      "temp_c": 30,
-      "wind_kmh": 11,
+      "temp_c": 29,
+      "wind_kmh": 18,
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
+    "Oman": {
+      "temp_c": 38,
+      "wind_kmh": 22,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Lebanon": {
+      "temp_c": 19,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
     "Jordan": {
-      "temp_c": 13,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
+      "temp_c": 17,
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Amman"
     },
     "Egypt": {
       "temp_c": 17,
-      "wind_kmh": 8,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iraq": {
       "temp_c": 22,
-      "wind_kmh": 8,
-      "condition": "Clear",
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
       "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 21,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Sanaa"
     },
     "Iran": {
       "temp_c": 25,
-      "wind_kmh": 3,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 22,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307375,
+    "KWD": 0.307411,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.725991,
-    "IQD": 1310.289351
+    "EGP": 52.716416,
+    "IQD": 1309.602916
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1t6vttz",
+        "title": "20K - 500X the Cash",
+        "summary": "It's been two weeks and I still can't believe it. That day I went to the lotto office for a 1000.00 claimer and on the way back I stopped at my Publix and was in the mood for a quick session at the lotto machine. The first ticket I bought w",
+        "url": "https://reddit.com/r/Lottery/comments/1t6vttz/20k_500x_the_cash/",
+        "timestamp": "2026-05-08T03:07:48.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 24,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t6vi4z",
+        "title": "Sheesh! Highest jackpot I’ve ever seen on the CA Fantasy 5 thus far.",
+        "summary": "Good luck to any fellow Californian’s playing 🫡 I’m down about $40 throughout the past 3 draws 😂",
+        "url": "https://reddit.com/r/Lottery/comments/1t6vi4z/sheesh_highest_jackpot_ive_ever_seen_on_the_ca/",
+        "timestamp": "2026-05-08T02:52:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 8,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t6jmmz",
+        "title": "Marks my words I will be the next Megamillions winner!",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1t6jmmz/marks_my_words_i_will_be_the_next_megamillions/",
+        "timestamp": "2026-05-07T18:47:55.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t6e5vk",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1t6e5vk/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-05-07T15:38:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t63nb7",
+        "title": "I used AI to generate powerball numbers",
+        "summary": "Honestly, I hate to crack my head thinking of numbers to pick for the powerball That is why I use AI It generates unlimited numbers based on past and present winning numbers The best part is that if I lose my tickets, I will still claim my ",
+        "url": "https://reddit.com/r/Lottery/comments/1t63nb7/i_used_ai_to_generate_powerball_numbers/",
+        "timestamp": "2026-05-07T07:44:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1t5y0qv",
         "title": "Anyone else have bad luck stories? Here are some of mine!",
@@ -127,6 +202,21 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "Flyers Set to Benefit from Maple Leafs NHL Draft Lottery Win",
+        "summary": "This Flyers trade keeps getting better.",
+        "url": "https://thehockeynews.com/nhl/philadelphia-flyers/latest-news/flyers-set-to-benefit-from-maple-leafs-nhl-draft-lottery-win",
+        "timestamp": "2026-05-07T00:51:05Z",
+        "source": "The Hockey News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -178,6 +268,66 @@
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Complete history of the NBA Draft Lottery: Four decades of tanking, the efforts to stop it and what's next",
+        "summary": "Sunday marks the 42nd installment of the NBA Draft Lottery -- the event has an intriguing and contentious past and a future that holds more changes",
+        "url": "https://www.cbssports.com/nba/news/complete-history-nba-draft-lottery-tanking/",
+        "timestamp": "2026-05-06T12:57:00Z",
+        "source": "CBS Sports",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "How to get tickets to see Harry Styles at London’s Meltdown Festival this summer: prize draw explained",
+        "summary": "The popstar will be playing a one-off orchestral performance in London in June – here’s how to get tickets",
+        "url": "https://www.timeout.com/london/news/how-to-get-tickets-to-see-harry-styles-at-londons-meltdown-festival-this-summer-prize-draw-explained-050626",
+        "timestamp": "2026-05-06T10:52:50Z",
+        "source": "Time Out",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Is it you? Winning €8.7m Lotto ticket sold in Applegreen station in west Dublin",
+        "summary": "The search is on for the owner of the winning ticket",
+        "url": "https://www.irishtimes.com/ireland/2026/05/06/is-it-you-winning-87m-lotto-ticket-sold-in-applegreen-station-in-west-dublin/",
+        "timestamp": "2026-05-06T09:43:32Z",
+        "source": "The Irish Times",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Harry Styles to raffle off orchestral meltdown show for youth charity",
+        "summary": "Harry Styles' intimate orchestral meltdown show at the Royal Festival Hall will be allocated via a prize draw - open from today – with all net proceeds supporting the Southbank Centre’s work to increase access to arts for young people.",
+        "url": "https://www.thelineofbestfit.com/news/harry-styles-raffle-meltdown-show-2026",
+        "timestamp": "2026-05-06T07:00:00Z",
+        "source": "Thelineofbestfit.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Maple Leafs first overall pick history: Revisiting selections of Auston Matthews, Wendell Clark after lottery win",
         "summary": "Here are the players whom Toronto has drafted at the top of the draft, and where they are now.",
         "url": "https://www.sportingnews.com/us/nhl/news/maple-leafs-first-pick-history-auston-matthews-wendell-clark/bc14f8108760497938c4dc22",
@@ -216,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -567,36 +717,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1t1q8v2",
-        "title": "PowerBall jackpot growth",
-        "summary": "I bet the powerball jackpot growth is only the minimum $2 million per draw after Wednesday's $90M+ 2nd place wins.  Normally, it would grow $10-12M.  They need to recoup that huge payout.",
-        "url": "https://reddit.com/r/Lottery/comments/1t1q8v2/powerball_jackpot_growth/",
-        "timestamp": "2026-05-02T13:41:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 11,
-        "comments": 17,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t1ptyd",
-        "title": "Today’s lottery numbers from Danny Wins",
-        "summary": "Here are some of the numbers from Dannywins.com",
-        "url": "https://reddit.com/r/Lottery/comments/1t1ptyd/todays_lottery_numbers_from_danny_wins/",
-        "timestamp": "2026-05-02T13:24:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 12,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Who won the lottery? Why you may never know the full name of some jackpot winners going forward",
         "summary": "Publicizing the names of those lucky enough to win the lottery has long been seen as a way to ensure transparency and fairness on behalf of gaming giants. But in an age where those stories can live online forever, some lottery commissions are reconsidering ho…",
@@ -702,21 +822,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Mega Millions Winning Numbers April 28 2026: No Jackpot Winner, $163M Rolls Over",
-        "summary": "NEW YORK — No ticket matched all six numbers in Tuesday's Mega Millions drawing for the $163 million jackpot, meaning the top prize will roll over to an even larger amount for Friday's draw as players across the country continue chasing the life-changing fort…",
-        "url": "https://www.ibtimes.com.au/mega-millions-winning-numbers-april-28-2026-no-jackpot-winner-163m-rolls-over-1867751",
-        "timestamp": "2026-04-29T07:21:14Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -778,17 +883,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 45,
+      "totalSignals": 52,
       "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 42,
+        "HOPEFUL": 49,
         "CYNICAL": 0,
-        "ANXIOUS": 1,
-        "NEUTRAL": 2
+        "ANXIOUS": 0,
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 7
+      "uncertaintyScore": 6
     }
   }
 }
