@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-07T05:47:49.243Z",
+  "generated_at": "2026-05-08T05:17:05.618Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "Iran Israel Tensions",
-  "summary": "The region is experiencing heightened tensions due to recent military actions and diplomatic exchanges between Iran and Israel. The UAE's stance on defence agreements and Iran's threats has added to the complexity of the situation.",
+  "topTheme": "MENA Conflict Escalation",
+  "summary": "The region is experiencing increased tensions due to recent attacks and retaliations between Israel and Hezbollah, with civilian casualties reported. The situation is volatile and may escalate further, with potential implications for regional stability.",
   "keyTrends": [
-    "Iran-Israel Conflict",
-    "Gulf Security",
-    "Regional Diplomacy"
+    "Hezbollah-Israel Conflict",
+    "Iranian Influence",
+    "Regional Instability"
   ],
   "watchItems": [
-    "Iran's Response",
-    "Israel's Military Actions"
+    "Hezbollah Military Capabilities",
+    "Israeli Retaliation Strategies"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Escalating Conflict",
-    "Regional Instability"
+    "Civilian Casualties",
+    "Escalating Violence"
   ]
 }
