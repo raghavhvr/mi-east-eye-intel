@@ -1,106 +1,166 @@
 {
-  "generated_at": "2026-05-08T05:13:33.390Z",
+  "generated_at": "2026-05-09T05:30:59.407Z",
   "gdelt_tone": {
-    "UAE": -1.49,
-    "Saudi Arabia": -0.37,
-    "Qatar": -0.31,
-    "Kuwait": -1.06,
-    "Bahrain": 0.59,
-    "Oman": -1.49,
-    "Jordan": -0.81,
-    "Lebanon": -3.93,
-    "Iraq": -2.37,
-    "Egypt": 0.15,
-    "Yemen": -2.88,
-    "Iran": -3.49
+    "UAE": -1.52,
+    "Saudi Arabia": -0.31,
+    "Qatar": -0.49,
+    "Kuwait": -1.1,
+    "Bahrain": 0.44,
+    "Oman": -1.45,
+    "Jordan": -0.84,
+    "Lebanon": -3.9,
+    "Iraq": -2.63,
+    "Egypt": 0.04,
+    "Yemen": -3,
+    "Iran": -3.53
   },
   "weather": {
     "Saudi Arabia": {
       "temp_c": 28,
-      "wind_kmh": 5,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 32,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 33,
-      "wind_kmh": 17,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 26,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
-      "temp_c": 29,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
     "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 22,
+      "temp_c": 40,
+      "wind_kmh": 19,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
-      "temp_c": 19,
+      "temp_c": 20,
       "wind_kmh": 3,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
+    "Kuwait": {
+      "temp_c": 28,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 33,
+      "wind_kmh": 22,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 30,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "UAE": {
+      "temp_c": 34,
+      "wind_kmh": 20,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
     "Jordan": {
-      "temp_c": 17,
-      "wind_kmh": 3,
+      "temp_c": 21,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Amman"
     },
     "Egypt": {
-      "temp_c": 17,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
+      "temp_c": 19,
+      "wind_kmh": 9,
+      "condition": "Clear",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 22,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
+      "temp_c": 24,
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Baghdad"
     },
+    "Iran": {
+      "temp_c": 22,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
     "Yemen": {
-      "temp_c": 21,
+      "temp_c": 22,
       "wind_kmh": 7,
       "condition": "Clear",
       "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 25,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307411,
+    "KWD": 0.307562,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.716416,
-    "IQD": 1309.602916
+    "EGP": 52.716576,
+    "IQD": 1309.585993
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1t7ry47",
+        "title": "Highest CA Fantasy 5 Jackpot ever? $1,577,145",
+        "summary": "Highest collective 1 day payout I’ve ever seen. Previous to this I think it was just north of $1MM",
+        "url": "https://reddit.com/r/Lottery/comments/1t7ry47/highest_ca_fantasy_5_jackpot_ever_1577145/",
+        "timestamp": "2026-05-09T02:16:50.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t7qy2h",
+        "title": "Powerball Winning Numbers (Wednesday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1t7qy2h/powerball_winning_numbers_wednesday/",
+        "timestamp": "2026-05-09T01:30:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t7o8si",
+        "title": "Mega Millions $215M tonight — who's playing?",
+        "summary": "jackpot's been rolling for a while now and we're at $215M tonight. cash option is $95.2M which is still life changing money. last draw had 2 match 5 winners but nobody took the jackpot down. you picking your own numbers or going quick pick?",
+        "url": "https://reddit.com/r/Lottery/comments/1t7o8si/mega_millions_215m_tonight_whos_playing/",
+        "timestamp": "2026-05-08T23:28:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1t7267q",
+        "title": "AZ Lottery 2 $500 wins!",
+        "summary": "Couple days apart. AZ lottery.",
+        "url": "https://reddit.com/r/Lottery/comments/1t7267q/az_lottery_2_500_wins/",
+        "timestamp": "2026-05-08T08:49:28.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1t6vttz",
         "title": "20K - 500X the Cash",
@@ -111,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 24,
-        "comments": 3,
+        "score": 32,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -147,6 +207,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9z",
+        "title": "Maple Leafs Stanley Cup contender checklist: A draft lottery win changes everything - The New York Times",
+        "summary": "Maple Leafs Stanley Cup contender checklist: A draft lottery win changes everythingThe New York Times Following a slew of bad news, the NHL draft lottery win is a shift in momentum for the Maple LeafsYahoo Sports NHL Draft Lottery results, as Red Wings pick g…",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=183151988",
+        "timestamp": "2026-05-07T16:12:38Z",
+        "source": "Slashdot.org",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1t6e5vk",
         "title": "What Would You Do If You Won? (Weekly Discussion)",
         "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
@@ -156,9 +231,54 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 3,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Following a slew of bad news, the NHL draft lottery win is a shift in momentum for the Maple Leafs",
+        "summary": "Since Auston Matthews was drafted by the Toronto Maple Leafs in 2016, the organization had been a model of consistency, making the playoffs each year. But 2025-26 was different, filled with bad news and failures, but the draft lottery win seems like a shift i…",
+        "url": "https://www.sportingnews.com/us/nhl/toronto-maple-leafs/news/following-slew-bad-news-nhl-draft-lottery-win-shift-momentum-maple-leafs/382b54b605477b7d888ba47b",
+        "timestamp": "2026-05-07T15:13:00Z",
+        "source": "Sporting News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "TheLotter Exposes Latest Scam Affecting Online Lottery Players",
+        "summary": "Players urged to recognize red flags and avoid fraudulent communications PORTLAND, Ore., May 7, 2026 /PRNewswire/ -- TheLotter, a trusted online lottery courier service, is warning the public about a recently identified phishing scam falsely using its brandin…",
+        "url": "https://www.prnewswire.com/news-releases/thelotter-exposes-latest-scam-affecting-online-lottery-players-302765477.html",
+        "timestamp": "2026-05-07T10:50:00Z",
+        "source": "PRNewswire",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "CYNICAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "TheLotter Exposes Latest Scam Affecting Online Lottery Players",
+        "summary": "Players urged to recognize red flags and avoid fraudulent communications PHOENIX, May 7, 2026 /PRNewswire/ -- TheLotter, a trusted online lottery courier service, is warning the public about a recently identified phishing scam falsely using its branding to mi…",
+        "url": "https://www.prnewswire.com/news-releases/thelotter-exposes-latest-scam-affecting-online-lottery-players-302765470.html",
+        "timestamp": "2026-05-07T10:43:00Z",
+        "source": "PRNewswire",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "CYNICAL",
         "isME": false
       },
       {
@@ -186,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 7,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -567,36 +687,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1t2yzwr",
-        "title": "Jackpot Hunt!",
-        "summary": "↑5 · 💬10",
-        "url": "https://reddit.com/r/Lottery/comments/1t2yzwr/jackpot_hunt/",
-        "timestamp": "2026-05-03T22:03:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t2qx9x",
-        "title": "Those bigger wins just hit different in the Michigan lottery app.",
-        "summary": "↑25 · 💬3",
-        "url": "https://reddit.com/r/Lottery/comments/1t2qx9x/those_bigger_wins_just_hit_different_in_the/",
-        "timestamp": "2026-05-03T16:59:22.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 25,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Dublin lottery player hits €8.7 m jackpot from Saturday night draw",
         "summary": "A Westmeath player also won €146,878.",
@@ -627,21 +717,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1t2fh8m",
-        "title": "I built a lottery number generator that avoids duplicate combinations — feedback?",
-        "summary": "Hi everyone, I built a lottery number generator app as a personal project and I’d like to get honest feedback. The idea is not to “predict” winning numbers or promise anything like that. The main feature is uniqueness: when a combination is",
-        "url": "https://reddit.com/r/Lottery/comments/1t2fh8m/i_built_a_lottery_number_generator_that_avoids/",
-        "timestamp": "2026-05-03T08:12:14.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 11,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Dublin player scoops €8.7m National Lottery jackpot",
         "summary": "The player is the second Lotto jackpot winner of the year to date",
@@ -653,66 +728,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t2b50r",
-        "title": "2 Powerball Jackpot Winners Again",
-        "summary": "On Wednesday someone from Indiana and Kansas won, tonight someone from Florida and Texas.",
-        "url": "https://reddit.com/r/Lottery/comments/1t2b50r/2_powerball_jackpot_winners_again/",
-        "timestamp": "2026-05-03T04:12:57.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 75,
-        "comments": 33,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t27yg9",
-        "title": "Mega Millions sales down 24% in Massachusetts after price increase",
-        "summary": "That stat is buried in the article below       [https://www.cbsnews.com/boston/news/massachusetts-lottery-keno-scratch-ticket/](https://www.cbsnews.com/boston/news/massachusetts-lottery-keno-scratch-ticket/)",
-        "url": "https://reddit.com/r/Lottery/comments/1t27yg9/mega_millions_sales_down_24_in_massachusetts/",
-        "timestamp": "2026-05-03T01:37:36.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 9,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t27sqo",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬2",
-        "url": "https://reddit.com/r/Lottery/comments/1t27sqo/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-05-03T01:30:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t232bn",
-        "title": "i have a probably stupid question about PA lottery taxes",
-        "summary": "i never gamble so i have no idea how this all works. i won $200 and $500 in separate games on fanduel. so as far as taxes go, is the $600 limit for individual game winnings? or is it $600 limit yearly and anything else i win for the year ha",
-        "url": "https://reddit.com/r/Lottery/comments/1t232bn/i_have_a_probably_stupid_question_about_pa/",
-        "timestamp": "2026-05-02T21:57:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -768,51 +783,6 @@
         "url": "https://www.ozbargain.com.au/node/957581",
         "timestamp": "2026-05-01T03:59:50Z",
         "source": "Ozbargain.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Toronto Maple Leafs winning NHL draft lottery would be ‘massive’, per O’Neill",
-        "summary": "The Toronto Maple Leafs head into the 2026 NHL Draft Lottery with pressure and hope after a disappointing season. Toronto’s 2025-26 campaign collapsed in dramatic fashion. The team finished 32-36-14, ending a nine-year playoff streak and dropping to last in…",
-        "url": "https://www.thebiglead.com/toronto-maple-leafs-winning-nhl-draft-lottery-would-be-massive-per-oneill/",
-        "timestamp": "2026-04-30T16:44:24Z",
-        "source": "The Big Lead",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Former National Lottery winners lead search to find missing ticket holder days before they run out of time to claim £1m jackpot",
-        "summary": "Winners of the National Lottery have 180 days from the day of the draw to claim their prize.",
-        "url": "https://www.dailymail.com/news/article-15779701/National-Lottery-winners-missing-ticket-1m.html",
-        "timestamp": "2026-04-30T15:18:39Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Oz Lotto Result: Winner Claims $80 Million Jackpot After 14-Week Roll, Remains Anonymous",
-        "summary": "BRISBANE — A single ticket holder in Queensland has become the latest Oz Lotto millionaire after winning the $80 million Division 1 prize in Tuesday night's draw, ending a 14-week rollover that had captured national attention and sent ticket sales soaring acr…",
-        "url": "https://www.ibtimes.com.au/oz-lotto-result-winner-claims-80-million-jackpot-after-14-week-roll-remains-anonymous-1867782",
-        "timestamp": "2026-04-29T12:22:25Z",
-        "source": "Ibtimes.com.au",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -883,17 +853,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 52,
+      "totalSignals": 50,
       "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 49,
-        "CYNICAL": 0,
+        "HOPEFUL": 45,
+        "CYNICAL": 2,
         "ANXIOUS": 0,
         "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 6
+      "uncertaintyScore": 10
     }
   }
 }
