@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-08T05:17:05.618Z",
+  "generated_at": "2026-05-09T05:36:19.242Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "MENA Conflict Escalation",
-  "summary": "The region is experiencing increased tensions due to recent attacks and retaliations between Israel and Hezbollah, with civilian casualties reported. The situation is volatile and may escalate further, with potential implications for regional stability.",
+  "topTheme": "Middle East Tensions",
+  "summary": "Escalating violence in the West Bank and tensions between Iran and the US are raising concerns, with the CIA estimating Iran can withstand a blockade for four months. Regional instability is likely to increase due to these developments and settler attacks across the occupied West Bank",
   "keyTrends": [
-    "Hezbollah-Israel Conflict",
-    "Iranian Influence",
-    "Regional Instability"
+    "Iran-US tensions",
+    "West Bank violence",
+    "Settler attacks"
   ],
   "watchItems": [
-    "Hezbollah Military Capabilities",
-    "Israeli Retaliation Strategies"
+    "Iranian blockade resilience",
+    "West Bank conflict escalation"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Civilian Casualties",
-    "Escalating Violence"
+    "Regional instability",
+    "Escalating violence"
   ]
 }

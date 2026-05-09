@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-08T05:17:06.297Z",
+  "generated_at": "2026-05-09T05:36:19.867Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Big wins ahead",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Frustration"
+    "excitement",
+    "optimism",
+    "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, with some individuals using AI or patterns to try to gain an edge. The sharing of bad luck stories and discussion of winning strategies also reveals a sense of community and social bonding among lottery enthusiasts.",
+  "psychInsight": "The prospect of large jackpots and winning numbers drives feelings of hope and excitement, while past losses and scams evoke frustration and caution. The use of AI to generate numbers also indicates a desire to gain an edge, highlighting the psychological appeal of control in uncertain situations.",
   "riskSignals": [
-    "Gaming addiction",
-    "Unrealistic expectations"
+    "scams",
+    "bad luck"
   ],
   "opportunitySignals": [
-    "Increased engagement",
-    "Charity initiatives"
+    "big jackpots",
+    "winning numbers"
   ]
 }
