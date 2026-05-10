@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-09T05:36:19.242Z",
+  "generated_at": "2026-05-10T05:51:40.119Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Middle East Tensions",
-  "summary": "Escalating violence in the West Bank and tensions between Iran and the US are raising concerns, with the CIA estimating Iran can withstand a blockade for four months. Regional instability is likely to increase due to these developments and settler attacks across the occupied West Bank",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Daily Life",
+  "summary": "The region's online discourse is dominated by everyday concerns and sports, with no major security threats emerging. Online discussions are generally focused on mundane topics, indicating a sense of stability and normalcy in the MENA region.",
   "keyTrends": [
-    "Iran-US tensions",
-    "West Bank violence",
-    "Settler attacks"
+    "Sports and Leisure",
+    "Job Market",
+    "Education"
   ],
   "watchItems": [
-    "Iranian blockade resilience",
-    "West Bank conflict escalation"
+    "Israeli-Palestinian Tensions",
+    "Regional Economic Trends"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Regional instability",
-    "Escalating violence"
+    "Lack of Politicized Discussions",
+    "Prevalence of Apolitical Topics"
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T05:36:19.867Z",
+  "generated_at": "2026-05-10T05:51:40.680Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
   "dominantNarrative": "Big wins ahead",
   "keyEmotions": [
@@ -13,13 +13,13 @@
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The prospect of large jackpots and winning numbers drives feelings of hope and excitement, while past losses and scams evoke frustration and caution. The use of AI to generate numbers also indicates a desire to gain an edge, highlighting the psychological appeal of control in uncertain situations.",
+  "psychInsight": "The public is driven by the prospect of life-changing wins, with many exhibiting optimistic biases, while others are frustrated by repeated losses. The lottery's variable rewards schedule keeps players engaged and hopeful for the next big win.",
   "riskSignals": [
-    "scams",
-    "bad luck"
+    "problem gambling",
+    "financial loss"
   ],
   "opportunitySignals": [
-    "big jackpots",
-    "winning numbers"
+    "increased engagement",
+    "revenue growth"
   ]
 }
