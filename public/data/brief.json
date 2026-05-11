@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-10T05:51:40.119Z",
+  "generated_at": "2026-05-11T06:23:32.704Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Daily Life",
-  "summary": "The region's online discourse is dominated by everyday concerns and sports, with no major security threats emerging. Online discussions are generally focused on mundane topics, indicating a sense of stability and normalcy in the MENA region.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "The region is experiencing increased tensions due to ongoing conflicts and geopolitical disputes, with various incidents and events contributing to the instability. The situation is being closely monitored, with a focus on potential flashpoints and areas of concern.",
   "keyTrends": [
-    "Sports and Leisure",
-    "Job Market",
-    "Education"
+    "Iran-Gulf tensions",
+    "Palestinian-Israeli conflict",
+    "Economic development"
   ],
   "watchItems": [
-    "Israeli-Palestinian Tensions",
-    "Regional Economic Trends"
+    "Hamas activities",
+    "Gulf drone attacks"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Lack of Politicized Discussions",
-    "Prevalence of Apolitical Topics"
+    "Regional conflicts",
+    "Economic uncertainty"
   ]
 }

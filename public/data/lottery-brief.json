@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-10T05:51:40.680Z",
+  "generated_at": "2026-05-11T06:23:33.341Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
-  "dominantNarrative": "Big wins ahead",
+  "dominantNarrative": "Big wins spark hope",
   "keyEmotions": [
     "excitement",
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The public is driven by the prospect of life-changing wins, with many exhibiting optimistic biases, while others are frustrated by repeated losses. The lottery's variable rewards schedule keeps players engaged and hopeful for the next big win.",
+  "psychInsight": "The prospect of large jackpots and recent wins drives excitement and optimism, while losses and unmet expectations fuel frustration and disappointment. The lottery's variable reward schedule contributes to the psychological allure, keeping players engaged and hopeful. ",
   "riskSignals": [
-    "problem gambling",
-    "financial loss"
+    "frustration with losses",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
     "increased engagement",
-    "revenue growth"
+    "growing jackpot interest"
   ]
 }
