@@ -1,106 +1,196 @@
 {
-  "generated_at": "2026-05-11T06:09:36.999Z",
+  "generated_at": "2026-05-12T05:49:33.948Z",
   "gdelt_tone": {
-    "UAE": -1.75,
-    "Saudi Arabia": -0.36,
-    "Qatar": -1.44,
-    "Kuwait": -1.88,
-    "Bahrain": -0.41,
-    "Oman": -1.3,
-    "Jordan": -0.63,
-    "Lebanon": -3.81,
-    "Iraq": -2.67,
+    "UAE": -1.5,
+    "Saudi Arabia": -0.53,
+    "Qatar": -1.48,
+    "Kuwait": -2.41,
+    "Bahrain": -0.31,
+    "Oman": -1.07,
+    "Jordan": -0.65,
+    "Lebanon": -3.91,
+    "Iraq": -2.64,
     "Egypt": -0.05,
-    "Yemen": -3.43,
-    "Iran": -3.51
+    "Yemen": -3.27,
+    "Iran": -3.52
   },
   "weather": {
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 20,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
-    "UAE": {
-      "temp_c": 32,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Bahrain": {
-      "temp_c": 32,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 23,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Egypt": {
-      "temp_c": 24,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Lebanon": {
-      "temp_c": 21,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
     "Saudi Arabia": {
-      "temp_c": 33,
-      "wind_kmh": 3,
+      "temp_c": 35,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
+    "UAE": {
+      "temp_c": 31,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Kuwait": {
-      "temp_c": 32,
-      "wind_kmh": 10,
+      "temp_c": 33,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Iraq": {
-      "temp_c": 31,
-      "wind_kmh": 7,
+    "Qatar": {
+      "temp_c": 36,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 37,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 33,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 21,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "city": "Beirut"
     },
     "Jordan": {
       "temp_c": 24,
-      "wind_kmh": 11,
-      "condition": "Clear",
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
       "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 31,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Iran": {
+      "temp_c": 24,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 22,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.306801,
+    "KWD": 0.307522,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.60789,
-    "IQD": 1308.341002
+    "EGP": 52.765775,
+    "IQD": 1308.86586
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tamra4",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tamra4/powerball_winning_numbers_monday/",
+        "timestamp": "2026-05-12T01:20:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tak5tt",
+        "title": "Powerball $57M tonight — who's playing? 🤞",
+        "summary": "Powerball $57M tonight — no winner Saturday, jackpot keeps climbing! Who's playing? 🤞",
+        "url": "https://reddit.com/r/Lottery/comments/1tak5tt/powerball_57m_tonight_whos_playing/",
+        "timestamp": "2026-05-11T23:28:53.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tacnkl",
+        "title": "DELAWARE LOTTERY",
+        "summary": "For people who play in Delaware, how do you feel about draw games vs scratch-offs? I know Delaware scratchers usually have smaller prizes than some other states, but I barely ever see people playing the draw games. Or what luck have you guy",
+        "url": "https://reddit.com/r/Lottery/comments/1tacnkl/delaware_lottery/",
+        "timestamp": "2026-05-11T18:52:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "hn-lot-48098047",
+        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
+        "summary": "3 pts · 0 comments",
+        "url": "https://www.messydata.app",
+        "timestamp": "2026-05-11T17:37:16.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ta6akq",
+        "title": "has anyone actually won a million dollar lottery?",
+        "summary": "same as title",
+        "url": "https://reddit.com/r/Lottery/comments/1ta6akq/has_anyone_actually_won_a_million_dollar_lottery/",
+        "timestamp": "2026-05-11T15:14:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9h",
+        "title": "Wizards won 2026 draft lottery—why? #sports",
+        "summary": "Wizards secure top pick with draft lottery win The Washington Wizards won the 2026 NBA Draft Lottery, earning the No. 1 overall selection in June’s draft. They entered Sunday’s lottery with a 14% chance at the top pick, and that probability was enough for the…",
+        "url": "https://alltoc.com/sports/wizards-won-2026-draft-lottery-why",
+        "timestamp": "2026-05-11T00:04:19Z",
+        "source": "Alltoc.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1t9e2yy",
         "title": "Question about quick picks.",
@@ -117,6 +207,36 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "The Costco Direct Deal That Can Save You Hundreds On Tech Purchases",
+        "summary": "If you're in the market for a big ticket tech purchase and looking to save some money, Costco Direct could actually be the best bet for you.",
+        "url": "https://www.bgr.com/2163877/costco-direct-tech-deal-explained/",
+        "timestamp": "2026-05-10T12:47:00Z",
+        "source": "BGR",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9j",
+        "title": "Most No. 1 picks in NBA history: How Wizards can set record with 2026 draft lottery win",
+        "summary": "Washington is one of a few franchises that has historically benefitted from lottery luck.",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e5e38e9d-80cb-482e-9764-ba66b6130f33",
+        "timestamp": "2026-05-10T09:00:01Z",
+        "source": "Yahoo Entertainment",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1t8uyap",
         "title": "NYS Lotto been hitting $500 all week!",
         "summary": "Same store I hit $1000 on a couple days ago!",
@@ -126,23 +246,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 41,
+        "comments": 8,
         "mood": "NEUTRAL",
         "isME": false
       },
       {
         "id": "reddit-lot-1t8t4ga",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑2 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1t8t4ga/powerball_winning_numbers_saturday/",
         "timestamp": "2026-05-10T01:30:09.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,23 +291,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 45,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1t8f2mm",
         "title": "Never playing the lottery again. Spent a total of $26 and won in total $5",
-        "summary": "↑1 · 💬0",
+        "summary": "↑23 · 💬28",
         "url": "https://reddit.com/r/Lottery/comments/1t8f2mm/never_playing_the_lottery_again_spent_a_total_of/",
         "timestamp": "2026-05-09T19:15:08.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 23,
+        "comments": 28,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,22 +321,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 12,
+        "comments": 16,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1t86h9i",
         "title": "Yaarwin Lottery Game",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1t86h9i/yaarwin_lottery_game/",
         "timestamp": "2026-05-09T14:27:33.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -297,6 +417,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Norwich Slot Racing Club",
+        "summary": "Norwich Slot Racing Club Norwich slot racing club five stamps can be exchanged for one prize draw, others dip into the distant past. This casino isnt actually located in Las Vegas, giving us soldiers. Superace88 Casino No Deposit Bonus Codes For Free Spins 20…",
+        "url": "https://www.andiemitchell.com/norwich-slot-racing-club/",
+        "timestamp": "2026-05-08T08:11:05Z",
+        "source": "Andiemitchell.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1t6vttz",
         "title": "20K - 500X the Cash",
         "summary": "It's been two weeks and I still can't believe it. That day I went to the lotto office for a 1000.00 claimer and on the way back I stopped at my Publix and was in the mood for a quick session at the lotto machine. The first ticket I bought w",
@@ -327,21 +462,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1t6jmmz",
-        "title": "Marks my words I will be the next Megamillions winner!",
-        "summary": "↑13 · 💬7",
-        "url": "https://reddit.com/r/Lottery/comments/1t6jmmz/marks_my_words_i_will_be_the_next_megamillions/",
-        "timestamp": "2026-05-07T18:47:55.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 13,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9z",
         "title": "Maple Leafs Stanley Cup contender checklist: A draft lottery win changes everything - The New York Times",
         "summary": "Maple Leafs Stanley Cup contender checklist: A draft lottery win changes everythingThe New York Times Following a slew of bad news, the NHL draft lottery win is a shift in momentum for the Maple LeafsYahoo Sports NHL Draft Lottery results, as Red Wings pick g…",
@@ -353,21 +473,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t6e5vk",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1t6e5vk/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-05-07T15:38:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -417,51 +522,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1t63nb7",
-        "title": "I used AI to generate powerball numbers",
-        "summary": "Honestly, I hate to crack my head thinking of numbers to pick for the powerball That is why I use AI It generates unlimited numbers based on past and present winning numbers The best part is that if I lose my tickets, I will still claim my ",
-        "url": "https://reddit.com/r/Lottery/comments/1t63nb7/i_used_ai_to_generate_powerball_numbers/",
-        "timestamp": "2026-05-07T07:44:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t5y0qv",
-        "title": "Anyone else have bad luck stories? Here are some of mine!",
-        "summary": "Sorry for the wall of text but here it goes. Im not a gambling addict or anything just play a cpl of times a year or so when I'm actually feeling lucky. Somehow that luck always gets canceled out somehow though, like a damn curse. Felt like",
-        "url": "https://reddit.com/r/Lottery/comments/1t5y0qv/anyone_else_have_bad_luck_stories_here_are_some/",
-        "timestamp": "2026-05-07T02:47:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t5xxbo",
-        "title": "Share some bad luck stories. Here's mine",
-        "summary": "Sorry for the wall of text but here it goes. Im not a gambling addict or anything just play a cpl of times a year or so when I'm actually feeling lucky. Somehow that luck always gets canceled out somehow though, like a damn curse. Felt like",
-        "url": "https://reddit.com/r/Lottery/comments/1t5xxbo/share_some_bad_luck_stories_heres_mine/",
-        "timestamp": "2026-05-07T02:42:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly90",
         "title": "Flyers Set to Benefit from Maple Leafs NHL Draft Lottery Win",
         "summary": "This Flyers trade keeps getting better.",
@@ -473,36 +533,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t5t92b",
-        "title": "Powerball tonight $30M — 3 hours to draw, who's playing?",
-        "summary": "Wednesday night Powerball jackpot  sitting at $30M, cash value $13.5M.  No winner Monday so it rolls on.  Still under $150M so the 10X  Power Play multiplier is in play.  What numbers are you going with tonight?",
-        "url": "https://reddit.com/r/Lottery/comments/1t5t92b/powerball_tonight_30m_3_hours_to_draw_whos_playing/",
-        "timestamp": "2026-05-06T23:15:36.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t5qsmo",
-        "title": "claims of powerball pattern playing responsible for winning are propaganda and fiction",
-        "summary": "numbers are random. all play slips create a pattern. when people share the same play numbers they share the same pattern. the idea that pattern playing lead to a high number of winners is absolutely retarded. there always a pattern. the mor",
-        "url": "https://reddit.com/r/Lottery/comments/1t5qsmo/claims_of_powerball_pattern_playing_responsible/",
-        "timestamp": "2026-05-06T21:39:03.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -627,51 +657,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Dublin lottery player hits €8.7 m jackpot from Saturday night draw",
-        "summary": "A Westmeath player also won €146,878.",
-        "url": "https://www.thejournal.ie/national-lottery-ireland-2-7030281-May2026/",
-        "timestamp": "2026-05-03T12:07:17Z",
-        "source": "TheJournal.ie",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Location of huge €8.7m Lotto jackpot win revealed",
-        "summary": "The location of the €8.7 million jackpot win has been revealed by the National Lottery, as Ireland has welcomed its newest millionaire this Bank Holiday weekend.",
-        "url": "https://www.independent.ie/irish-news/location-of-huge-87m-lotto-jackpot-win-revealed/a1802196637.html",
-        "timestamp": "2026-05-03T11:13:58Z",
-        "source": "Independent.ie",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Dublin player scoops €8.7m National Lottery jackpot",
-        "summary": "The player is the second Lotto jackpot winner of the year to date",
-        "url": "https://www.irishtimes.com/ireland/dublin/2026/05/03/dublin-player-scoops-87m-national-lottery-jackpot/",
-        "timestamp": "2026-05-03T07:57:30Z",
-        "source": "The Irish Times",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -733,17 +718,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 42,
-      "meSignals": 0,
+      "totalSignals": 41,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 34,
         "CYNICAL": 2,
         "ANXIOUS": 0,
-        "NEUTRAL": 4
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 14
+      "uncertaintyScore": 17
     }
   }
 }
