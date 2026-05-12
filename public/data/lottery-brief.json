@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T06:23:33.341Z",
+  "generated_at": "2026-05-12T05:54:04.860Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Big wins spark hope",
+  "dominantNarrative": "Winning big money",
   "keyEmotions": [
     "excitement",
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The prospect of large jackpots and recent wins drives excitement and optimism, while losses and unmet expectations fuel frustration and disappointment. The lottery's variable reward schedule contributes to the psychological allure, keeping players engaged and hopeful. ",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking to improve their financial situation through lottery wins. The emotional highs and lows are influenced by the unpredictability of lottery outcomes, leading to a mix of hopeful and frustrated sentiments.",
   "riskSignals": [
-    "frustration with losses",
-    "unrealistic expectations"
+    "problem gambling",
+    "financial loss"
   ],
   "opportunitySignals": [
     "increased engagement",
-    "growing jackpot interest"
+    "lottery revenue growth"
   ]
 }
