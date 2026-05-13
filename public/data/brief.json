@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-12T05:54:04.371Z",
+  "generated_at": "2026-05-13T06:04:19.532Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "MENA Conflict Escalation",
-  "summary": "The MENA region is experiencing increased tensions due to various conflicts and humanitarian crises, with potential for further escalation. Analysts are monitoring the situation closely, particularly in regards to the Hormuz crises and its impact on regional stability.",
+  "threatLevel": "MODERATE",
+  "topTheme": "Regional Conflict",
+  "summary": "The MENA region is experiencing increased tensions due to recent drone strikes and ongoing fighting in Sudan. Economic concerns and cybersecurity threats also persist, with trade talks and debit card fraud making headlines.",
   "keyTrends": [
-    "Hormuz Crises",
-    "Yemen Conflict",
-    "Israeli-Palestinian Tensions"
+    "Regional Conflict",
+    "Economic Tensions",
+    "Cybersecurity Threats"
   ],
   "watchItems": [
-    "Houthi Arsenal Expansion",
-    "Saudi-backed Salafi Commanders"
+    "Israeli-Lebanese Relations",
+    "Sudan Conflict"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Humanitarian Emergency Fears",
-    "Regional Instability"
+    "Regional Instability",
+    "Economic Uncertainty"
   ]
 }
