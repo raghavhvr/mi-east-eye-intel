@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-13T06:04:19.532Z",
-  "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Regional Conflict",
-  "summary": "The MENA region is experiencing increased tensions due to recent drone strikes and ongoing fighting in Sudan. Economic concerns and cybersecurity threats also persist, with trade talks and debit card fraud making headlines.",
+  "generated_at": "2026-05-14T06:03:34.304Z",
+  "model": "keyword-fallback",
+  "threatLevel": "LOW",
+  "topTheme": "Economic Activity",
+  "summary": "Regional signals indicate low activity with focus on economic activity. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "Regional Conflict",
-    "Economic Tensions",
-    "Cybersecurity Threats"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Israeli-Lebanese Relations",
-    "Sudan Conflict"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Economic Uncertainty"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }

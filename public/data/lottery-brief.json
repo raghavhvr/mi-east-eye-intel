@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T06:04:20.085Z",
+  "generated_at": "2026-05-14T06:03:34.896Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Big wins spark hope",
+  "dominantNarrative": "Big wins ahead",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "anticipation"
+    "anxiety"
   ],
-  "psychInsight": "The prospect of winning large sums of money triggers a psychological response known as the variable reward schedule, releasing dopamine and encouraging repetitive behavior. This hope and anticipation can lead to increased engagement with lottery games, driven by the potential for life-changing outcomes.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking to improve their financial situation. The thrill of possibly winning is also a major motivator, with some individuals using lottery tickets as a mental health coping mechanism.",
   "riskSignals": [
-    "problem gambling",
-    "financial stress"
+    "addiction",
+    "financial strain"
   ],
   "opportunitySignals": [
     "increased engagement",
-    "revenue growth"
+    "mental health benefits"
   ]
 }
