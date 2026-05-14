@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-05-13T05:59:16.942Z",
+  "generated_at": "2026-05-14T05:58:44.032Z",
   "gdelt_tone": {
-    "UAE": -0.78,
-    "Saudi Arabia": -0.52,
-    "Qatar": -1.41,
-    "Kuwait": -3.35,
-    "Bahrain": -0.39,
-    "Oman": -0.2,
-    "Jordan": -0.7,
-    "Lebanon": -4.04,
-    "Iraq": -2.69,
-    "Egypt": 0.03,
-    "Yemen": -3.3,
-    "Iran": -3.45
+    "UAE": -0.53,
+    "Saudi Arabia": -0.71,
+    "Qatar": -1.34,
+    "Kuwait": -3.91,
+    "Bahrain": -0.86,
+    "Oman": -0.24,
+    "Jordan": -0.87,
+    "Lebanon": -4.16,
+    "Iraq": -2.7,
+    "Egypt": 0.09,
+    "Yemen": -2.96,
+    "Iran": -3.5
   },
   "weather": {
-    "UAE": {
-      "temp_c": 32,
+    "Saudi Arabia": {
+      "temp_c": 33,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Iraq": {
+      "temp_c": 29,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Bahrain": {
+      "temp_c": 34,
       "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 23,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 23,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "UAE": {
+      "temp_c": 33,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 33,
-      "wind_kmh": 14,
+      "temp_c": 32,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Saudi Arabia": {
-      "temp_c": 33,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Qatar": {
-      "temp_c": 37,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 5,
+      "temp_c": 24,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Sanaa"
     },
     "Egypt": {
-      "temp_c": 21,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "temp_c": 26,
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Cairo"
     },
-    "Lebanon": {
-      "temp_c": 21,
-      "wind_kmh": 19,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Oman": {
-      "temp_c": 41,
+      "temp_c": 42,
       "wind_kmh": 18,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 22,
-      "wind_kmh": 16,
+    "Qatar": {
+      "temp_c": 37,
+      "wind_kmh": 11,
       "condition": "Clear",
-      "city": "Amman"
-    },
-    "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Manama"
+      "city": "Doha"
     },
     "Iran": {
       "temp_c": 26,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Iraq": {
-      "temp_c": 31,
-      "wind_kmh": 5,
+      "wind_kmh": 8,
       "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307691,
+    "KWD": 0.307646,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.918228,
-    "IQD": 1308.793408
+    "EGP": 52.917787,
+    "IQD": 1309.00042
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tciy1s",
+        "title": "Powerball drawing in a few hours — $69 Million tonight! Who's in?",
+        "summary": "Few hours until tonight's Powerball draw 👀 $69M jackpot, no winners last draw. Anyone actually have a number strategy or are we all just vibing with quick picks? 😂 Posting my numbers: 7, 14, 23, 38, 52 PB: 11 — let's gooo 🤞",
+        "url": "https://reddit.com/r/Lottery/comments/1tciy1s/powerball_drawing_in_a_few_hours_69_million/",
+        "timestamp": "2026-05-14T01:07:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tcgxf6",
+        "title": "I built a free lottery number generator covering 11 states with 17 strategies and real draw history — not just random numbers (TX, NY, FL, CA, GA, OH, MI + more)",
+        "summary": "Hey r/lottery — built something I think you'll actually find useful. Most lottery apps are just a random number button with a nice coat of paint. I wanted something with actual strategy behind it, so I built **PickDaddyAI** (pickdaddyai.com",
+        "url": "https://reddit.com/r/Lottery/comments/1tcgxf6/i_built_a_free_lottery_number_generator_covering/",
+        "timestamp": "2026-05-13T23:41:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tc58zi",
+        "title": "$300 winner on $30 PA Lottery",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tc58zi/300_winner_on_30_pa_lottery/",
+        "timestamp": "2026-05-13T16:43:51.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tbyhqo",
+        "title": "2026-05-13  NY Pick 3 Evening | Análisis de Noche | Simon Says Lottery | 纽约晚间选3分析",
+        "summary": "Data analysis for the NY Pick 3 Evening drawing.   Análisis de datos para el sorteo de la Noche de NY Pick 3. 纽约晚间选3彩票 (Evening) 核心数据量化分析。",
+        "url": "https://reddit.com/r/Lottery/comments/1tbyhqo/20260513_ny_pick_3_evening_análisis_de_noche/",
+        "timestamp": "2026-05-13T12:41:41.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "'Prize draw addiction left me hungry and using tissues for tampons'",
+        "summary": "The lure of luxury prizes is leading people to addiction, gambling support organisations warn.",
+        "url": "https://www.bbc.com/news/articles/c86e7yv6en6o",
+        "timestamp": "2026-05-13T04:56:39Z",
+        "source": "BBC News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tblcbc",
         "title": "NYS Lottery",
@@ -177,6 +252,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9z",
+        "title": "NBA Playoff semifinal update, Wizards lottery win & Darryn Peterson’s creatine story explained with Andrew Sharp & Dr. Brian Sutterer",
+        "summary": "Kevin O’Connor breaks down the NBA Playoffs with Andrew Sharp & talks Darryn Peterson with Dr. Brian Sutterer.",
+        "url": "https://sports.yahoo.com/nba/article/nba-playoff-semifinal-update-wizards-lottery-win--darryn-petersons-creatine-story-explained-with-andrew-sharp--dr-brian-sutterer-185451585.html",
+        "timestamp": "2026-05-12T18:54:51Z",
+        "source": "Yahoo Entertainment",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1tb57tx",
         "title": "Polysors project",
         "summary": "Came across a new on-chain lottery protocol called Polysors, launching on Polygon PoS. The idea is simple: anyone can stake 1,000 SORS tokens to become an operator and run their own lottery rounds. Winners are picked using two independent r",
@@ -186,7 +276,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -202,7 +292,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,10 +306,25 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 17,
+        "comments": 14,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "Yash's 'Toxic', Ranbir Kapoor's 'Ramayana' to Shah Rukh Khan's 'King' - Big ticket films with massive box office expectations in 2026!",
+        "summary": "Following Dhurandhar's massive success, 2026 is poised for a blockbuster year with highly anticipated releases like Ramayana, Toxic, and King. Film exhibitor Akshaye Rathi highlights these, along with Rajinikanth's Jailor 2 and potential surprise hits like Aa…",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yashs-toxic-ranbir-kapoors-ramayana-to-shah-rukh-khans-king-big-ticket-films-with-massive-box-office-expectations-in-2026/articleshow/131040112.cms",
+        "timestamp": "2026-05-12T12:58:35Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
       },
       {
         "id": "reddit-lot-1tamra4",
@@ -246,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -262,7 +367,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -507,51 +612,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1t7ry47",
-        "title": "Highest CA Fantasy 5 Jackpot ever? $1,577,145",
-        "summary": "Highest collective 1 day payout I’ve ever seen. Previous to this I think it was just north of $1MM",
-        "url": "https://reddit.com/r/Lottery/comments/1t7ry47/highest_ca_fantasy_5_jackpot_ever_1577145/",
-        "timestamp": "2026-05-09T02:16:50.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 24,
-        "comments": 11,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t7qy2h",
-        "title": "Powerball Winning Numbers (Wednesday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1t7qy2h/powerball_winning_numbers_wednesday/",
-        "timestamp": "2026-05-09T01:30:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t7o8si",
-        "title": "Mega Millions $215M tonight — who's playing?",
-        "summary": "jackpot's been rolling for a while now and we're at $215M tonight. cash option is $95.2M which is still life changing money. last draw had 2 match 5 winners but nobody took the jackpot down. you picking your own numbers or going quick pick?",
-        "url": "https://reddit.com/r/Lottery/comments/1t7o8si/mega_millions_215m_tonight_whos_playing/",
-        "timestamp": "2026-05-08T23:28:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 11,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "NBA mock draft 12.0: First-round projections before 2026 lottery results",
         "summary": "As basketball fans approach the 2026 NBA draft lottery in Chicago, there are plenty of reasons to get excited about the prospects in this class.",
@@ -717,51 +777,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Maple Leafs first overall pick history: Revisiting selections of Auston Matthews, Wendell Clark after lottery win",
-        "summary": "Here are the players whom Toronto has drafted at the top of the draft, and where they are now.",
-        "url": "https://www.sportingnews.com/us/nhl/news/maple-leafs-first-pick-history-auston-matthews-wendell-clark/bc14f8108760497938c4dc22",
-        "timestamp": "2026-05-06T00:37:47Z",
-        "source": "Sporting News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9m",
-        "title": "NHL fans all made the same Maple Leafs jokes after draft lottery win",
-        "summary": "Of course the Maple Leafs would win the NHL Draft Lottery after the week they had.",
-        "url": "https://ftw.usatoday.com/story/sports/nhl/2026/05/05/maple-leafs-win-2026-nhl-draft-lottery-jokes-memes/89953819007/",
-        "timestamp": "2026-05-06T00:07:24Z",
-        "source": "USA Today",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "The reality of winning £1million in a lottery syndicate - and having to share it 14 ways",
-        "summary": "'It all started when we were working on an intense project, doing 12- hour days for months. We were having a joke and said if we won the lottery, we could be at home. So we started a syndicate.'",
-        "url": "https://www.dailymail.com/money/mailplus/article-15791279/won-1m-lottery-shared-14-colleagues-syndicate.html",
-        "timestamp": "2026-05-05T21:01:08Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -823,17 +838,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 48,
-      "meSignals": 1,
+      "totalSignals": 49,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 37,
         "CYNICAL": 2,
         "ANXIOUS": 1,
         "NEUTRAL": 9
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 25
+      "uncertaintyScore": 24
     }
   }
 }
