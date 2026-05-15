@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-14T06:03:34.304Z",
-  "model": "keyword-fallback",
+  "generated_at": "2026-05-15T06:19:08.350Z",
+  "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "Economic Activity",
-  "summary": "Regional signals indicate low activity with focus on economic activity. Monitoring 12 open-source data points.",
+  "topTheme": "Regional Security",
+  "summary": "The region remains stable with no major security threats, but geopolitical tensions persist. Ongoing diplomatic efforts and regional events are being closely monitored for potential implications",
   "keyTrends": [
-    "Ongoing monitoring",
-    "Signal analysis active",
-    "Data refresh scheduled"
+    "UAE Security",
+    "Iran-Lebanon Tensions",
+    "Regional Diplomacy"
   ],
   "watchItems": [
-    "Regional escalation indicators",
-    "Economic sentiment shifts"
+    "Iran-US Relations",
+    "Lebanon-Israel Talks"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Geopolitical uncertainty",
-    "Economic signals"
+    "Geopolitical Uncertainty",
+    "Regional Instability"
   ]
 }

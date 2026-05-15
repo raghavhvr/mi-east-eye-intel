@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T06:03:34.896Z",
+  "generated_at": "2026-05-15T06:19:08.967Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Big wins ahead",
+  "dominantNarrative": "Winning Big Jackpots",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "anxiety"
+    "frustration"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking to improve their financial situation. The thrill of possibly winning is also a major motivator, with some individuals using lottery tickets as a mental health coping mechanism.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals experiencing frustration due to unmet expectations. The lottery and gambling discussions also reveal a psychological tendency towards escapism and risk-taking behavior.",
   "riskSignals": [
     "addiction",
-    "financial strain"
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "mental health benefits"
+    "innovative lottery tools",
+    "engaging community discussions"
   ]
 }
