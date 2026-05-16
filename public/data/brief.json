@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-05-15T06:19:08.350Z",
+  "generated_at": "2026-05-16T05:41:17.441Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Security",
-  "summary": "The region remains stable with no major security threats, but geopolitical tensions persist. Ongoing diplomatic efforts and regional events are being closely monitored for potential implications",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran Tensions Rise",
+  "summary": "The region is experiencing heightened tensions due to suspected Iranian cyberattacks and potential US military action, while the UAE reaffirms its commitment to sovereignty. Protests and commemorations, such as the Nakba anniversary march, also contribute to the complex security landscape.",
   "keyTrends": [
-    "UAE Security",
-    "Iran-Lebanon Tensions",
-    "Regional Diplomacy"
+    "Iran-US tensions",
+    "Cybersecurity threats",
+    "Regional protests"
   ],
   "watchItems": [
-    "Iran-US Relations",
-    "Lebanon-Israel Talks"
+    "US-Iran relations",
+    "UAE sovereignty",
+    "Cyberattack investigations"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Geopolitical Uncertainty",
-    "Regional Instability"
+    "Escalating Iran-US tensions",
+    "Regional instability"
   ]
 }
