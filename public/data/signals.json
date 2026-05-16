@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-05-15T06:06:14.591Z",
+  "generated_at": "2026-05-16T05:37:36.570Z",
   "gdelt_tone": {
-    "UAE": -0.56,
-    "Saudi Arabia": -0.83,
-    "Qatar": -1.46,
-    "Kuwait": -3.9,
-    "Bahrain": -1.07,
-    "Oman": -0.56,
-    "Jordan": -0.98,
-    "Lebanon": -4.15,
-    "Iraq": -2.45,
-    "Egypt": 0.32,
-    "Yemen": -2.77,
-    "Iran": -3.49
+    "UAE": -0.34,
+    "Saudi Arabia": -0.86,
+    "Qatar": -1.28,
+    "Kuwait": -3.88,
+    "Bahrain": -0.54,
+    "Oman": -0.36,
+    "Jordan": -0.86,
+    "Lebanon": -4.06,
+    "Iraq": -2.34,
+    "Egypt": 0.51,
+    "Yemen": -2.55,
+    "Iran": -3.28
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 33,
-      "wind_kmh": 8,
-      "condition": "Clear",
+      "temp_c": 32,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 32,
-      "wind_kmh": 25,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Qatar": {
-      "temp_c": 36,
-      "wind_kmh": 14,
+      "temp_c": 35,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 20,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Kuwait": {
-      "temp_c": 32,
+    "UAE": {
+      "temp_c": 33,
       "wind_kmh": 8,
       "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 34,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
-    "Lebanon": {
-      "temp_c": 21,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Bahrain": {
-      "temp_c": 32,
-      "wind_kmh": 14,
+      "temp_c": 34,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Egypt": {
-      "temp_c": 23,
-      "wind_kmh": 7,
+    "Oman": {
+      "temp_c": 36,
+      "wind_kmh": 10,
       "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Iran": {
+      "temp_c": 22,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Lebanon": {
+      "temp_c": 19,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 15,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
+    "Egypt": {
+      "temp_c": 20,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 30,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Iran": {
-      "temp_c": 25,
-      "wind_kmh": 11,
+      "temp_c": 26,
+      "wind_kmh": 19,
       "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 25,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307834,
+    "KWD": 0.308151,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.894198,
-    "IQD": 1309.063097
+    "EGP": 52.905552,
+    "IQD": 1309.065099
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1teis9o",
+        "title": "How much have you won on mega millions & Powerball?",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1teis9o/how_much_have_you_won_on_mega_millions_powerball/",
+        "timestamp": "2026-05-16T04:05:23.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1teft1e",
+        "title": "Man splits his $22 million lottery winnings with his best friend after they agreed 28 years ago to share it if either of them won. Note: repost, see link of original post in comments",
+        "summary": "↑1 · 💬1",
+        "url": "https://reddit.com/r/Lottery/comments/1teft1e/man_splits_his_22_million_lottery_winnings_with/",
+        "timestamp": "2026-05-16T01:45:03.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tedsx5",
+        "title": "Mega Millions drawing TONIGHT — $251 Million jackpot! Who's playing? 🎰",
+        "summary": "*Draw is tonight at 11pm ET and the jackpot is sitting at $251 MILLION 👀 Cash option is $112.3M — still absolutely life changing money. No winner since the last draw so it's been rolling for a while. Posting my numbers: 7, 14, 23, 38, 52 M",
+        "url": "https://reddit.com/r/Lottery/comments/1tedsx5/mega_millions_drawing_tonight_251_million_jackpot/",
+        "timestamp": "2026-05-16T00:13:03.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1te8rf5",
+        "title": "FREE DAILY LOTTERY FOR $100k!",
+        "summary": "Do not sleep on this!  Link for the lazy.  https://zulti.com/?r=TAQ3HRQQQK",
+        "url": "https://reddit.com/r/Lottery/comments/1te8rf5/free_daily_lottery_for_100k/",
+        "timestamp": "2026-05-15T20:49:43.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tdyfn8",
+        "title": "I built a free Powerball analytics tool that tracks repeating numbers, hot/cold trends, and historical draw patterns using real draw data",
+        "summary": "Hey r/Lottery — I’ve been obsessed with lottery statistics for a while and ended up building a tool called PowerballWiz (powerballwiz.com). Most lottery sites just generate random numbers and stop there. I wanted something more focused on a",
+        "url": "https://reddit.com/r/Lottery/comments/1tdyfn8/i_built_a_free_powerball_analytics_tool_that/",
+        "timestamp": "2026-05-15T14:43:39.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tdemg1",
         "title": "Just added UK, Ireland, Brazil & South Africa to my lottery number generator — now 12 US states + 9 countries 🌍",
@@ -141,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,10 +231,25 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "UAE Lottery: Dh30 million lucky draw results announced. Check winning numbers, rules and other details",
+        "summary": "The UAE Lottery's Lucky Day draw number 260513 saw winning numbers 9, 25, 2, 16, 23, 5, and month 7. While three players won Dh50,000 in the Lucky Chance ID category, the Dh30 million jackpot rolled over. The lottery offers various games, including Daily Lott…",
+        "url": "https://economictimes.indiatimes.com/news/international/uae/uae-lottery-dh30-million-lucky-draw-results-announced-check-winning-numbers-rules-and-other-details/articleshow/131085578.cms",
+        "timestamp": "2026-05-14T07:21:10Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
       },
       {
         "id": "reddit-lot-1tciy1s",
@@ -171,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -492,6 +582,21 @@
         "isME": false
       },
       {
+        "id": "hn-lot-48098047",
+        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
+        "summary": "3 pts · 0 comments",
+        "url": "https://www.messydata.app",
+        "timestamp": "2026-05-11T17:37:16.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
         "id": "newsapi-lot-aHR0cHM6Ly9z",
         "title": "Biggest takeaways from the NBA Draft Lottery",
         "summary": "The lottery brought surprises, disappointments and, for one team, a jump-up that could make an enormous difference in their pending rebuild.",
@@ -552,21 +657,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1t9e2yy",
-        "title": "Question about quick picks.",
-        "summary": "My question is if I were to walk up to a cashier and ask for $20 on Powerball or Mega Million? Are the numbers on Quick Pick generated by what comes next? Or will it always be continuously changing by the second? For example if I went to th",
-        "url": "https://reddit.com/r/Lottery/comments/1t9e2yy/question_about_quick_picks/",
-        "timestamp": "2026-05-10T18:02:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "The Costco Direct Deal That Can Save You Hundreds On Tech Purchases",
         "summary": "If you're in the market for a big ticket tech purchase and looking to save some money, Costco Direct could actually be the best bet for you.",
@@ -594,21 +684,6 @@
         "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1t8uyap",
-        "title": "NYS Lotto been hitting $500 all week!",
-        "summary": "Same store I hit $1000 on a couple days ago!",
-        "url": "https://reddit.com/r/Lottery/comments/1t8uyap/nys_lotto_been_hitting_500_all_week/",
-        "timestamp": "2026-05-10T02:58:20.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 41,
-        "comments": 8,
-        "mood": "NEUTRAL",
         "isME": false
       },
       {
@@ -702,21 +777,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "Flyers Set to Benefit from Maple Leafs NHL Draft Lottery Win",
-        "summary": "This Flyers trade keeps getting better.",
-        "url": "https://thehockeynews.com/nhl/philadelphia-flyers/latest-news/flyers-set-to-benefit-from-maple-leafs-nhl-draft-lottery-win",
-        "timestamp": "2026-05-07T00:51:05Z",
-        "source": "The Hockey News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -760,35 +820,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "guardian-lot-world-2026-apr-15-picasso-painting-winner-charity-raffle",
-        "title": "Paris art enthusiast wins €1m Picasso painting in €100 charity raffle",
-        "summary": "Ari Hodara initially thought it might be a hoax after winning raffle he found out about by chance while dining out",
-        "url": "https://www.theguardian.com/world/2026/apr/15/picasso-painting-winner-charity-raffle",
-        "timestamp": "2026-04-15T13:36:22Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 45,
-      "meSignals": 2,
+      "totalSignals": 48,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 35,
+        "HOPEFUL": 37,
         "CYNICAL": 2,
         "ANXIOUS": 1,
-        "NEUTRAL": 7
+        "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 23
     }
   }
 }
