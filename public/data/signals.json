@@ -1,106 +1,241 @@
 {
-  "generated_at": "2026-05-16T05:37:36.570Z",
+  "generated_at": "2026-05-17T05:57:46.487Z",
   "gdelt_tone": {
-    "UAE": -0.34,
-    "Saudi Arabia": -0.86,
-    "Qatar": -1.28,
+    "UAE": -0.09,
+    "Saudi Arabia": -0.93,
+    "Qatar": -1.08,
     "Kuwait": -3.88,
-    "Bahrain": -0.54,
-    "Oman": -0.36,
-    "Jordan": -0.86,
-    "Lebanon": -4.06,
-    "Iraq": -2.34,
-    "Egypt": 0.51,
-    "Yemen": -2.55,
-    "Iran": -3.28
+    "Bahrain": -0.16,
+    "Oman": -0.26,
+    "Jordan": -0.84,
+    "Lebanon": -4.08,
+    "Iraq": -2.2,
+    "Egypt": 0.59,
+    "Yemen": -2.45,
+    "Iran": -3.23
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 32,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "temp_c": 28,
+      "wind_kmh": 11,
+      "condition": "Clear",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "UAE": {
-      "temp_c": 33,
-      "wind_kmh": 8,
+      "temp_c": 37,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 34,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
+      "temp_c": 29,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 1,
+    "Qatar": {
+      "temp_c": 32,
+      "wind_kmh": 21,
       "condition": "Clear",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Iran": {
-      "temp_c": 22,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Lebanon": {
-      "temp_c": 19,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 15,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
+      "city": "Doha"
     },
     "Yemen": {
       "temp_c": 24,
-      "wind_kmh": 2,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Sanaa"
     },
-    "Egypt": {
-      "temp_c": 20,
-      "wind_kmh": 7,
+    "Bahrain": {
+      "temp_c": 29,
+      "wind_kmh": 23,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 19,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Lebanon": {
+      "temp_c": 21,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 9,
+      "condition": "Clear",
       "city": "Cairo"
     },
     "Iraq": {
       "temp_c": 26,
-      "wind_kmh": 19,
-      "condition": "Clear",
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
       "city": "Baghdad"
+    },
+    "Oman": {
+      "temp_c": 34,
+      "wind_kmh": 11,
+      "condition": "Thunderstorm",
+      "city": "Muscat"
+    },
+    "Iran": {
+      "temp_c": 19,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308151,
+    "KWD": 0.308079,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.905552,
-    "IQD": 1309.065099
+    "EGP": 52.902507,
+    "IQD": 1309.068139
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tfdsfd",
+        "title": "Ohio Lottery and Cash Explosion questions",
+        "summary": "So I'm making a largely financially inappropriate decision to buy a metric fuck ton on Cash Explosion tickets when I go through Ohio on my road trip for a slim if any chance to try and get on the game show. Some questions for you Ohioans: C",
+        "url": "https://reddit.com/r/Lottery/comments/1tfdsfd/ohio_lottery_and_cash_explosion_questions/",
+        "timestamp": "2026-05-17T03:19:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tfchbj",
+        "title": "{Academic} I need Women who are currently married or previously married to participate in a study for my doctoral study.",
+        "summary": "Hi everyone! I am a doctoral candidate doing my Psy.D. I’m currently conducting a research study exploring marital experiences, cultural beliefs, and women’s well-being, and I would really appreciate your support. I would be very grateful i",
+        "url": "https://reddit.com/r/india/comments/1tfchbj/academic_i_need_women_who_are_currently_married/",
+        "timestamp": "2026-05-17T02:16:25.000Z",
+        "source": "r/india",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1tfbise",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tfbise/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-05-17T01:30:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tfb6zi",
+        "title": "Quick pick vs picking your own numbers — which actually wins more? 🤔",
+        "summary": "Been playing Powerball for a while now and I always pick my own numbers — birthdays, patterns, numbers that \"feel right\" 😂 But statistically quick pick wins more jackpots apparently because more people use it. So is there actually any poin",
+        "url": "https://reddit.com/r/Lottery/comments/1tfb6zi/quick_pick_vs_picking_your_own_numbers_which/",
+        "timestamp": "2026-05-17T01:14:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tfatfq",
+        "title": "Powerball drawing TONIGHT — $86 Million jackpot! Who's playing? 🎰",
+        "summary": "Draw is tonight at 10:59pm ET and the jackpot is at $86 MILLION 👀 Cash option is $37.8M — still life changing money. No winner last draw so it keeps rolling! Posting my numbers: 7, 14, 23, 38, 52 PB: 11 — fingers crossed 🤞 Drop your numbe",
+        "url": "https://reddit.com/r/Lottery/comments/1tfatfq/powerball_drawing_tonight_86_million_jackpot_whos/",
+        "timestamp": "2026-05-17T00:56:51.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tf147x",
+        "title": "Why has nobody won the Lotto America jackpot in 2 years?",
+        "summary": "The tickets are cheaper and have better odds. So why does powerball, in comparison, have four winners this year alone?",
+        "url": "https://reddit.com/r/Lottery/comments/1tf147x/why_has_nobody_won_the_lotto_america_jackpot_in_2/",
+        "timestamp": "2026-05-16T18:10:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tf0qxe",
+        "title": "Second Chance",
+        "summary": "Anyone won on the Second Chance lottery they have in Georgia? I've put in so many entries and even get the ones people throw away and enter lol, yet I've never won anything. How many people win in a drawing? Do they have a bunch of prizes o",
+        "url": "https://reddit.com/r/Lottery/comments/1tf0qxe/second_chance/",
+        "timestamp": "2026-05-16T17:57:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tf0qdp",
+        "title": "Just played a book of $20 Maryland lottery tickets",
+        "summary": "Is a $100 dollar win guaranteed in a book?  When I asked Google it said no so then I asked it about a $10 ticket and a $50 prize and it said no as  well which I know is a LIE. Thanks",
+        "url": "https://reddit.com/r/Lottery/comments/1tf0qdp/just_played_a_book_of_20_maryland_lottery_tickets/",
+        "timestamp": "2026-05-16T17:56:38.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tes8wk",
+        "title": "If you win big in the lottery, what would you collect?",
+        "summary": "I would collect: \\- Video Games (Rare consoles and games) \\- Pokémon Cards (I wouldn't buy $1 million for a card tho lol) \\- Maybe some action figures (not sure which ones)",
+        "url": "https://reddit.com/r/Lottery/comments/1tes8wk/if_you_win_big_in_the_lottery_what_would_you/",
+        "timestamp": "2026-05-16T12:24:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1teis9o",
         "title": "How much have you won on mega millions & Powerball?",
@@ -171,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 10,
+        "comments": 17,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -552,21 +687,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tacnkl",
-        "title": "DELAWARE LOTTERY",
-        "summary": "For people who play in Delaware, how do you feel about draw games vs scratch-offs? I know Delaware scratchers usually have smaller prizes than some other states, but I barely ever see people playing the draw games. Or what luck have you guy",
-        "url": "https://reddit.com/r/Lottery/comments/1tacnkl/delaware_lottery/",
-        "timestamp": "2026-05-11T18:52:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "The Washington Wizards finally have hope -- it's been a long time coming",
         "summary": "The Wizards, irrelevant and listless for the past nine years, won the NBA Draft Lottery on Sunday",
@@ -624,21 +744,6 @@
         "score": 0,
         "comments": 0,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ta6akq",
-        "title": "has anyone actually won a million dollar lottery?",
-        "summary": "same as title",
-        "url": "https://reddit.com/r/Lottery/comments/1ta6akq/has_anyone_actually_won_a_million_dollar_lottery/",
-        "timestamp": "2026-05-11T15:14:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 37,
-        "comments": 28,
-        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -747,36 +852,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "TheLotter Exposes Latest Scam Affecting Online Lottery Players",
-        "summary": "Players urged to recognize red flags and avoid fraudulent communications PORTLAND, Ore., May 7, 2026 /PRNewswire/ -- TheLotter, a trusted online lottery courier service, is warning the public about a recently identified phishing scam falsely using its brandin…",
-        "url": "https://www.prnewswire.com/news-releases/thelotter-exposes-latest-scam-affecting-online-lottery-players-302765477.html",
-        "timestamp": "2026-05-07T10:50:00Z",
-        "source": "PRNewswire",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "CYNICAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "TheLotter Exposes Latest Scam Affecting Online Lottery Players",
-        "summary": "Players urged to recognize red flags and avoid fraudulent communications PHOENIX, May 7, 2026 /PRNewswire/ -- TheLotter, a trusted online lottery courier service, is warning the public about a recently identified phishing scam falsely using its branding to mi…",
-        "url": "https://www.prnewswire.com/news-releases/thelotter-exposes-latest-scam-affecting-online-lottery-players-302765470.html",
-        "timestamp": "2026-05-07T10:43:00Z",
-        "source": "PRNewswire",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "CYNICAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -823,17 +898,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 48,
-      "meSignals": 3,
+      "totalSignals": 53,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 37,
-        "CYNICAL": 2,
-        "ANXIOUS": 1,
+        "HOPEFUL": 43,
+        "CYNICAL": 0,
+        "ANXIOUS": 2,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 23
+      "uncertaintyScore": 19
     }
   }
 }
