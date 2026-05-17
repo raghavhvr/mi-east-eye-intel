@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T05:41:18.049Z",
+  "generated_at": "2026-05-17T06:03:07.233Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 10
   },
-  "dominantNarrative": "Winning Big Jackpots",
+  "dominantNarrative": "Big Wins Ahead",
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Greed"
+    "Anticipation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts of money. The prevalence of lottery-related discussions and tools also suggests a strong interest in strategic gameplay and community engagement.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large jackpots, which triggers a psychological response of hope and excitement. The use of analytics tools and number generators also indicates a sense of control and strategy, further fueling optimistic sentiments.",
   "riskSignals": [
-    "Gaming Addiction",
-    "Financial Loss"
+    "Problem Gambling",
+    "Unrealistic Expectations"
   ],
   "opportunitySignals": [
-    "Innovative Gaming Tools",
-    "Lucky Wins"
+    "Increased Engagement",
+    "Loyalty Programs"
   ]
 }
