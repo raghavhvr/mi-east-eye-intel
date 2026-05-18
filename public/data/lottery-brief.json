@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T06:03:07.233Z",
+  "generated_at": "2026-05-18T06:39:38.918Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 10
   },
-  "dominantNarrative": "Big Wins Ahead",
+  "dominantNarrative": "Big wins ahead",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Anticipation"
+    "excitement",
+    "optimism",
+    "anticipation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large jackpots, which triggers a psychological response of hope and excitement. The use of analytics tools and number generators also indicates a sense of control and strategy, further fueling optimistic sentiments.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, and the thrill of possibility is fueling their engagement. The emphasis on strategy and analytics suggests a sense of control and agency in an otherwise unpredictable outcome.",
   "riskSignals": [
-    "Problem Gambling",
-    "Unrealistic Expectations"
+    "problem gambling",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "Increased Engagement",
-    "Loyalty Programs"
+    "increased engagement",
+    "innovative tools"
   ]
 }

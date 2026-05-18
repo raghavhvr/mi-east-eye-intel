@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-17T06:03:06.619Z",
+  "generated_at": "2026-05-18T06:39:38.348Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "Regional Tensions",
-  "summary": "The region remains relatively calm with no major security incidents reported, but Russian warnings to the US and Israel over Iran strikes warrant attention. Ongoing issues with personal documents and travel continue to be a concern for individuals in the region.",
+  "topTheme": "Regional Security",
+  "summary": "The region remains relatively stable with no major security incidents reported, aside from a drone strike on a UAE nuclear power plant. Analysts are monitoring the situation for potential escalation or retaliation",
   "keyTrends": [
-    "Iran Tensions",
-    "Travel Issues",
-    "Personal Documents"
+    "Drone Strikes",
+    "Nuclear Security",
+    "Digital Scams"
   ],
   "watchItems": [
-    "US-Israel Relations",
-    "Iranian Military Activity"
+    "Barakah Nuclear Plant",
+    "UAE Drone Strike Response"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Personal Inconveniences"
+    "Regional Tensions",
+    "Economic Uncertainty"
   ]
 }
