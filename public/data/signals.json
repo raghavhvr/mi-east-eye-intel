@@ -1,106 +1,139 @@
 {
-  "generated_at": "2026-05-18T06:35:06.442Z",
+  "generated_at": "2026-05-19T06:30:30.987Z",
   "gdelt_tone": {
-    "UAE": -0.13,
-    "Saudi Arabia": -1,
-    "Qatar": -0.38,
-    "Kuwait": -3.58,
-    "Bahrain": 0.11,
-    "Oman": -0.29,
-    "Jordan": -0.85,
-    "Lebanon": -4.09,
-    "Iraq": -2.44,
-    "Egypt": 0.57,
-    "Yemen": -2.53,
-    "Iran": -3.23
+    "UAE": -0.2,
+    "Saudi Arabia": -1.07,
+    "Qatar": 0.18,
+    "Kuwait": -3.19,
+    "Bahrain": -0.07,
+    "Oman": -0.34,
+    "Jordan": -0.78,
+    "Lebanon": -4.11,
+    "Iraq": -2.67,
+    "Egypt": 0.44,
+    "Yemen": -2.6,
+    "Iran": -3.19
   },
   "weather": {
-    "UAE": {
-      "temp_c": 31,
-      "wind_kmh": 26,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 30,
-      "wind_kmh": 7,
+      "temp_c": 36,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Riyadh"
     },
+    "UAE": {
+      "temp_c": 32,
+      "wind_kmh": 25,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Bahrain": {
+      "temp_c": 36,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Manama"
+    },
     "Kuwait": {
-      "temp_c": 31,
+      "temp_c": 33,
       "wind_kmh": 2,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Oman": {
-      "temp_c": 35,
-      "wind_kmh": 18,
-      "condition": "Thunderstorm",
-      "city": "Muscat"
-    },
-    "Qatar": {
-      "temp_c": 34,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Bahrain": {
-      "temp_c": 31,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Iraq": {
-      "temp_c": 30,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
     "Jordan": {
-      "temp_c": 28,
-      "wind_kmh": 20,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 20,
-      "wind_kmh": 20,
+      "temp_c": 21,
+      "wind_kmh": 22,
       "condition": "Clear",
-      "city": "Tehran"
+      "city": "Amman"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30779,
+    "KWD": 0.308282,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.138882,
-    "IQD": 1310.94352
+    "EGP": 53.321671,
+    "IQD": 1311.009184
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1th7unv",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1th7unv/powerball_winning_numbers_monday/",
+        "timestamp": "2026-05-19T01:20:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1th59l0",
+        "title": "Powerball tonight $100M — numbers I'm watching after Saturday's draw",
+        "summary": "Saturday's numbers were 8, 37, 40, 44, 65 + PB 18. No jackpot winners which means the pool keeps growing into tonight's $100M draw. A few things I noticed — the numbers skewed high last draw (40, 44, 65), so I'm keeping an eye on some lower",
+        "url": "https://reddit.com/r/Lottery/comments/1th59l0/powerball_tonight_100m_numbers_im_watching_after/",
+        "timestamp": "2026-05-18T23:31:23.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1th4ixd",
+        "title": "Powerball tonight $100M — numbers I'm watching after Saturday's draw",
+        "summary": "Saturday's numbers were 8, 37, 40, 44, 65 + PB 18. No jackpot winners which means the pool keeps growing into tonight's $100M draw. A few things I noticed ，the numbers skewed high last draw (40, 44, 65), so I'm keeping an eye on some lower/",
+        "url": "https://reddit.com/r/Lottery/comments/1th4ixd/powerball_tonight_100m_numbers_im_watching_after/",
+        "timestamp": "2026-05-18T23:01:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tgwxrq",
+        "title": "Quiz: You Know You've Been In Dubai Long Enough When...",
+        "summary": "you can answer all these: 1. What was the name and location of the late-night pub/eatery wherein shenanigans happened in dark corners and they remained open until morning to then serve breakfast, predating the nightclub-closure-time-rule? T",
+        "url": "https://reddit.com/r/dubai/comments/1tgwxrq/quiz_you_know_youve_been_in_dubai_long_enough_when/",
+        "timestamp": "2026-05-18T18:51:26.000Z",
+        "source": "r/dubai",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 8,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Texas Lottery Commission and its former director indicted in $95 million lotto scheme",
+        "summary": "The Texas Lottery Commission and former director Gary Grief were criminally charged for abuse of official capacity after a $95 million Lotto Texas draw in April 2023. Prosecutors allege Grief approved a scheme where professional bettors purchased virtually al…",
+        "url": "https://www.naturalnews.com/2026-05-18-texas-lottery-commission-and-former-director-indicted.html",
+        "timestamp": "2026-05-18T06:00:00Z",
+        "source": "Naturalnews.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tg66xz",
         "title": "Made an IceMan strategy page for Drake fans 🧊",
@@ -134,14 +167,14 @@
       {
         "id": "reddit-lot-1tfbise",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑2 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1tfbise/powerball_winning_numbers_saturday/",
         "timestamp": "2026-05-17T01:30:11.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -156,8 +189,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 9,
+        "comments": 20,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +204,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -507,51 +540,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tblcbc",
-        "title": "NYS Lottery",
-        "summary": "Finally won my first gift card. $10 is better than nothing. Anyone else win anything from their 10 spins a day?",
-        "url": "https://reddit.com/r/Lottery/comments/1tblcbc/nys_lottery/",
-        "timestamp": "2026-05-13T01:37:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 22,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tbjdn5",
-        "title": "Mega Millions hit $232M ， biggest one in a while, who's got their tickets? 🎰",
-        "summary": "Jackpot keeps rolling over, now at $232M ($103.8M cash option). Tonight's the night? Drop your numbers below 👇",
-        "url": "https://reddit.com/r/Lottery/comments/1tbjdn5/mega_millions_hit_232m_biggest_one_in_a_while/",
-        "timestamp": "2026-05-13T00:10:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tbhwx3",
-        "title": "2026-05-13 纽约日间选3分析 | NY Pick 3 Midday | Análisis de Mediodía | Simon Says Lottery",
-        "summary": "CN 5月13号纽约日间选3核心数据分析已完成。  US Data analysis for NY Pick 3 Midday (May 12).  MX Análisis de datos para el sorteo del Mediodía. 📅 **Date:** 2026-05-13 📊 **Focus:** Today's heatmap shows interesting shifts in the hot/cold number distribution.",
-        "url": "https://reddit.com/r/Lottery/comments/1tbhwx3/20260513_纽约日间选3分析_ny_pick_3_midday_análisis_de/",
-        "timestamp": "2026-05-12T23:09:14.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 2,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9z",
         "title": "NBA Playoff semifinal update, Wizards lottery win & Darryn Peterson’s creatine story explained with Andrew Sharp & Dr. Brian Sutterer",
         "summary": "Kevin O’Connor breaks down the NBA Playoffs with Andrew Sharp & talks Darryn Peterson with Dr. Brian Sutterer.",
@@ -594,21 +582,6 @@
         "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-48098047",
-        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
-        "summary": "3 pts · 0 comments",
-        "url": "https://www.messydata.app",
-        "timestamp": "2026-05-11T17:37:16.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "NEUTRAL",
         "isME": false
       },
       {
@@ -702,21 +675,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Norwich Slot Racing Club",
-        "summary": "Norwich Slot Racing Club Norwich slot racing club five stamps can be exchanged for one prize draw, others dip into the distant past. This casino isnt actually located in Las Vegas, giving us soldiers. Superace88 Casino No Deposit Bonus Codes For Free Spins 20…",
-        "url": "https://www.andiemitchell.com/norwich-slot-racing-club/",
-        "timestamp": "2026-05-08T08:11:05Z",
-        "source": "Andiemitchell.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -749,16 +707,16 @@
     ],
     "meta": {
       "totalSignals": 43,
-      "meSignals": 3,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 38,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 7
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 16
+      "uncertaintyScore": 12
     }
   }
 }
