@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-18T06:39:38.348Z",
-  "model": "groq/llama-3.3-70b-versatile",
+  "generated_at": "2026-05-19T06:34:29.271Z",
+  "model": "keyword-fallback",
   "threatLevel": "LOW",
-  "topTheme": "Regional Security",
-  "summary": "The region remains relatively stable with no major security incidents reported, aside from a drone strike on a UAE nuclear power plant. Analysts are monitoring the situation for potential escalation or retaliation",
+  "topTheme": "Political Developments",
+  "summary": "Regional signals indicate low activity with focus on political developments. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "Drone Strikes",
-    "Nuclear Security",
-    "Digital Scams"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Barakah Nuclear Plant",
-    "UAE Drone Strike Response"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Tensions",
-    "Economic Uncertainty"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }

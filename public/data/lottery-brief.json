@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-18T06:39:38.918Z",
+  "generated_at": "2026-05-19T06:34:29.997Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 70,
-    "neutral": 20,
+    "positive": 60,
+    "neutral": 30,
     "negative": 10
   },
   "dominantNarrative": "Big wins ahead",
@@ -13,13 +13,13 @@
     "optimism",
     "anticipation"
   ],
-  "psychInsight": "The public is driven by the desire for life-changing wins, and the thrill of possibility is fueling their engagement. The emphasis on strategy and analytics suggests a sense of control and agency in an otherwise unpredictable outcome.",
+  "psychInsight": "The public is driven by the prospect of life-changing wins, with many individuals experiencing a thrill-seeking mindset. The lottery's unpredictability fuels a sense of hope and anticipation, leading people to engage with it repeatedly.",
   "riskSignals": [
-    "problem gambling",
-    "unrealistic expectations"
+    "gaming addiction",
+    "financial loss"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "innovative tools"
+    "entertainment value",
+    "life-changing wins"
   ]
 }
