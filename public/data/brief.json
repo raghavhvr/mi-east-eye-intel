@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-19T06:34:29.271Z",
-  "model": "keyword-fallback",
-  "threatLevel": "LOW",
-  "topTheme": "Political Developments",
-  "summary": "Regional signals indicate low activity with focus on political developments. Monitoring 12 open-source data points.",
+  "generated_at": "2026-05-20T06:34:11.901Z",
+  "model": "groq/llama-3.3-70b-versatile",
+  "threatLevel": "MODERATE",
+  "topTheme": "Regional Tensions",
+  "summary": "The MENA region is experiencing a mix of social and geopolitical concerns, with discussions around education, employment, and conflict. Analysts note a rise in anxiety over economic and security issues, particularly regarding Iran and the Middle East conflicts.",
   "keyTrends": [
-    "Ongoing monitoring",
-    "Signal analysis active",
-    "Data refresh scheduled"
+    "Education Reform",
+    "Economic Uncertainty",
+    "Geopolitical Tensions"
   ],
   "watchItems": [
-    "Regional escalation indicators",
-    "Economic sentiment shifts"
+    "Iran Conflict",
+    "Facial Recognition Laws"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Geopolitical uncertainty",
-    "Economic signals"
+    "Economic Instability",
+    "Regional Conflicts"
   ]
 }

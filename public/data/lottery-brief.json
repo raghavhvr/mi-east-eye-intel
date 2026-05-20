@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T06:34:29.997Z",
+  "generated_at": "2026-05-20T06:34:12.433Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Big wins ahead",
+  "dominantNarrative": "Big wins inspire hope",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "anticipation"
+    "curiosity"
   ],
-  "psychInsight": "The public is driven by the prospect of life-changing wins, with many individuals experiencing a thrill-seeking mindset. The lottery's unpredictability fuels a sense of hope and anticipation, leading people to engage with it repeatedly.",
+  "psychInsight": "The public is driven by the desire for life-changing wins and the thrill of possibility, with many seeking strategies to increase their chances of winning. The emphasis on big jackpots and lucky numbers taps into the psychological concept of variable rewards, keeping people engaged and invested in the lottery experience.",
   "riskSignals": [
-    "gaming addiction",
-    "financial loss"
+    "scams",
+    "addiction"
   ],
   "opportunitySignals": [
-    "entertainment value",
-    "life-changing wins"
+    "innovative gaming platforms",
+    "strategic marketing"
   ]
 }
