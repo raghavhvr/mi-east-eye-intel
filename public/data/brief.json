@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-20T06:34:11.901Z",
+  "generated_at": "2026-05-21T06:36:18.582Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Regional Tensions",
-  "summary": "The MENA region is experiencing a mix of social and geopolitical concerns, with discussions around education, employment, and conflict. Analysts note a rise in anxiety over economic and security issues, particularly regarding Iran and the Middle East conflicts.",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Security",
+  "summary": "The MENA region is experiencing a mix of everyday life discussions and geopolitical tensions, with no immediate major security threats. Analysts are monitoring Iran-related developments and Israeli-Palestinian issues, but overall sentiment remains relatively calm",
   "keyTrends": [
-    "Education Reform",
-    "Economic Uncertainty",
-    "Geopolitical Tensions"
+    "Iran-US talks",
+    "Israeli-Palestinian tensions",
+    "Regional security"
   ],
   "watchItems": [
-    "Iran Conflict",
-    "Facial Recognition Laws"
+    "Iran-US negotiations",
+    "Israeli minister's actions"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Economic Instability",
-    "Regional Conflicts"
+    "Geopolitical uncertainty",
+    "Regional conflicts"
   ]
 }
