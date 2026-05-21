@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-05-20T06:29:38.361Z",
+  "generated_at": "2026-05-21T06:31:06.861Z",
   "gdelt_tone": {
-    "UAE": -0.35,
-    "Saudi Arabia": -1.14,
-    "Qatar": 0,
-    "Kuwait": -2.51,
-    "Bahrain": -0.01,
-    "Oman": -0.21,
-    "Jordan": -0.75,
-    "Lebanon": -4.07,
-    "Iraq": -2.73,
-    "Egypt": 0.46,
-    "Yemen": -2.72,
+    "UAE": -0.39,
+    "Saudi Arabia": -0.96,
+    "Qatar": -0.12,
+    "Kuwait": -1.17,
+    "Bahrain": 0.46,
+    "Oman": -0.34,
+    "Jordan": -0.72,
+    "Lebanon": -3.99,
+    "Iraq": -2.83,
+    "Egypt": 0.37,
+    "Yemen": -2.8,
     "Iran": -3.14
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 34,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Qatar": {
-      "temp_c": 37,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 16,
+      "temp_c": 32,
+      "wind_kmh": 19,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Saudi Arabia": {
+      "temp_c": 36,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "Kuwait": {
-      "temp_c": 30,
-      "wind_kmh": 14,
+      "temp_c": 32,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Oman": {
-      "temp_c": 39,
-      "wind_kmh": 13,
+      "temp_c": 37,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Qatar": {
+      "temp_c": 36,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Bahrain": {
-      "temp_c": 30,
-      "wind_kmh": 21,
+      "temp_c": 33,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Manama"
     },
     "Lebanon": {
-      "temp_c": 20,
-      "wind_kmh": 32,
-      "condition": "Partly Cloudy",
+      "temp_c": 19,
+      "wind_kmh": 22,
+      "condition": "Showers",
       "city": "Beirut"
     },
-    "Jordan": {
-      "temp_c": 21,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iraq": {
-      "temp_c": 28,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
     "Egypt": {
-      "temp_c": 23,
-      "wind_kmh": 11,
+      "temp_c": 22,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Sanaa"
+    "Jordan": {
+      "temp_c": 16,
+      "wind_kmh": 22,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
     },
     "Iran": {
-      "temp_c": 19,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "temp_c": 23,
+      "wind_kmh": 9,
+      "condition": "Clear",
       "city": "Tehran"
+    },
+    "Iraq": {
+      "temp_c": 27,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 26,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308657,
+    "KWD": 0.308387,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.105355,
-    "IQD": 1311.079185
+    "EGP": 53.390402,
+    "IQD": 1309.629165
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tj3hwk",
+        "title": "Powerball tonight $113M — what numbers are you playing?",
+        "summary": "Monday's draw was 4, 13, 34, 61, 65 + PB 12. No jackpot winner but someone in Virginia hit the $2M Match 5 + Power Play prize! Tonight's $113M draw is looking interesting — last draw skewed high again (61, 65), so I'm watching some lower nu",
+        "url": "https://reddit.com/r/Lottery/comments/1tj3hwk/powerball_tonight_113m_what_numbers_are_you/",
+        "timestamp": "2026-05-20T23:57:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tizyrb",
+        "title": "What to do with unexpected windfall of $600?",
+        "summary": "I came into an unexpected windfall of $600. I consider it play money. My wife and I were playing with the idea of just putting it all in lotto tickets but we don’t know much about the lottery. Any suggestions? Should I just buy a bunch of P",
+        "url": "https://reddit.com/r/Lottery/comments/1tizyrb/what_to_do_with_unexpected_windfall_of_600/",
+        "timestamp": "2026-05-20T21:38:41.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tidikh",
+        "title": "Mega Millions 5/19 Results — No jackpot winner! $296M on Friday",
+        "summary": "Tonight's Mega Millions numbers: 10 - 26 - 34 - 56 - 64 + MB 6 No jackpot winner again! The jackpot rolls over to $296 Million for Friday 5/22 — cash option $128.6M. Did anyone hit anything tonight? Good luck to everyone playing Friday!",
+        "url": "https://reddit.com/r/Lottery/comments/1tidikh/mega_millions_519_results_no_jackpot_winner_296m/",
+        "timestamp": "2026-05-20T06:43:15.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "$46-million lottery prize remains unclaimed: Manitoba ticket wins Lotto 6/49 Gold Ball jackpot - How long does the winner have to claim?",
+        "summary": "Canada celebrated new lottery millionaires this past Victoria Day long weekend. A single player in Manitoba won a massive $46 million Lotto 6/49 jackpot. This prize remains unclaimed. Additionally, two tickets won $2.5 million each in the Classic Draw. Other …",
+        "url": "https://economictimes.indiatimes.com/news/international/canada/46-million-lottery-prize-remains-unclaimed-manitoba-ticket-wins-lotto-6/49-gold-ball-jackpot-how-long-does-the-winner-have-to-claim/articleshow/131217131.cms",
+        "timestamp": "2026-05-20T05:21:43Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9u",
+        "title": "The Victor Wembanyama factor that delivered Knicks rare NBA lottery win",
+        "summary": "You don’t always have to actually win the NBA lottery to look back at past lotteries and realize it could have been worse. The poor Nets toppling to the No. 6 pick after tanking two years is a reminder of how inexact a strategy that was even before the league…",
+        "url": "https://nypost.com/2026/05/19/sports/the-victor-wembanyama-factor-that-delivered-knicks-rare-nba-lottery-win/",
+        "timestamp": "2026-05-19T23:34:56Z",
+        "source": "New York Post",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1ti3hf6",
         "title": "Mega Millions $277M tonight — numbers I'm watching after Friday's draw",
@@ -147,6 +222,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "NBA mock draft 2026 showcases some intriguing looming decisions",
+        "summary": "The 2026 NBA Draft has some of the most impressive one-and-done prospects in recent memory and lottery teams will have plenty of talent to pick from.",
+        "url": "https://www.usatoday.com/story/sports/nba/draft/2026/05/19/nba-mock-draft-combine-results-early-entry-withdrawal-deadline/90145895007/",
+        "timestamp": "2026-05-19T17:53:28Z",
+        "source": "USA Today",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1tht24p",
         "title": "Is Ohio Lottery $1 million Dollar Cash Payout Scratch Offs Winning Ticket Odd Or Even?",
         "summary": "Should I Winner To Go On Flight/Business Trip Later?",
@@ -156,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 10,
+        "comments": 22,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,7 +276,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 4,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -201,9 +291,24 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 4,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9y",
+        "title": "Ride away on a Boardman SLR 8.9 road bike worth £1,400 just by completing this survey! Tell us what you think about road.cc for your chance to win",
+        "summary": "Your opinion counts! We want to get to know you even better, so we can make road.cc even better. That means it’s time for the 2026 road.cc Reader Survey, and a fantastic prize draw that will see one of you win a Boardman SLR 8.9 road bike. > Click here to com…",
+        "url": "https://road.cc/news/ride-away-on-a-boardman-slr-8-9-road-bike-worth-1400-just-by-completing-this-survey-tell-us-what-you-think-about-road-cc-for-your-chance-to-win",
+        "timestamp": "2026-05-19T09:25:42Z",
+        "source": "road.cc",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -231,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 17,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -507,36 +612,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tddxz5",
-        "title": "Petition to end break even prizes",
-        "summary": "Anybody hate these as much as I do?  It isn't winning.  But I bet the lottery reports these under How Much We Paid Out.  I vote they end these, anybody else?",
-        "url": "https://reddit.com/r/Lottery/comments/1tddxz5/petition_to_end_break_even_prizes/",
-        "timestamp": "2026-05-14T22:48:35.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 10,
-        "comments": 17,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1td1wc7",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1td1wc7/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-05-14T15:38:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "UAE Lottery: Dh30 million lucky draw results announced. Check winning numbers, rules and other details",
         "summary": "The UAE Lottery's Lucky Day draw number 260513 saw winning numbers 9, 25, 2, 16, 23, 5, and month 7. While three players won Dh50,000 in the Lucky Chance ID category, the Dh30 million jackpot rolled over. The lottery offers various games, including Daily Lott…",
@@ -627,36 +702,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "Yash's 'Toxic', Ranbir Kapoor's 'Ramayana' to Shah Rukh Khan's 'King' - Big ticket films with massive box office expectations in 2026!",
-        "summary": "Following Dhurandhar's massive success, 2026 is poised for a blockbuster year with highly anticipated releases like Ramayana, Toxic, and King. Film exhibitor Akshaye Rathi highlights these, along with Rajinikanth's Jailor 2 and potential surprise hits like Aa…",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yashs-toxic-ranbir-kapoors-ramayana-to-shah-rukh-khans-king-big-ticket-films-with-massive-box-office-expectations-in-2026/articleshow/131040112.cms",
-        "timestamp": "2026-05-12T12:58:35Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "The Washington Wizards finally have hope -- it's been a long time coming",
-        "summary": "The Wizards, irrelevant and listless for the past nine years, won the NBA Draft Lottery on Sunday",
-        "url": "https://www.cbssports.com/nba/news/washington-wizards-finally-have-hope/",
-        "timestamp": "2026-05-11T17:44:20Z",
-        "source": "CBS Sports",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "hn-lot-48098047",
         "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
         "summary": "3 pts · 0 comments",
@@ -669,51 +714,6 @@
         "score": 3,
         "comments": 0,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9z",
-        "title": "Biggest takeaways from the NBA Draft Lottery",
-        "summary": "The lottery brought surprises, disappointments and, for one team, a jump-up that could make an enormous difference in their pending rebuild.",
-        "url": "https://sports.yahoo.com/nba/article/biggest-takeaways-from-the-nba-draft-lottery-172706972.html",
-        "timestamp": "2026-05-11T17:27:06Z",
-        "source": "Yahoo Entertainment",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Inside the NBA Draft Lottery, where the Pacers’ big gamble came up agonizingly short",
-        "summary": "The Pacers had slightly better than 50/50 odds to get their center of the future and their own lottery pick, but that’s not how things worked out.",
-        "url": "https://www.sbnation.com/nba-draft-lottery/1114179/2026-nba-draft-lottery-pacers-lose-pick-reaction",
-        "timestamp": "2026-05-11T16:51:52Z",
-        "source": "SB Nation",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9h",
-        "title": "Wizards won 2026 draft lottery—why? #sports",
-        "summary": "Wizards secure top pick with draft lottery win The Washington Wizards won the 2026 NBA Draft Lottery, earning the No. 1 overall selection in June’s draft. They entered Sunday’s lottery with a 14% chance at the top pick, and that probability was enough for the…",
-        "url": "https://alltoc.com/sports/wizards-won-2026-draft-lottery-why",
-        "timestamp": "2026-05-11T00:04:19Z",
-        "source": "Alltoc.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -749,16 +749,16 @@
     ],
     "meta": {
       "totalSignals": 43,
-      "meSignals": 2,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 37,
+        "HOPEFUL": 38,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 6
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 14
+      "uncertaintyScore": 12
     }
   }
 }
