@@ -1,106 +1,196 @@
 {
-  "generated_at": "2026-05-21T06:31:06.861Z",
+  "generated_at": "2026-05-22T06:29:11.117Z",
   "gdelt_tone": {
-    "UAE": -0.39,
-    "Saudi Arabia": -0.96,
-    "Qatar": -0.12,
-    "Kuwait": -1.17,
-    "Bahrain": 0.46,
-    "Oman": -0.34,
-    "Jordan": -0.72,
+    "UAE": -0.31,
+    "Saudi Arabia": -0.93,
+    "Qatar": -0.14,
+    "Kuwait": -0.62,
+    "Bahrain": 1.2,
+    "Oman": 0.35,
+    "Jordan": -0.69,
     "Lebanon": -3.99,
-    "Iraq": -2.83,
+    "Iraq": -2.91,
     "Egypt": 0.37,
-    "Yemen": -2.8,
-    "Iran": -3.14
+    "Yemen": -2.78,
+    "Iran": -3.16
   },
   "weather": {
     "UAE": {
-      "temp_c": 32,
-      "wind_kmh": 19,
+      "temp_c": 36,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Saudi Arabia": {
-      "temp_c": 36,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "Kuwait": {
-      "temp_c": 32,
-      "wind_kmh": 11,
+      "temp_c": 29,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Oman": {
-      "temp_c": 37,
-      "wind_kmh": 16,
+    "Saudi Arabia": {
+      "temp_c": 32,
+      "wind_kmh": 8,
       "condition": "Clear",
-      "city": "Muscat"
+      "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 36,
-      "wind_kmh": 11,
+      "temp_c": 39,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Doha"
     },
     "Bahrain": {
-      "temp_c": 33,
-      "wind_kmh": 6,
+      "temp_c": 31,
+      "wind_kmh": 18,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Lebanon": {
-      "temp_c": 19,
-      "wind_kmh": 22,
-      "condition": "Showers",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 22,
+    "Oman": {
+      "temp_c": 39,
       "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "condition": "Clear",
+      "city": "Muscat"
     },
     "Jordan": {
-      "temp_c": 16,
-      "wind_kmh": 22,
+      "temp_c": 17,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
-    "Iran": {
-      "temp_c": 23,
-      "wind_kmh": 9,
+    "Lebanon": {
+      "temp_c": 22,
+      "wind_kmh": 15,
       "condition": "Clear",
-      "city": "Tehran"
+      "city": "Beirut"
     },
     "Iraq": {
-      "temp_c": 27,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
+      "temp_c": 28,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Baghdad"
     },
     "Yemen": {
       "temp_c": 26,
-      "wind_kmh": 11,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 24,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Egypt": {
+      "temp_c": 22,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308387,
+    "KWD": 0.309108,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.390402,
-    "IQD": 1309.629165
+    "EGP": 52.930703,
+    "IQD": 1310.124246
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tk5et1",
+        "title": "I tested 6 different lottery number strategies for 90 days. Here's what actually happened.",
+        "summary": "Started this as a personal experiment. Picked 6 strategies and ran them in rotation for 90 days across NY Take 5 and Powerball. **Hot Numbers** — matched 3/5 four times. Best performer.   **Cold Numbers** — matched 3/5 twice. Slower but had",
+        "url": "https://reddit.com/r/Lottery/comments/1tk5et1/i_tested_6_different_lottery_number_strategies/",
+        "timestamp": "2026-05-22T02:17:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tk0plf",
+        "title": "Lottery",
+        "summary": "Hey so stop pissing your money away on the state lottery, start playing on stake.us. the house edge on the fun games like keno and plinko etc. is literally less than 1 percent. Not like state lottery and their 40%. I won't post a referral c",
+        "url": "https://reddit.com/r/Lottery/comments/1tk0plf/lottery/",
+        "timestamp": "2026-05-21T22:53:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tjwec7",
+        "title": "Switched my gambling money to Stake.us, cant believe I pissed so much money away on the state lottery",
+        "summary": "Keno on stake was the only thing I needed to see how hard the state lottery screws you over. A 3 spot keno ticket here in Ohio pays 27 to 1, a 3 spot on stake.us pays 83 to 1. A 4 spot in Ohio pays $72 bucks for a dollar, a 4 spot on stake ",
+        "url": "https://reddit.com/r/Lottery/comments/1tjwec7/switched_my_gambling_money_to_stakeus_cant/",
+        "timestamp": "2026-05-21T20:10:50.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tjv52t",
+        "title": "Actual image of me, buying up all of the losing lotto tickets so that you all may prosper.",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tjv52t/actual_image_of_me_buying_up_all_of_the_losing/",
+        "timestamp": "2026-05-21T19:27:35.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tjoabt",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1tjoabt/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-05-21T15:38:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
+        "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
+        "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
+        "url": "https://www.theguardian.com/football/2026/may/21/zohran-mamdani-world-cup-tickets-new-york-city",
+        "timestamp": "2026-05-21T15:27:05Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tj3hwk",
         "title": "Powerball tonight $113M — what numbers are you playing?",
@@ -141,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,7 +276,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 5,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -194,15 +284,15 @@
       {
         "id": "reddit-lot-1thz2eh",
         "title": "Sister-in-law's advice leads to $77,777 lottery prize",
-        "summary": "↑1 · 💬0",
+        "summary": "↑32 · 💬6",
         "url": "https://reddit.com/r/Lottery/comments/1thz2eh/sisterinlaws_advice_leads_to_77777_lottery_prize/",
         "timestamp": "2026-05-19T20:20:29.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 32,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,7 +306,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -582,36 +672,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tdyfn8",
-        "title": "I built a free Powerball analytics tool that tracks repeating numbers, hot/cold trends, and historical draw patterns using real draw data",
-        "summary": "Hey r/Lottery — I’ve been obsessed with lottery statistics for a while and ended up building a tool called PowerballWiz (powerballwiz.com). Most lottery sites just generate random numbers and stop there. I wanted something more focused on a",
-        "url": "https://reddit.com/r/Lottery/comments/1tdyfn8/i_built_a_free_powerball_analytics_tool_that/",
-        "timestamp": "2026-05-15T14:43:39.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tdemg1",
-        "title": "Just added UK, Ireland, Brazil & South Africa to my lottery number generator — now 12 US states + 9 countries 🌍",
-        "summary": "Hey everyone — I've been building [PickDaddy](https://pickdaddyai.com), a lottery number generator that uses 17 different strategies (Delta System, Fibonacci, hot/cold numbers, numerology, etc.) and I just shipped a big international expans",
-        "url": "https://reddit.com/r/Lottery/comments/1tdemg1/just_added_uk_ireland_brazil_south_africa_to_my/",
-        "timestamp": "2026-05-14T23:16:35.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "UAE Lottery: Dh30 million lucky draw results announced. Check winning numbers, rules and other details",
         "summary": "The UAE Lottery's Lucky Day draw number 260513 saw winning numbers 9, 25, 2, 16, 23, 5, and month 7. While three players won Dh50,000 in the Lucky Chance ID category, the Dh30 million jackpot rolled over. The lottery offers various games, including Daily Lott…",
@@ -633,66 +693,6 @@
         "url": "https://alltoc.com/sports/why-did-wizards-win-draft-lottery-at-no-1",
         "timestamp": "2026-05-14T00:01:55Z",
         "source": "Alltoc.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9m",
-        "title": "BTCC Exchange Launches F1 Lucky Draw Ahead of Canadian Grand Prix, Featuring a Rolex Cosmograph Daytona and 100g Gold Bar",
-        "summary": "LODZ, Poland, May 13, 2026 (GLOBE NEWSWIRE) — BTCC, the world’s longest-serving cryptocurrency exchange, is pleased to announce the launch of its Formula 1 Lucky Draw campaign which runs until the end of the month, timed to coincide with one of the most antic…",
-        "url": "https://financialpost.com/globe-newswire/btcc-exchange-launches-f1-lucky-draw-ahead-of-canadian-grand-prix-featuring-a-rolex-cosmograph-daytona-and-100g-gold-bar",
-        "timestamp": "2026-05-13T14:49:29Z",
-        "source": "Financial Post",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "BTCC Exchange Launches F1 Lucky Draw Ahead of Canadian Grand Prix, Featuring a Rolex Cosmograph Daytona and 100g Gold Bar",
-        "summary": "BTCC Exchange runs an Formula 1 lucky draw with exclusive prizes up for grabs....",
-        "url": "https://www.globenewswire.com/news-release/2026/05/13/3294190/0/en/BTCC-Exchange-Launches-F1-Lucky-Draw-Ahead-of-Canadian-Grand-Prix-Featuring-a-Rolex-Cosmograph-Daytona-and-100g-Gold-Bar.html",
-        "timestamp": "2026-05-13T14:45:00Z",
-        "source": "GlobeNewswire",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "'Prize draw addiction left me hungry and using tissues for tampons'",
-        "summary": "The lure of luxury prizes is leading people to addiction, gambling support organisations warn.",
-        "url": "https://www.bbc.com/news/articles/c86e7yv6en6o",
-        "timestamp": "2026-05-13T04:56:39Z",
-        "source": "BBC News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9z",
-        "title": "NBA Playoff semifinal update, Wizards lottery win & Darryn Peterson’s creatine story explained with Andrew Sharp & Dr. Brian Sutterer",
-        "summary": "Kevin O’Connor breaks down the NBA Playoffs with Andrew Sharp & talks Darryn Peterson with Dr. Brian Sutterer.",
-        "url": "https://sports.yahoo.com/nba/article/nba-playoff-semifinal-update-wizards-lottery-win--darryn-petersons-creatine-story-explained-with-andrew-sharp--dr-brian-sutterer-185451585.html",
-        "timestamp": "2026-05-12T18:54:51Z",
-        "source": "Yahoo Entertainment",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -751,14 +751,14 @@
       "totalSignals": 43,
       "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 38,
+        "HOPEFUL": 36,
         "CYNICAL": 0,
-        "ANXIOUS": 0,
-        "NEUTRAL": 5
+        "ANXIOUS": 1,
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 12
+      "uncertaintyScore": 16
     }
   }
 }
