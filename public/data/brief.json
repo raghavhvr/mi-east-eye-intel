@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-21T06:36:18.582Z",
+  "generated_at": "2026-05-22T06:33:50.133Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "Regional Security",
-  "summary": "The MENA region is experiencing a mix of everyday life discussions and geopolitical tensions, with no immediate major security threats. Analysts are monitoring Iran-related developments and Israeli-Palestinian issues, but overall sentiment remains relatively calm",
+  "topTheme": "Regional Politics",
+  "summary": "The region is experiencing a mix of diplomatic efforts and economic updates, with Pakistan's interior minister meeting Iran's Araghchi to resolve disputes with the US. Meanwhile, various local announcements and discussions are taking place, including VAT changes and security deposit updates in Dubai.",
   "keyTrends": [
-    "Iran-US talks",
-    "Israeli-Palestinian tensions",
-    "Regional security"
+    "US-Iran relations",
+    "Regional trade",
+    "Economic updates"
   ],
   "watchItems": [
-    "Iran-US negotiations",
-    "Israeli minister's actions"
+    "Pakistan-Iran diplomacy",
+    "Dubai economic policies"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Geopolitical uncertainty",
-    "Regional conflicts"
+    "Geopolitical tensions",
+    "Economic uncertainty"
   ]
 }
