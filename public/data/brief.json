@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-05-22T06:33:50.133Z",
+  "generated_at": "2026-05-23T05:54:29.792Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Politics",
-  "summary": "The region is experiencing a mix of diplomatic efforts and economic updates, with Pakistan's interior minister meeting Iran's Araghchi to resolve disputes with the US. Meanwhile, various local announcements and discussions are taking place, including VAT changes and security deposit updates in Dubai.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "The MENA region is experiencing increased tensions due to ongoing conflicts and geopolitical maneuvers, with high oil prices providing a temporary economic buffer for Gulf states. However, the situation remains volatile, with potential flashpoints in Gaza, Lebanon, and Iran-Pakistan relations.",
   "keyTrends": [
-    "US-Iran relations",
-    "Regional trade",
-    "Economic updates"
+    "Gulf economic resilience",
+    "Israel-Gaza conflict",
+    "Iran-Pakistan cooperation"
   ],
   "watchItems": [
-    "Pakistan-Iran diplomacy",
-    "Dubai economic policies"
+    "Gaza ceasefire",
+    "US role in Lebanon war",
+    "Iranian foreign policy"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Geopolitical tensions",
-    "Economic uncertainty"
+    "regional instability",
+    "economic uncertainty"
   ]
 }
