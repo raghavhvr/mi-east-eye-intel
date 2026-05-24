@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-05-23T05:49:17.099Z",
+  "generated_at": "2026-05-24T06:12:50.269Z",
   "gdelt_tone": {
-    "UAE": -0.37,
-    "Saudi Arabia": -0.91,
-    "Qatar": -0.32,
-    "Kuwait": -0.35,
+    "UAE": -0.53,
+    "Saudi Arabia": -0.8,
+    "Qatar": -0.54,
+    "Kuwait": -0.51,
     "Bahrain": 1.03,
-    "Oman": 0.28,
-    "Jordan": -0.87,
-    "Lebanon": -4.13,
-    "Iraq": -2.92,
-    "Egypt": 0.3,
-    "Yemen": -2.82,
-    "Iran": -3.15
+    "Oman": 0.12,
+    "Jordan": -1.05,
+    "Lebanon": -4.25,
+    "Iraq": -3.08,
+    "Egypt": 0.27,
+    "Yemen": -2.63,
+    "Iran": -2.98
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 31,
-      "wind_kmh": 4,
+      "temp_c": 34,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 34,
-      "wind_kmh": 21,
+    "UAE": {
+      "temp_c": 33,
+      "wind_kmh": 14,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 30,
+      "temp_c": 34,
       "wind_kmh": 5,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "UAE": {
-      "temp_c": 33,
-      "wind_kmh": 15,
+    "Qatar": {
+      "temp_c": 37,
+      "wind_kmh": 20,
       "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Jordan": {
-      "temp_c": 19,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Amman"
+      "city": "Doha"
     },
     "Bahrain": {
-      "temp_c": 30,
-      "wind_kmh": 19,
+      "temp_c": 32,
+      "wind_kmh": 22,
       "condition": "Clear",
       "city": "Manama"
     },
     "Lebanon": {
-      "temp_c": 21,
-      "wind_kmh": 12,
+      "temp_c": 20,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
+    "Jordan": {
+      "temp_c": 20,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Oman": {
-      "temp_c": 39,
-      "wind_kmh": 8,
+      "temp_c": 37,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Iraq": {
+      "temp_c": 29,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 22,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
     "Iran": {
-      "temp_c": 23,
-      "wind_kmh": 9,
+      "temp_c": 25,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Tehran"
     },
-    "Iraq": {
-      "temp_c": 29,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 11,
+      "temp_c": 25,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Sanaa"
-    },
-    "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 1,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309364,
+    "KWD": 0.30926,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.920932,
-    "IQD": 1310.140059
+    "EGP": 52.921625,
+    "IQD": 1310.164072
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tly6yp",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tly6yp/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-05-24T01:30:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tlwt0o",
+        "title": "I hope to one day post that I won the Powerball or Mega Millions here.",
+        "summary": "I haven’t one a single thing since playing but I still play every now and again. mostly quick picks. My time coming. I don’t like to give up anyways",
+        "url": "https://reddit.com/r/Lottery/comments/1tlwt0o/i_hope_to_one_day_post_that_i_won_the_powerball/",
+        "timestamp": "2026-05-24T00:25:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tl3zok",
         "title": "$1 to $20 😁",
@@ -132,6 +162,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9z",
+        "title": "New summer lottery offers 2026 BMW X1 to fund second MRI at Bluewater Health",
+        "summary": "New summer lottery offers 2026 BMW X1 to fund second MRI at Bluewater Healthsarnianewstoday.ca",
+        "url": "https://sarnianewstoday.ca/sarnia/News/2026/05/22/new-summer-lottery-offers-2026-bmw-x1-to-fund-second-mri-at-bluewater-health",
+        "timestamp": "2026-05-22T19:45:41Z",
+        "source": "Sarnianewstoday.ca",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1tkqlw0",
         "title": "Compressed Mega Millions from 302M+ combinations into a 20M target zone - with 55% forward-test accuracy!",
         "summary": "Most people see randomness. We see search-space compression. 302,575,350 possible outcomes narrowed to \\~20M while maintaining a 55% forward hit rate. Now imagine 20M of us, each covering part of that remaining set of options. One of them c",
@@ -141,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,10 +201,25 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 0,
+        "score": 55,
+        "comments": 41,
         "mood": "HOPEFUL",
         "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Council CEO's £280k payout likened to a 'lottery win'",
+        "summary": "Christina Harrhy was originally set to receive £209,000 but Caerphilly Council's accounts show this has increased.",
+        "url": "https://www.bbc.com/news/articles/c78ke892mj8o",
+        "timestamp": "2026-05-22T13:18:03Z",
+        "source": "BBC News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
       },
       {
         "id": "reddit-lot-1tkc0jk",
@@ -171,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 16,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,7 +261,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -216,23 +276,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 4,
         "mood": "ANXIOUS",
         "isME": false
       },
       {
         "id": "reddit-lot-1tjv52t",
         "title": "Actual image of me, buying up all of the losing lotto tickets so that you all may prosper.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑45 · 💬4",
         "url": "https://reddit.com/r/Lottery/comments/1tjv52t/actual_image_of_me_buying_up_all_of_the_losing/",
         "timestamp": "2026-05-21T19:27:35.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 45,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -642,48 +702,18 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tf147x",
-        "title": "Why has nobody won the Lotto America jackpot in 2 years?",
-        "summary": "The tickets are cheaper and have better odds. So why does powerball, in comparison, have four winners this year alone?",
-        "url": "https://reddit.com/r/Lottery/comments/1tf147x/why_has_nobody_won_the_lotto_america_jackpot_in_2/",
-        "timestamp": "2026-05-16T18:10:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
+        "id": "hn-lot-48098047",
+        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
+        "summary": "3 pts · 0 comments",
+        "url": "https://www.messydata.app",
+        "timestamp": "2026-05-11T17:37:16.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tf0qxe",
-        "title": "Second Chance",
-        "summary": "Anyone won on the Second Chance lottery they have in Georgia? I've put in so many entries and even get the ones people throw away and enter lol, yet I've never won anything. How many people win in a drawing? Do they have a bunch of prizes o",
-        "url": "https://reddit.com/r/Lottery/comments/1tf0qxe/second_chance/",
-        "timestamp": "2026-05-16T17:57:12.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tf0qdp",
-        "title": "Just played a book of $20 Maryland lottery tickets",
-        "summary": "Is a $100 dollar win guaranteed in a book?  When I asked Google it said no so then I asked it about a $10 ticket and a $50 prize and it said no as  well which I know is a LIE. Thanks",
-        "url": "https://reddit.com/r/Lottery/comments/1tf0qdp/just_played_a_book_of_20_maryland_lottery_tickets/",
-        "timestamp": "2026-05-16T17:56:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 19,
-        "mood": "HOPEFUL",
+        "score": 3,
+        "comments": 0,
+        "mood": "NEUTRAL",
         "isME": false
       },
       {
@@ -700,35 +730,20 @@
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
-      },
-      {
-        "id": "guardian-lot-lifeandstyle-2026-apr-24-experience-ive-won-1m-on-the-lottery-twice",
-        "title": "Experience: I’ve won £1m on the lottery – twice",
-        "summary": "The chances of that happening? Over 24 trillion to one",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/apr/24/experience-ive-won-1m-on-the-lottery-twice",
-        "timestamp": "2026-04-24T04:00:29Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 41,
-      "meSignals": 2,
+      "totalSignals": 42,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 35,
+        "HOPEFUL": 34,
         "CYNICAL": 0,
         "ANXIOUS": 2,
-        "NEUTRAL": 4
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 15
+      "uncertaintyScore": 19
     }
   }
 }
