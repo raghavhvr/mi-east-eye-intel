@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-05-23T05:54:29.792Z",
+  "generated_at": "2026-05-24T06:23:04.971Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
   "topTheme": "MENA Regional Tensions",
-  "summary": "The MENA region is experiencing increased tensions due to ongoing conflicts and geopolitical maneuvers, with high oil prices providing a temporary economic buffer for Gulf states. However, the situation remains volatile, with potential flashpoints in Gaza, Lebanon, and Iran-Pakistan relations.",
+  "summary": "The MENA region is experiencing increased tensions due to ongoing conflicts and diplomatic efforts. Analysts are monitoring talks between Iran and Saudi Arabia, as well as recent violence in Gaza, for potential escalation or de-escalation trends.",
   "keyTrends": [
-    "Gulf economic resilience",
-    "Israel-Gaza conflict",
-    "Iran-Pakistan cooperation"
+    "Iran-Saudi Talks",
+    "Gaza Violence",
+    "US-MENA Diplomacy"
   ],
   "watchItems": [
-    "Gaza ceasefire",
-    "US role in Lebanon war",
-    "Iranian foreign policy"
+    "Iran-Saudi Relations",
+    "Israel-Palestine Conflict"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "regional instability",
-    "economic uncertainty"
+    "Regional Conflict",
+    "Diplomatic Efforts"
   ]
 }
