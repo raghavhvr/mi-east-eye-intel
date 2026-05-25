@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-24T06:23:04.971Z",
+  "generated_at": "2026-05-25T06:53:50.401Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "The MENA region is experiencing increased tensions due to ongoing conflicts and diplomatic efforts. Analysts are monitoring talks between Iran and Saudi Arabia, as well as recent violence in Gaza, for potential escalation or de-escalation trends.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Israel Lebanon Tensions",
+  "summary": "The Israeli army's order to evacuate 10 Lebanon villages ahead of strikes has heightened tensions in the region, with the Lebanese president renewing calls for a full Israeli withdrawal. The emerging Tehran-Washington framework, as reported by the Financial Times, may have implications for regional dynamics and conflict escalation",
   "keyTrends": [
-    "Iran-Saudi Talks",
-    "Gaza Violence",
-    "US-MENA Diplomacy"
+    "Israel-Lebanon Conflict",
+    "US-Iran Relations",
+    "Regional Escalation"
   ],
   "watchItems": [
-    "Iran-Saudi Relations",
-    "Israel-Palestine Conflict"
+    "Israeli strikes in Lebanon",
+    "Tehran-Washington framework developments"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Conflict",
-    "Diplomatic Efforts"
+    "Escalating violence",
+    "Uncertain diplomatic outcomes"
   ]
 }

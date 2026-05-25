@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T06:23:05.644Z",
+  "generated_at": "2026-05-25T06:53:51.050Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning big dreams",
+  "dominantNarrative": "Winning big jackpot",
   "keyEmotions": [
     "excitement",
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of taking risks, with some individuals exhibiting a gambler's fallacy mindset. The hope of winning large sums of money taps into people's emotional needs for security and status.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many individuals exhibiting a gambler's mindset, characterized by optimism and a disregard for probability. The posts also reveal a sense of frustration and regret among those who have not won, highlighting the emotional rollercoaster associated with gambling.",
   "riskSignals": [
-    "problem gambling",
-    "financial loss"
+    "financial loss",
+    "addiction"
   ],
   "opportunitySignals": [
     "innovative lottery products",
-    "community engagement"
+    "strategic number selection"
   ]
 }
