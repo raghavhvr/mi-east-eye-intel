@@ -1,106 +1,166 @@
 {
-  "generated_at": "2026-05-24T06:12:50.269Z",
+  "generated_at": "2026-05-25T06:48:54.822Z",
   "gdelt_tone": {
-    "UAE": -0.53,
+    "UAE": -0.54,
     "Saudi Arabia": -0.8,
-    "Qatar": -0.54,
-    "Kuwait": -0.51,
-    "Bahrain": 1.03,
-    "Oman": 0.12,
-    "Jordan": -1.05,
-    "Lebanon": -4.25,
+    "Qatar": -0.58,
+    "Kuwait": -0.43,
+    "Bahrain": 1.22,
+    "Oman": 0.17,
+    "Jordan": -0.89,
+    "Lebanon": -4.1,
     "Iraq": -3.08,
-    "Egypt": 0.27,
-    "Yemen": -2.63,
-    "Iran": -2.98
+    "Egypt": 0.31,
+    "Yemen": -2.64,
+    "Iran": -2.73
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 34,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 33,
-      "wind_kmh": 14,
+      "temp_c": 36,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Saudi Arabia": {
+      "temp_c": 37,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "Kuwait": {
-      "temp_c": 34,
-      "wind_kmh": 5,
+      "temp_c": 33,
+      "wind_kmh": 21,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 37,
-      "wind_kmh": 20,
+      "temp_c": 38,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Doha"
     },
     "Bahrain": {
       "temp_c": 32,
-      "wind_kmh": 22,
+      "wind_kmh": 18,
       "condition": "Clear",
       "city": "Manama"
     },
+    "Oman": {
+      "temp_c": 38,
+      "wind_kmh": 9,
+      "condition": "Thunderstorm",
+      "city": "Muscat"
+    },
     "Lebanon": {
-      "temp_c": 20,
-      "wind_kmh": 14,
+      "temp_c": 21,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 20,
-      "wind_kmh": 15,
+      "temp_c": 21,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Oman": {
-      "temp_c": 37,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Iraq": {
-      "temp_c": 29,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
+      "temp_c": 30,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 22,
-      "wind_kmh": 5,
-      "condition": "Clear",
+      "temp_c": 23,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 25,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Tehran"
     },
     "Yemen": {
       "temp_c": 25,
-      "wind_kmh": 15,
-      "condition": "Clear",
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 28,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30926,
+    "KWD": 0.308592,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.921625,
-    "IQD": 1310.164072
+    "EGP": 52.949636,
+    "IQD": 1310.934403
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tmtg2w",
+        "title": "PowerballWiz: Simple curiosity + realism score",
+        "summary": "I posted about this app earlier, but I’ve been building a Powerball analysis app mostly as a side project to explore historical draw behavior. One feature I added recently rates generated picks on: * historical similarity * frequency profil",
+        "url": "https://reddit.com/r/Lottery/comments/1tmtg2w/powerballwiz_simple_curiosity_realism_score/",
+        "timestamp": "2026-05-25T00:43:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tmf0bp",
+        "title": "I spent $500 with $20 spin. Should I keep chasing jackpot??",
+        "summary": "Progressive coming up and didn't win a dime😢   Keeping spin but no jackpot .",
+        "url": "https://reddit.com/r/Lottery/comments/1tmf0bp/i_spent_500_with_20_spin_should_i_keep_chasing/",
+        "timestamp": "2026-05-24T15:18:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tm4rk6",
+        "title": "I analyzed the omission counts of the last 50 Powerball draws. Here are the most \"overdue\" numbers right now.",
+        "summary": "I'm a bit of a data nerd and got tired of looking at plain text results, so I mapped out a trend matrix for the last 50 draws to see what's actually hot and what's completely frozen. Here is what the data shows for tonight's draw: 🔥 **Curr",
+        "url": "https://reddit.com/r/Lottery/comments/1tm4rk6/i_analyzed_the_omission_counts_of_the_last_50/",
+        "timestamp": "2026-05-24T07:00:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "The Bob Moog Foundation’s Minimoog raffle",
+        "summary": "The Bob Moog Foundation are currently running a fundraising raffle for a brand-new Bob Moog Tribute Edition Minimoog Model D (serial number 001), valued at $3999.",
+        "url": "https://www.soundonsound.com/news/bob-moog-foundations-minimoog-raffle",
+        "timestamp": "2026-05-24T06:30:00Z",
+        "source": "Soundonsound.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tly6yp",
         "title": "Powerball Winning Numbers (Saturday)",
@@ -141,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 22,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 15,
+        "comments": 8,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -190,21 +250,6 @@
         "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1tkl0ac",
-        "title": "How statistically possible is it for the same person to win two major Snoonu raffles?",
-        "summary": "I recently noticed that the same person apparently won two separate major Snoonu prize campaigns in Qatar. One was a 2 million QAR prize, and another was a 1 million QAR prize from the newer campaign. I know unlikely things can happen stati",
-        "url": "https://reddit.com/r/qatar/comments/1tkl0ac/how_statistically_possible_is_it_for_the_same/",
-        "timestamp": "2026-05-22T14:41:52.000Z",
-        "source": "r/qatar",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 55,
-        "comments": 41,
-        "mood": "HOPEFUL",
-        "isME": true
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
@@ -627,96 +672,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tg66xz",
-        "title": "Made an IceMan strategy page for Drake fans 🧊",
-        "summary": "Drake just dropped IceMan — and Cold Numbers (the most overdue lottery numbers) felt like the obvious tie-in. Numbers that have been frozen out for 20+ draws, statistically due to hit. Built a free tool for it: [pickdaddyai.com/iceman](http",
-        "url": "https://reddit.com/r/Lottery/comments/1tg66xz/made_an_iceman_strategy_page_for_drake_fans/",
-        "timestamp": "2026-05-18T00:05:12.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tfdsfd",
-        "title": "Ohio Lottery and Cash Explosion questions",
-        "summary": "So I'm making a largely financially inappropriate decision to buy a metric fuck ton on Cash Explosion tickets when I go through Ohio on my road trip for a slim if any chance to try and get on the game show. Some questions for you Ohioans: C",
-        "url": "https://reddit.com/r/Lottery/comments/1tfdsfd/ohio_lottery_and_cash_explosion_questions/",
-        "timestamp": "2026-05-17T03:19:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tfbise",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑2 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1tfbise/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-05-17T01:30:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tfb6zi",
-        "title": "Quick pick vs picking your own numbers — which actually wins more? 🤔",
-        "summary": "Been playing Powerball for a while now and I always pick my own numbers — birthdays, patterns, numbers that \"feel right\" 😂 But statistically quick pick wins more jackpots apparently because more people use it. So is there actually any poin",
-        "url": "https://reddit.com/r/Lottery/comments/1tfb6zi/quick_pick_vs_picking_your_own_numbers_which/",
-        "timestamp": "2026-05-17T01:14:40.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 9,
-        "comments": 20,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tfatfq",
-        "title": "Powerball drawing TONIGHT — $86 Million jackpot! Who's playing? 🎰",
-        "summary": "Draw is tonight at 10:59pm ET and the jackpot is at $86 MILLION 👀 Cash option is $37.8M — still life changing money. No winner last draw so it keeps rolling! Posting my numbers: 7, 14, 23, 38, 52 PB: 11 — fingers crossed 🤞 Drop your numbe",
-        "url": "https://reddit.com/r/Lottery/comments/1tfatfq/powerball_drawing_tonight_86_million_jackpot_whos/",
-        "timestamp": "2026-05-17T00:56:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-48098047",
-        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
-        "summary": "3 pts · 0 comments",
-        "url": "https://www.messydata.app",
-        "timestamp": "2026-05-11T17:37:16.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
         "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
         "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
@@ -733,17 +688,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 42,
-      "meSignals": 3,
+      "totalSignals": 39,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 34,
+        "HOPEFUL": 32,
         "CYNICAL": 0,
         "ANXIOUS": 2,
-        "NEUTRAL": 6
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 19
+      "uncertaintyScore": 18
     }
   }
 }
