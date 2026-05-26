@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-25T06:53:50.401Z",
+  "generated_at": "2026-05-26T06:32:41.497Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "Israel Lebanon Tensions",
-  "summary": "The Israeli army's order to evacuate 10 Lebanon villages ahead of strikes has heightened tensions in the region, with the Lebanese president renewing calls for a full Israeli withdrawal. The emerging Tehran-Washington framework, as reported by the Financial Times, may have implications for regional dynamics and conflict escalation",
+  "topTheme": "Middle East Conflict",
+  "summary": "The region is experiencing increased tensions due to recent strikes and military posturing between the US, Iran, and Israel. This escalation has the potential to draw in other countries and further destabilize the area.",
   "keyTrends": [
-    "Israel-Lebanon Conflict",
-    "US-Iran Relations",
-    "Regional Escalation"
+    "US-Iran Conflict",
+    "Israel-Lebanon Tensions",
+    "Regional Instability"
   ],
   "watchItems": [
-    "Israeli strikes in Lebanon",
-    "Tehran-Washington framework developments"
+    "Iranian Military Movements",
+    "Israeli Strikes in Lebanon"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Escalating violence",
-    "Uncertain diplomatic outcomes"
+    "Escalating Violence",
+    "Regional Uncertainty"
   ]
 }

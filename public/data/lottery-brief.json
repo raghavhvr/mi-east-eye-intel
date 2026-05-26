@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-25T06:53:51.050Z",
+  "generated_at": "2026-05-26T06:32:42.214Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning big jackpot",
+  "dominantNarrative": "Winning big dreams",
   "keyEmotions": [
     "excitement",
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with many individuals exhibiting a gambler's mindset, characterized by optimism and a disregard for probability. The posts also reveal a sense of frustration and regret among those who have not won, highlighting the emotional rollercoaster associated with gambling.",
+  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with many fueled by fantasies of wealth and freedom. The lottery's unpredictability creates a sense of hope and anticipation, leading some to take risks and invest emotionally and financially.",
   "riskSignals": [
-    "financial loss",
-    "addiction"
+    "overspending",
+    "unclaimed jackpots"
   ],
   "opportunitySignals": [
-    "innovative lottery products",
-    "strategic number selection"
+    "international participation",
+    "local lottery alternatives"
   ]
 }
