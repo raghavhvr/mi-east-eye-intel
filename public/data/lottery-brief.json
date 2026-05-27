@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T06:32:42.214Z",
+  "generated_at": "2026-05-27T06:47:26.159Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big dreams",
+  "dominantNarrative": "Winning is possible",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "frustration"
+    "anxiety"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with many fueled by fantasies of wealth and freedom. The lottery's unpredictability creates a sense of hope and anticipation, leading some to take risks and invest emotionally and financially.",
+  "psychInsight": "The public is driven by the thrill of potentially winning, with many exhibiting optimistic biases, while others are cautious due to past experiences. The desire for a life-changing win fuels their engagement with lotteries and gambling activities.",
   "riskSignals": [
     "overspending",
-    "unclaimed jackpots"
+    "unclaimed wins"
   ],
   "opportunitySignals": [
-    "international participation",
-    "local lottery alternatives"
+    "growing interest",
+    "international participation"
   ]
 }

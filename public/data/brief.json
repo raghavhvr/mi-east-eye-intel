@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-26T06:32:41.497Z",
+  "generated_at": "2026-05-27T06:47:25.556Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Middle East Conflict",
-  "summary": "The region is experiencing increased tensions due to recent strikes and military posturing between the US, Iran, and Israel. This escalation has the potential to draw in other countries and further destabilize the area.",
+  "threatLevel": "LOW",
+  "topTheme": "Eid Celebrations",
+  "summary": "The region is preparing for Eid al-Adha with various activities and preparations, while some concerns about safety and livelihoods are also being expressed. Overall, the tone is festive but with some underlying anxieties about daily life and economic conditions.",
   "keyTrends": [
-    "US-Iran Conflict",
-    "Israel-Lebanon Tensions",
-    "Regional Instability"
+    "Eid Preparations",
+    "Regional Travel",
+    "Consumer Services"
   ],
   "watchItems": [
-    "Iranian Military Movements",
-    "Israeli Strikes in Lebanon"
+    "Gaza Livelihoods",
+    "Regional Traffic Safety"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating Violence",
-    "Regional Uncertainty"
+    "Economic Concerns",
+    "Festive Spirit"
   ]
 }
