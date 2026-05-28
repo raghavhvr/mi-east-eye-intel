@@ -1,25 +1,49 @@
 {
-  "generated_at": "2026-05-27T06:42:03.839Z",
+  "generated_at": "2026-05-28T06:34:24.635Z",
   "gdelt_tone": {
-    "UAE": -0.44,
-    "Saudi Arabia": -0.2,
-    "Qatar": -0.65,
-    "Kuwait": 0.59,
-    "Bahrain": 1.01,
-    "Oman": -0.13,
-    "Jordan": -0.76,
-    "Lebanon": -3.91,
-    "Iraq": -2.78,
-    "Egypt": 0.22,
-    "Yemen": -1.74,
-    "Iran": -2.34
+    "UAE": -0.55,
+    "Saudi Arabia": -0.3,
+    "Qatar": -0.61,
+    "Kuwait": 0.3,
+    "Bahrain": 0.91,
+    "Oman": -0.7,
+    "Jordan": -0.83,
+    "Lebanon": -4.04,
+    "Iraq": -2.7,
+    "Egypt": 0.04,
+    "Yemen": -1.57,
+    "Iran": -2.32
   },
   "weather": {
     "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
+      "temp_c": 37,
+      "wind_kmh": 11,
+      "condition": "Clear",
       "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 38,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Bahrain": {
+      "temp_c": 35,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Qatar": {
+      "temp_c": 41,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Doha"
     },
     "Oman": {
       "temp_c": 43,
@@ -27,68 +51,131 @@
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
-      "temp_c": 23,
-      "wind_kmh": 6,
+      "temp_c": 22,
+      "wind_kmh": 21,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
+    "Jordan": {
+      "temp_c": 19,
+      "wind_kmh": 16,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Egypt": {
-      "temp_c": 22,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "temp_c": 24,
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 11,
+    "Iraq": {
+      "temp_c": 36,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Baghdad"
     },
     "Iran": {
-      "temp_c": 26,
-      "wind_kmh": 14,
+      "temp_c": 28,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 25,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30931,
+    "KWD": 0.308853,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.247003,
-    "IQD": 1310.619941
+    "EGP": 52.224102,
+    "IQD": 1308.818232
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tpsdan",
+        "title": "Ran tonight's numbers (5-14-21-31-51, PB 13) through our simulator while waiting for the official pending results...",
+        "summary": "the \"Results Pending\" screen waiting to see if the $154M jackpot rolled over, my buddy and I decided to run tonight’s winning combination through the historical combinatorics simulator we’ve been coding. Interestingly, tonight’s combination",
+        "url": "https://reddit.com/r/Lottery/comments/1tpsdan/ran_tonights_numbers_514213151_pb_13_through_our/",
+        "timestamp": "2026-05-28T03:57:41.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tpn0zv",
+        "title": "Mega vs Powerball",
+        "summary": "I always play once it gets high.  Do you spend your money on 1 Mega currently at $331 million dollars or do you spend your money on 2 Powerball tickets currently at $154 million ?  Super lottery is currently at $23 million  When Mega Millio",
+        "url": "https://reddit.com/r/Lottery/comments/1tpn0zv/mega_vs_powerball/",
+        "timestamp": "2026-05-27T23:59:15.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tpmaua",
+        "title": "I ran the math on 2,745 scratch-offs in 41 states",
+        "summary": "I have been playing scratch off games for quite some time now. I have always been fascinated by math, and after watching *Jerry and Marge Go Large* (the true story of a retired guy who found a loophole in a lottery game and legally made mil",
+        "url": "https://reddit.com/r/Lottery/comments/1tpmaua/i_ran_the_math_on_2745_scratchoffs_in_41_states/",
+        "timestamp": "2026-05-27T23:28:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tpc36m",
+        "title": "Mega Millions - a repeat of the Powerball anomaly that happened a month or two ago?",
+        "summary": "While nobody won the jackpot, Mega Millions had a statistically large number of winners, particular in the match 3 and 4 balls. I checked the Michigan betslip but I didn't see any pattern with the numbers 1, 5, 49, 51, or 59 (mega ball 7). ",
+        "url": "https://reddit.com/r/Lottery/comments/1tpc36m/mega_millions_a_repeat_of_the_powerball_anomaly/",
+        "timestamp": "2026-05-27T17:16:35.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tpamut",
+        "title": "I built a lottery number generator app (Powerball / Mega Millions)",
+        "summary": "Hi, I built a lottery number generator app. It's called LottoLab. It’s mostly designed for fun and for people who like generating numbers using different theories and filters. \\* frequency-based number generation \\* duplicate avoidance from",
+        "url": "https://reddit.com/r/Lottery/comments/1tpamut/i_built_a_lottery_number_generator_app_powerball/",
+        "timestamp": "2026-05-27T16:26:20.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tonr1f",
         "title": "I’m getting closer to winning the Powerball. Don’t ignore the signs. My time is coming.",
@@ -129,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -144,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -174,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 17,
+        "comments": 16,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -525,21 +612,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tjoabt",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1tjoabt/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-05-21T15:38:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
         "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
         "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
@@ -568,110 +640,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1tj3hwk",
-        "title": "Powerball tonight $113M — what numbers are you playing?",
-        "summary": "Monday's draw was 4, 13, 34, 61, 65 + PB 12. No jackpot winner but someone in Virginia hit the $2M Match 5 + Power Play prize! Tonight's $113M draw is looking interesting — last draw skewed high again (61, 65), so I'm watching some lower nu",
-        "url": "https://reddit.com/r/Lottery/comments/1tj3hwk/powerball_tonight_113m_what_numbers_are_you/",
-        "timestamp": "2026-05-20T23:57:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tizyrb",
-        "title": "What to do with unexpected windfall of $600?",
-        "summary": "I came into an unexpected windfall of $600. I consider it play money. My wife and I were playing with the idea of just putting it all in lotto tickets but we don’t know much about the lottery. Any suggestions? Should I just buy a bunch of P",
-        "url": "https://reddit.com/r/Lottery/comments/1tizyrb/what_to_do_with_unexpected_windfall_of_600/",
-        "timestamp": "2026-05-20T21:38:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 13,
-        "comments": 20,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "$46-million lottery prize remains unclaimed: Manitoba ticket wins Lotto 6/49 Gold Ball jackpot - How long does the winner have to claim?",
-        "summary": "Canada celebrated new lottery millionaires this past Victoria Day long weekend. A single player in Manitoba won a massive $46 million Lotto 6/49 jackpot. This prize remains unclaimed. Additionally, two tickets won $2.5 million each in the Classic Draw. Other …",
-        "url": "https://economictimes.indiatimes.com/news/international/canada/46-million-lottery-prize-remains-unclaimed-manitoba-ticket-wins-lotto-6/49-gold-ball-jackpot-how-long-does-the-winner-have-to-claim/articleshow/131217131.cms",
-        "timestamp": "2026-05-20T05:21:43Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9u",
-        "title": "The Victor Wembanyama factor that delivered Knicks rare NBA lottery win",
-        "summary": "You don’t always have to actually win the NBA lottery to look back at past lotteries and realize it could have been worse. The poor Nets toppling to the No. 6 pick after tanking two years is a reminder of how inexact a strategy that was even before the league…",
-        "url": "https://nypost.com/2026/05/19/sports/the-victor-wembanyama-factor-that-delivered-knicks-rare-nba-lottery-win/",
-        "timestamp": "2026-05-19T23:34:56Z",
-        "source": "New York Post",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "NBA mock draft 2026 showcases some intriguing looming decisions",
-        "summary": "The 2026 NBA Draft has some of the most impressive one-and-done prospects in recent memory and lottery teams will have plenty of talent to pick from.",
-        "url": "https://www.usatoday.com/story/sports/nba/draft/2026/05/19/nba-mock-draft-combine-results-early-entry-withdrawal-deadline/90145895007/",
-        "timestamp": "2026-05-19T17:53:28Z",
-        "source": "USA Today",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "guardian-lot-uk-news-2026-apr-26-families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
-        "title": "Families of domestic abuse victims driven to suicide criticise ‘postcode lottery’ of coroner’s courts",
-        "summary": "Individual coroners decide scope of evidence considered, which campaigners say leads to inconsistencies",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/26/families-of-domestic-abuse-victims-driven-to-suicide-criticise-postcode-lottery-of-coroners-courts",
-        "timestamp": "2026-04-27T13:39:47Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 38,
+      "totalSignals": 36,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 27,
         "CYNICAL": 0,
-        "ANXIOUS": 4,
-        "NEUTRAL": 6
+        "ANXIOUS": 5,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 26
+      "uncertaintyScore": 25
     }
   }
 }
