@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T06:47:26.159Z",
+  "generated_at": "2026-05-28T06:38:31.464Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning is possible",
+  "dominantNarrative": "Winning big someday",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "anxiety"
+    "frustration"
   ],
-  "psychInsight": "The public is driven by the thrill of potentially winning, with many exhibiting optimistic biases, while others are cautious due to past experiences. The desire for a life-changing win fuels their engagement with lotteries and gambling activities.",
+  "psychInsight": "The public's hopeful mood is driven by the allure of life-changing winnings, with many individuals exhibiting a strong optimism bias, believing their chances of winning are higher than reality. This mindset is fueled by the occasional big win, which reinforces the perception that success is within reach.",
   "riskSignals": [
-    "overspending",
-    "unclaimed wins"
+    "unclaimed jackpots",
+    "misunderstanding rules"
   ],
   "opportunitySignals": [
-    "growing interest",
-    "international participation"
+    "growing interest in lotteries",
+    "demand for strategy tools"
   ]
 }
