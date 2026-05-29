@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-28T06:38:30.793Z",
+  "generated_at": "2026-05-29T06:40:41.690Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Iran US Tensions",
-  "summary": "Regional tensions persist due to ongoing Iran-US asset disputes and EU concerns over conflict escalation. Analysts remain cautious as diplomatic efforts continue to prevent further escalation in the Middle East",
+  "threatLevel": "LOW",
+  "topTheme": "Regional News",
+  "summary": "The open-source headlines indicate a mix of regional news and personal concerns, with no major security threats emerging. The overall tone suggests a sense of normalcy, with some anxiety and frustration expressed in personal matters.",
   "keyTrends": [
-    "Iran-US Relations",
-    "EU Diplomacy",
-    "Regional Security"
+    "Regional Elections",
+    "Personal Struggles",
+    "Health Concerns"
   ],
   "watchItems": [
-    "Iranian Asset Release",
-    "EU Diplomatic Efforts"
+    "Ethiopia Elections",
+    "Ebola in DRC"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Geopolitical Uncertainty",
-    "Economic Sanctions"
+    "Uncertainty",
+    "Frustration"
   ]
 }

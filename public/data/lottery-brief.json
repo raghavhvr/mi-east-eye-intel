@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T06:38:31.464Z",
+  "generated_at": "2026-05-29T06:40:42.439Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big someday",
+  "dominantNarrative": "Winning big jackpot",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "frustration"
+    "anticipation"
   ],
-  "psychInsight": "The public's hopeful mood is driven by the allure of life-changing winnings, with many individuals exhibiting a strong optimism bias, believing their chances of winning are higher than reality. This mindset is fueled by the occasional big win, which reinforces the perception that success is within reach.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount, with many individuals exhibiting a gambler's mindset characterized by optimism and a disregard for probability. The online discussions and sharing of strategies also indicate a sense of community and social bonding among lottery enthusiasts.",
   "riskSignals": [
-    "unclaimed jackpots",
-    "misunderstanding rules"
+    "problem gambling",
+    "financial irresponsibility"
   ],
   "opportunitySignals": [
-    "growing interest in lotteries",
-    "demand for strategy tools"
+    "increased engagement",
+    "lottery app development"
   ]
 }
