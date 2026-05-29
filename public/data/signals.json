@@ -1,106 +1,121 @@
 {
-  "generated_at": "2026-05-28T06:34:24.635Z",
+  "generated_at": "2026-05-29T06:35:12.857Z",
   "gdelt_tone": {
-    "UAE": -0.55,
-    "Saudi Arabia": -0.3,
-    "Qatar": -0.61,
-    "Kuwait": 0.3,
-    "Bahrain": 0.91,
-    "Oman": -0.7,
-    "Jordan": -0.83,
-    "Lebanon": -4.04,
-    "Iraq": -2.7,
-    "Egypt": 0.04,
-    "Yemen": -1.57,
-    "Iran": -2.32
+    "UAE": -0.92,
+    "Saudi Arabia": -0.37,
+    "Qatar": -0.72,
+    "Kuwait": -2.03,
+    "Bahrain": 0.78,
+    "Oman": -1.69,
+    "Jordan": -1.19,
+    "Lebanon": -4.25,
+    "Iraq": -2.74,
+    "Egypt": -0.28,
+    "Yemen": -1.58,
+    "Iran": -2.4
   },
   "weather": {
-    "UAE": {
-      "temp_c": 37,
-      "wind_kmh": 11,
+    "Qatar": {
+      "temp_c": 42,
+      "wind_kmh": 9,
       "condition": "Clear",
-      "city": "Abu Dhabi"
+      "city": "Doha"
     },
     "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 8,
+      "temp_c": 41,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Bahrain": {
-      "temp_c": 35,
+      "temp_c": 38,
       "wind_kmh": 13,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 11,
+    "Kuwait": {
+      "temp_c": 43,
+      "wind_kmh": 12,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Kuwait City"
     },
     "Oman": {
-      "temp_c": 43,
-      "wind_kmh": 15,
+      "temp_c": 45,
+      "wind_kmh": 18,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "UAE": {
+      "temp_c": 38,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Lebanon": {
       "temp_c": 22,
-      "wind_kmh": 21,
+      "wind_kmh": 25,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 19,
-      "wind_kmh": 16,
+      "temp_c": 20,
+      "wind_kmh": 17,
       "condition": "Clear",
       "city": "Amman"
     },
     "Egypt": {
-      "temp_c": 24,
-      "wind_kmh": 3,
+      "temp_c": 25,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 36,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Iran": {
-      "temp_c": 28,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Tehran"
     },
     "Yemen": {
       "temp_c": 25,
       "wind_kmh": 7,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iraq": {
+      "temp_c": 30,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Iran": {
+      "temp_c": 33,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308853,
+    "KWD": 0.309143,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.224102,
-    "IQD": 1308.818232
+    "EGP": 52.213516,
+    "IQD": 1308.802208
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tq770o",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1tq770o/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-05-28T15:38:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tpsdan",
         "title": "Ran tonight's numbers (5-14-21-31-51, PB 13) through our simulator while waiting for the official pending results...",
@@ -112,6 +127,21 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball jackpot reaches 154 million for Wednesday",
+        "summary": "The Powerball jackpot is now 154 million for Wednesday. Here is how to play and what the odds are for winning.",
+        "url": "https://www.usatoday.com/story/money/lottery/2026/05/27/powerball-jackpot-wednesday-may-27-drawing/90285385007/",
+        "timestamp": "2026-05-28T01:15:35Z",
+        "source": "USA Today",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -171,7 +201,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Lawrencetown, N.S. resident wins Trucks for Ducks grand prize, driving support for Ducks Unlimited Canada’s wetland conservation",
+        "summary": "HALIFAX, Nova Scotia, May 27, 2026 (GLOBE NEWSWIRE) -- Ducks Unlimited Canada (DUC) and MacGillivray Injury and Insurance Law have announced Michael McGuire of Lawrencetown, Nova Scotia as the grand prize winner of its second Trucks for Ducks sweepstakes, tak…",
+        "url": "https://www.globenewswire.com/news-release/2026/05/27/3301819/0/en/Lawrencetown-N-S-resident-wins-Trucks-for-Ducks-grand-prize-driving-support-for-Ducks-Unlimited-Canada-s-wetland-conservation.html",
+        "timestamp": "2026-05-27T11:30:00Z",
+        "source": "GlobeNewswire",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -186,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 42,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 3,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -477,21 +522,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tkzjp2",
-        "title": "alright $296M tonight, who's in? 🎱",
-        "summary": "grabbed my ticket, now just gotta wait til 11pm ET lol $296M jackpot (\\~$128M cash). nobody hit it tuesday so here we are again 🙃 last numbers were 10 · 26 · 34 · 56 · 64 + MB 6 in case anyone's curious anyway — serious question. if you ac",
-        "url": "https://reddit.com/r/Lottery/comments/1tkzjp2/alright_296m_tonight_whos_in/",
-        "timestamp": "2026-05-22T23:28:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 15,
-        "comments": 8,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9z",
         "title": "New summer lottery offers 2026 BMW X1 to fund second MRI at Bluewater Health",
         "summary": "New summer lottery offers 2026 BMW X1 to fund second MRI at Bluewater Healthsarnianewstoday.ca",
@@ -507,21 +537,6 @@
         "isME": true
       },
       {
-        "id": "reddit-lot-1tkqlw0",
-        "title": "Compressed Mega Millions from 302M+ combinations into a 20M target zone - with 55% forward-test accuracy!",
-        "summary": "Most people see randomness. We see search-space compression. 302,575,350 possible outcomes narrowed to \\~20M while maintaining a 55% forward hit rate. Now imagine 20M of us, each covering part of that remaining set of options. One of them c",
-        "url": "https://reddit.com/r/Lottery/comments/1tkqlw0/compressed_mega_millions_from_302m_combinations/",
-        "timestamp": "2026-05-22T17:57:01.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Council CEO's £280k payout likened to a 'lottery win'",
         "summary": "Christina Harrhy was originally set to receive £209,000 but Caerphilly Council's accounts show this has increased.",
@@ -533,81 +548,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tkc0jk",
-        "title": "My first GaLottery app win!",
-        "summary": "Does anyone else play the app?",
-        "url": "https://reddit.com/r/Lottery/comments/1tkc0jk/my_first_galottery_app_win/",
-        "timestamp": "2026-05-22T07:47:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 16,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tk5et1",
-        "title": "I tested 6 different lottery number strategies for 90 days. Here's what actually happened.",
-        "summary": "Started this as a personal experiment. Picked 6 strategies and ran them in rotation for 90 days across NY Take 5 and Powerball. **Hot Numbers** — matched 3/5 four times. Best performer.   **Cold Numbers** — matched 3/5 twice. Slower but had",
-        "url": "https://reddit.com/r/Lottery/comments/1tk5et1/i_tested_6_different_lottery_number_strategies/",
-        "timestamp": "2026-05-22T02:17:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tk0plf",
-        "title": "Lottery",
-        "summary": "Hey so stop pissing your money away on the state lottery, start playing on stake.us. the house edge on the fun games like keno and plinko etc. is literally less than 1 percent. Not like state lottery and their 40%. I won't post a referral c",
-        "url": "https://reddit.com/r/Lottery/comments/1tk0plf/lottery/",
-        "timestamp": "2026-05-21T22:53:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tjwec7",
-        "title": "Switched my gambling money to Stake.us, cant believe I pissed so much money away on the state lottery",
-        "summary": "Keno on stake was the only thing I needed to see how hard the state lottery screws you over. A 3 spot keno ticket here in Ohio pays 27 to 1, a 3 spot on stake.us pays 83 to 1. A 4 spot in Ohio pays $72 bucks for a dollar, a 4 spot on stake ",
-        "url": "https://reddit.com/r/Lottery/comments/1tjwec7/switched_my_gambling_money_to_stakeus_cant/",
-        "timestamp": "2026-05-21T20:10:50.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 4,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tjv52t",
-        "title": "Actual image of me, buying up all of the losing lotto tickets so that you all may prosper.",
-        "summary": "↑45 · 💬4",
-        "url": "https://reddit.com/r/Lottery/comments/1tjv52t/actual_image_of_me_buying_up_all_of_the_losing/",
-        "timestamp": "2026-05-21T19:27:35.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 45,
-        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -627,33 +567,33 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cDovL2Nv",
-        "title": "Cartoon Network Animator Reveals The Reboot That Never Was",
-        "summary": "Warner Bros\n\nRevivals are a big ticket item for Cartoon Network these days, as the likes of Regular Show: The Lost Tapes and Adventure Time: Side Quests are both bringing back major animated franchises. With Mordecai, Rigby, Finn, and Jake making comebacks, a…",
-        "url": "http://comicbook.com/anime/news/cartoon-network-animator-reveals-the-reboot-that-never-was/",
-        "timestamp": "2026-05-21T14:28:47Z",
-        "source": "ComicBook.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
+        "id": "hn-lot-48098047",
+        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
+        "summary": "3 pts · 0 comments",
+        "url": "https://www.messydata.app",
+        "timestamp": "2026-05-11T17:37:16.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
+        "mood": "NEUTRAL",
+        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 36,
-      "meSignals": 2,
+      "totalSignals": 32,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 27,
+        "HOPEFUL": 25,
         "CYNICAL": 0,
-        "ANXIOUS": 5,
+        "ANXIOUS": 3,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 25
+      "uncertaintyScore": 22
     }
   }
 }
