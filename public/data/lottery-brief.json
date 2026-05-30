@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T06:40:42.439Z",
+  "generated_at": "2026-05-30T06:02:33.828Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big jackpot",
+  "dominantNarrative": "Winning big changes lives",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "anticipation"
+    "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount, with many individuals exhibiting a gambler's mindset characterized by optimism and a disregard for probability. The online discussions and sharing of strategies also indicate a sense of community and social bonding among lottery enthusiasts.",
+  "psychInsight": "The prospect of winning drives emotional investment, while the uncertainty of outcomes fuels frustration and anxiety. The desire for life-changing wins taps into fundamental human motivations for financial security and freedom.",
   "riskSignals": [
     "problem gambling",
-    "financial irresponsibility"
+    "financial recklessness"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "lottery app development"
+    "innovative apps",
+    "conservation support"
   ]
 }
