@@ -1,106 +1,211 @@
 {
-  "generated_at": "2026-05-29T06:35:12.857Z",
+  "generated_at": "2026-05-30T05:57:56.388Z",
   "gdelt_tone": {
-    "UAE": -0.92,
-    "Saudi Arabia": -0.37,
-    "Qatar": -0.72,
-    "Kuwait": -2.03,
-    "Bahrain": 0.78,
-    "Oman": -1.69,
-    "Jordan": -1.19,
-    "Lebanon": -4.25,
-    "Iraq": -2.74,
-    "Egypt": -0.28,
-    "Yemen": -1.58,
-    "Iran": -2.4
+    "UAE": -1.1,
+    "Saudi Arabia": -0.32,
+    "Qatar": -0.75,
+    "Kuwait": -2.54,
+    "Bahrain": 0.62,
+    "Oman": -1.85,
+    "Jordan": -1.08,
+    "Lebanon": -4.21,
+    "Iraq": -2.79,
+    "Egypt": -0.47,
+    "Yemen": -1.7,
+    "Iran": -2.36
   },
   "weather": {
-    "Qatar": {
-      "temp_c": 42,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Saudi Arabia": {
-      "temp_c": 41,
-      "wind_kmh": 11,
+      "temp_c": 32,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Bahrain": {
-      "temp_c": 38,
-      "wind_kmh": 13,
+    "Qatar": {
+      "temp_c": 39,
+      "wind_kmh": 7,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 43,
-      "wind_kmh": 12,
+      "temp_c": 31,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Oman": {
-      "temp_c": 45,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 8,
+      "temp_c": 37,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Bahrain": {
+      "temp_c": 32,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 43,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
     "Lebanon": {
-      "temp_c": 22,
-      "wind_kmh": 25,
-      "condition": "Partly Cloudy",
+      "temp_c": 23,
+      "wind_kmh": 16,
+      "condition": "Clear",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 20,
-      "wind_kmh": 17,
-      "condition": "Clear",
+      "temp_c": 19,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
       "city": "Amman"
     },
     "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 5,
-      "condition": "Clear",
+      "temp_c": 21,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 25,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
     "Iraq": {
-      "temp_c": 30,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
+      "temp_c": 29,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Baghdad"
     },
     "Iran": {
-      "temp_c": 33,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
+      "temp_c": 30,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309143,
+    "KWD": 0.30927,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.213516,
-    "IQD": 1308.802208
+    "EGP": 52.221143,
+    "IQD": 1308.904417
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1trli14",
+        "title": "Someone just submitted a Eurojackpot win from Czech Republic using our app — pretty cool to see",
+        "summary": "Built PickDaddyAI a few months ago — AI lottery number generator for 100+ games worldwide. Just had our first submission from Czech Republic, a Eurojackpot player using our Balanced Mix strategy. We have a winners wall where players submit ",
+        "url": "https://reddit.com/r/Lottery/comments/1trli14/someone_just_submitted_a_eurojackpot_win_from/",
+        "timestamp": "2026-05-30T01:08:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1trkot2",
+        "title": "Anyone else losing their mind trying to manually select numbers for the $331M tonight?",
+        "summary": "I know I know... quick picks have the exact same odds. I get it.  But for a jackpot this big i just like choosing my own numbers. Guess it's a ritual or whatever.  The problem is my brain is completely fried right now lol. Been trying to ba",
+        "url": "https://reddit.com/r/Lottery/comments/1trkot2/anyone_else_losing_their_mind_trying_to_manually/",
+        "timestamp": "2026-05-30T00:30:53.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1traj72",
+        "title": "If I win the lottery Im donating most of it to Israel",
+        "summary": "If I win I'm sharing 30% of my lottery winnings with the nation of Israel to help them fight this war and end things once and for all. I think its my duty to assist them protect the holy land. As god is my witness I can live a simple life i",
+        "url": "https://reddit.com/r/Lottery/comments/1traj72/if_i_win_the_lottery_im_donating_most_of_it_to/",
+        "timestamp": "2026-05-29T18:13:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tr58bb",
+        "title": "Nepal's 2083/2084 Budget Summary",
+        "summary": "Ministry of Finance Web URL - [https://mof.gov.np/content/1741/budget8384/](https://mof.gov.np/content/1741/budget8384/)   Direct PDF Link (in Nepali) - [https://giwmscdnone.gov.np/media/pdf\\_upload/budget%20speech%202083\\_nz9wmgt.pdf](http",
+        "url": "https://reddit.com/r/Nepal/comments/1tr58bb/nepals_20832084_budget_summary/",
+        "timestamp": "2026-05-29T15:22:56.000Z",
+        "source": "r/Nepal",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1tr45up",
+        "title": "NYS Lottery",
+        "summary": "Anyone else get this email?",
+        "url": "https://reddit.com/r/Lottery/comments/1tr45up/nys_lottery/",
+        "timestamp": "2026-05-29T14:48:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Lottery winner who blew his £100,000 scratch card fortune and turned to drug dealing is jailed after threatening to petrol bomb a family home",
+        "summary": "Jack Tanbini, 30, who won on a £1 scratch card in 2014, was arrested after he and his friend Logan Hards, 30, violently raided a family home in November 2024.",
+        "url": "https://www.dailymail.com/news/article-15856693/Lottery-winner-blew-100-000-scratch-card-fortune-turned-drug-dealing-jailed-threatening-petrol-bomb-family-home.html",
+        "timestamp": "2026-05-28T20:41:33Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "JP Nagar in Bengaluru gears up for grand finale this Sunday",
+        "summary": "JP Nagar hosts the grand finale of TOI Happy Streets this Sunday with meditation, yoga, Zumba, Mudgar workout, music, dance, CPR training and a lucky draw.",
+        "url": "https://timesofindia.indiatimes.com/city/bengaluru/jp-nagar-in-bengaluru-gears-up-for-grand-finale-this-sunday/articleshow/131375183.cms",
+        "timestamp": "2026-05-28T17:17:37Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tq770o",
         "title": "What Would You Do If You Won? (Weekly Discussion)",
@@ -111,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -126,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 14,
+        "comments": 23,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -447,21 +552,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tm4rk6",
-        "title": "I analyzed the omission counts of the last 50 Powerball draws. Here are the most \"overdue\" numbers right now.",
-        "summary": "I'm a bit of a data nerd and got tired of looking at plain text results, so I mapped out a trend matrix for the last 50 draws to see what's actually hot and what's completely frozen. Here is what the data shows for tonight's draw: 🔥 **Curr",
-        "url": "https://reddit.com/r/Lottery/comments/1tm4rk6/i_analyzed_the_omission_counts_of_the_last_50/",
-        "timestamp": "2026-05-24T07:00:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "The Bob Moog Foundation’s Minimoog raffle",
         "summary": "The Bob Moog Foundation are currently running a fundraising raffle for a brand-new Bob Moog Tribute Edition Minimoog Model D (serial number 001), valued at $3999.",
@@ -473,51 +563,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tly6yp",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑6 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1tly6yp/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-05-24T01:30:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tlwt0o",
-        "title": "I hope to one day post that I won the Powerball or Mega Millions here.",
-        "summary": "I haven’t one a single thing since playing but I still play every now and again. mostly quick picks. My time coming. I don’t like to give up anyways",
-        "url": "https://reddit.com/r/Lottery/comments/1tlwt0o/i_hope_to_one_day_post_that_i_won_the_powerball/",
-        "timestamp": "2026-05-24T00:25:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 31,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tl3zok",
-        "title": "$1 to $20 😁",
-        "summary": "Bought advanced play lottery tickets and got a scratcher for the change. Not bad for a dollar! Great blessings incoming 🍀",
-        "url": "https://reddit.com/r/Lottery/comments/1tl3zok/1_to_20/",
-        "timestamp": "2026-05-23T02:45:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 22,
-        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -537,21 +582,6 @@
         "isME": true
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Council CEO's £280k payout likened to a 'lottery win'",
-        "summary": "Christina Harrhy was originally set to receive £209,000 but Caerphilly Council's accounts show this has increased.",
-        "url": "https://www.bbc.com/news/articles/c78ke892mj8o",
-        "timestamp": "2026-05-22T13:18:03Z",
-        "source": "BBC News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
         "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
         "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
@@ -565,35 +595,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "hn-lot-48098047",
-        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
-        "summary": "3 pts · 0 comments",
-        "url": "https://www.messydata.app",
-        "timestamp": "2026-05-11T17:37:16.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 32,
-      "meSignals": 1,
+      "totalSignals": 33,
+      "meSignals": 2,
       "moodDist": {
         "HOPEFUL": 25,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
+        "ANXIOUS": 4,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 24
     }
   }
 }
