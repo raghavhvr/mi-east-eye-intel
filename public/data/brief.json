@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-30T06:02:33.003Z",
-  "model": "keyword-fallback",
+  "generated_at": "2026-05-31T06:42:05.632Z",
+  "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "Regional Security",
-  "summary": "Regional signals indicate elevated activity with focus on regional security. Monitoring 12 open-source data points.",
+  "topTheme": "MENA Conflict",
+  "summary": "The region is experiencing increased tensions with reports of missile attacks and large-scale military offensives, while Iranian and Israeli actions are escalating the situation. Analysts are closely monitoring the situation, particularly the involvement of the IRGC and Israeli army in Lebanon and Kuwait.",
   "keyTrends": [
-    "Ongoing monitoring",
-    "Signal analysis active",
-    "Data refresh scheduled"
+    "Iran-Israel Tensions",
+    "Lebanon Conflict",
+    "Kuwait Security"
   ],
   "watchItems": [
-    "Regional escalation indicators",
-    "Economic sentiment shifts"
+    "IRGC Activity",
+    "Israeli Military Operations"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Geopolitical uncertainty",
-    "Economic signals"
+    "Regional Instability",
+    "Military Escalation"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T06:02:33.828Z",
+  "generated_at": "2026-05-31T06:42:06.203Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
     "excitement",
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The prospect of winning drives emotional investment, while the uncertainty of outcomes fuels frustration and anxiety. The desire for life-changing wins taps into fundamental human motivations for financial security and freedom.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, with some individuals experiencing frustration due to the low odds of winning. The lottery and gambling discussions also reveal a sense of community and social bonding among participants.",
   "riskSignals": [
     "problem gambling",
-    "financial recklessness"
+    "financial loss"
   ],
   "opportunitySignals": [
-    "innovative apps",
-    "conservation support"
+    "innovative betting platforms",
+    "charitable donations"
   ]
 }
