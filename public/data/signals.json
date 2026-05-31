@@ -1,106 +1,211 @@
 {
-  "generated_at": "2026-05-30T05:57:56.388Z",
+  "generated_at": "2026-05-31T06:36:40.266Z",
   "gdelt_tone": {
-    "UAE": -1.1,
-    "Saudi Arabia": -0.32,
-    "Qatar": -0.75,
-    "Kuwait": -2.54,
-    "Bahrain": 0.62,
-    "Oman": -1.85,
-    "Jordan": -1.08,
+    "UAE": -1.17,
+    "Saudi Arabia": -0.16,
+    "Qatar": -0.73,
+    "Kuwait": -2.87,
+    "Bahrain": 0.65,
+    "Oman": -1.97,
+    "Jordan": -0.84,
     "Lebanon": -4.21,
-    "Iraq": -2.79,
-    "Egypt": -0.47,
-    "Yemen": -1.7,
-    "Iran": -2.36
+    "Iraq": -2.54,
+    "Egypt": -0.54,
+    "Yemen": -1.83,
+    "Iran": -2.41
   },
   "weather": {
+    "UAE": {
+      "temp_c": 34,
+      "wind_kmh": 16,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Saudi Arabia": {
-      "temp_c": 32,
-      "wind_kmh": 6,
+      "temp_c": 34,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 7,
+      "temp_c": 38,
+      "wind_kmh": 17,
       "condition": "Clear",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 31,
-      "wind_kmh": 15,
-      "condition": "Clear",
+      "temp_c": 33,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
       "city": "Kuwait City"
-    },
-    "UAE": {
-      "temp_c": 37,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
     },
     "Bahrain": {
       "temp_c": 32,
-      "wind_kmh": 18,
+      "wind_kmh": 21,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 43,
-      "wind_kmh": 10,
+      "temp_c": 45,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
       "temp_c": 23,
-      "wind_kmh": 16,
-      "condition": "Clear",
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 19,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Egypt": {
-      "temp_c": 21,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 29,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Iran": {
-      "temp_c": 30,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Yemen": {
       "temp_c": 23,
       "wind_kmh": 7,
       "condition": "Clear",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 32,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "Yemen": {
+      "temp_c": 26,
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 27,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30927,
+    "KWD": 0.309192,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.221143,
-    "IQD": 1308.904417
+    "EGP": 52.220184,
+    "IQD": 1309.00136
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tshh1u",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tshh1u/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-05-31T01:30:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ts8hy0",
+        "title": "Best deposit methods for online lottery/betting platforms?",
+        "summary": "I’m comparing different payment methods used on online lottery-style platforms like Lottoland and similar sites. For people who’ve used these kinds of platforms before, what deposit method do you usually prefer, debit card, e-wallet, bank t",
+        "url": "https://reddit.com/r/Lottery/comments/1ts8hy0/best_deposit_methods_for_online_lotterybetting/",
+        "timestamp": "2026-05-30T19:06:51.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ts84y9",
+        "title": "Best deposit methods for online lottery/betting platforms?",
+        "summary": "I’m comparing different payment methods used on online lottery-style platforms like Lottoland and similar sites. For people who’ve used these kinds of platforms before, what deposit method do you usually prefer, debit card, e-wallet, bank t",
+        "url": "https://reddit.com/r/Lottery/comments/1ts84y9/best_deposit_methods_for_online_lotterybetting/",
+        "timestamp": "2026-05-30T18:52:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ts6d70",
+        "title": "Why doesn't Lotto America adjust the odds? Often going over a year without a winner.",
+        "summary": "Do they get more sales at $30m vs $10m? It's, yes, \"tiring\".",
+        "url": "https://reddit.com/r/Lottery/comments/1ts6d70/why_doesnt_lotto_america_adjust_the_odds_often/",
+        "timestamp": "2026-05-30T17:42:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ts4i0d",
+        "title": "CA LOTTERY APP",
+        "summary": "Why is CA lottery app so bad??? Every time I attempt to login, it is quite literally the biggest song and dance of the century. From having to resend the same username I just typed in at the login 20+ times for it to not work, to having to ",
+        "url": "https://reddit.com/r/Lottery/comments/1ts4i0d/ca_lottery_app/",
+        "timestamp": "2026-05-30T16:29:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "guardian-lot-environment-2026-may-30-on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
+        "title": "On-street EV charging in UK is postcode lottery as drivers face council objections",
+        "summary": "Despite government pledges, more than 20 authorities will not allow gullies, citing safety, legal and parking worries",
+        "url": "https://www.theguardian.com/environment/2026/may/30/on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
+        "timestamp": "2026-05-30T07:00:12Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9h",
+        "title": "A trip to the United Arab Emirates' darkest spot reveals a rare view of the Milky Way",
+        "summary": "The gleaming skyscrapers and brights lights of the United Arab Emirates draw the eyes of all who travel here",
+        "url": "https://abcnews.com/International/wireStory/trip-united-arab-emirates-darkest-spot-reveals-rare-133442494",
+        "timestamp": "2026-05-30T05:46:31Z",
+        "source": "Abcnews.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1trli14",
         "title": "Someone just submitted a Eurojackpot win from Czech Republic using our app — pretty cool to see",
@@ -141,25 +246,10 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1tr58bb",
-        "title": "Nepal's 2083/2084 Budget Summary",
-        "summary": "Ministry of Finance Web URL - [https://mof.gov.np/content/1741/budget8384/](https://mof.gov.np/content/1741/budget8384/)   Direct PDF Link (in Nepali) - [https://giwmscdnone.gov.np/media/pdf\\_upload/budget%20speech%202083\\_nz9wmgt.pdf](http",
-        "url": "https://reddit.com/r/Nepal/comments/1tr58bb/nepals_20832084_budget_summary/",
-        "timestamp": "2026-05-29T15:22:56.000Z",
-        "source": "r/Nepal",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": true
       },
       {
         "id": "reddit-lot-1tr45up",
@@ -171,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 2,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -447,66 +537,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tn75oa",
-        "title": "Do you prefer local lotteries or bigger international draws?",
-        "summary": "I’ve been thinking about this lately because the trade-off is kind of interesting. Local lotteries usually feel more familiar, and sometimes the odds are better compared to massive international jackpots, but the really big draws like Power",
-        "url": "https://reddit.com/r/Lottery/comments/1tn75oa/do_you_prefer_local_lotteries_or_bigger/",
-        "timestamp": "2026-05-25T12:05:03.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tn54sr",
-        "title": "Anyone find it weird that 2 major powerball jackpot wins in California have gone unclaimed?",
-        "summary": "I haven't seen a single news story, article or press release from the California Lottery about these two unclaimed jackpot tickets: Arleta,Ca (near LA) $204 Millon, May 31,2025 Anaheim, CA (OC) $ 515 Million, March 30, 2025 It just strikes ",
-        "url": "https://reddit.com/r/Lottery/comments/1tn54sr/anyone_find_it_weird_that_2_major_powerball/",
-        "timestamp": "2026-05-25T10:28:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 17,
-        "comments": 13,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tn54mr",
-        "title": "Powerball @JackpotEdgeTV",
-        "summary": "What should we get tonight? https://www.tiktok.com/@jackpotedgetv8?\\_r=1&\\_t=ZS-96eYudKtKjg https://youtube.com/@jackpotedgetv?si=Agz\\_uD8fmMhX-gIz https://www.reddit.com/u/JackpotEdgeTV/s/6uY2QVlTzE \\#Playresponsibly #Goodluck #Winnings",
-        "url": "https://reddit.com/r/Lottery/comments/1tn54mr/powerball_jackpotedgetv/",
-        "timestamp": "2026-05-25T10:28:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tn4zqy",
-        "title": "Anyone just have a feeling they’re going to win?",
-        "summary": "Maybe everyone does, and that’s why we play. I just have the feeling I will win one day, tonight even. I don’t want silly money. I want a few million to quit my job. I daydream about it daily- how I’ll quit, how I’ll spend the summer. Do yo",
-        "url": "https://reddit.com/r/Lottery/comments/1tn4zqy/anyone_just_have_a_feeling_theyre_going_to_win/",
-        "timestamp": "2026-05-25T10:21:54.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 56,
-        "comments": 22,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "No Winner in $131 Million Powerball Drawing; Jackpot Rises to $141 Million for Monday",
         "summary": "The Powerball jackpot rises to $141 million after no winner on May 23. A West Virginia ticket wins $2 million. Next draw is on May 25.",
@@ -518,36 +548,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tmtg2w",
-        "title": "PowerballWiz: Simple curiosity + realism score",
-        "summary": "I posted about this app earlier, but I’ve been building a Powerball analysis app mostly as a side project to explore historical draw behavior. One feature I added recently rates generated picks on: * historical similarity * frequency profil",
-        "url": "https://reddit.com/r/Lottery/comments/1tmtg2w/powerballwiz_simple_curiosity_realism_score/",
-        "timestamp": "2026-05-25T00:43:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tmf0bp",
-        "title": "I spent $500 with $20 spin. Should I keep chasing jackpot??",
-        "summary": "Progressive coming up and didn't win a dime😢   Keeping spin but no jackpot .",
-        "url": "https://reddit.com/r/Lottery/comments/1tmf0bp/i_spent_500_with_20_spin_should_i_keep_chasing/",
-        "timestamp": "2026-05-24T15:18:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 20,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -567,21 +567,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9z",
-        "title": "New summer lottery offers 2026 BMW X1 to fund second MRI at Bluewater Health",
-        "summary": "New summer lottery offers 2026 BMW X1 to fund second MRI at Bluewater Healthsarnianewstoday.ca",
-        "url": "https://sarnianewstoday.ca/sarnia/News/2026/05/22/new-summer-lottery-offers-2026-bmw-x1-to-fund-second-mri-at-bluewater-health",
-        "timestamp": "2026-05-22T19:45:41Z",
-        "source": "Sarnianewstoday.ca",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": true
-      },
-      {
         "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
         "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
         "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
@@ -598,17 +583,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 33,
-      "meSignals": 2,
+      "totalSignals": 32,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 25,
+        "HOPEFUL": 24,
         "CYNICAL": 0,
-        "ANXIOUS": 4,
-        "NEUTRAL": 4
+        "ANXIOUS": 3,
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 24
+      "uncertaintyScore": 25
     }
   }
 }
