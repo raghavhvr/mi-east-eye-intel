@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-05-31T06:42:05.632Z",
+  "generated_at": "2026-06-01T07:31:26.962Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "MENA Conflict",
-  "summary": "The region is experiencing increased tensions with reports of missile attacks and large-scale military offensives, while Iranian and Israeli actions are escalating the situation. Analysts are closely monitoring the situation, particularly the involvement of the IRGC and Israeli army in Lebanon and Kuwait.",
+  "topTheme": "Iran US Conflict",
+  "summary": "The region is experiencing increased military activity between Iran and the US, with both countries reporting strikes in the Gulf. The situation is volatile and may escalate further, affecting regional stability",
   "keyTrends": [
-    "Iran-Israel Tensions",
-    "Lebanon Conflict",
-    "Kuwait Security"
+    "Iran-US tensions",
+    "Gulf security",
+    "Regional instability"
   ],
   "watchItems": [
-    "IRGC Activity",
-    "Israeli Military Operations"
+    "Iranian military responses",
+    "US strategic interests"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Military Escalation"
+    "Escalating conflict",
+    "Regional uncertainty"
   ]
 }
