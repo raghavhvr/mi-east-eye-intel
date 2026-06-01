@@ -1,106 +1,166 @@
 {
-  "generated_at": "2026-05-31T06:36:40.266Z",
+  "generated_at": "2026-06-01T07:25:10.139Z",
   "gdelt_tone": {
-    "UAE": -1.17,
-    "Saudi Arabia": -0.16,
-    "Qatar": -0.73,
-    "Kuwait": -2.87,
-    "Bahrain": 0.65,
-    "Oman": -1.97,
-    "Jordan": -0.84,
-    "Lebanon": -4.21,
-    "Iraq": -2.54,
-    "Egypt": -0.54,
+    "UAE": -1,
+    "Saudi Arabia": -0.03,
+    "Qatar": -0.72,
+    "Kuwait": -3.09,
+    "Bahrain": 0.76,
+    "Oman": -1.94,
+    "Jordan": -1.16,
+    "Lebanon": -4.16,
+    "Iraq": -2.41,
+    "Egypt": -0.6,
     "Yemen": -1.83,
-    "Iran": -2.41
+    "Iran": -2.61
   },
   "weather": {
-    "UAE": {
-      "temp_c": 34,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 34,
-      "wind_kmh": 7,
+      "temp_c": 37,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Riyadh"
     },
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 19,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 35,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 17,
+      "temp_c": 41,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Kuwait": {
-      "temp_c": 33,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
-      "temp_c": 32,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Oman": {
-      "temp_c": 45,
-      "wind_kmh": 13,
+      "temp_c": 44,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
       "temp_c": 23,
-      "wind_kmh": 7,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 7,
+      "temp_c": 25,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 32,
-      "wind_kmh": 6,
+    "Bahrain": {
+      "temp_c": 33,
+      "wind_kmh": 18,
       "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Manama"
     },
     "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 3,
+      "temp_c": 27,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Sanaa"
+    "Iraq": {
+      "temp_c": 35,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
     },
     "Iran": {
-      "temp_c": 27,
-      "wind_kmh": 17,
+      "temp_c": 30,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 27,
+      "wind_kmh": 19,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309192,
+    "KWD": 0.309437,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.220184,
-    "IQD": 1309.00136
+    "EGP": 52.223915,
+    "IQD": 1308.753381
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1ttkrz7",
+        "title": "After a brief hiatus, gift cards are back on the 2nd Chance Wheel for NY Lottery",
+        "summary": "Less than a week after removing them from the wheel, they’re back! Won $5 just a week ago and two days later it was only points and weekly/monthly draw spots.",
+        "url": "https://reddit.com/r/Lottery/comments/1ttkrz7/after_a_brief_hiatus_gift_cards_are_back_on_the/",
+        "timestamp": "2026-06-01T07:24:25.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tti05d",
+        "title": "Breakeven",
+        "summary": "Had some recent consecutive winnings at this one gas station for Super Lotto. Decided to try my luck at a scratcher. The most expensive scratcher that I've ever bought.  (Yes, Yes, I scratch the whole thing 🥴)",
+        "url": "https://reddit.com/r/Lottery/comments/1tti05d/breakeven/",
+        "timestamp": "2026-06-01T04:56:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tsw1bm",
+        "title": "Best deposit methods for online lottery/betting platforms?",
+        "summary": "I’m comparing different payment methods used on online lottery-style platforms like Lottoland and similar sites. For people who’ve used these kinds of platforms before, what deposit method do you usually prefer, debit card, e-wallet, bank t",
+        "url": "https://reddit.com/r/Lottery/comments/1tsw1bm/best_deposit_methods_for_online_lotterybetting/",
+        "timestamp": "2026-05-31T13:55:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tsr0aa",
+        "title": "Lottery Community",
+        "summary": "Are you interested to talk about Eurojackpot and other lotteries like Lotto6aus49, Powerball etc. with others? Are you interested to share lotto numbers you play and discuss about the game(s) (jackpot size, hot and cold numbers etc.)?  If y",
+        "url": "https://reddit.com/r/Lottery/comments/1tsr0aa/lottery_community/",
+        "timestamp": "2026-05-31T09:54:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tshh1u",
         "title": "Powerball Winning Numbers (Saturday)",
@@ -126,7 +186,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -156,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 11,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 13,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -447,117 +507,12 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1to1tec",
-        "title": "Eurojackpot Discord",
-        "summary": "Are you interested to talk about Eurojackpot with others? Are you interested to share lotto numbers you play and discuss about the game (jackpot size, hot and cold numbers etc.)?  If yes, you are welcome to join Eurojackpot Community Discor",
-        "url": "https://reddit.com/r/Lottery/comments/1to1tec/eurojackpot_discord/",
-        "timestamp": "2026-05-26T09:31:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tntpft",
-        "title": "How many scratchers will a lottery office (in California) redeem in a single visit?",
-        "summary": "I used to mail my winning scratchers but it takes forever to get payment. And I hate redeeming them at a gas station or supermarket because I feel like the cashier hates it.    I've stopped mailing them but now I have like 30 scratchers I n",
-        "url": "https://reddit.com/r/Lottery/comments/1tntpft/how_many_scratchers_will_a_lottery_office_in/",
-        "timestamp": "2026-05-26T02:34:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tns0m7",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1tns0m7/powerball_winning_numbers_monday/",
-        "timestamp": "2026-05-26T01:20:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tnq57b",
-        "title": "Powerball rolled over to $141M tonight. Anyone else buying tickets just to fuel their late-night daydreaming?",
-        "summary": "Since nobody hit the jackpot this past weekend, it rolled over to tonight ($141M) and I fell into the rabbit hole again. Just spent $10 on some quick picks. Honestly, I know the odds are 1 in 292 Million, but the $10 is worth the entertainm",
-        "url": "https://reddit.com/r/Lottery/comments/1tnq57b/powerball_rolled_over_to_141m_tonight_anyone_else/",
-        "timestamp": "2026-05-25T23:58:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 17,
-        "comments": 16,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tnciso",
-        "title": "I almost threw away a winning ticket last year. Did anyone else realize matching 2 white balls pays absolutely nothing?",
-        "summary": "*I feel so dumb admitting this, but last year I bought a stack of Powerball tickets, matched only the red Powerball, and almost threw it in the trash because I thought you needed at least 3 numbers to win anything. The official prize chart ",
-        "url": "https://reddit.com/r/Lottery/comments/1tnciso/i_almost_threw_away_a_winning_ticket_last_year/",
-        "timestamp": "2026-05-25T15:28:39.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tnbz24",
-        "title": "Has anyone playing US lottery from abroad?",
-        "summary": "Was discussing this with a couple of friends yesterday night. Been thinking about getting into it for a while.  Did anyone from this community ever do it? What was your experience?",
-        "url": "https://reddit.com/r/Lottery/comments/1tnbz24/has_anyone_playing_us_lottery_from_abroad/",
-        "timestamp": "2026-05-25T15:09:33.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 12,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "No Winner in $131 Million Powerball Drawing; Jackpot Rises to $141 Million for Monday",
         "summary": "The Powerball jackpot rises to $141 million after no winner on May 23. A West Virginia ticket wins $2 million. Next draw is on May 25.",
         "url": "https://www.ibtimes.com.au/powerball-jackpot-soars-141-million-after-no-winner-1869439",
         "timestamp": "2026-05-25T07:44:12Z",
         "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "The Bob Moog Foundation’s Minimoog raffle",
-        "summary": "The Bob Moog Foundation are currently running a fundraising raffle for a brand-new Bob Moog Tribute Edition Minimoog Model D (serial number 001), valued at $3999.",
-        "url": "https://www.soundonsound.com/news/bob-moog-foundations-minimoog-raffle",
-        "timestamp": "2026-05-24T06:30:00Z",
-        "source": "Soundonsound.com",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -583,17 +538,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 32,
+      "totalSignals": 29,
       "meSignals": 1,
       "moodDist": {
         "HOPEFUL": 24,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
-        "NEUTRAL": 5
+        "ANXIOUS": 1,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 25
+      "uncertaintyScore": 17
     }
   }
 }
