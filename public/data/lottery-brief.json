@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T07:31:27.626Z",
+  "generated_at": "2026-06-02T07:10:52.656Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Lottery Dreams",
+  "dominantNarrative": "Winning big jackpot",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Frustration"
+    "excitement",
+    "optimism",
+    "anticipation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals experiencing frustration due to the low odds of winning. The repetition of posts about deposit methods and lottery results suggests a sense of engagement and community among lottery enthusiasts.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many individuals exhibiting an optimistic outlook due to the potential for huge payouts. This behavior is influenced by the variable reward schedule often seen in gambling, which can create a strong psychological response.",
   "riskSignals": [
-    "Problem Gambling",
-    "Unrealistic Expectations"
+    "problem gambling",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "Increased Engagement",
-    "Loyalty Programs"
+    "increased engagement",
+    "loyal customer base"
   ]
 }

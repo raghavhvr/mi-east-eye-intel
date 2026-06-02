@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-01T07:31:26.962Z",
-  "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran US Conflict",
-  "summary": "The region is experiencing increased military activity between Iran and the US, with both countries reporting strikes in the Gulf. The situation is volatile and may escalate further, affecting regional stability",
+  "generated_at": "2026-06-02T07:10:51.844Z",
+  "model": "keyword-fallback",
+  "threatLevel": "LOW",
+  "topTheme": "Political Developments",
+  "summary": "Regional signals indicate low activity with focus on political developments. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "Iran-US tensions",
-    "Gulf security",
-    "Regional instability"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Iranian military responses",
-    "US strategic interests"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating conflict",
-    "Regional uncertainty"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }
