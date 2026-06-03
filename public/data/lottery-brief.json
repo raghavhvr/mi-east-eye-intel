@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T07:10:52.656Z",
+  "generated_at": "2026-06-03T07:25:24.987Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -11,15 +11,15 @@
   "keyEmotions": [
     "excitement",
     "optimism",
-    "anticipation"
+    "determination"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with many individuals exhibiting an optimistic outlook due to the potential for huge payouts. This behavior is influenced by the variable reward schedule often seen in gambling, which can create a strong psychological response.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many individuals exhibiting a growth mindset and perseverance in the face of uncertainty. The lottery's potential for a massive payout taps into people's inherent desire for financial freedom and security.",
   "riskSignals": [
-    "problem gambling",
-    "unrealistic expectations"
+    "account security concerns",
+    "gaming addiction"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "loyal customer base"
+    "increased lottery engagement",
+    "potential for financial windfall"
   ]
 }
