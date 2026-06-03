@@ -1,33 +1,196 @@
 {
-  "generated_at": "2026-06-02T07:00:10.611Z",
+  "generated_at": "2026-06-03T07:17:37.739Z",
   "gdelt_tone": {
-    "UAE": -1.08,
-    "Saudi Arabia": -0.13,
-    "Qatar": -0.97,
-    "Kuwait": -3.91,
-    "Bahrain": 0.48,
-    "Oman": -2.04,
-    "Jordan": -1.79,
-    "Lebanon": -4.31,
-    "Iraq": -2.53,
-    "Egypt": -0.63,
-    "Yemen": -1.84,
-    "Iran": -3.05
+    "UAE": -1.14,
+    "Saudi Arabia": -0.17,
+    "Qatar": -0.91,
+    "Kuwait": -4.16,
+    "Bahrain": -0.1,
+    "Oman": -2.03,
+    "Jordan": -1.81,
+    "Lebanon": -4.4,
+    "Iraq": -2.65,
+    "Egypt": -0.49,
+    "Yemen": -2.45,
+    "Iran": -3.32
   },
-  "weather": {},
+  "weather": {
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 41,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Kuwait": {
+      "temp_c": 40,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 43,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 40,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 27,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Lebanon": {
+      "temp_c": 23,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 38,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 32,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iran": {
+      "temp_c": 28,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 27,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Sanaa"
+    }
+  },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308964,
+    "KWD": 0.308685,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.030046,
-    "IQD": 1310.590187
+    "EGP": 51.936717,
+    "IQD": 1311.075472
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tv8gkv",
+        "title": "The Mega Millions just hit $346M for the next draw. Is anyone else switching from blind guessing to pattern tracking?",
+        "summary": "With the jackpot getting this massive, standard quick picks feel like throwing money into a black hole.  I’ve been trying to treat the historical data more like a market chart rather than pure random chaos. For example, looking at the hot/c",
+        "url": "https://reddit.com/r/Lottery/comments/1tv8gkv/the_mega_millions_just_hit_346m_for_the_next_draw/",
+        "timestamp": "2026-06-02T23:52:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tv8dyt",
+        "title": "I said I was going to win the Powerball, I never said which drawing it will be. 😁 Never give up and never let anyone discourage you.",
+        "summary": "I not only play for fun, but I love to visualize. Daydream. It’s like I already won. It’s coming.",
+        "url": "https://reddit.com/r/Lottery/comments/1tv8dyt/i_said_i_was_going_to_win_the_powerball_i_never/",
+        "timestamp": "2026-06-02T23:49:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tv7kl6",
+        "title": "Why is someone so insistent on getting into my lottery account to the point of locking it??",
+        "summary": "So I recently had someone try and get into my Missouri Lottery account for whatever reason, though were unsuccessful due to not having the correct credentials. This started around a month or so ago, and I just changed my password for good m",
+        "url": "https://reddit.com/r/Lottery/comments/1tv7kl6/why_is_someone_so_insistent_on_getting_into_my/",
+        "timestamp": "2026-06-02T23:15:41.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tuwjbv",
+        "title": "Do I need a lawyer?",
+        "summary": "Today was the release of the new ticket in Indiana. My husband scratched 100,000$ it was the symbol. He took his ticket to the lottery office and it scanned for 20. and there were around 7 other people with the same ticket with claimers. Th",
+        "url": "https://reddit.com/r/Lottery/comments/1tuwjbv/do_i_need_a_lawyer/",
+        "timestamp": "2026-06-02T16:42:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tuwi92",
+        "title": "Would States benefit from increasing EV of lottery?",
+        "summary": "We always hear that lotteries are a \"tax on the poor\" with some drawings have 95% expected loss per dollar. States generate Billions of dollars annually from Lotto sales, which they say is reinvested into schools and public services.  I was",
+        "url": "https://reddit.com/r/Lottery/comments/1tuwi92/would_states_benefit_from_increasing_ev_of_lottery/",
+        "timestamp": "2026-06-02T16:41:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tukifx",
+        "title": "Eurojackpot Numbers for today ( No financial advice or anything for your own risk)",
+        "summary": "7 - 21 - 23 - 44- 47 | 1 - 12",
+        "url": "https://reddit.com/r/Lottery/comments/1tukifx/eurojackpot_numbers_for_today_no_financial_advice/",
+        "timestamp": "2026-06-02T08:18:14.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tuc6ek",
         "title": "Powerball Winning Numbers (Monday)",
@@ -83,10 +246,70 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 83,
+        "comments": 20,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9m",
+        "title": "Big ticket early-stage bets fuel Europe's cybersecurity funding",
+        "summary": "Dirk Waem/Getty Images After a near-record year for European cybersecurity VC funding, investment has maintained pace in Q1, with the focus shifting to...",
+        "url": "https://finance.yahoo.com/sectors/technology/articles/big-ticket-early-stage-bets-114950833.html",
+        "timestamp": "2026-06-01T11:49:50Z",
+        "source": "Yahoo Entertainment",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Jackpot Climbs to $180 Million for Monday Drawing After No Winner Saturday",
+        "summary": "The Powerball jackpot has increased to $180 million after no winner was found in Saturday's draw. The next drawing is scheduled for Monday night, offering another chance at a life-changing prize.",
+        "url": "https://www.ibtimes.com.au/powerball-jackpot-climbs-180-million-next-drawing-monday-1869881",
+        "timestamp": "2026-06-01T09:32:52Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Kogan drops huge EOFY sale with up to 70 per cent off big ticket items including home entertainment, appliances and tech",
+        "summary": "One of the best sales of the year is here, and you can grab up to 70% off everything from TVs and mobile phones, to home appliances, sports tech and more.",
+        "url": "https://www.dailymail.com/buyline/article-15863019/Kogan-drops-huge-EOFY-sale-70-cent-big-ticket-items-including-home-entertainment-appliances-tech.html",
+        "timestamp": "2026-06-01T09:29:02Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "The Good Luck Club review: Absorbing study of Irish sweepstake greed features oodles of skulduggery",
+        "summary": "Louise Lowe’s promenade piece, at the National Archives, portrays the shady history of the Irish Hospitals’ Sweepstake",
+        "url": "https://www.irishtimes.com/culture/stage/review/2026/06/01/the-good-luck-club-review-absorbing-study-of-irish-sweepstake-greed-features-oodles-of-skulduggery/",
+        "timestamp": "2026-06-01T07:52:06Z",
+        "source": "The Irish Times",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": true
       },
       {
         "id": "reddit-lot-1ttkthg",
@@ -98,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -128,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 34,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -374,21 +597,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tpsdan",
-        "title": "Ran tonight's numbers (5-14-21-31-51, PB 13) through our simulator while waiting for the official pending results...",
-        "summary": "the \"Results Pending\" screen waiting to see if the $154M jackpot rolled over, my buddy and I decided to run tonight’s winning combination through the historical combinatorics simulator we’ve been coding. Interestingly, tonight’s combination",
-        "url": "https://reddit.com/r/Lottery/comments/1tpsdan/ran_tonights_numbers_514213151_pb_13_through_our/",
-        "timestamp": "2026-05-28T03:57:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Powerball jackpot reaches 154 million for Wednesday",
         "summary": "The Powerball jackpot is now 154 million for Wednesday. Here is how to play and what the odds are for winning.",
@@ -404,57 +612,12 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tpn0zv",
-        "title": "Mega vs Powerball",
-        "summary": "I always play once it gets high.  Do you spend your money on 1 Mega currently at $331 million dollars or do you spend your money on 2 Powerball tickets currently at $154 million ?  Super lottery is currently at $23 million  When Mega Millio",
-        "url": "https://reddit.com/r/Lottery/comments/1tpn0zv/mega_vs_powerball/",
-        "timestamp": "2026-05-27T23:59:15.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 13,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tpmaua",
-        "title": "I ran the math on 2,745 scratch-offs in 41 states",
-        "summary": "I have been playing scratch off games for quite some time now. I have always been fascinated by math, and after watching *Jerry and Marge Go Large* (the true story of a retired guy who found a loophole in a lottery game and legally made mil",
-        "url": "https://reddit.com/r/Lottery/comments/1tpmaua/i_ran_the_math_on_2745_scratchoffs_in_41_states/",
-        "timestamp": "2026-05-27T23:28:36.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 23,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Lawrencetown, N.S. resident wins Trucks for Ducks grand prize, driving support for Ducks Unlimited Canada’s wetland conservation",
         "summary": "HALIFAX, Nova Scotia, May 27, 2026 (GLOBE NEWSWIRE) -- Ducks Unlimited Canada (DUC) and MacGillivray Injury and Insurance Law have announced Michael McGuire of Lawrencetown, Nova Scotia as the grand prize winner of its second Trucks for Ducks sweepstakes, tak…",
         "url": "https://www.globenewswire.com/news-release/2026/05/27/3301819/0/en/Lawrencetown-N-S-resident-wins-Trucks-for-Ducks-grand-prize-driving-support-for-Ducks-Unlimited-Canada-s-wetland-conservation.html",
         "timestamp": "2026-05-27T11:30:00Z",
         "source": "GlobeNewswire",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "No Winner in $131 Million Powerball Drawing; Jackpot Rises to $141 Million for Monday",
-        "summary": "The Powerball jackpot rises to $141 million after no winner on May 23. A West Virginia ticket wins $2 million. Next draw is on May 25.",
-        "url": "https://www.ibtimes.com.au/powerball-jackpot-soars-141-million-after-no-winner-1869439",
-        "timestamp": "2026-05-25T07:44:12Z",
-        "source": "Ibtimes.com.au",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
@@ -477,35 +640,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "hn-lot-48098047",
-        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
-        "summary": "3 pts · 0 comments",
-        "url": "https://www.messydata.app",
-        "timestamp": "2026-05-11T17:37:16.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 31,
-      "meSignals": 1,
+      "totalSignals": 36,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 24,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
+        "ANXIOUS": 2,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 23
+      "uncertaintyScore": 17
     }
   }
 }
