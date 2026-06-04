@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-03T07:25:24.310Z",
+  "generated_at": "2026-06-04T07:09:36.650Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran Conflict Escalation",
-  "summary": "The US and Iran have engaged in new strikes, with Kuwait's airport being hit by Iranian drones, escalating tensions in the region. The situation is being closely monitored, with potential for further escalation and impact on regional stability",
+  "threatLevel": "MODERATE",
+  "topTheme": "Middle East tensions",
+  "summary": "Recent statements from Israeli and Iranian officials indicate increased tensions in the region, while other news highlights regional sports and economic developments. The situation in the Middle East remains volatile, with potential for escalation in the coming weeks.",
   "keyTrends": [
-    "US-Iran Conflict",
-    "Regional Security",
-    "Kuwait Airport Closure"
+    "Iran-Israel tensions",
+    "Regional sports",
+    "Economic developments"
   ],
   "watchItems": [
-    "Iranian Drone Activity",
-    "US Military Response"
+    "Israel-Lebanon ceasefire",
+    "Iranian strikes on Kuwait"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating Conflict",
-    "Regional Instability"
+    "Geopolitical uncertainty",
+    "Regional instability"
   ]
 }

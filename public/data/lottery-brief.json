@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T07:25:24.987Z",
+  "generated_at": "2026-06-04T07:09:37.366Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -13,10 +13,10 @@
     "optimism",
     "determination"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with many individuals exhibiting a growth mindset and perseverance in the face of uncertainty. The lottery's potential for a massive payout taps into people's inherent desire for financial freedom and security.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many individuals exhibiting optimistic biases and a growth mindset. The lottery's potential for a massive payout taps into people's inherent desire for financial freedom and security.",
   "riskSignals": [
     "account security concerns",
-    "gaming addiction"
+    "scams"
   ],
   "opportunitySignals": [
     "increased lottery engagement",
