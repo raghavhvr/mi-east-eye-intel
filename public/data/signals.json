@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-03T07:17:37.739Z",
+  "generated_at": "2026-06-04T06:58:17.994Z",
   "gdelt_tone": {
-    "UAE": -1.14,
-    "Saudi Arabia": -0.17,
-    "Qatar": -0.91,
-    "Kuwait": -4.16,
-    "Bahrain": -0.1,
-    "Oman": -2.03,
-    "Jordan": -1.81,
-    "Lebanon": -4.4,
-    "Iraq": -2.65,
-    "Egypt": -0.49,
-    "Yemen": -2.45,
-    "Iran": -3.32
+    "UAE": -0.92,
+    "Saudi Arabia": -0.21,
+    "Qatar": -0.68,
+    "Kuwait": -5.38,
+    "Bahrain": -2.17,
+    "Oman": -2.02,
+    "Jordan": -1.83,
+    "Lebanon": -4.35,
+    "Iraq": -2.53,
+    "Egypt": -0.37,
+    "Yemen": -2.62,
+    "Iran": -3.63
   },
   "weather": {
     "UAE": {
@@ -21,69 +21,69 @@
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Saudi Arabia": {
-      "temp_c": 41,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "Kuwait": {
-      "temp_c": 40,
-      "wind_kmh": 6,
+      "temp_c": 38,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Qatar": {
-      "temp_c": 43,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Oman": {
-      "temp_c": 40,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 11,
+      "temp_c": 34,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Manama"
     },
+    "Saudi Arabia": {
+      "temp_c": 38,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "Jordan": {
-      "temp_c": 27,
-      "wind_kmh": 14,
+      "temp_c": 28,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Lebanon": {
-      "temp_c": 23,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 5,
+      "temp_c": 37,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Egypt": {
-      "temp_c": 32,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
+    "Oman": {
+      "temp_c": 38,
+      "wind_kmh": 12,
+      "condition": "Thunderstorm",
+      "city": "Muscat"
     },
     "Iran": {
-      "temp_c": 28,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
+      "temp_c": 29,
+      "wind_kmh": 12,
+      "condition": "Clear",
       "city": "Tehran"
     },
+    "Lebanon": {
+      "temp_c": 24,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Qatar": {
+      "temp_c": 41,
+      "wind_kmh": 21,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 12,
+      "temp_c": 26,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Sanaa"
     }
@@ -92,15 +92,45 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308685,
+    "KWD": 0.308261,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.936717,
-    "IQD": 1311.075472
+    "EGP": 51.943706,
+    "IQD": 1309.149883
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tw5dao",
+        "title": "Millionaire for life",
+        "summary": "I buy 2 millionaire for life a day, stopped playing Powerball and mega millions due to never winning anything over 20$ but my question is do you think it was a good idea to get rid of lucky for life and add this game instead?",
+        "url": "https://reddit.com/r/Lottery/comments/1tw5dao/millionaire_for_life/",
+        "timestamp": "2026-06-03T22:47:20.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tvhyco",
+        "title": "Lottery Discord",
+        "summary": "Are you interested to talk about Eurojackpot with others? Are you interested to share lotto numbers you play and discuss about the game (jackpot size, hot and cold numbers etc.)?  If yes, you are welcome to join Eurojackpot Community Discor",
+        "url": "https://reddit.com/r/Lottery/comments/1tvhyco/lottery_discord/",
+        "timestamp": "2026-06-03T07:22:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tv8gkv",
         "title": "The Mega Millions just hit $346M for the next draw. Is anyone else switching from blind guessing to pattern tracking?",
@@ -156,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 45,
+        "comments": 43,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,7 +216,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -216,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 5,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -232,7 +262,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -582,21 +612,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tq770o",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1tq770o/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-05-28T15:38:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Powerball jackpot reaches 154 million for Wednesday",
         "summary": "The Powerball jackpot is now 154 million for Wednesday. Here is how to play and what the odds are for winning.",
@@ -643,17 +658,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 36,
+      "totalSignals": 37,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 31,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 17
+      "uncertaintyScore": 16
     }
   }
 }
