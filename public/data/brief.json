@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-04T07:09:36.650Z",
+  "generated_at": "2026-06-05T06:51:12.215Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Middle East tensions",
-  "summary": "Recent statements from Israeli and Iranian officials indicate increased tensions in the region, while other news highlights regional sports and economic developments. The situation in the Middle East remains volatile, with potential for escalation in the coming weeks.",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Stability",
+  "summary": "The MENA region remains relatively calm with no major security threats emerging from the headlines, although some concerns regarding US-Iran relations and a blast in Oman were noted. Overall, the region's stability is not significantly impacted by the reported events.",
   "keyTrends": [
-    "Iran-Israel tensions",
-    "Regional sports",
-    "Economic developments"
+    "US-Iran relations",
+    "Oman terminal blast",
+    "Regional sports"
   ],
   "watchItems": [
-    "Israel-Lebanon ceasefire",
-    "Iranian strikes on Kuwait"
+    "US-Iran tensions",
+    "Oman terminal operations"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Geopolitical uncertainty",
-    "Regional instability"
+    "Regional security concerns",
+    "Economic stability"
   ]
 }
