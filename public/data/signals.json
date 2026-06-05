@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-06-04T06:58:17.994Z",
+  "generated_at": "2026-06-05T06:45:23.160Z",
   "gdelt_tone": {
-    "UAE": -0.92,
-    "Saudi Arabia": -0.21,
-    "Qatar": -0.68,
-    "Kuwait": -5.38,
-    "Bahrain": -2.17,
-    "Oman": -2.02,
-    "Jordan": -1.83,
-    "Lebanon": -4.35,
-    "Iraq": -2.53,
-    "Egypt": -0.37,
-    "Yemen": -2.62,
-    "Iran": -3.63
+    "UAE": -0.52,
+    "Saudi Arabia": -0.06,
+    "Qatar": -0.43,
+    "Kuwait": -5.26,
+    "Bahrain": -2.27,
+    "Oman": -1.35,
+    "Jordan": -1.41,
+    "Lebanon": -4.23,
+    "Iraq": -2.5,
+    "Egypt": -0.11,
+    "Yemen": -2.82,
+    "Iran": -3.59
   },
   "weather": {
     "UAE": {
       "temp_c": 36,
-      "wind_kmh": 17,
+      "wind_kmh": 20,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 14,
+      "temp_c": 37,
+      "wind_kmh": 17,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Saudi Arabia": {
       "temp_c": 38,
-      "wind_kmh": 4,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 24,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 34,
+      "wind_kmh": 21,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 37,
+      "wind_kmh": 13,
+      "condition": "Thunderstorm",
+      "city": "Muscat"
+    },
     "Jordan": {
-      "temp_c": 28,
+      "temp_c": 25,
       "wind_kmh": 11,
       "condition": "Clear",
       "city": "Amman"
     },
+    "Lebanon": {
+      "temp_c": 24,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 35,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
     "Egypt": {
-      "temp_c": 28,
+      "temp_c": 29,
       "wind_kmh": 7,
       "condition": "Clear",
       "city": "Cairo"
     },
-    "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 12,
-      "condition": "Thunderstorm",
-      "city": "Muscat"
-    },
     "Iran": {
-      "temp_c": 29,
-      "wind_kmh": 12,
-      "condition": "Clear",
+      "temp_c": 28,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     },
-    "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
-    "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 3,
+      "temp_c": 27,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Sanaa"
     }
@@ -92,15 +92,120 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308261,
+    "KWD": 0.308241,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.943706,
-    "IQD": 1309.149883
+    "EGP": 51.820284,
+    "IQD": 1310.178671
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tx87ny",
+        "title": "Hot daily win numbers gerrintee",
+        "summary": "Hot spot garnnteee win numbers. For the day. Buy min 10consecitive plays to win. 27 30 37 58  Who ever interest in California.   .  hot spot lottery here ur winning sequence. For the day.   U will win.  But u have to by consecutive rounds. ",
+        "url": "https://reddit.com/r/Lottery/comments/1tx87ny/hot_daily_win_numbers_gerrintee/",
+        "timestamp": "2026-06-05T02:32:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tx7yj8",
+        "title": "Hot spot garnnteee win numbers. For the day. Buy min 10consecitive plays to win.",
+        "summary": "Who ever interest in California.   .  hot spot lottery here ur winning sequence. For the day.   U will win.  But u have to by consecutive rounds. Min 10 to win at the highest 25to 458 dollars",
+        "url": "https://reddit.com/r/Lottery/comments/1tx7yj8/hot_spot_garnnteee_win_numbers_for_the_day_buy/",
+        "timestamp": "2026-06-05T02:20:21.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tx7dkr",
+        "title": "I be so happy seeing other people posts of them winning whether it be big or small.",
+        "summary": "I know my turn will be coming. I enjoy reading people’s winning stories on here and on the Lottery website.",
+        "url": "https://reddit.com/r/Lottery/comments/1tx7dkr/i_be_so_happy_seeing_other_people_posts_of_them/",
+        "timestamp": "2026-06-05T01:53:55.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tx3oh6",
+        "title": "The lottery told me that my $100,000 win was actually a $20.00 misprint. They pulled the game hours later.",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tx3oh6/the_lottery_told_me_that_my_100000_win_was/",
+        "timestamp": "2026-06-04T23:09:31.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1twt2gt",
+        "title": "I’m officially done.",
+        "summary": "I started playing the lottery weekly last year and I save all my slips. There’s even more that I can’t get to right now in an envelope, but looking at this. I think it’s about time for a break from the lottery.",
+        "url": "https://reddit.com/r/Lottery/comments/1twt2gt/im_officially_done/",
+        "timestamp": "2026-06-04T16:40:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1twr9oa",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1twr9oa/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-06-04T15:38:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1twnlk0",
+        "title": "How do you check lottery results quickly on draw days?",
+        "summary": "I usually check newspaper sources and official announcements, but sometimes updates can be delayed. How do you usually check lottery results on draw days? Do you prefer newspapers, official sources, or dedicated result websites?",
+        "url": "https://reddit.com/r/Lottery/comments/1twnlk0/how_do_you_check_lottery_results_quickly_on_draw/",
+        "timestamp": "2026-06-04T13:24:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tw5dao",
         "title": "Millionaire for life",
@@ -141,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
-        "comments": 0,
+        "score": 34,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -172,7 +277,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -462,36 +567,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1ts6d70",
-        "title": "Why doesn't Lotto America adjust the odds? Often going over a year without a winner.",
-        "summary": "Do they get more sales at $30m vs $10m? It's, yes, \"tiring\".",
-        "url": "https://reddit.com/r/Lottery/comments/1ts6d70/why_doesnt_lotto_america_adjust_the_odds_often/",
-        "timestamp": "2026-05-30T17:42:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 11,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ts4i0d",
-        "title": "CA LOTTERY APP",
-        "summary": "Why is CA lottery app so bad??? Every time I attempt to login, it is quite literally the biggest song and dance of the century. From having to resend the same username I just typed in at the login 20+ times for it to not work, to having to ",
-        "url": "https://reddit.com/r/Lottery/comments/1ts4i0d/ca_lottery_app/",
-        "timestamp": "2026-05-30T16:29:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-environment-2026-may-30-on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
         "title": "On-street EV charging in UK is postcode lottery as drivers face council objections",
         "summary": "Despite government pledges, more than 20 authorities will not allow gullies, citing safety, legal and parking worries",
@@ -520,66 +595,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1trli14",
-        "title": "Someone just submitted a Eurojackpot win from Czech Republic using our app — pretty cool to see",
-        "summary": "Built PickDaddyAI a few months ago — AI lottery number generator for 100+ games worldwide. Just had our first submission from Czech Republic, a Eurojackpot player using our Balanced Mix strategy. We have a winners wall where players submit ",
-        "url": "https://reddit.com/r/Lottery/comments/1trli14/someone_just_submitted_a_eurojackpot_win_from/",
-        "timestamp": "2026-05-30T01:08:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1trkot2",
-        "title": "Anyone else losing their mind trying to manually select numbers for the $331M tonight?",
-        "summary": "I know I know... quick picks have the exact same odds. I get it.  But for a jackpot this big i just like choosing my own numbers. Guess it's a ritual or whatever.  The problem is my brain is completely fried right now lol. Been trying to ba",
-        "url": "https://reddit.com/r/Lottery/comments/1trkot2/anyone_else_losing_their_mind_trying_to_manually/",
-        "timestamp": "2026-05-30T00:30:53.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 13,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1traj72",
-        "title": "If I win the lottery Im donating most of it to Israel",
-        "summary": "If I win I'm sharing 30% of my lottery winnings with the nation of Israel to help them fight this war and end things once and for all. I think its my duty to assist them protect the holy land. As god is my witness I can live a simple life i",
-        "url": "https://reddit.com/r/Lottery/comments/1traj72/if_i_win_the_lottery_im_donating_most_of_it_to/",
-        "timestamp": "2026-05-29T18:13:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tr45up",
-        "title": "NYS Lottery",
-        "summary": "Anyone else get this email?",
-        "url": "https://reddit.com/r/Lottery/comments/1tr45up/nys_lottery/",
-        "timestamp": "2026-05-29T14:48:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 2,
-        "mood": "NEUTRAL",
-        "isME": false
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
@@ -655,20 +670,35 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "hn-lot-48098047",
+        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
+        "summary": "3 pts · 0 comments",
+        "url": "https://www.messydata.app",
+        "timestamp": "2026-05-11T17:37:16.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 37,
+      "totalSignals": 39,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 31,
+        "HOPEFUL": 33,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 16
+      "uncertaintyScore": 15
     }
   }
 }
