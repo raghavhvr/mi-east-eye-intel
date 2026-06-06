@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-06-05T06:45:23.160Z",
+  "generated_at": "2026-06-06T06:04:38.465Z",
   "gdelt_tone": {
-    "UAE": -0.52,
-    "Saudi Arabia": -0.06,
-    "Qatar": -0.43,
-    "Kuwait": -5.26,
-    "Bahrain": -2.27,
-    "Oman": -1.35,
-    "Jordan": -1.41,
-    "Lebanon": -4.23,
-    "Iraq": -2.5,
-    "Egypt": -0.11,
-    "Yemen": -2.82,
-    "Iran": -3.59
+    "UAE": -0.56,
+    "Saudi Arabia": 0.02,
+    "Qatar": -0.38,
+    "Kuwait": -5.33,
+    "Bahrain": -2.15,
+    "Oman": -1.15,
+    "Jordan": -1.15,
+    "Lebanon": -4.25,
+    "Iraq": -2.44,
+    "Egypt": 0.02,
+    "Yemen": -3.05,
+    "Iran": -3.74
   },
   "weather": {
     "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 20,
+      "temp_c": 35,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 17,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 6,
+      "temp_c": 37,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 24,
+      "temp_c": 39,
+      "wind_kmh": 22,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Kuwait": {
+      "temp_c": 36,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 21,
+      "temp_c": 35,
+      "wind_kmh": 20,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 37,
-      "wind_kmh": 13,
+      "temp_c": 36,
+      "wind_kmh": 14,
       "condition": "Thunderstorm",
       "city": "Muscat"
     },
     "Jordan": {
-      "temp_c": 25,
+      "temp_c": 23,
       "wind_kmh": 11,
       "condition": "Clear",
       "city": "Amman"
     },
     "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 8,
-      "condition": "Clear",
+      "temp_c": 23,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Iraq": {
       "temp_c": 35,
-      "wind_kmh": 8,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 29,
-      "wind_kmh": 7,
+      "temp_c": 30,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 28,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
     "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 5,
+      "temp_c": 26,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 27,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308241,
+    "KWD": 0.308562,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.820284,
-    "IQD": 1310.178671
+    "EGP": 51.821447,
+    "IQD": 1310.205121
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1txkkcq",
+        "title": "Illinois iLottery fastplay jackpot.",
+        "summary": "Hello, I recently discovered you can play “scratch tickets” on the IL lottery app. A month later on 5/20 at 2:30am I won $6,903 on a $1 fast play. I submitted an Eclaim immediately after. What can I expect now and when can I expect my check",
+        "url": "https://reddit.com/r/Lottery/comments/1txkkcq/illinois_ilottery_fastplay_jackpot/",
+        "timestamp": "2026-06-05T13:10:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "guardian-lot-business-2026-jun-05-william-hill-owner-agrees-evoke-takeover-greek-casino-lottery-firm",
+        "title": "William Hill owner agrees £243m takeover by Greek casino and lottery firm",
+        "summary": "Evoke had been in talks for two months with Bally’s Intralot, which has extensive international operations",
+        "url": "https://www.theguardian.com/business/2026/jun/05/william-hill-owner-agrees-evoke-takeover-greek-casino-lottery-firm",
+        "timestamp": "2026-06-05T08:39:29Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tx87ny",
         "title": "Hot daily win numbers gerrintee",
@@ -171,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 120,
+        "comments": 73,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -186,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -202,7 +232,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -492,81 +522,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tsw1bm",
-        "title": "Best deposit methods for online lottery/betting platforms?",
-        "summary": "I’m comparing different payment methods used on online lottery-style platforms like Lottoland and similar sites. For people who’ve used these kinds of platforms before, what deposit method do you usually prefer, debit card, e-wallet, bank t",
-        "url": "https://reddit.com/r/Lottery/comments/1tsw1bm/best_deposit_methods_for_online_lotterybetting/",
-        "timestamp": "2026-05-31T13:55:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tsr0aa",
-        "title": "Lottery Community",
-        "summary": "Are you interested to talk about Eurojackpot and other lotteries like Lotto6aus49, Powerball etc. with others? Are you interested to share lotto numbers you play and discuss about the game(s) (jackpot size, hot and cold numbers etc.)?  If y",
-        "url": "https://reddit.com/r/Lottery/comments/1tsr0aa/lottery_community/",
-        "timestamp": "2026-05-31T09:54:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tshh1u",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1tshh1u/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-05-31T01:30:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ts8hy0",
-        "title": "Best deposit methods for online lottery/betting platforms?",
-        "summary": "I’m comparing different payment methods used on online lottery-style platforms like Lottoland and similar sites. For people who’ve used these kinds of platforms before, what deposit method do you usually prefer, debit card, e-wallet, bank t",
-        "url": "https://reddit.com/r/Lottery/comments/1ts8hy0/best_deposit_methods_for_online_lotterybetting/",
-        "timestamp": "2026-05-30T19:06:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ts84y9",
-        "title": "Best deposit methods for online lottery/betting platforms?",
-        "summary": "I’m comparing different payment methods used on online lottery-style platforms like Lottoland and similar sites. For people who’ve used these kinds of platforms before, what deposit method do you usually prefer, debit card, e-wallet, bank t",
-        "url": "https://reddit.com/r/Lottery/comments/1ts84y9/best_deposit_methods_for_online_lotterybetting/",
-        "timestamp": "2026-05-30T18:52:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-environment-2026-may-30-on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
         "title": "On-street EV charging in UK is postcode lottery as drivers face council objections",
         "summary": "Despite government pledges, more than 20 authorities will not allow gullies, citing safety, legal and parking worries",
@@ -642,21 +597,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Lawrencetown, N.S. resident wins Trucks for Ducks grand prize, driving support for Ducks Unlimited Canada’s wetland conservation",
-        "summary": "HALIFAX, Nova Scotia, May 27, 2026 (GLOBE NEWSWIRE) -- Ducks Unlimited Canada (DUC) and MacGillivray Injury and Insurance Law have announced Michael McGuire of Lawrencetown, Nova Scotia as the grand prize winner of its second Trucks for Ducks sweepstakes, tak…",
-        "url": "https://www.globenewswire.com/news-release/2026/05/27/3301819/0/en/Lawrencetown-N-S-resident-wins-Trucks-for-Ducks-grand-prize-driving-support-for-Ducks-Unlimited-Canada-s-wetland-conservation.html",
-        "timestamp": "2026-05-27T11:30:00Z",
-        "source": "GlobeNewswire",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
         "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
         "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
@@ -688,17 +628,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 39,
+      "totalSignals": 35,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 33,
+        "HOPEFUL": 28,
         "CYNICAL": 0,
         "ANXIOUS": 2,
-        "NEUTRAL": 4
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 15
+      "uncertaintyScore": 20
     }
   }
 }
