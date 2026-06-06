@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T06:51:12.958Z",
+  "generated_at": "2026-06-06T06:16:17.632Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -13,13 +13,13 @@
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, with some individuals exhibiting resilience in the face of disappointment. The lottery's unpredictable nature fuels a mix of emotions, from hope to frustration, as people navigate the fine line between optimism and reality.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, with some individuals exhibiting perseverance and positivity in the face of uncertainty. The emotional highs and lows are also influenced by the unpredictability of lottery outcomes and the potential for misinformation or account security issues.",
   "riskSignals": [
-    "misprint errors",
-    "account security issues"
+    "misinformation",
+    "account security"
   ],
   "opportunitySignals": [
     "pattern tracking",
-    "increased jackpot sizes"
+    "community engagement"
   ]
 }

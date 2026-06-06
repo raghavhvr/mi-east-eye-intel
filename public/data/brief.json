@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-05T06:51:12.215Z",
+  "generated_at": "2026-06-06T06:16:17.003Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Stability",
-  "summary": "The MENA region remains relatively calm with no major security threats emerging from the headlines, although some concerns regarding US-Iran relations and a blast in Oman were noted. Overall, the region's stability is not significantly impacted by the reported events.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Unrest",
+  "summary": "Protests and settler raids in the West Bank have sparked tensions, while Amnesty International calls for the release of a Gaza hospital director. Regional instability and human rights concerns are ongoing, with potential for escalation",
   "keyTrends": [
-    "US-Iran relations",
-    "Oman terminal blast",
-    "Regional sports"
+    "Palestinian Protests",
+    "Gaza Humanitarian Crisis",
+    "Regional Tensions"
   ],
   "watchItems": [
-    "US-Iran tensions",
-    "Oman terminal operations"
+    "West Bank Settler Activity",
+    "Gaza Hospital Director Release"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional security concerns",
-    "Economic stability"
+    "Human Rights Abuses",
+    "Regional Instability"
   ]
 }
