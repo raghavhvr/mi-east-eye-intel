@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-06-06T06:04:38.465Z",
+  "generated_at": "2026-06-07T06:44:08.081Z",
   "gdelt_tone": {
-    "UAE": -0.56,
-    "Saudi Arabia": 0.02,
-    "Qatar": -0.38,
-    "Kuwait": -5.33,
-    "Bahrain": -2.15,
-    "Oman": -1.15,
-    "Jordan": -1.15,
-    "Lebanon": -4.25,
-    "Iraq": -2.44,
-    "Egypt": 0.02,
-    "Yemen": -3.05,
-    "Iran": -3.74
+    "UAE": -0.54,
+    "Saudi Arabia": -0.1,
+    "Qatar": -0.55,
+    "Kuwait": -5.38,
+    "Bahrain": -2.76,
+    "Oman": -0.86,
+    "Jordan": -1.09,
+    "Lebanon": -4.37,
+    "Iraq": -2.41,
+    "Egypt": 0,
+    "Yemen": -3.33,
+    "Iran": -3.85
   },
   "weather": {
-    "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 7,
+      "temp_c": 38,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 22,
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 6,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 36,
-      "wind_kmh": 9,
+      "temp_c": 39,
+      "wind_kmh": 17,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 20,
+    "Qatar": {
+      "temp_c": 42,
+      "wind_kmh": 12,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Doha"
     },
     "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 14,
+      "temp_c": 38,
+      "wind_kmh": 16,
       "condition": "Thunderstorm",
       "city": "Muscat"
     },
     "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 11,
+      "temp_c": 24,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Amman"
     },
     "Lebanon": {
-      "temp_c": 23,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "temp_c": 25,
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Beirut"
+    },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Manama"
     },
     "Iraq": {
       "temp_c": 35,
-      "wind_kmh": 4,
-      "condition": "Clear",
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 30,
-      "wind_kmh": 11,
-      "condition": "Clear",
+      "temp_c": 25,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Yemen": {
-      "temp_c": 26,
+      "temp_c": 27,
       "wind_kmh": 4,
       "condition": "Clear",
       "city": "Sanaa"
     },
     "Iran": {
-      "temp_c": 27,
+      "temp_c": 31,
       "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Tehran"
@@ -92,15 +92,135 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308562,
+    "KWD": 0.308468,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.821447,
-    "IQD": 1310.205121
+    "EGP": 51.820957,
+    "IQD": 1310.245191
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tz0atq",
+        "title": "When I wake up I will become the Powerball Jackpot Winner!",
+        "summary": "Look for me on Timothy Schultz channel! Goodnight everyone!",
+        "url": "https://reddit.com/r/Lottery/comments/1tz0atq/when_i_wake_up_i_will_become_the_powerball/",
+        "timestamp": "2026-06-07T02:50:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tyyoau",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tyyoau/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-06-07T01:30:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tyykxu",
+        "title": "So I drew what I would do if I won the lottery",
+        "summary": "Remove if not allowed",
+        "url": "https://reddit.com/r/Lottery/comments/1tyykxu/so_i_drew_what_i_would_do_if_i_won_the_lottery/",
+        "timestamp": "2026-06-07T01:25:38.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tyw0ve",
+        "title": "3 more hours to daydream about winging the Powerball before the numbers are drawn lol",
+        "summary": "I know I’m not the only one",
+        "url": "https://reddit.com/r/Lottery/comments/1tyw0ve/3_more_hours_to_daydream_about_winging_the/",
+        "timestamp": "2026-06-06T23:24:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tyun5r",
+        "title": "You turn 18. You make your first ever Lottery purchase as an adult. One draw game and one scratch off. Both have the same Overall Odds. Whichever game you win on determines what you can only play for the rest of your life. Draw games or scratch offs. Win both? You can play both.",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tyun5r/you_turn_18_you_make_your_first_ever_lottery/",
+        "timestamp": "2026-06-06T22:23:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1tysoib",
+        "title": "Delivery Driver Won Millions in the Lottery, Then Returned to Former Workplace to Share His Good Fortune with His Past Coworkers",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tysoib/delivery_driver_won_millions_in_the_lottery_then/",
+        "timestamp": "2026-06-06T20:59:53.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1typegj",
+        "title": "Powerball and mega millions",
+        "summary": "Is it worth is to buy a powerball or mega millions ticket or am I just wasting my time?? I’ve been seeing people saying don’t even waste your time because the odds of winning are low and to just buy state lottery tickets. I’ve been buying t",
+        "url": "https://reddit.com/r/Lottery/comments/1typegj/powerball_and_mega_millions/",
+        "timestamp": "2026-06-06T18:47:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Soundgas Sounds: Latest prize draw announced",
+        "summary": "Soundgas have announced the launch of their latest prize draw, giving entrants the opportunity to purchase a sample pack and be in with a chance of winning a pair of preamp pedals.",
+        "url": "https://www.soundonsound.com/news/soundgas-sounds-latest-prize-draw-announced",
+        "timestamp": "2026-06-05T17:00:00Z",
+        "source": "Soundonsound.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1txkkcq",
         "title": "Illinois iLottery fastplay jackpot.",
@@ -111,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,7 +276,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -171,23 +291,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 22,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1tx3oh6",
         "title": "The lottery told me that my $100,000 win was actually a $20.00 misprint. They pulled the game hours later.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑182 · 💬57",
         "url": "https://reddit.com/r/Lottery/comments/1tx3oh6/the_lottery_told_me_that_my_100000_win_was/",
         "timestamp": "2026-06-04T23:09:31.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 182,
+        "comments": 57,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -372,51 +492,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tu9m44",
-        "title": "About 4 hours left until the $180M draw tonight. Drop your Quick Picks or lines below, I'll filter out the low-probability trash for you for free.",
-        "summary": "Hey guys, looking at the countdown, we’ve got less than 5 hours before tonight's Powerball draw. Jackpot is sitting at a sweet $180 Million ($80.4M cash). I know a lot of us are rushing to grab last-minute Quick Picks or putting together ra",
-        "url": "https://reddit.com/r/Lottery/comments/1tu9m44/about_4_hours_left_until_the_180m_draw_tonight/",
-        "timestamp": "2026-06-01T23:30:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 5,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tu9ghk",
-        "title": "4.5 hours left until the $180M draw tonight. Drop your Quick Picks or lines below, I'll filter out the low-probability trash for you for free.",
-        "summary": "Hey guys, looking at the countdown, we’ve got less than 5 hours before tonight's Powerball draw. Jackpot is sitting at a sweet $180 Million ($80.4M cash). I know a lot of us are rushing to grab last-minute Quick Picks or putting together ra",
-        "url": "https://reddit.com/r/Lottery/comments/1tu9ghk/45_hours_left_until_the_180m_draw_tonight_drop/",
-        "timestamp": "2026-06-01T23:23:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ttrk9o",
-        "title": "I may not have won the Powerball Jackpot yet but I will. When I do, these are the main things I’m going to take care of. I am a winner no matter what.",
-        "summary": "I’m going to get me a lawyer/financial advisor. I want to stay anonymous if possible. Soon as the money hits my account, I’m obviously going to pay my debts. I’m getting my teeth fixed because they are messed up. Im going to move out of my ",
-        "url": "https://reddit.com/r/Lottery/comments/1ttrk9o/i_may_not_have_won_the_powerball_jackpot_yet_but/",
-        "timestamp": "2026-06-01T13:02:53.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 83,
-        "comments": 20,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9m",
         "title": "Big ticket early-stage bets fuel Europe's cybersecurity funding",
         "summary": "Dirk Waem/Getty Images After a near-record year for European cybersecurity VC funding, investment has maintained pace in Q1, with the focus shifting to...",
@@ -475,51 +550,6 @@
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1ttkthg",
-        "title": "After a brief hiatus, gift cards are back on the 2nd Chance Wheel for NY Lottery",
-        "summary": "Less than a week after removing them from the wheel, they’re back! Won $5 just a week ago and two days later it was only points and weekly/monthly draw spots.",
-        "url": "https://reddit.com/r/Lottery/comments/1ttkthg/after_a_brief_hiatus_gift_cards_are_back_on_the/",
-        "timestamp": "2026-06-01T07:26:53.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ttkrz7",
-        "title": "After a brief hiatus, gift cards are back on the 2nd Chance Wheel for NY Lottery",
-        "summary": "Less than a week after removing them from the wheel, they’re back! Won $5 just a week ago and two days later it was only points and weekly/monthly draw spots.",
-        "url": "https://reddit.com/r/Lottery/comments/1ttkrz7/after_a_brief_hiatus_gift_cards_are_back_on_the/",
-        "timestamp": "2026-06-01T07:24:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tti05d",
-        "title": "Breakeven",
-        "summary": "Had some recent consecutive winnings at this one gas station for Super Lotto. Decided to try my luck at a scratcher. The most expensive scratcher that I've ever bought.  (Yes, Yes, I scratch the whole thing 🥴)",
-        "url": "https://reddit.com/r/Lottery/comments/1tti05d/breakeven/",
-        "timestamp": "2026-06-01T04:56:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 34,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
       },
       {
         "id": "guardian-lot-environment-2026-may-30-on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
@@ -582,21 +612,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball jackpot reaches 154 million for Wednesday",
-        "summary": "The Powerball jackpot is now 154 million for Wednesday. Here is how to play and what the odds are for winning.",
-        "url": "https://www.usatoday.com/story/money/lottery/2026/05/27/powerball-jackpot-wednesday-may-27-drawing/90285385007/",
-        "timestamp": "2026-05-28T01:15:35Z",
-        "source": "USA Today",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
         "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
         "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
@@ -610,35 +625,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "hn-lot-48098047",
-        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
-        "summary": "3 pts · 0 comments",
-        "url": "https://www.messydata.app",
-        "timestamp": "2026-05-11T17:37:16.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
       "totalSignals": 35,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 31,
         "CYNICAL": 0,
-        "ANXIOUS": 2,
-        "NEUTRAL": 5
+        "ANXIOUS": 0,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 20
+      "uncertaintyScore": 11
     }
   }
 }
