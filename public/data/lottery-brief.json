@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T06:16:17.632Z",
+  "generated_at": "2026-06-07T06:49:40.370Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning big dreams",
+  "dominantNarrative": "Winning big changes lives",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "frustration"
+    "disappointment"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, with some individuals exhibiting perseverance and positivity in the face of uncertainty. The emotional highs and lows are also influenced by the unpredictability of lottery outcomes and the potential for misinformation or account security issues.",
+  "psychInsight": "The allure of life-changing wins drives engagement, while losses can lead to disillusionment. The psychology of variable rewards fuels persistent participation despite low odds of winning.",
   "riskSignals": [
-    "misinformation",
-    "account security"
+    "misprint errors",
+    "addiction potential"
   ],
   "opportunitySignals": [
-    "pattern tracking",
-    "community engagement"
+    "social sharing",
+    "jackpot enthusiasm"
   ]
 }

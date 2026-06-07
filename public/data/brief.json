@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-06T06:16:17.003Z",
+  "generated_at": "2026-06-07T06:49:39.822Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "MENA Unrest",
-  "summary": "Protests and settler raids in the West Bank have sparked tensions, while Amnesty International calls for the release of a Gaza hospital director. Regional instability and human rights concerns are ongoing, with potential for escalation",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "Recent headlines indicate rising tensions in the MENA region, with concerns over sovereignty and outrage over offensive content. Analysts are monitoring the situation closely, particularly with regards to Iran and Lebanon",
   "keyTrends": [
-    "Palestinian Protests",
-    "Gaza Humanitarian Crisis",
-    "Regional Tensions"
+    "Iranian Aggression",
+    "Lebanese Sovereignty",
+    "Palestinian Issues"
   ],
   "watchItems": [
-    "West Bank Settler Activity",
-    "Gaza Hospital Director Release"
+    "IAEA Meeting",
+    "Tribeca Film Festival"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Human Rights Abuses",
-    "Regional Instability"
+    "Regional Conflict",
+    "Offensive Content"
   ]
 }
