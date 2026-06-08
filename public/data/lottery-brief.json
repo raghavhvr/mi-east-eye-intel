@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T06:49:40.370Z",
+  "generated_at": "2026-06-08T07:15:22.929Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Winning Big Dreams",
   "keyEmotions": [
     "excitement",
     "optimism",
     "disappointment"
   ],
-  "psychInsight": "The allure of life-changing wins drives engagement, while losses can lead to disillusionment. The psychology of variable rewards fuels persistent participation despite low odds of winning.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, which can create a sense of euphoria and optimism. However, the risk of disappointment and misfortune can also lead to negative emotions and a sense of disillusionment.",
   "riskSignals": [
     "misprint errors",
-    "addiction potential"
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "social sharing",
-    "jackpot enthusiasm"
+    "increased engagement",
+    "loyalty programs"
   ]
 }

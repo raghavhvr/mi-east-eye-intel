@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-07T06:49:39.822Z",
+  "generated_at": "2026-06-08T07:15:22.260Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "Recent headlines indicate rising tensions in the MENA region, with concerns over sovereignty and outrage over offensive content. Analysts are monitoring the situation closely, particularly with regards to Iran and Lebanon",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Security",
+  "summary": "The majority of headlines are unrelated to regional security, but a statement from the Houthis has raised concerns. Overall, the situation remains stable, with no major escalations expected in the near term.",
   "keyTrends": [
-    "Iranian Aggression",
-    "Lebanese Sovereignty",
-    "Palestinian Issues"
+    "Houthi statements",
+    "regional maritime security",
+    "personal finance"
   ],
   "watchItems": [
-    "IAEA Meeting",
-    "Tribeca Film Festival"
+    "Houthi military targets",
+    "Red Sea shipping"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Conflict",
-    "Offensive Content"
+    "Houthi declarations",
+    "personal financial concerns"
   ]
 }
