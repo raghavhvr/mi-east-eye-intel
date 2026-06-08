@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-06-07T06:44:08.081Z",
+  "generated_at": "2026-06-08T07:09:40.452Z",
   "gdelt_tone": {
-    "UAE": -0.54,
-    "Saudi Arabia": -0.1,
-    "Qatar": -0.55,
-    "Kuwait": -5.38,
-    "Bahrain": -2.76,
-    "Oman": -0.86,
-    "Jordan": -1.09,
-    "Lebanon": -4.37,
-    "Iraq": -2.41,
-    "Egypt": 0,
-    "Yemen": -3.33,
-    "Iran": -3.85
+    "UAE": -0.56,
+    "Saudi Arabia": -0.25,
+    "Qatar": -0.88,
+    "Kuwait": -5.44,
+    "Bahrain": -2.71,
+    "Oman": -0.7,
+    "Jordan": -1.16,
+    "Lebanon": -4.52,
+    "Iraq": -2.7,
+    "Egypt": -0.1,
+    "Yemen": -3.47,
+    "Iran": -4
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Kuwait": {
+    "Qatar": {
       "temp_c": 39,
       "wind_kmh": 17,
       "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 42,
-      "wind_kmh": 12,
-      "condition": "Clear",
       "city": "Doha"
     },
+    "Iraq": {
+      "temp_c": 37,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 28,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Saudi Arabia": {
+      "temp_c": 39,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "UAE": {
+      "temp_c": 39,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Bahrain": {
+      "temp_c": 34,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Manama"
+    },
     "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 16,
-      "condition": "Thunderstorm",
+      "temp_c": 43,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Muscat"
     },
     "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 14,
+      "temp_c": 25,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Amman"
     },
     "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
-    "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Iraq": {
-      "temp_c": 35,
+      "temp_c": 24,
       "wind_kmh": 12,
       "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "city": "Beirut"
     },
-    "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 4,
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 10,
       "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Kuwait City"
     },
     "Iran": {
-      "temp_c": 31,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
+      "temp_c": 29,
+      "wind_kmh": 12,
+      "condition": "Clear",
       "city": "Tehran"
     }
   },
@@ -92,15 +92,30 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308468,
+    "KWD": 0.308214,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.820957,
-    "IQD": 1310.245191
+    "EGP": 51.81532,
+    "IQD": 1312.656878
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1tzrafs",
+        "title": "I want a $2 draw coupon on the Missouri Lotto app and turned it into $40",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1tzrafs/i_want_a_2_draw_coupon_on_the_missouri_lotto_app/",
+        "timestamp": "2026-06-07T23:22:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tz0atq",
         "title": "When I wake up I will become the Powerball Jackpot Winner!",
@@ -201,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 20,
+        "comments": 20,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -447,51 +462,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tuwi92",
-        "title": "Would States benefit from increasing EV of lottery?",
-        "summary": "We always hear that lotteries are a \"tax on the poor\" with some drawings have 95% expected loss per dollar. States generate Billions of dollars annually from Lotto sales, which they say is reinvested into schools and public services.  I was",
-        "url": "https://reddit.com/r/Lottery/comments/1tuwi92/would_states_benefit_from_increasing_ev_of_lottery/",
-        "timestamp": "2026-06-02T16:41:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tukifx",
-        "title": "Eurojackpot Numbers for today ( No financial advice or anything for your own risk)",
-        "summary": "7 - 21 - 23 - 44- 47 | 1 - 12",
-        "url": "https://reddit.com/r/Lottery/comments/1tukifx/eurojackpot_numbers_for_today_no_financial_advice/",
-        "timestamp": "2026-06-02T08:18:14.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tuc6ek",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1tuc6ek/powerball_winning_numbers_monday/",
-        "timestamp": "2026-06-02T01:20:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9m",
         "title": "Big ticket early-stage bets fuel Europe's cybersecurity funding",
         "summary": "Dirk Waem/Getty Images After a near-record year for European cybersecurity VC funding, investment has maintained pace in Q1, with the focus shifting to...",
@@ -597,21 +567,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "JP Nagar in Bengaluru gears up for grand finale this Sunday",
-        "summary": "JP Nagar hosts the grand finale of TOI Happy Streets this Sunday with meditation, yoga, Zumba, Mudgar workout, music, dance, CPR training and a lucky draw.",
-        "url": "https://timesofindia.indiatimes.com/city/bengaluru/jp-nagar-in-bengaluru-gears-up-for-grand-finale-this-sunday/articleshow/131375183.cms",
-        "timestamp": "2026-05-28T17:17:37Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
         "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
         "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
@@ -628,17 +583,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 35,
+      "totalSignals": 32,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 31,
+        "HOPEFUL": 28,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 11
+      "uncertaintyScore": 13
     }
   }
 }
