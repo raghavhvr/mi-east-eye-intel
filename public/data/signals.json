@@ -1,106 +1,211 @@
 {
-  "generated_at": "2026-06-08T07:09:40.452Z",
+  "generated_at": "2026-06-09T06:29:34.004Z",
   "gdelt_tone": {
-    "UAE": -0.56,
-    "Saudi Arabia": -0.25,
-    "Qatar": -0.88,
-    "Kuwait": -5.44,
-    "Bahrain": -2.71,
-    "Oman": -0.7,
-    "Jordan": -1.16,
-    "Lebanon": -4.52,
-    "Iraq": -2.7,
-    "Egypt": -0.1,
-    "Yemen": -3.47,
-    "Iran": -4
+    "UAE": -0.65,
+    "Saudi Arabia": -0.66,
+    "Qatar": -1.33,
+    "Kuwait": -5.4,
+    "Bahrain": -2.76,
+    "Oman": -0.91,
+    "Jordan": -0.99,
+    "Lebanon": -4.55,
+    "Iraq": -2.88,
+    "Egypt": -0.2,
+    "Yemen": -4,
+    "Iran": -4.2
   },
   "weather": {
-    "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 17,
+    "Jordan": {
+      "temp_c": 25,
+      "wind_kmh": 12,
       "condition": "Clear",
-      "city": "Doha"
-    },
-    "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Yemen": {
-      "temp_c": 28,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Amman"
     },
     "Saudi Arabia": {
-      "temp_c": 39,
+      "temp_c": 37,
       "wind_kmh": 7,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Egypt": {
-      "temp_c": 28,
+    "Lebanon": {
+      "temp_c": 24,
       "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 14,
+      "temp_c": 37,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 43,
-      "wind_kmh": 8,
+      "temp_c": 46,
+      "wind_kmh": 22,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 7,
+    "UAE": {
+      "temp_c": 35,
+      "wind_kmh": 20,
       "condition": "Clear",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 10,
+      "temp_c": 35,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Iran": {
-      "temp_c": 29,
+    "Qatar": {
+      "temp_c": 41,
       "wind_kmh": 12,
       "condition": "Clear",
+      "city": "Doha"
+    },
+    "Egypt": {
+      "temp_c": 26,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "Iran": {
+      "temp_c": 28,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Iraq": {
+      "temp_c": 37,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 27,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308214,
+    "KWD": 0.308789,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.81532,
-    "IQD": 1312.656878
+    "EGP": 52.091588,
+    "IQD": 1312.80476
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u0tvxz",
+        "title": "PA Lottery is using AI to scam people with the daily number drawings. Anyone else been noticing these weird patterns?",
+        "summary": "There is simply no way this is possible for it to be happening on a routine basis. I'm talking almost every single time I play it's 1 digit off...and the day time drawing will be 1 digit different than the previous night's drawing.  Every s",
+        "url": "https://reddit.com/r/Lottery/comments/1u0tvxz/pa_lottery_is_using_ai_to_scam_people_with_the/",
+        "timestamp": "2026-06-09T03:40:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u0tago",
+        "title": "I charted 30 years of Powerball draws — are any numbers actually \"due\"?",
+        "summary": "I grabbed the full Powerball draw history (1995–2025) and charted how often each number has come up — main balls 1–69 and the Powerball field 1–26. Short answer to the title: no. The most-drawn main number has appeared only \\~40% more than ",
+        "url": "https://reddit.com/r/Lottery/comments/1u0tago/i_charted_30_years_of_powerball_draws_are_any/",
+        "timestamp": "2026-06-09T03:11:34.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u0r4k0",
+        "title": "Powerball Winning Numbers (Wednesday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1u0r4k0/powerball_winning_numbers_wednesday/",
+        "timestamp": "2026-06-09T01:30:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u0qwnt",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1u0qwnt/powerball_winning_numbers_monday/",
+        "timestamp": "2026-06-09T01:20:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u0bnad",
+        "title": "Best deposit methods for online lottery/betting platforms?",
+        "summary": "I am just comparing different payment methods used on online lottery style platforms such as Lottoland. For someone who have used such platforms before, what deposit method do you usually use, debit card, e wallet, bank transfer, prepaid ca",
+        "url": "https://reddit.com/r/Lottery/comments/1u0bnad/best_deposit_methods_for_online_lotterybetting/",
+        "timestamp": "2026-06-08T15:44:43.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u08thp",
+        "title": "How to go from 1 in 292 million to 1 in 5,239",
+        "summary": "One of the most interesting concepts behind Repeating Numerical Groups (**RNP**) analysis is what I call **Collapsing Dimensional Space**. Most lottery discussions focus on predicting an exact future draw. In Powerball, that means correctly",
+        "url": "https://reddit.com/r/Lottery/comments/1u08thp/how_to_go_from_1_in_292_million_to_1_in_5239/",
+        "timestamp": "2026-06-08T14:01:32.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Train conductor who has spent two decades in Britain wins £1.8million house in prize draw - and immediately sells up to move back to Poland",
+        "summary": "Dawid Szulc (pictured), who lives in Crewe, Cheshire, won a fully-furnished mansion in Lancashire as well as a Land Rover Defender and £25,000 tax-free cash.",
+        "url": "https://www.dailymail.com/news/article-15876621/Train-conductor-two-decades-Britain-wins-house-prize-draw-immediately-sells-Poland.html",
+        "timestamp": "2026-06-08T00:10:25Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1tzrafs",
         "title": "I want a $2 draw coupon on the Missouri Lotto app and turned it into $40",
@@ -126,23 +231,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 10,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1tyyoau",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑4 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1tyyoau/powerball_winning_numbers_saturday/",
         "timestamp": "2026-06-07T01:30:11.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 31,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,38 +276,38 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 24,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1tyun5r",
         "title": "You turn 18. You make your first ever Lottery purchase as an adult. One draw game and one scratch off. Both have the same Overall Odds. Whichever game you win on determines what you can only play for the rest of your life. Draw games or scratch offs. Win both? You can play both.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1tyun5r/you_turn_18_you_make_your_first_ever_lottery/",
         "timestamp": "2026-06-06T22:23:05.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1tysoib",
         "title": "Delivery Driver Won Millions in the Lottery, Then Returned to Former Workplace to Share His Good Fortune with His Past Coworkers",
-        "summary": "↑1 · 💬0",
+        "summary": "↑17 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1tysoib/delivery_driver_won_millions_in_the_lottery_then/",
         "timestamp": "2026-06-06T20:59:53.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 17,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -387,81 +492,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tvhyco",
-        "title": "Lottery Discord",
-        "summary": "Are you interested to talk about Eurojackpot with others? Are you interested to share lotto numbers you play and discuss about the game (jackpot size, hot and cold numbers etc.)?  If yes, you are welcome to join Eurojackpot Community Discor",
-        "url": "https://reddit.com/r/Lottery/comments/1tvhyco/lottery_discord/",
-        "timestamp": "2026-06-03T07:22:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tv8gkv",
-        "title": "The Mega Millions just hit $346M for the next draw. Is anyone else switching from blind guessing to pattern tracking?",
-        "summary": "With the jackpot getting this massive, standard quick picks feel like throwing money into a black hole.  I’ve been trying to treat the historical data more like a market chart rather than pure random chaos. For example, looking at the hot/c",
-        "url": "https://reddit.com/r/Lottery/comments/1tv8gkv/the_mega_millions_just_hit_346m_for_the_next_draw/",
-        "timestamp": "2026-06-02T23:52:40.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tv8dyt",
-        "title": "I said I was going to win the Powerball, I never said which drawing it will be. 😁 Never give up and never let anyone discourage you.",
-        "summary": "I not only play for fun, but I love to visualize. Daydream. It’s like I already won. It’s coming.",
-        "url": "https://reddit.com/r/Lottery/comments/1tv8dyt/i_said_i_was_going_to_win_the_powerball_i_never/",
-        "timestamp": "2026-06-02T23:49:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 34,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tv7kl6",
-        "title": "Why is someone so insistent on getting into my lottery account to the point of locking it??",
-        "summary": "So I recently had someone try and get into my Missouri Lottery account for whatever reason, though were unsuccessful due to not having the correct credentials. This started around a month or so ago, and I just changed my password for good m",
-        "url": "https://reddit.com/r/Lottery/comments/1tv7kl6/why_is_someone_so_insistent_on_getting_into_my/",
-        "timestamp": "2026-06-02T23:15:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tuwjbv",
-        "title": "Do I need a lawyer?",
-        "summary": "Today was the release of the new ticket in Indiana. My husband scratched 100,000$ it was the symbol. He took his ticket to the lottery office and it scanned for 20. and there were around 7 other people with the same ticket with claimers. Th",
-        "url": "https://reddit.com/r/Lottery/comments/1tuwjbv/do_i_need_a_lawyer/",
-        "timestamp": "2026-06-02T16:42:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 45,
-        "comments": 43,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9m",
         "title": "Big ticket early-stage bets fuel Europe's cybersecurity funding",
         "summary": "Dirk Waem/Getty Images After a near-record year for European cybersecurity VC funding, investment has maintained pace in Q1, with the focus shifting to...",
@@ -552,21 +582,6 @@
         "isME": true
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Lottery winner who blew his £100,000 scratch card fortune and turned to drug dealing is jailed after threatening to petrol bomb a family home",
-        "summary": "Jack Tanbini, 30, who won on a £1 scratch card in 2014, was arrested after he and his friend Logan Hards, 30, violently raided a family home in November 2024.",
-        "url": "https://www.dailymail.com/news/article-15856693/Lottery-winner-blew-100-000-scratch-card-fortune-turned-drug-dealing-jailed-threatening-petrol-bomb-family-home.html",
-        "timestamp": "2026-05-28T20:41:33Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
         "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
         "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
@@ -580,20 +595,35 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "hn-lot-48098047",
+        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
+        "summary": "3 pts · 0 comments",
+        "url": "https://www.messydata.app",
+        "timestamp": "2026-05-11T17:37:16.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 32,
+      "totalSignals": 34,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 29,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 4
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 13
+      "uncertaintyScore": 15
     }
   }
 }
