@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-08T07:15:22.260Z",
+  "generated_at": "2026-06-09T06:34:50.268Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Security",
-  "summary": "The majority of headlines are unrelated to regional security, but a statement from the Houthis has raised concerns. Overall, the situation remains stable, with no major escalations expected in the near term.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran Israel Conflict",
+  "summary": "The Iran-Israel conflict is escalating with both countries engaging in strikes and warning of retaliation, while the US is dealing with separate issues in the region. The situation remains volatile, with potential for further escalation and impact on regional stability.",
   "keyTrends": [
-    "Houthi statements",
-    "regional maritime security",
-    "personal finance"
+    "Iran-Israel Conflict",
+    "US Middle East Policy",
+    "Regional Escalation"
   ],
   "watchItems": [
-    "Houthi military targets",
-    "Red Sea shipping"
+    "Iranian Deterrence",
+    "Israeli Air Defence"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Houthi declarations",
-    "personal financial concerns"
+    "Escalating Violence",
+    "Uncertain Ceasefire"
   ]
 }

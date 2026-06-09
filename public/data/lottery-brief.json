@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-08T07:15:22.929Z",
+  "generated_at": "2026-06-09T06:34:50.913Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning Big Dreams",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "disappointment"
+    "skepticism"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, which can create a sense of euphoria and optimism. However, the risk of disappointment and misfortune can also lead to negative emotions and a sense of disillusionment.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals exhibiting skepticism due to concerns about fairness and manipulation. The lottery's unpredictability and the occasional win create a psychological feedback loop that keeps people engaged and hopeful.",
   "riskSignals": [
-    "misprint errors",
+    "scam accusations",
     "unrealistic expectations"
   ],
   "opportunitySignals": [
     "increased engagement",
-    "loyalty programs"
+    "innovative platforms"
   ]
 }
