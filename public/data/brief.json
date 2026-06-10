@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-09T06:34:50.268Z",
+  "generated_at": "2026-06-10T06:50:22.834Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran Israel Conflict",
-  "summary": "The Iran-Israel conflict is escalating with both countries engaging in strikes and warning of retaliation, while the US is dealing with separate issues in the region. The situation remains volatile, with potential for further escalation and impact on regional stability.",
+  "threatLevel": "LOW",
+  "topTheme": "Daily Life",
+  "summary": "The open-source headlines indicate a focus on everyday concerns and interests, with no major security threats or geopolitical tensions evident. The overall tone suggests a sense of normalcy and routine, with individuals seeking information on various aspects of daily life, including employment, consumer goods, and personal services.",
   "keyTrends": [
-    "Iran-Israel Conflict",
-    "US Middle East Policy",
-    "Regional Escalation"
+    "Job market",
+    "Consumer spending",
+    "Expat life"
   ],
   "watchItems": [
-    "Iranian Deterrence",
-    "Israeli Air Defence"
+    "US-Iran tensions",
+    "World Cup 2026"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Escalating Violence",
-    "Uncertain Ceasefire"
+    "Lack of major security concerns",
+    "Focus on mundane topics"
   ]
 }

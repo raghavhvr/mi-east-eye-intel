@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T06:34:50.913Z",
+  "generated_at": "2026-06-10T06:50:23.479Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -9,17 +9,17 @@
   },
   "dominantNarrative": "Winning Big",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "skepticism"
+    "Excitement",
+    "Optimism",
+    "Skepticism"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals exhibiting skepticism due to concerns about fairness and manipulation. The lottery's unpredictability and the occasional win create a psychological feedback loop that keeps people engaged and hopeful.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals exhibiting skepticism due to concerns about fairness and transparency. The use of AI and patterns in lottery draws also sparks curiosity and debate among enthusiasts.",
   "riskSignals": [
-    "scam accusations",
-    "unrealistic expectations"
+    "Scam concerns",
+    "Unrealistic expectations"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "innovative platforms"
+    "Innovative deposit methods",
+    "Growing online lottery market"
   ]
 }
