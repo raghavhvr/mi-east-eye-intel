@@ -1,106 +1,151 @@
 {
-  "generated_at": "2026-06-09T06:29:34.004Z",
+  "generated_at": "2026-06-10T06:45:29.600Z",
   "gdelt_tone": {
-    "UAE": -0.65,
-    "Saudi Arabia": -0.66,
-    "Qatar": -1.33,
-    "Kuwait": -5.4,
-    "Bahrain": -2.76,
-    "Oman": -0.91,
-    "Jordan": -0.99,
-    "Lebanon": -4.55,
-    "Iraq": -2.88,
-    "Egypt": -0.2,
-    "Yemen": -4,
-    "Iran": -4.2
+    "UAE": -0.52,
+    "Saudi Arabia": -0.63,
+    "Qatar": -1.32,
+    "Kuwait": -5.26,
+    "Bahrain": -2.53,
+    "Oman": -0.94,
+    "Jordan": -1.21,
+    "Lebanon": -4.47,
+    "Iraq": -2.99,
+    "Egypt": -0.28,
+    "Yemen": -4.08,
+    "Iran": -4.16
   },
   "weather": {
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 12,
+    "UAE": {
+      "temp_c": 37,
+      "wind_kmh": 15,
       "condition": "Clear",
-      "city": "Amman"
+      "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 7,
+      "temp_c": 41,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+    "Qatar": {
+      "temp_c": 43,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Kuwait City"
     },
     "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 9,
+      "temp_c": 39,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 46,
-      "wind_kmh": 22,
+      "temp_c": 39,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 20,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
+    "Lebanon": {
+      "temp_c": 24,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
-    "Kuwait": {
-      "temp_c": 35,
-      "wind_kmh": 3,
+    "Jordan": {
+      "temp_c": 26,
+      "wind_kmh": 11,
       "condition": "Clear",
-      "city": "Kuwait City"
+      "city": "Amman"
     },
-    "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 12,
+    "Iraq": {
+      "temp_c": 40,
+      "wind_kmh": 6,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Baghdad"
     },
     "Egypt": {
       "temp_c": 26,
-      "wind_kmh": 8,
-      "condition": "Clear",
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 28,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
     },
     "Yemen": {
       "temp_c": 27,
-      "wind_kmh": 9,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 31,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308789,
+    "KWD": 0.308771,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.091588,
-    "IQD": 1312.80476
+    "EGP": 51.709499,
+    "IQD": 1312.96233
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u1p66g",
+        "title": "Lottery Winners",
+        "summary": "Anyone who has won a lottery jackpot or know of someone...did they feel lucky when they bought ticket, had weird dreams, or something told them to buy it? And do you believe some god or spirit heard their prayers to win and just granted the",
+        "url": "https://reddit.com/r/Lottery/comments/1u1p66g/lottery_winners/",
+        "timestamp": "2026-06-10T02:16:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u1gzcg",
+        "title": "Eurojackpot + Other lottery Discord",
+        "summary": "Are you interested to talk about Eurojackpot with others? Are you interested to share lotto numbers you play and discuss about the game (jackpot size, hot and cold numbers etc.)?  If yes, you are welcome to join Eurojackpot Community Discor",
+        "url": "https://reddit.com/r/Lottery/comments/1u1gzcg/eurojackpot_other_lottery_discord/",
+        "timestamp": "2026-06-09T20:34:01.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u1g4wi",
+        "title": "Whenever the local lottery releases a new scratch ticket game",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1u1g4wi/whenever_the_local_lottery_releases_a_new_scratch/",
+        "timestamp": "2026-06-09T20:03:42.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1u0tvxz",
         "title": "PA Lottery is using AI to scam people with the daily number drawings. Anyone else been noticing these weird patterns?",
@@ -172,7 +217,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,7 +231,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 10,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "BBC Predict – World Cup Prize Draw Terms",
+        "summary": "The terms for BBC Predict – World Cup Prize Draw.",
+        "url": "https://www.bbc.com/sport/football/articles/c23ykgl770go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "timestamp": "2026-06-08T12:56:07Z",
+        "source": "BBC News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -209,15 +269,15 @@
       {
         "id": "reddit-lot-1tzrafs",
         "title": "I want a $2 draw coupon on the Missouri Lotto app and turned it into $40",
-        "summary": "↑1 · 💬0",
+        "summary": "↑26 · 💬4",
         "url": "https://reddit.com/r/Lottery/comments/1tzrafs/i_want_a_2_draw_coupon_on_the_missouri_lotto_app/",
         "timestamp": "2026-06-07T23:22:10.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 26,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -462,36 +522,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1twnlk0",
-        "title": "How do you check lottery results quickly on draw days?",
-        "summary": "I usually check newspaper sources and official announcements, but sometimes updates can be delayed. How do you usually check lottery results on draw days? Do you prefer newspapers, official sources, or dedicated result websites?",
-        "url": "https://reddit.com/r/Lottery/comments/1twnlk0/how_do_you_check_lottery_results_quickly_on_draw/",
-        "timestamp": "2026-06-04T13:24:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tw5dao",
-        "title": "Millionaire for life",
-        "summary": "I buy 2 millionaire for life a day, stopped playing Powerball and mega millions due to never winning anything over 20$ but my question is do you think it was a good idea to get rid of lucky for life and add this game instead?",
-        "url": "https://reddit.com/r/Lottery/comments/1tw5dao/millionaire_for_life/",
-        "timestamp": "2026-06-03T22:47:20.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 13,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9m",
         "title": "Big ticket early-stage bets fuel Europe's cybersecurity funding",
         "summary": "Dirk Waem/Getty Images After a near-record year for European cybersecurity VC funding, investment has maintained pace in Q1, with the focus shifting to...",
@@ -504,51 +534,6 @@
         "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Jackpot Climbs to $180 Million for Monday Drawing After No Winner Saturday",
-        "summary": "The Powerball jackpot has increased to $180 million after no winner was found in Saturday's draw. The next drawing is scheduled for Monday night, offering another chance at a life-changing prize.",
-        "url": "https://www.ibtimes.com.au/powerball-jackpot-climbs-180-million-next-drawing-monday-1869881",
-        "timestamp": "2026-06-01T09:32:52Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Kogan drops huge EOFY sale with up to 70 per cent off big ticket items including home entertainment, appliances and tech",
-        "summary": "One of the best sales of the year is here, and you can grab up to 70% off everything from TVs and mobile phones, to home appliances, sports tech and more.",
-        "url": "https://www.dailymail.com/buyline/article-15863019/Kogan-drops-huge-EOFY-sale-70-cent-big-ticket-items-including-home-entertainment-appliances-tech.html",
-        "timestamp": "2026-06-01T09:29:02Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "The Good Luck Club review: Absorbing study of Irish sweepstake greed features oodles of skulduggery",
-        "summary": "Louise Lowe’s promenade piece, at the National Archives, portrays the shady history of the Irish Hospitals’ Sweepstake",
-        "url": "https://www.irishtimes.com/culture/stage/review/2026/06/01/the-good-luck-club-review-absorbing-study-of-irish-sweepstake-greed-features-oodles-of-skulduggery/",
-        "timestamp": "2026-06-01T07:52:06Z",
-        "source": "The Irish Times",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
         "isME": true
       },
       {
@@ -567,21 +552,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9h",
-        "title": "A trip to the United Arab Emirates' darkest spot reveals a rare view of the Milky Way",
-        "summary": "The gleaming skyscrapers and brights lights of the United Arab Emirates draw the eyes of all who travel here",
-        "url": "https://abcnews.com/International/wireStory/trip-united-arab-emirates-darkest-spot-reveals-rare-133442494",
-        "timestamp": "2026-05-30T05:46:31Z",
-        "source": "Abcnews.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "guardian-lot-football-2026-may-21-zohran-mamdani-world-cup-tickets-new-york-city",
         "title": "Zohran Mamdani announces $50 World Cup ticket lottery for New York City residents",
         "summary": "The NYC mayor, who has taken aim at Fifa over ticket prices, announced that 1,000 tickets over seven games will be available for $50 each",
@@ -595,35 +565,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "hn-lot-48098047",
-        "title": "Show HN: MessyData – turn messy data into clean tables/CSV",
-        "summary": "3 pts · 0 comments",
-        "url": "https://www.messydata.app",
-        "timestamp": "2026-05-11T17:37:16.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 34,
-      "meSignals": 4,
+      "totalSignals": 31,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 29,
+        "HOPEFUL": 28,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 5
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 15
+      "uncertaintyScore": 10
     }
   }
 }
