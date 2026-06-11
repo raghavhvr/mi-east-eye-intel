@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-10T06:50:22.834Z",
+  "generated_at": "2026-06-11T07:16:57.067Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Daily Life",
-  "summary": "The open-source headlines indicate a focus on everyday concerns and interests, with no major security threats or geopolitical tensions evident. The overall tone suggests a sense of normalcy and routine, with individuals seeking information on various aspects of daily life, including employment, consumer goods, and personal services.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Middle East Conflict",
+  "summary": "The region is experiencing increased military activity with exchanges between the US and Iran, as well as Israeli attacks on Lebanon. This escalation may lead to further destabilization in the already volatile Middle East region.",
   "keyTrends": [
-    "Job market",
-    "Consumer spending",
-    "Expat life"
+    "US-Iran tensions",
+    "Israel-Lebanon conflict",
+    "Regional instability"
   ],
   "watchItems": [
-    "US-Iran tensions",
-    "World Cup 2026"
+    "Iranian retaliation",
+    "Lebanese response"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Lack of major security concerns",
-    "Focus on mundane topics"
+    "Military escalation",
+    "Regional uncertainty"
   ]
 }
