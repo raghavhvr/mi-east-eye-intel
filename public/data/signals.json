@@ -1,73 +1,73 @@
 {
-  "generated_at": "2026-06-10T06:45:29.600Z",
+  "generated_at": "2026-06-11T07:11:10.096Z",
   "gdelt_tone": {
-    "UAE": -0.52,
-    "Saudi Arabia": -0.63,
-    "Qatar": -1.32,
-    "Kuwait": -5.26,
-    "Bahrain": -2.53,
-    "Oman": -0.94,
-    "Jordan": -1.21,
-    "Lebanon": -4.47,
-    "Iraq": -2.99,
-    "Egypt": -0.28,
-    "Yemen": -4.08,
-    "Iran": -4.16
+    "UAE": -0.23,
+    "Saudi Arabia": -0.41,
+    "Qatar": -1.46,
+    "Kuwait": -4.38,
+    "Bahrain": -1.95,
+    "Oman": -1.62,
+    "Jordan": -1.85,
+    "Lebanon": -4.4,
+    "Iraq": -3.03,
+    "Egypt": -0.19,
+    "Yemen": -4.18,
+    "Iran": -4.1
   },
   "weather": {
-    "UAE": {
-      "temp_c": 37,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
+    "Oman": {
+      "temp_c": 38,
+      "wind_kmh": 12,
+      "condition": "Thunderstorm",
+      "city": "Muscat"
     },
     "Saudi Arabia": {
-      "temp_c": 41,
-      "wind_kmh": 9,
+      "temp_c": 40,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 43,
+    "Iran": {
+      "temp_c": 33,
       "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     },
     "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 5,
+      "temp_c": 41,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 39,
-      "wind_kmh": 4,
+    "Qatar": {
+      "temp_c": 43,
+      "wind_kmh": 13,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Doha"
     },
-    "Oman": {
-      "temp_c": 39,
+    "UAE": {
+      "temp_c": 38,
       "wind_kmh": 14,
       "condition": "Clear",
-      "city": "Muscat"
+      "city": "Abu Dhabi"
     },
     "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 11,
+      "temp_c": 25,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
       "temp_c": 26,
-      "wind_kmh": 11,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 40,
-      "wind_kmh": 6,
+    "Bahrain": {
+      "temp_c": 38,
+      "wind_kmh": 9,
       "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Manama"
     },
     "Egypt": {
       "temp_c": 26,
@@ -75,32 +75,107 @@
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
+    "Iraq": {
+      "temp_c": 39,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
     "Yemen": {
       "temp_c": 27,
-      "wind_kmh": 11,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 31,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308771,
+    "KWD": 0.308688,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.709499,
-    "IQD": 1312.96233
+    "EGP": 51.806516,
+    "IQD": 1309.958791
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u2p0v1",
+        "title": "Cash option on mega millions",
+        "summary": "I knew that the current interest rates had an impact on the cash option on mega millions, but I didn’t realize how much it does. In 2020, a similar sized jackpot to what is currently advertised offered a cash option of more than 175% of the",
+        "url": "https://reddit.com/r/Lottery/comments/1u2p0v1/cash_option_on_mega_millions/",
+        "timestamp": "2026-06-11T04:33:34.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u2mygu",
+        "title": "Best deposit methods for online lottery/betting platforms?",
+        "summary": "I’m comparing different payment methods used on online lottery-style platforms like Lottoland and similar sites. For people who’ve used these kinds of platforms before, what deposit method do you usually prefer, debit card, e-wallet, bank t",
+        "url": "https://reddit.com/r/Lottery/comments/1u2mygu/best_deposit_methods_for_online_lotterybetting/",
+        "timestamp": "2026-06-11T02:52:55.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u2axmc",
+        "title": "Fellow California Scratchers: 7's Ticket Is A Great Bet Right Now, Here's Why",
+        "summary": "The 7's just crossed 90% expected value (EV) yesterday! So out of the 24 states I track this is currently the 18th best ticket in the country to buy right now. Almost 60% of tickets are sold and 4/5 jackpots are still remaining. 90% EV mean",
+        "url": "https://reddit.com/r/Lottery/comments/1u2axmc/fellow_california_scratchers_7s_ticket_is_a_great/",
+        "timestamp": "2026-06-10T18:40:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u22fnr",
+        "title": "In the Polish Lotto game (Duży Lotek) there is a set of 12 \"golden numbers\": 16, 17, 18, 19, 21, 23, 24, 28, 29, 36, 38, 41, and if I had played them using the 12-number system in every draw since the beginning of lottery in Poland in 1957, I would have won the jackpot 7 times (ROI of 106.5%).",
+        "summary": "In the Polish Lotto game (Duży Lotek) there is a set of 12 \"golden numbers\": **16**, **17**, **18**, **19**, **21**, **23**, **24**, **28**, **29**, **36**, **38**, **41**. If I had played them using the 12-number system in every draw since",
+        "url": "https://reddit.com/r/Lottery/comments/1u22fnr/in_the_polish_lotto_game_duży_lotek_there_is_a/",
+        "timestamp": "2026-06-10T13:36:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "'Hands, legs were shaking': Rs 78,00,00,000 lottery win for Nepali Security Guard in UAE, he plans to build a house and own Mahindra Thar",
+        "summary": "A Nepali security guard in Abu Dhabi has won a Dh30 million lottery jackpot. Tayab Khan and four friends pooled money for the winning ticket. Each friend receives Dh6 million. Khan dreams of buying a Mahindra Thar and a new house for his family. The win offer…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/hands-legs-were-shaking-rs-780000000-lottery-win-for-nepali-security-guard-in-uae-he-plans-to-build-a-house-and-own-mahindra-thar/articleshow/131624522.cms",
+        "timestamp": "2026-06-10T04:16:34Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1u1p66g",
         "title": "Lottery Winners",
@@ -115,6 +190,21 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "I secretly became a millionaire after winning the lottery - but I'm still working at a job I hate and driving Ubers for a living",
+        "summary": "A woman who grew up poor has revealed how she's been living as if nothing ever changed after secretly becoming a millionaire overnight.",
+        "url": "https://www.dailymail.com/lifestyle/article-15887275/I-secretly-millionaire-winning-lottery-Im-working-job-hate-driving-Ubers-living.html",
+        "timestamp": "2026-06-10T01:43:09Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
       },
       {
         "id": "reddit-lot-1u1gzcg",
@@ -156,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 37,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -194,14 +284,14 @@
       {
         "id": "reddit-lot-1u0qwnt",
         "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑2 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1u0qwnt/powerball_winning_numbers_monday/",
         "timestamp": "2026-06-09T01:20:06.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -477,66 +567,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1tx3oh6",
-        "title": "The lottery told me that my $100,000 win was actually a $20.00 misprint. They pulled the game hours later.",
-        "summary": "↑182 · 💬57",
-        "url": "https://reddit.com/r/Lottery/comments/1tx3oh6/the_lottery_told_me_that_my_100000_win_was/",
-        "timestamp": "2026-06-04T23:09:31.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 182,
-        "comments": 57,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1twt2gt",
-        "title": "I’m officially done.",
-        "summary": "I started playing the lottery weekly last year and I save all my slips. There’s even more that I can’t get to right now in an envelope, but looking at this. I think it’s about time for a break from the lottery.",
-        "url": "https://reddit.com/r/Lottery/comments/1twt2gt/im_officially_done/",
-        "timestamp": "2026-06-04T16:40:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 120,
-        "comments": 73,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1twr9oa",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1twr9oa/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-06-04T15:38:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9m",
-        "title": "Big ticket early-stage bets fuel Europe's cybersecurity funding",
-        "summary": "Dirk Waem/Getty Images After a near-record year for European cybersecurity VC funding, investment has maintained pace in Q1, with the focus shifting to...",
-        "url": "https://finance.yahoo.com/sectors/technology/articles/big-ticket-early-stage-bets-114950833.html",
-        "timestamp": "2026-06-01T11:49:50Z",
-        "source": "Yahoo Entertainment",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "guardian-lot-environment-2026-may-30-on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
         "title": "On-street EV charging in UK is postcode lottery as drivers face council objections",
         "summary": "Despite government pledges, more than 20 authorities will not allow gullies, citing safety, legal and parking worries",
@@ -568,17 +598,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 31,
-      "meSignals": 1,
+      "totalSignals": 33,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 31,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 3
+        "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 10
+      "uncertaintyScore": 6
     }
   }
 }
