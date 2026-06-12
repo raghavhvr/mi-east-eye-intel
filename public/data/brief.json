@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-11T07:16:57.067Z",
+  "generated_at": "2026-06-12T07:06:53.040Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Middle East Conflict",
-  "summary": "The region is experiencing increased military activity with exchanges between the US and Iran, as well as Israeli attacks on Lebanon. This escalation may lead to further destabilization in the already volatile Middle East region.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "Recent headlines indicate increased tensions in the MENA region, with Israeli attacks on Lebanon and cyber group hacks. Regional instability and security concerns are on the rise, warranting close monitoring of developments in the area.",
   "keyTrends": [
-    "US-Iran tensions",
-    "Israel-Lebanon conflict",
-    "Regional instability"
+    "Regional Conflict",
+    "Cybersecurity Threats",
+    "Economic Development"
   ],
   "watchItems": [
-    "Iranian retaliation",
-    "Lebanese response"
+    "Israel-Lebanon Conflict",
+    "Iran-Related Hacks"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Military escalation",
-    "Regional uncertainty"
+    "Regional Instability",
+    "Security Concerns"
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-11T07:16:57.630Z",
+  "generated_at": "2026-06-12T07:06:53.604Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Winning Big Dreams",
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Skepticism"
+    "Curiosity"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals exhibiting a more cautious approach due to concerns about fairness and manipulation. The lottery's ability to evoke strong emotions is rooted in its promise of instant gratification and the human brain's tendency to overestimate low-probability events.",
+  "psychInsight": "The public's fascination with lottery and gambling is driven by the desire for financial freedom and the thrill of taking risks. The hope of winning big is a powerful motivator, often overriding concerns about probability and odds.",
   "riskSignals": [
-    "Scams",
-    "Manipulation"
+    "Scam concerns",
+    "Addiction potential"
   ],
   "opportunitySignals": [
-    "Innovative Platforms",
-    "Responsible Gaming"
+    "Innovative payment methods",
+    "Growing online platforms"
   ]
 }
