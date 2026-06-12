@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-06-11T07:11:10.096Z",
+  "generated_at": "2026-06-12T06:57:44.163Z",
   "gdelt_tone": {
-    "UAE": -0.23,
-    "Saudi Arabia": -0.41,
-    "Qatar": -1.46,
-    "Kuwait": -4.38,
-    "Bahrain": -1.95,
-    "Oman": -1.62,
-    "Jordan": -1.85,
-    "Lebanon": -4.4,
-    "Iraq": -3.03,
-    "Egypt": -0.19,
-    "Yemen": -4.18,
-    "Iran": -4.1
+    "UAE": -0.52,
+    "Saudi Arabia": -0.31,
+    "Qatar": -1.53,
+    "Kuwait": -3.99,
+    "Bahrain": -2.19,
+    "Oman": -2.43,
+    "Jordan": -2.26,
+    "Lebanon": -4.53,
+    "Iraq": -3.05,
+    "Egypt": -0.18,
+    "Yemen": -4.14,
+    "Iran": -4.02
   },
   "weather": {
-    "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 12,
-      "condition": "Thunderstorm",
-      "city": "Muscat"
-    },
     "Saudi Arabia": {
-      "temp_c": 40,
-      "wind_kmh": 10,
+      "temp_c": 39,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Iran": {
-      "temp_c": 33,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Kuwait": {
-      "temp_c": 41,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 43,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 14,
+      "temp_c": 37,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Qatar": {
+      "temp_c": 41,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 35,
+      "wind_kmh": 22,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 39,
+      "wind_kmh": 11,
+      "condition": "Thunderstorm",
+      "city": "Muscat"
+    },
+    "Kuwait": {
+      "temp_c": 39,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Lebanon": {
       "temp_c": 25,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 16,
+      "condition": "Clear",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 26,
+      "temp_c": 24,
       "wind_kmh": 13,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Bahrain": {
-      "temp_c": 38,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Egypt": {
-      "temp_c": 26,
+      "temp_c": 27,
       "wind_kmh": 6,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 39,
-      "wind_kmh": 8,
+      "temp_c": 37,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Baghdad"
     },
+    "Iran": {
+      "temp_c": 34,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Tehran"
+    },
     "Yemen": {
       "temp_c": 27,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 7,
+      "condition": "Clear",
       "city": "Sanaa"
     }
   },
@@ -92,15 +92,30 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308688,
+    "KWD": 0.308237,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.806516,
-    "IQD": 1309.958791
+    "EGP": 51.982915,
+    "IQD": 1310.994122
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u32j3x",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1u32j3x/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-06-11T15:38:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1u2p0v1",
         "title": "Cash option on mega millions",
@@ -141,8 +156,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 12,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 7,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 14,
+        "comments": 18,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,23 +231,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1u1g4wi",
         "title": "Whenever the local lottery releases a new scratch ticket game",
-        "summary": "↑1 · 💬0",
+        "summary": "↑31 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1u1g4wi/whenever_the_local_lottery_releases_a_new_scratch/",
         "timestamp": "2026-06-09T20:03:42.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 31,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -492,21 +507,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1txkkcq",
-        "title": "Illinois iLottery fastplay jackpot.",
-        "summary": "Hello, I recently discovered you can play “scratch tickets” on the IL lottery app. A month later on 5/20 at 2:30am I won $6,903 on a $1 fast play. I submitted an Eclaim immediately after. What can I expect now and when can I expect my check",
-        "url": "https://reddit.com/r/Lottery/comments/1txkkcq/illinois_ilottery_fastplay_jackpot/",
-        "timestamp": "2026-06-05T13:10:36.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-business-2026-jun-05-william-hill-owner-agrees-evoke-takeover-greek-casino-lottery-firm",
         "title": "William Hill owner agrees £243m takeover by Greek casino and lottery firm",
         "summary": "Evoke had been in talks for two months with Bally’s Intralot, which has extensive international operations",
@@ -519,51 +519,6 @@
         "score": 0,
         "comments": 0,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tx87ny",
-        "title": "Hot daily win numbers gerrintee",
-        "summary": "Hot spot garnnteee win numbers. For the day. Buy min 10consecitive plays to win. 27 30 37 58  Who ever interest in California.   .  hot spot lottery here ur winning sequence. For the day.   U will win.  But u have to by consecutive rounds. ",
-        "url": "https://reddit.com/r/Lottery/comments/1tx87ny/hot_daily_win_numbers_gerrintee/",
-        "timestamp": "2026-06-05T02:32:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tx7yj8",
-        "title": "Hot spot garnnteee win numbers. For the day. Buy min 10consecitive plays to win.",
-        "summary": "Who ever interest in California.   .  hot spot lottery here ur winning sequence. For the day.   U will win.  But u have to by consecutive rounds. Min 10 to win at the highest 25to 458 dollars",
-        "url": "https://reddit.com/r/Lottery/comments/1tx7yj8/hot_spot_garnnteee_win_numbers_for_the_day_buy/",
-        "timestamp": "2026-06-05T02:20:21.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tx7dkr",
-        "title": "I be so happy seeing other people posts of them winning whether it be big or small.",
-        "summary": "I know my turn will be coming. I enjoy reading people’s winning stories on here and on the Lottery website.",
-        "url": "https://reddit.com/r/Lottery/comments/1tx7dkr/i_be_so_happy_seeing_other_people_posts_of_them/",
-        "timestamp": "2026-06-05T01:53:55.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 22,
-        "comments": 1,
-        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -598,17 +553,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 33,
+      "totalSignals": 30,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 31,
+        "HOPEFUL": 28,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 6
+      "uncertaintyScore": 7
     }
   }
 }
