@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-12T07:06:53.040Z",
+  "generated_at": "2026-06-13T06:41:01.182Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "Recent headlines indicate increased tensions in the MENA region, with Israeli attacks on Lebanon and cyber group hacks. Regional instability and security concerns are on the rise, warranting close monitoring of developments in the area.",
+  "topTheme": "Israel Iran Tensions",
+  "summary": "Recent developments indicate increased tensions between Israel and Iran, with potential implications for regional stability. A new deal may halt Iran's nuclear program, but Israeli concerns and Iranian commander statements suggest ongoing instability.",
   "keyTrends": [
-    "Regional Conflict",
-    "Cybersecurity Threats",
-    "Economic Development"
+    "Iran Nuclear Deal",
+    "Israel Lebanon Tensions",
+    "Turkish-Saudi Trade"
   ],
   "watchItems": [
-    "Israel-Lebanon Conflict",
-    "Iran-Related Hacks"
+    "Iranian Military Statements",
+    "Israeli Strikes in Lebanon"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Security Concerns"
+    "Escalating Rhetoric",
+    "Regional Instability"
   ]
 }
