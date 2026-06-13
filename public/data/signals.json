@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-06-12T06:57:44.163Z",
+  "generated_at": "2026-06-13T06:34:14.706Z",
   "gdelt_tone": {
-    "UAE": -0.52,
-    "Saudi Arabia": -0.31,
-    "Qatar": -1.53,
-    "Kuwait": -3.99,
-    "Bahrain": -2.19,
-    "Oman": -2.43,
-    "Jordan": -2.26,
-    "Lebanon": -4.53,
-    "Iraq": -3.05,
-    "Egypt": -0.18,
-    "Yemen": -4.14,
-    "Iran": -4.02
+    "UAE": -0.44,
+    "Saudi Arabia": -0.28,
+    "Qatar": -1.33,
+    "Kuwait": -3.76,
+    "Bahrain": -2.2,
+    "Oman": -2.65,
+    "Jordan": -2.34,
+    "Lebanon": -4.45,
+    "Iraq": -3.12,
+    "Egypt": -0.25,
+    "Yemen": -4.16,
+    "Iran": -3.85
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 39,
-      "wind_kmh": 6,
+      "temp_c": 38,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "UAE": {
-      "temp_c": 37,
-      "wind_kmh": 15,
+      "temp_c": 35,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 18,
+      "temp_c": 40,
+      "wind_kmh": 21,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Kuwait": {
+      "temp_c": 38,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 22,
+      "temp_c": 36,
+      "wind_kmh": 17,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 39,
+      "temp_c": 37,
       "wind_kmh": 11,
       "condition": "Thunderstorm",
       "city": "Muscat"
     },
-    "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
     "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 13,
+      "temp_c": 23,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Amman"
     },
+    "Lebanon": {
+      "temp_c": 25,
+      "wind_kmh": 18,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Egypt": {
       "temp_c": 27,
-      "wind_kmh": 6,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 7,
+      "temp_c": 36,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Baghdad"
     },
     "Iran": {
       "temp_c": 34,
-      "wind_kmh": 17,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Tehran"
     },
     "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 7,
+      "temp_c": 28,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Sanaa"
     }
@@ -92,15 +92,60 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308237,
+    "KWD": 0.308313,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.982915,
-    "IQD": 1310.994122
+    "EGP": 51.980518,
+    "IQD": 1311.028413
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u4abf3",
+        "title": "Dashboards Website",
+        "summary": "https://lottoscope.org",
+        "url": "https://reddit.com/r/Lottery/comments/1u4abf3/dashboards_website/",
+        "timestamp": "2026-06-12T22:55:14.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "hn-lot-48503113",
+        "title": "Show HN: Treeline – beautiful, powerful wilderness topo maps for iOS",
+        "summary": "3 pts · 0 comments",
+        "url": "https://apps.apple.com/us/app/treeline-maps-topo-trails/id6761303613",
+        "timestamp": "2026-06-12T12:10:02.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "guardian-lot-world-2026-jun-12-nigerian-man-unable-to-claim-italian-lottery-win-gains-residency-permit",
+        "title": "Nigerian man unable to claim Italian lottery win gains residency permit",
+        "summary": "Former street seller celebrates newfound rights after debacle in claiming €500,000 scratchcard prize while undocumented",
+        "url": "https://www.theguardian.com/world/2026/jun/12/nigerian-man-unable-to-claim-italian-lottery-win-gains-residency-permit",
+        "timestamp": "2026-06-12T06:59:40Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1u32j3x",
         "title": "What Would You Do If You Won? (Weekly Discussion)",
@@ -111,8 +156,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -126,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 7,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,7 +186,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -553,17 +598,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 30,
+      "totalSignals": 33,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 29,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 2
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 7
+      "uncertaintyScore": 12
     }
   }
 }
