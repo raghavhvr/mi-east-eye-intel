@@ -1,106 +1,124 @@
 {
-  "generated_at": "2026-06-13T06:34:14.706Z",
+  "generated_at": "2026-06-14T07:00:10.119Z",
   "gdelt_tone": {
-    "UAE": -0.44,
-    "Saudi Arabia": -0.28,
-    "Qatar": -1.33,
-    "Kuwait": -3.76,
-    "Bahrain": -2.2,
-    "Oman": -2.65,
-    "Jordan": -2.34,
-    "Lebanon": -4.45,
-    "Iraq": -3.12,
-    "Egypt": -0.25,
-    "Yemen": -4.16,
-    "Iran": -3.85
+    "UAE": -0.45,
+    "Saudi Arabia": -0.12,
+    "Qatar": -0.95,
+    "Kuwait": -3.02,
+    "Bahrain": -1.66,
+    "Oman": -2.75,
+    "Jordan": -2.44,
+    "Lebanon": -4.25,
+    "Iraq": -3.18,
+    "Egypt": -0.12,
+    "Yemen": -4.25,
+    "Iran": -3.6
   },
   "weather": {
-    "Saudi Arabia": {
+    "UAE": {
       "temp_c": 38,
       "wind_kmh": 3,
       "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 9,
-      "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Saudi Arabia": {
+      "temp_c": 41,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 21,
+      "temp_c": 43,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Doha"
     },
     "Kuwait": {
       "temp_c": 38,
-      "wind_kmh": 9,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 17,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Oman": {
       "temp_c": 37,
-      "wind_kmh": 11,
+      "wind_kmh": 13,
       "condition": "Thunderstorm",
       "city": "Muscat"
-    },
-    "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 36,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Iran": {
-      "temp_c": 34,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 28,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308313,
+    "KWD": 0.308264,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.980518,
-    "IQD": 1311.028413
+    "EGP": 51.980613,
+    "IQD": 1311.08035
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u57u40",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1u57u40/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-06-14T01:30:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u53wvf",
+        "title": "$20 not $100,000",
+        "summary": "This happens far too often! &#x200B; https://www.yahoo.com/news/us/articles/lottery-winner-thought-won-100-100000552.html",
+        "url": "https://reddit.com/r/Lottery/comments/1u53wvf/20_not_100000/",
+        "timestamp": "2026-06-13T22:22:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u4v73k",
+        "title": "Free stats",
+        "summary": "free loto stats here : https://lottoscope.org",
+        "url": "https://reddit.com/r/Lottery/comments/1u4v73k/free_stats/",
+        "timestamp": "2026-06-13T16:23:01.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "'Lambo Guy' Adrian Portelli sues former minister over lottery comments",
+        "summary": "Melbourne \"rewards club\" lottery billionaire Adrian Portelli has launched a defamation lawsuit against former SA minister Andrea Michaels over comments she made about a $3.5 million home prize draw.",
+        "url": "https://www.abc.net.au/news/2026-06-13/rewards-club-lottery-businessman-adrian-portelli-sues-minister/106791500",
+        "timestamp": "2026-06-13T02:00:06Z",
+        "source": "ABC News (AU)",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1u4abf3",
         "title": "Dashboards Website",
@@ -117,18 +135,18 @@
         "isME": false
       },
       {
-        "id": "hn-lot-48503113",
-        "title": "Show HN: Treeline – beautiful, powerful wilderness topo maps for iOS",
-        "summary": "3 pts · 0 comments",
-        "url": "https://apps.apple.com/us/app/treeline-maps-topo-trails/id6761303613",
-        "timestamp": "2026-06-12T12:10:02.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Kerala Lottery Result Today Suvarna Keralam SK-56 (12-06-2026): Rs 1 crore, Rs 30 lakh and Rs 5 lakh prize-winning numbers. Full list here",
+        "summary": "Kerala Lottery Result Today: Kerala lottery enthusiasts are eagerly awaiting the Suvarna Keralam SK-56 Result today, June 12, 2026. The draw, conducted by the Kerala State Lotteries Department, is expected to announce a Rs 1 Crore first prize winner. Particip…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/kerala-lottery-result-today-suvarna-keralam-sk-56-12-06-2026-rs-1-crore-rs-30-lakh-and-rs-5-lakh-prize-winning-numbers-full-list-here/articleshow/131679058.cms",
+        "timestamp": "2026-06-12T08:43:56Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
-        "score": 3,
+        "score": 0,
         "comments": 0,
-        "mood": "NEUTRAL",
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -537,21 +555,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Soundgas Sounds: Latest prize draw announced",
-        "summary": "Soundgas have announced the launch of their latest prize draw, giving entrants the opportunity to purchase a sample pack and be in with a chance of winning a pair of preamp pedals.",
-        "url": "https://www.soundonsound.com/news/soundgas-sounds-latest-prize-draw-announced",
-        "timestamp": "2026-06-05T17:00:00Z",
-        "source": "Soundonsound.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-business-2026-jun-05-william-hill-owner-agrees-evoke-takeover-greek-casino-lottery-firm",
         "title": "William Hill owner agrees £243m takeover by Greek casino and lottery firm",
         "summary": "Evoke had been in talks for two months with Bally’s Intralot, which has extensive international operations",
@@ -598,17 +601,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 33,
+      "totalSignals": 36,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 29,
+        "HOPEFUL": 32,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 12
+      "uncertaintyScore": 11
     }
   }
 }
