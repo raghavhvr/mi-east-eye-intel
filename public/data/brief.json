@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-13T06:41:01.182Z",
+  "generated_at": "2026-06-14T07:08:46.927Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Israel Iran Tensions",
-  "summary": "Recent developments indicate increased tensions between Israel and Iran, with potential implications for regional stability. A new deal may halt Iran's nuclear program, but Israeli concerns and Iranian commander statements suggest ongoing instability.",
+  "threatLevel": "LOW",
+  "topTheme": "Social Media Chatter",
+  "summary": "The analyzed headlines indicate a prevalence of mundane and everyday topics, with no apparent security threats or concerns. The overall tone of the headlines suggests a focus on personal interests and consumerism, with minimal discussion of geopolitical or regional issues.",
   "keyTrends": [
-    "Iran Nuclear Deal",
-    "Israel Lebanon Tensions",
-    "Turkish-Saudi Trade"
+    "Social Media",
+    "Consumerism",
+    "Leisure Activities"
   ],
   "watchItems": [
-    "Iranian Military Statements",
-    "Israeli Strikes in Lebanon"
+    "Pezeshkian's statement",
+    "Regional demographics"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Escalating Rhetoric",
-    "Regional Instability"
+    "Lack of sensitive topics",
+    "Focus on personal interests"
   ]
 }
