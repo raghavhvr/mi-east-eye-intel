@@ -1,7 +1,4327 @@
 {
-  "generated_at": "2026-06-13T06:18:49.691Z",
-  "count": 23758,
+  "generated_at": "2026-06-14T06:43:10.741Z",
+  "count": 23989,
   "articles": [
+    {
+      "id": "reddit-1u5dus6",
+      "title": "Did you guys try the noon golazo game yet?",
+      "summary": "Trying my best to predict the match scores, have got 3 trophies yet… how many do you guys have",
+      "url": "https://reddit.com/r/dubai/comments/1u5dus6/did_you_guys_try_the_noon_golazo_game_yet/",
+      "timestamp": "2026-06-14T06:42:11.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5ds3o",
+      "title": "Planning a Rain-Themed Restaurant in Doha – Thoughts?",
+      "summary": "I'm thinking of starting a restaurant in Doha that creates an **artificial rain experience** during the summer season, with both indoor and outdoor seating. The idea is to let people enjoy the feeling of rain, cool weath",
+      "url": "https://reddit.com/r/qatar/comments/1u5ds3o/planning_a_rainthemed_restaurant_in_doha_thoughts/",
+      "timestamp": "2026-06-14T06:38:00.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5douj",
+      "title": "الزواج من طالب جامعي وانا خريجة",
+      "summary": "تقدم لي طالب جامعي باقيله سنتين على مايتخرج وانا توي تخرجت من الجامعة والمشكلة انه هو يدرس برا ف حتى لو جاتني وظيفة قريب بنكون بعيدين عن بعض ف بسالكم وشرايكم بالموضوع وللمعلومية حنا كبر بعض، هل تشوفون هالشي طبيعي هو ولد ",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5douj/الزواج_من_طالب_جامعي_وانا_خريجة/",
+      "timestamp": "2026-06-14T06:32:49.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "442317 at https://www.middleeasteye.net/",
+      "title": "Pezeshkian says 12-day war 'symbol of national solidarity'",
+      "summary": "<article data-history-node-id=\"442317\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-12-day-war-symbol-national-solidarity\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-12-day-war-symbol-national-solidarity",
+      "timestamp": "2026-06-14T06:24:24.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5dfwj",
+      "title": "بداية الاجازة",
+      "summary": "خايفه من بداية الاجازة لاني بكون فاضية  اتوقع تم استعبادي من الشغل والجامعة كلهم",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5dfwj/بداية_الاجازة/",
+      "timestamp": "2026-06-14T06:18:41.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5daez",
+      "title": "Urgent : kitten stuck stair gap in shabiya flat",
+      "summary": "Anyone in shabiya willing to help it, please come fast. Building 1 beside twisted trimmer. Im trying my best for last 2hrs. If someone can help, pls help it🙂 dont want the poor soul to die like that",
+      "url": "https://reddit.com/r/UAE/comments/1u5daez/urgent_kitten_stuck_stair_gap_in_shabiya_flat/",
+      "timestamp": "2026-06-14T06:10:34.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1780982656",
+      "title": "Costs, careers and choice: Why Indians are having fewer children",
+      "summary": "India’s Total Fertility Rate (TFR) has dropped to 1.9 children per woman - lower than the benchmark level of 2.1.",
+      "url": "https://www.aljazeera.com/news/2026/6/14/costs-careers-and-choice-why-indians-are-having-fewer-children?traffic_source=rss",
+      "timestamp": "2026-06-14T06:09:34.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5d7g0",
+      "title": "Engine oil for sale in bulk?",
+      "summary": "Hi guys, I own a car that burns oil quite often, and I wanted to ask if there was any place in Oman, that would sell oil in bulk for cheaper, rather than just buying a quart every time. Thank you!",
+      "url": "https://reddit.com/r/Oman/comments/1u5d7g0/engine_oil_for_sale_in_bulk/",
+      "timestamp": "2026-06-14T06:06:04.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u5d75j",
+      "title": "Anyone knows where are the best male masseurs in Dubai? Thanks for the help!",
+      "summary": "↑2 · 💬0",
+      "url": "https://reddit.com/r/UAE/comments/1u5d75j/anyone_knows_where_are_the_best_male_masseurs_in/",
+      "timestamp": "2026-06-14T06:05:37.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 2,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5d4dw",
+      "title": "Best cash back credit card to buy new phone",
+      "summary": "Hi everyone, looking to buy a new iphone and trying to figure out which credit card gives the best Cashback and welcome bonus combo, any ideas?",
+      "url": "https://reddit.com/r/UAE/comments/1u5d4dw/best_cash_back_credit_card_to_buy_new_phone/",
+      "timestamp": "2026-06-14T06:01:25.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5d47h",
+      "title": "Most popular messaging apps in the Gulf",
+      "summary": "Which messaging app is most popular in GCC countries?",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5d47h/most_popular_messaging_apps_in_the_gulf/",
+      "timestamp": "2026-06-14T06:01:10.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5d11y",
+      "title": "ابي اشاهد كاس العالم مجانا",
+      "summary": "اريد اشتراك كاس العالم مجانا الى عنده برنامج او اشتراك يكفي ولا يقطع او موقع يتفضل خاص يكلمني تعبت من مواقع كل كاس العالم وشكرا مقدما الى بيساعد",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5d11y/ابي_اشاهد_كاس_العالم_مجانا/",
+      "timestamp": "2026-06-14T05:56:33.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5d0vz",
+      "title": "is this a good deal for legion? (saw it at 533 once)",
+      "summary": "[https://oman.microless.com/product/lenovo-legion-5-15iax10-gaming-laptop-15-1-wqxga-165hz-display-intel-core-ultra-7-255hx-16gb-ram-1tb-ssd-geforce-rtx-5060-8gb-gpu-english-keyboard-win11-black-83f00009us/](https://oman",
+      "url": "https://reddit.com/r/Oman/comments/1u5d0vz/is_this_a_good_deal_for_legion_saw_it_at_533_once/",
+      "timestamp": "2026-06-14T05:56:15.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u5cyfn",
+      "title": "J8 and J5 buildings",
+      "summary": "We are looking to rent in one of these in Sufouh namely J8 and was wondering what people think of them.. there are barely any reviews online. Are they good buildings? well kept? Issues/cons?",
+      "url": "https://reddit.com/r/dubai/comments/1u5cyfn/j8_and_j5_buildings/",
+      "timestamp": "2026-06-14T05:52:27.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "442316 at https://www.middleeasteye.net/",
+      "title": "Opinion: Iran and Hezbollah’s resilience defeated the US and Israel",
+      "summary": "<article data-history-node-id=\"442316\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/opinion-iran-and-hezbollahs-resilience-defeated-us-and-israel\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-iran-and-hezbollahs-resilience-defeated-us-and-israel",
+      "timestamp": "2026-06-14T05:50:36.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Israel",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5cvb9",
+      "title": "Salary Expectations for Consultant/Senior Consultant - Deloitte Middle East",
+      "summary": "Hi all, I am a business continuity professional based out of India looking at opportunities in GCC region. I have been approached by the HR from Deloitte Middle East for a role possibly in Kuwait or KSA. Just wanted ask ",
+      "url": "https://reddit.com/r/Kuwait/comments/1u5cvb9/salary_expectations_for_consultantsenior/",
+      "timestamp": "2026-06-14T05:47:33.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "442315 at https://www.middleeasteye.net/",
+      "title": "Two drones crash in northern Israel after crossing from Lebanon",
+      "summary": "<article data-history-node-id=\"442315\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/two-drones-crash-northern-israel-after-crossing-lebanon\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeaste",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-drones-crash-northern-israel-after-crossing-lebanon",
+      "timestamp": "2026-06-14T05:46:47.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Lebanon",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/cvglmn49xz0o#0",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-06-14T05:41:07.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "3966377",
+      "title": "Morning Briefing: June 14, 2026",
+      "summary": "Anadolu’s recap of top stories from around the globe",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-june-14-2026/3966377",
+      "timestamp": "2026-06-14T05:28:55.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5ciwi",
+      "title": "Any hobby plane stores in Dubai? (Military)",
+      "summary": "Been obsessing over a die cast F-14 and i have some cash to use",
+      "url": "https://reddit.com/r/dubai/comments/1u5ciwi/any_hobby_plane_stores_in_dubai_military/",
+      "timestamp": "2026-06-14T05:28:34.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "442314 at https://www.middleeasteye.net/",
+      "title": "Israeli leader thanks Trump for confronting ‘Iran’s empire of evil’",
+      "summary": "<article data-history-node-id=\"442314\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-leader-thanks-trump-confronting-irans-empire-evil\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeas",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-leader-thanks-trump-confronting-irans-empire-evil",
+      "timestamp": "2026-06-14T05:28:06.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Israel",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5cidc",
+      "title": "CPA Institute",
+      "summary": "Hi,   Anyone knows any institution to study CPA. Priority is Sharjah and if not then Dubai.   Please let me know.",
+      "url": "https://reddit.com/r/UAE/comments/1u5cidc/cpa_institute/",
+      "timestamp": "2026-06-14T05:27:43.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5cgro",
+      "title": "Push & Pull factors",
+      "summary": "I can ask google or AI to do this, but i need genuine answers from people who actually lived/live here.  &#x200B; What are the things in Kuwait that you feel unwelcomed (push factors)  AND Things in Kuwait that make you ",
+      "url": "https://reddit.com/r/Kuwait/comments/1u5cgro/push_pull_factors/",
+      "timestamp": "2026-06-14T05:25:17.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u5cco0",
+      "title": "Remote Control Toy Car",
+      "summary": "Hey everyone, I’m an expat currently out of the country on vacation. I want to bring an RC car back to Doha with me when I return next week. It’s an **MN128 Jeep Wrangler** (1/12 scale hobby crawler). Here are the specs:",
+      "url": "https://reddit.com/r/qatar/comments/1u5cco0/remote_control_toy_car/",
+      "timestamp": "2026-06-14T05:18:59.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5cbxt",
+      "title": "Please help",
+      "summary": "Hi everyone. I have been working in Saudi Arabia for almost one year now. Due to both work-related issues and personal reasons, I have decided to leave the company and take a final exit after completing my one-year contr",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5cbxt/please_help/",
+      "timestamp": "2026-06-14T05:17:52.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "442313 at https://www.middleeasteye.net/",
+      "title": "NYT: Iran’s leadership became more risk-tolerant after conflict",
+      "summary": "<article data-history-node-id=\"442313\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/nyt-irans-leadership-became-more-risk-tolerant-after-conflict\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/nyt-irans-leadership-became-more-risk-tolerant-after-conflict",
+      "timestamp": "2026-06-14T05:17:01.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781413320",
+      "title": "Qatar earns first ever World Cup point",
+      "summary": "Qatar has earned its first-ever FIFA World Cup point in dramatic fashion against Switzerland.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_qatar-earns-first-ever-world-cup-point-140626?traffic_source=rss",
+      "timestamp": "2026-06-14T05:14:29.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Qatar",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-48524387",
+      "title": "Story of How Im Running an Unlimited $6/Month AI Provider on 4x RTX 3090s",
+      "summary": "3 pts · 1 comments",
+      "url": "https://news.ycombinator.com/item?id=48524387",
+      "timestamp": "2026-06-14T05:11:33.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 3,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u5c717",
+      "title": "Looking for roommate in Abu Dhabi",
+      "summary": "Hi all. I am looking for bachelor roommates (males) to share my studio apartment space in Madinat Riyadh, Abu Dhabi. Anybody interested kindly DM.",
+      "url": "https://reddit.com/r/UAE/comments/1u5c717/looking_for_roommate_in_abu_dhabi/",
+      "timestamp": "2026-06-14T05:10:26.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5c4wo",
+      "title": "مما علمته أمنا جويرية بنت الحارث-رضي الله عنها-",
+      "summary": "أنَّ النَّبيَّ صلَّى اللهُ عليه وسلَّم خَرَجَ مِن عِندِها بُكرةً حينَ صَلَّى الصُّبحَ وهي في مَسجِدِها، ثُمَّ رَجَعَ بَعدَ أن أضحى وهي جالِسةٌ، فقال: ما زِلتِ على الحالِ التي فارَقتُكِ عليها؟ قالت: نَعَم، قال النَّبيُّ ص",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5c4wo/مما_علمته_أمنا_جويرية_بنت_الحارثرضي_الله_عنها/",
+      "timestamp": "2026-06-14T05:07:20.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5c38m",
+      "title": "Moving to Maringá & surrounding cities soon – Honest advice needed on dating culture, trust, and expectations as a foreigner",
+      "summary": "Hey everyone, I'm moving to Brazil soon, specifically targeting **Maringá** and the calmer surrounding cities in Northern Paraná (like Sarandi, Marialva, Paiçandu, etc.). I deliberately chose this specific region because",
+      "url": "https://reddit.com/r/expats/comments/1u5c38m/moving_to_maringá_surrounding_cities_soon_honest/",
+      "timestamp": "2026-06-14T05:04:50.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5c29h",
+      "title": "Toxic culture in office",
+      "summary": "My manager asked to come everyone in Saturday, Saturday and Monday also. This is happening last 4 weeks. No single day leave is allowed.  Openly he is saying he can do anything .  I came to Dubai stuck like slave 😭😭",
+      "url": "https://reddit.com/r/UAE/comments/1u5c29h/toxic_culture_in_office/",
+      "timestamp": "2026-06-14T05:03:20.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/14/ahmed-qasem-iraq-world-cup/",
+      "title": "Ahmed Qasem says nothing is impossible as Iraq prepare for World Cup's 'Group of Death'",
+      "summary": "Perhaps no Arab team has a more challenging path to the World Cup knockout rounds than Iraq, but attacking midfielder Ahmed Qasem believes anything is possible in football. “We have seen football scenarios where underdogs win, and I hope we",
+      "url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/14/ahmed-qasem-iraq-world-cup/",
+      "timestamp": "2026-06-14T05:00:00.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iraq",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5btgw",
+      "title": "How do short/ petite women stay skinny here in bahrain without gym? Whats your routine",
+      "summary": "When I was in Europe and London, I realized that most there walk to work or other places, they use mostly public transport and walking to get by and hence they stay skinny. But clearly that’s not an option here in bahrai",
+      "url": "https://reddit.com/r/Bahrain/comments/1u5btgw/how_do_short_petite_women_stay_skinny_here_in/",
+      "timestamp": "2026-06-14T04:50:47.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5bruo",
+      "title": "صباح الخير",
+      "summary": "لا تنسوا اذكاركم",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5bruo/صباح_الخير/",
+      "timestamp": "2026-06-14T04:48:28.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "442312 at https://www.middleeasteye.net/",
+      "title": "Iranian diplomat says country emerged stronger after war",
+      "summary": "<article data-history-node-id=\"442312\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/iranian-diplomat-says-country-emerged-stronger-after-war\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeast",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-diplomat-says-country-emerged-stronger-after-war",
+      "timestamp": "2026-06-14T04:42:37.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5bkev",
+      "title": "تذكرة خالد عبدالرحمن (اقل من سعرها) للبيع",
+      "summary": "السلام عليكم عندي تذكرة حفل خالد عبدالرحمن (اقل من سعرها: (٢٩٥)",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5bkev/تذكرة_خالد_عبدالرحمن_اقل_من_سعرها_للبيع/",
+      "timestamp": "2026-06-14T04:37:41.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "442311 at https://www.middleeasteye.net/",
+      "title": "Video: Protesters rally outside Israeli embassy in London over Palestinian prisoners",
+      "summary": "<article data-history-node-id=\"442311\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/video-protesters-rally-outside-israeli-embassy-london-over-palestinian\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/video-protesters-rally-outside-israeli-embassy-london-over-palestinian",
+      "timestamp": "2026-06-14T04:31:53.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "442310 at https://www.middleeasteye.net/",
+      "title": "Republicans say Tehran responded only to pressure",
+      "summary": "<article data-history-node-id=\"442310\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/republicans-say-tehran-responded-only-pressure\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/li",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/republicans-say-tehran-responded-only-pressure",
+      "timestamp": "2026-06-14T04:21:31.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/06/14/my-own-home-meet-the-woman-who-bought-a-house-on-the-same-road-she-was-renting-her-last-home/",
+      "title": "My Own Home: Meet the woman who bought a house on the same road she was renting her last home",
+      "summary": "Long-term expat Meagan da Silva and her 42-year-old husband rented in Dubai’s popular Arabian Ranches neighbourhood before deciding to buy a home along the same road. Now in their fifth year living in the city, the couple, who are South Afr",
+      "url": "https://www.thenationalnews.com/news/uae/2026/06/14/my-own-home-meet-the-woman-who-bought-a-house-on-the-same-road-she-was-renting-her-last-home/",
+      "timestamp": "2026-06-14T04:20:30.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5b4ju",
+      "title": "Question for Qataris who visit the UK frequently",
+      "summary": "Good morning! Anyone who I can ask regarding the UK visa for Qataris? If you have time, it will just take 3-5 mins. Please let me know who I can dm. Thank you so much!",
+      "url": "https://reddit.com/r/qatar/comments/1u5b4ju/question_for_qataris_who_visit_the_uk_frequently/",
+      "timestamp": "2026-06-14T04:14:42.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "442309 at https://www.middleeasteye.net/",
+      "title": "Democrats criticise Trump over proposed Iran agreement",
+      "summary": "<article data-history-node-id=\"442309\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/democrats-criticise-trump-over-proposed-iran-agreement\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeastey",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/democrats-criticise-trump-over-proposed-iran-agreement",
+      "timestamp": "2026-06-14T04:12:39.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "Other",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/markets/2026/06/14/why-spacexs-ipo-is-drawing-parallels-to-facebooks-botched-attempt-14-years-ago/",
+      "title": "Why SpaceX's IPO is drawing parallels to Facebook's botched attempt 14 years ago",
+      "summary": "The stock market debut of Elon Musk's SpaceX was not just a stage for what might be the next big business battleground beyond the Earth; it also demonstrated the star power of big names in initial public offerings. Analysts, however, are ur",
+      "url": "https://www.thenationalnews.com/business/markets/2026/06/14/why-spacexs-ipo-is-drawing-parallels-to-facebooks-botched-attempt-14-years-ago/",
+      "timestamp": "2026-06-14T04:00:00.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5at1g",
+      "title": "وحدة البالغين",
+      "summary": "**من** **يوم** **تخرجت** **من** **الجامعة** **وانا** **احس** **بوحدة** **غريبة** **صعب** **تكون** **صداقات** **بشغل** **واغلب** **صداقاتي** **كل**  **واحد** **عاش** **قدره**  **صار** **طبيعة** **حياتهم** **مختلفة** **عني",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5at1g/وحدة_البالغين/",
+      "timestamp": "2026-06-14T03:59:22.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/us/2026/06/15/trump-80-birthday/",
+      "title": "From 'Sleepy Joe' to 'Dozy Don': Trump's age in focus as he turns 80",
+      "summary": "US President Donald Trump turns 80 on Sunday and will celebrate the milestone by hosting a Mixed Martial Arts fight outside the White House as he looks to project vim and vigour into his ninth decade. Mr Trump is already the oldest presiden",
+      "url": "https://www.thenationalnews.com/news/us/2026/06/15/trump-80-birthday/",
+      "timestamp": "2026-06-14T03:44:29.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781407224",
+      "title": "Knicks clinch first NBA title in 53 years, as Brunson shines against Spurs",
+      "summary": "The New York Knicks ended their championship drought on Saturday, winning the best-of-seven NBA Finals series 4-1.",
+      "url": "https://www.aljazeera.com/sports/2026/6/14/knicks-vs-spurs-new-york-san-antonio-nba-finals-game-5?traffic_source=rss",
+      "timestamp": "2026-06-14T03:37:55.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/art-design/2026/06/14/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+      "title": "UAE art guide: Seven exhibitions to see, from Body Quotidian to Juma Al Haj",
+      "summary": "The art season continues across the UAE with galleries and institutions in Abu Dhabi, Dubai and Sharjah presenting a range of exhibitions before the summer slowdown. Current highlights include The UAE is Beautiful at Cultural Foundation, a ",
+      "url": "https://www.thenationalnews.com/arts-culture/art-design/2026/06/14/uae-guide-museum-gallery-exhibitions-to-see-abu-dhabi-dubai/",
+      "timestamp": "2026-06-14T03:37:29.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/14/vinicius-jr-rescues-brazil-against-impressive-morocco-reaction-and-analysis/",
+      "title": "Vinicius Jr rescues Brazil against impressive Morocco: Reaction and analysis",
+      "summary": "A moment of magic from Vinicius Junior helped Brazil salvage ​a ​1-1 draw against ​Morocco following a rocky start to their World Cup Group ⁠C opener on Saturday. The 25-year-old Real Madrid star's magnificent solo effort in the 32nd minute",
+      "url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/14/vinicius-jr-rescues-brazil-against-impressive-morocco-reaction-and-analysis/",
+      "timestamp": "2026-06-14T03:37:16.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Morocco",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5aaz3",
+      "title": "لحظة تأمل",
+      "summary": "السلام عليكم ورحمة الله، ماتشا الييوم سادة فقط ماتشا وماء. المصدر اليابان، تحديداً يوجي كيوتو. ٣ غرام من الانتعاش والتركيز من غير البايبولار اللي تجيبه القهوة، من المزرعة للطيارة ثم كوبي. اللي يحب يجرب يتفضل يمر عليا في ",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5aaz3/لحظة_تأمل/",
+      "timestamp": "2026-06-14T03:34:23.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/14/morocco-brazil-new-york-world-cup-knicks/",
+      "title": "World Cup fever and basketball mania grip New York City",
+      "summary": "New York likes to imagine itself as the centre of the world. On some nights, perhaps it is. The city found itself juggling two sporting love affairs at once on Saturday night. Morocco held Brazil to a 1-1 draw in the first World Cup match i",
+      "url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/14/morocco-brazil-new-york-world-cup-knicks/",
+      "timestamp": "2026-06-14T03:32:13.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Morocco",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781187029",
+      "title": "‘Lion of Mesopotamia’: How Aymen Hussein beat tragedy to reach World Cup",
+      "summary": "Iraq’s ‘most expensive footballer’, striker who scored Iraq’s qualifying goal against Bolivia, retraces his journey.",
+      "url": "https://www.aljazeera.com/features/2026/6/14/lion-of-mesopotamia-how-aymen-hussein-beat-tragedy-to-reach-world-cup?traffic_source=rss",
+      "timestamp": "2026-06-14T03:28:30.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iraq",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781406333",
+      "title": "Scotland beat Haiti 1-0 to mark a winning return to the World Cup",
+      "summary": "John McGinn's deflected goal gives the Scots a World Cup win for the first time since 1990.",
+      "url": "https://www.aljazeera.com/sports/2026/6/14/scotland-beat-haiti-1-0-to-mark-a-winning-return-to-the-world?traffic_source=rss",
+      "timestamp": "2026-06-14T03:23:14.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-48523881",
+      "title": "What old technology do you still use regularly?",
+      "summary": "3 pts · 8 comments",
+      "url": "https://news.ycombinator.com/item?id=48523881",
+      "timestamp": "2026-06-14T03:22:38.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 3,
+      "comments": 8
+    },
+    {
+      "id": "442308 at https://www.middleeasteye.net/",
+      "title": "Trump says Iran deal will block path to nuclear weapons",
+      "summary": "<article data-history-node-id=\"442308\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-deal-will-block-path-nuclear-weapons\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-iran-deal-will-block-path-nuclear-weapons",
+      "timestamp": "2026-06-14T03:04:22.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u59nvp",
+      "title": "Looking for quiet cities in Saudi Arabia with low crowds? (Introvert from Khobar)",
+      "summary": "Hi everyone, I’m from Khobar and I’m a very introverted and reclusive person.  I’m also noticing that it’s basically impossible to find the kind of quiet environment I want here now. I’m looking for cities in Saudi Arabi",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u59nvp/looking_for_quiet_cities_in_saudi_arabia_with_low/",
+      "timestamp": "2026-06-14T03:01:33.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/06/14/abu-dhabi-medical-partners-plant-seed-of-new-pain-relief-method/",
+      "title": "Abu Dhabi medical partners plant seed of new pain relief method",
+      "summary": "A device the size of a seed to combat nerve pain has been developed in Abu Dhabi to bring relief to patients with chronic neurological illnesses. The wireless device, created by a partnership of Cleveland Clinic Abu Dhabi and NYU Abu Dhabi ",
+      "url": "https://www.thenationalnews.com/news/uae/2026/06/14/abu-dhabi-medical-partners-plant-seed-of-new-pain-relief-method/",
+      "timestamp": "2026-06-14T03:00:00.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u59coi",
+      "title": "This latest deal is essentially an agreement to agree later.",
+      "summary": "It buys both sides a 60-day pause to breathe and gets oil tankers moving through Hormuz again, but it leaves the explosive question of Iran's long-term nuclear capability entirely unresolved. If the technical talks colla",
+      "url": "https://reddit.com/r/UAE/comments/1u59coi/this_latest_deal_is_essentially_an_agreement_to/",
+      "timestamp": "2026-06-14T02:45:56.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u599ee",
+      "title": "Private room available in Al Furjan metro station, Discovery gardens Ready to move",
+      "summary": "Looking for a single executive preferably Indian. All bills inclusive with car parking with reasonable price.",
+      "url": "https://reddit.com/r/UAE/comments/1u599ee/private_room_available_in_al_furjan_metro_station/",
+      "timestamp": "2026-06-14T02:41:10.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u58met",
+      "title": "صرت ما أنام عشان أفتك من الهواش وبرضه تهاوشت.. شسوي مع الوالدة؟",
+      "summary": "الوضع متأزم بيني وبين أمي ومو عارف كيف أتصرف معها.   السالفة بدأت قبل كم يوم، رجعت من الدوام وتعبان وجيت بنام، فجأة دخلت علي الوالدة وصارخت وتهاوشنا بس عشان جيت أنام في ذاك الوقت، وصحتني من النوم وما لحقت أرتاح أبداً. من",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u58met/صرت_ما_أنام_عشان_أفتك_من_الهواش_وبرضه_تهاوشت_شسوي/",
+      "timestamp": "2026-06-14T02:09:28.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u588y0",
+      "title": "Detailed BMI where in Muscat",
+      "summary": "I wanted to check my detailed BMI but i couldn't find a place where i dont have to pay 50 rials😵",
+      "url": "https://reddit.com/r/Oman/comments/1u588y0/detailed_bmi_where_in_muscat/",
+      "timestamp": "2026-06-14T01:51:12.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u585zd",
+      "title": "Aramco Support!",
+      "summary": "We assist workers and contractors with: 1) WPR Scheduling   2) Rigger Level 1, 2 & 3 Exams   3) Scaffolding Schedules   4) Crane Operator Exams   5) New Approvals Assistance   6) Card Renewals",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u585zd/aramco_support/",
+      "timestamp": "2026-06-14T01:46:58.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u57xp8",
+      "title": "العلاقات المحرمة",
+      "summary": "انا عندي صديق مقرب جدا واعتبره اعز اخوياي لكنه اخر سنتين طايح بالعلاقات المحرمه ويطلع مع بنات وعيال وكلهم يا لواط يا زنا وحرفيا صاير ما يمر اسبوع اسبوعين الا هو طالع ونصحته اكثر من مره ويكون ندمان صدق بس علطول يرجع وانا ",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u57xp8/العلاقات_المحرمة/",
+      "timestamp": "2026-06-14T01:35:29.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u57uuo",
+      "title": "ايش افضل اجراء تجميلي للوجه؟",
+      "summary": "انا عمري ٢٦ وما سويت ولا اجراء تجميلي غير تنظيف البشرة 😭 كنت مقتنعة اني لو لعبت بيشرتي بخربها بس حاليا احس بشرتي فيها اثار ويبيلها شد شوي وباهتة وعندي تجويف تحت عيني ومانفعني شيء من الكريمات بهالموضوع كثير، ابغى شيء يعا",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u57uuo/ايش_افضل_اجراء_تجميلي_للوجه/",
+      "timestamp": "2026-06-14T01:31:28.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u57ooa",
+      "title": "Japan Visa (UAE resident, Indian passport)",
+      "summary": "Hi all! I am a UAE resident with an Indian passport. I’m planning to go to Japan in October so I know I’ll only be able to apply for the visa around July when it is within the 90 days periods. However, I have a few quest",
+      "url": "https://reddit.com/r/dubai/comments/1u57ooa/japan_visa_uae_resident_indian_passport/",
+      "timestamp": "2026-06-14T01:22:51.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u57mi6",
+      "title": "قانونيين",
+      "summary": "اهلًا، اذا فيه متدربين حاليًا تخصصهم قانون أو شريعة بليز احتاج استفسر منكم🙏🏻",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u57mi6/قانونيين/",
+      "timestamp": "2026-06-14T01:19:43.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781397728",
+      "title": "Two killed in Israeli strike on Gaza",
+      "summary": "An Israeli strike on southern Gaza has killed two people and injured another, according to Palestinian authorities.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/aje-onl-nf_two-killed-in-gaza-in-deadly-israeli-strike-130626?traffic_source=rss",
+      "timestamp": "2026-06-14T01:11:06.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781106569",
+      "title": "After battling armed attacks, Mauritania attempts to revive tourism",
+      "summary": "Armed groups linked to al-Qaeda began attacks in the mid-2000s, but several security measures have halted them.",
+      "url": "https://www.aljazeera.com/features/2026/6/14/after-battling-armed-attacks-mauritania-attempts-to-revive-tourism?traffic_source=rss",
+      "timestamp": "2026-06-14T01:08:42.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u57b3g",
+      "title": "Need help",
+      "summary": "Hey everyone, I am looking for a job abroad and would appreciate any help or guidance. I have 3 years of experience as a Travel Consultant and am currently exploring opportunities overseas. I am open to any suitable job ",
+      "url": "https://reddit.com/r/UAE/comments/1u57b3g/need_help/",
+      "timestamp": "2026-06-14T01:03:48.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5793b",
+      "title": "PASSPORT RENEWAL. Need advice?",
+      "summary": "I'm a dual citizen, American by birth and Bahraini through my father (although I know Bahrain doesn't officially permit dual nationality). I currently live abroad and am applying to renew my Bahraini passport through the",
+      "url": "https://reddit.com/r/Bahrain/comments/1u5793b/passport_renewal_need_advice/",
+      "timestamp": "2026-06-14T01:01:03.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u578j7",
+      "title": "Daily Random Discussion Thread",
+      "summary": "Hello, This is the Daily Random Discussion thread, the place for anything goes discussion! Keep it PG and follow reddiquette. You can find monthly posts for classifieds, job offers, and job hunting stickied to the top of",
+      "url": "https://reddit.com/r/dubai/comments/1u578j7/daily_random_discussion_thread/",
+      "timestamp": "2026-06-14T01:00:21.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781285340",
+      "title": "Why is the price of gold trending down?",
+      "summary": "Gold has been under pressure since the US and Israel launched a war against Iran in late February.",
+      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
+      "timestamp": "2026-06-14T00:56:36.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Israel",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u571j3",
+      "title": "ارسلت فلوس من بنكي البريطاني الى الراجحي و الراجحي رافض يقبل الفلوس او يتواصل مع البنك البريطاني عشان تصير عملية إلغاء. الموضوع صارله ٨ شهور، بالله مساعدتكم",
+      "summary": "السلام عليكم، انا خلصت ابتعاثي و لما رجعت ارسلت كل الفلوس الي اشتغلت عليها و انا مبتعث عشان اشتري سيارة بعد البعثة الى حسابي في الراجحي. ارسلتها على دفعتين، دفعة صغيرة و وصلت باقل من اسبوع(اختبار). و الدفعة الكبيرة لكن ص",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u571j3/ارسلت_فلوس_من_بنكي_البريطاني_الى_الراجحي_و/",
+      "timestamp": "2026-06-14T00:50:42.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u56x4p",
+      "title": "بديهات ما تعلمتها إلا متأخر",
+      "summary": "العطاء الزائد مو دائما له قيمة، أو شرط يلاقي تقدير  الطرف الثاني أو يفرحه أكثر وهذي كلفتني نص شبابي :)  وبقولكم مثال عشان تتضح الصورة،    كنت أداوم بمكان وكان الدوام يبدأ فعلياً بعد وقت معيّن، لكن أول ما أوصل أبدأ شغل بح",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u56x4p/بديهات_ما_تعلمتها_إلا_متأخر/",
+      "timestamp": "2026-06-14T00:44:33.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u56vvi",
+      "title": "المنبطحين إلى وين ؟ عقدة الأبيض",
+      "summary": "يطلع لي محتوى بالتيك توك لبنتين من العرق الأبيض كل شوي حاضرين عروس بالرياض وبقاعات فخمه ومب بس عروس مناسبات مختلفة    اول مره قلت اوه كيوت خل اشوف وش ردة فعلهم ورايهم بس بعد تكرار المحتوى استغربت مستحيل كل اللي حولها اعر",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u56vvi/المنبطحين_إلى_وين_عقدة_الأبيض/",
+      "timestamp": "2026-06-14T00:42:45.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u56k4c",
+      "title": "Disabling comments isn’t going to stop the humiliation",
+      "summary": "Responding to @UAE100 as the comments have been disabled in the original post: Hey. Don’t take it personally. I have lived in the UAE myself for a few years. I have always admired what they have done for the Emirati’s an",
+      "url": "https://reddit.com/r/UAE/comments/1u56k4c/disabling_comments_isnt_going_to_stop_the/",
+      "timestamp": "2026-06-14T00:26:51.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u56jo8",
+      "title": "ابوي كافر",
+      "summary": "يا جماعه انا ابوي كافر لو بتزوج بالله كيف اصارح زوجي  هل ذا الشي ممكن يأثر بعلاقتنا  هل لو خبيت راح اكون غلط 😞💔 &#x200B;",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u56jo8/ابوي_كافر/",
+      "timestamp": "2026-06-14T00:26:15.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781395715",
+      "title": "Vinicius drags low-key Brazil level against dominant Morocco at World Cup",
+      "summary": "Vinicius Jr individual effort lift Brazil's struggle in team's 2026 tournament opener against Africa champions Morocco.",
+      "url": "https://www.aljazeera.com/sports/2026/6/14/vinicius-drags-brazil-level-against-dominant-morocco-at-world-cup?traffic_source=rss",
+      "timestamp": "2026-06-14T00:22:18.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Morocco",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u56av7",
+      "title": "Question/Tips for job hunting in the USA? I'm an American living abroad",
+      "summary": "For my fellow Americans who have moved back, how was the job hunt from abroad? Did you use your current foreign address? I'm applying to jobs back home in the US, and i'm wondering if living abroad is lowering my chances",
+      "url": "https://reddit.com/r/expats/comments/1u56av7/questiontips_for_job_hunting_in_the_usa_im_an/",
+      "timestamp": "2026-06-14T00:14:18.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1781357204",
+      "title": "America250 versus Freedom 250: What to know about the US semiquincentennial",
+      "summary": "The celebrations to mark the US's 250th anniversary have been overshadowed by questions about Trump's influence.",
+      "url": "https://www.aljazeera.com/news/2026/6/14/america250-versus-freedom250-what-to-know-about-the-us-semiquincentennial?traffic_source=rss",
+      "timestamp": "2026-06-14T00:11:06.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u564mn",
+      "title": "Where can I buy affordable baby clothes and items?",
+      "summary": "Besides Al Haram what other shops do you recommend?",
+      "url": "https://reddit.com/r/Bahrain/comments/1u564mn/where_can_i_buy_affordable_baby_clothes_and_items/",
+      "timestamp": "2026-06-14T00:05:52.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u55xtm",
+      "title": "كيف اقنع اهلي",
+      "summary": "انا بتخرج من الثانوي و من ثلاث شهور كل شوي في احد يتقدملي و انا مو يم الزواج ابداً (وخصوصاً من اقاربنا) و غير كذا ما ابي انجب نهائياً    المشكله هنا ان  اهلي يقدسون الزواج كل اخواني متزوجين اول ما استقروا مادياً و اخواتي",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u55xtm/كيف_اقنع_اهلي/",
+      "timestamp": "2026-06-13T23:57:16.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u55xrh",
+      "title": "صعب اطور علاقتي معا اخويا",
+      "summary": "ليه صعب اطور علاقتي معا اخويا   افضل تكون سطحيه وعادي نساعد بعض وانصح وبالمستقبل نزور بعض وما نقطع واكون دايما بظهره  بس ما ابغاها تتطور اكثر من كذا ونخرج معا بعض وافضفض له او ادلعه واقوله كلام حلو واقول اخويا حبيبي او ن",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u55xrh/صعب_اطور_علاقتي_معا_اخويا/",
+      "timestamp": "2026-06-13T23:57:10.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u55vxa",
+      "title": "Share' Al Asha",
+      "summary": "where to watch شارع الأعشى/Share Al Asha Season1 episode6 with English subtitles beacuse this link I am using https://freecouchtuner.com/tv-show/al-asha-street-season-1/LYa711oK/bybsp4pf/q5alrdk5-watch-free.html Does not",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u55vxa/share_al_asha/",
+      "timestamp": "2026-06-13T23:54:39.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u55mhi",
+      "title": "التخطي",
+      "summary": "صباح الخير، انا انقل قصة صديقتي لاني حاولت اوسيها كثير و اطلعها من الماضي ولكني ما قدرت. سبق و حبت احد من تدريبها السابق و كان موظف جديد وهي متدربه و ساعدته بكل شيء ممكن يحتاجه و علمته على الناس و كيف يتعامل معهم و فزعت ",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u55mhi/التخطي/",
+      "timestamp": "2026-06-13T23:42:00.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u55hbm",
+      "title": "س: مهر الزواج",
+      "summary": "كم تشوفون المهر المناسب لكم كإناث؟ بكل واقعيه وبدون تهاويل",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u55hbm/س_مهر_الزواج/",
+      "timestamp": "2026-06-13T23:35:08.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u556z1",
+      "title": "Job interviews",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/Bahrain/comments/1u556z1/job_interviews/",
+      "timestamp": "2026-06-13T23:21:46.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54zhk",
+      "title": "Where to find private life guard",
+      "summary": "Looking for a female lifeguard for a day.    Gonna host a pool party but also I don’t wanna risk people drowning (all adults but I am an over-thinker)    Is there a way to get a private lifeguard for half a day?",
+      "url": "https://reddit.com/r/qatar/comments/1u54zhk/where_to_find_private_life_guard/",
+      "timestamp": "2026-06-13T23:12:05.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54udn",
+      "title": "Painting studios?",
+      "summary": "Is there anywhere in Bahrain that offers painting equipment that can be used but not in the context of taking a painting or art class? I just wanna paint",
+      "url": "https://reddit.com/r/Bahrain/comments/1u54udn/painting_studios/",
+      "timestamp": "2026-06-13T23:05:32.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54u6z",
+      "title": "Discord",
+      "summary": "Anyone having issues with discord rn or just me? The past few hours it wont open on my pc and msgs send very slow on my phone its so buggy",
+      "url": "https://reddit.com/r/Bahrain/comments/1u54u6z/discord/",
+      "timestamp": "2026-06-13T23:05:18.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54tby",
+      "title": "خلاني اتناقض فنيسيوس 😂😂😂",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u54tby/خلاني_اتناقض_فنيسيوس/",
+      "timestamp": "2026-06-13T23:04:13.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54rzf",
+      "title": "UAE leadership supports Morocco ahead of its clash with Brazil",
+      "summary": "https://x.com/i/status/2065923608963150064",
+      "url": "https://reddit.com/r/UAE/comments/1u54rzf/uae_leadership_supports_morocco_ahead_of_its/",
+      "timestamp": "2026-06-13T23:02:31.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54pdg",
+      "title": "Due to high humidity, there will be heavy fog today morning! Drive carefully",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/UAE/comments/1u54pdg/due_to_high_humidity_there_will_be_heavy_fog/",
+      "timestamp": "2026-06-13T22:59:28.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54klx",
+      "title": "Extremely Low Visibility on E311",
+      "summary": "Really bad sand storm I believe, can’t even see a meter ahead of you Be Careful",
+      "url": "https://reddit.com/r/UAE/comments/1u54klx/extremely_low_visibility_on_e311/",
+      "timestamp": "2026-06-13T22:53:04.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54h00",
+      "title": "How Quiet Oman Landed Itself in Trump’s Cross Hairs",
+      "summary": "↑1 · 💬1",
+      "url": "https://reddit.com/r/Oman/comments/1u54h00/how_quiet_oman_landed_itself_in_trumps_cross_hairs/",
+      "timestamp": "2026-06-13T22:48:08.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u54e3j",
+      "title": "Extremely low visibility on E311",
+      "summary": "Really bad sand storm I believe, can’t even see a meter ahead of you Be Careful",
+      "url": "https://reddit.com/r/dubai/comments/1u54e3j/extremely_low_visibility_on_e311/",
+      "timestamp": "2026-06-13T22:44:24.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u54djw",
+      "title": "Hello peeps, how's wær situation going on..",
+      "summary": "Hello I have been out of touch lately with the ongoing situation lately after late april..  &#x200B; Just curious if anyone knows how's everything going?? &#x200B;",
+      "url": "https://reddit.com/r/UAE/comments/1u54djw/hello_peeps_hows_wær_situation_going_on/",
+      "timestamp": "2026-06-13T22:43:38.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5441i",
+      "title": "Looking for accommodation in JLT | AED 2–2.5k | Parking required",
+      "summary": "I’m looking to move to **Jumeirah Lake Towers** as my office is located there, and I want to stay within walking distance to avoid daily traffic. A little about me:   • Working professional (9–5 job)   • Clean, respectfu",
+      "url": "https://reddit.com/r/UAE/comments/1u5441i/looking_for_accommodation_in_jlt_aed_225k_parking/",
+      "timestamp": "2026-06-13T22:31:25.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53xre",
+      "title": "حساب خويي في التيك حساب بنت!",
+      "summary": "اخوياي الي اطلع معهم دايم ولنا فتره طويله نعرف بعض ما نعرف حسابات بعض في تطبيقات التواصل الا السناب.    فا مره وانا افر في التيك توك طلعت لي اقتراحات التيك المعروفه \"أشخاص قد تعرفهم\" الا واشوف حساب بنت والقاه مرتبط بجهات",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u53xre/حساب_خويي_في_التيك_حساب_بنت/",
+      "timestamp": "2026-06-13T22:23:15.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u53v8a",
+      "title": "TOD FIFA World Cup 4K issues",
+      "summary": "Hi all. I have a Hisense U7HQ, and am having issues with the stream quality for TOD's 4K HDR World Cup streams. The picture is extremely washed out. &#x200B; I have previously calibrated the HDR settings on my TV for Net",
+      "url": "https://reddit.com/r/UAE/comments/1u53v8a/tod_fifa_world_cup_4k_issues/",
+      "timestamp": "2026-06-13T22:19:59.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53tx4",
+      "title": "Anyone else struggle with not being able to speak Arabic?",
+      "summary": "I used to know some when I was like 6 years old but now I don’t know any Arabic and it’s really annoying since I can’t talk to other people. Another issue is that I can’t really do anything in Arabic classes in school I ",
+      "url": "https://reddit.com/r/Bahrain/comments/1u53tx4/anyone_else_struggle_with_not_being_able_to_speak/",
+      "timestamp": "2026-06-13T22:18:20.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53p7c",
+      "title": "Moroccon Kessa Glove: Which one to get?",
+      "summary": "Helloooo, a friend from North Africa gifted me the moroccon black soap (she was in Dubai for a short duration, so she just told me to get a Kessa glove on my own). I am looking at the available options online and there i",
+      "url": "https://reddit.com/r/UAE/comments/1u53p7c/moroccon_kessa_glove_which_one_to_get/",
+      "timestamp": "2026-06-13T22:12:31.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53own",
+      "title": "Keeta support need support",
+      "summary": "Are they eating the missing food from our orders cause if that's the cause??? They could've asked nicely i just wanted to ask about my order and they straight up closed the chat support بوجهي! Even though they made sure ",
+      "url": "https://reddit.com/r/Bahrain/comments/1u53own/keeta_support_need_support/",
+      "timestamp": "2026-06-13T22:12:08.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53ncn",
+      "title": "ابوي البخيل",
+      "summary": "**احنا نكره ابوي صدق ماقد حسسنا انه اب يخون العشره مع انه وقفنا معه وهو تعبان ساعدناه بس يجحدك عند عياله الثانين احس عندي مشاكل ثقه بسببه هههههه مااحس بالامان معه منافق ويسوي حركات مراهقين ولله يحسسنا حنا الشر وهم الخير ",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u53ncn/ابوي_البخيل/",
+      "timestamp": "2026-06-13T22:10:13.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53mhi",
+      "title": "Need advice: Apartment cooling issue in Dubai due to high chilled water temperature",
+      "summary": "Hi everyone, I’m looking for advice from people in Dubai/UAE who may have faced a similar issue. For the last **2 years**, I have been continuously following up with my building management regarding poor cooling in my ap",
+      "url": "https://reddit.com/r/UAE/comments/1u53mhi/need_advice_apartment_cooling_issue_in_dubai_due/",
+      "timestamp": "2026-06-13T22:09:04.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53lg8",
+      "title": "افضل كاميرا",
+      "summary": "الله يعافيكم وش افضل كاميرا ماتتعدا ٦٠٠ ريال وتصويرها حلو   محتارة اخذ كوداك 55 ولا فيه افضل؟",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u53lg8/افضل_كاميرا/",
+      "timestamp": "2026-06-13T22:07:45.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53ksm",
+      "title": "Audi A3 help needed for a spare",
+      "summary": "Guys, I love my Audi A3 and it's 2015 model and I'm 3rd owner. It gives me 17Kmpl efficiency which is to die for and on sports mode - crazy pickup with 1.4 turbo engine. Just writing all this to express my love with this",
+      "url": "https://reddit.com/r/dubai/comments/1u53ksm/audi_a3_help_needed_for_a_spare/",
+      "timestamp": "2026-06-13T22:06:56.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53icp",
+      "title": "Has anyone bought perfumes from boutiqaat? Do we have to pay extra/hidden charges other than the delivery fee?",
+      "summary": "Planning to order few perfumes from boutiqaat and was curious to know if there’s hidden charges like “handling fees” or some other bs. Cuz I ordered few caps from UAE site had to pay hidden charges to the shipping compan",
+      "url": "https://reddit.com/r/qatar/comments/1u53icp/has_anyone_bought_perfumes_from_boutiqaat_do_we/",
+      "timestamp": "2026-06-13T22:03:43.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53gps",
+      "title": "للنقاش: هل الخيانة تبرر الخيانة؟",
+      "summary": "أتابع مسلسل هالفترة يتمحور حول خيانة زوج لزوجته. بعد ما اكتشفت الزوجة الخيانة وانكسرت ثقتها فيه، قررت تنتقم، وكان من ضمن طرق انتقامها أنها تخونه بالمقابل. ومن هنا جاء في بالي سؤال..  هل ممكن تكون الخيانة مبررًا للخيانة؟ ",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u53gps/للنقاش_هل_الخيانة_تبرر_الخيانة/",
+      "timestamp": "2026-06-13T22:01:42.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53f9t",
+      "title": "Can we assume it's basically over?",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/UAE/comments/1u53f9t/can_we_assume_its_basically_over/",
+      "timestamp": "2026-06-13T22:00:10.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u53bao",
+      "title": "ياترى ليش معاهم نحل ؟",
+      "summary": "موقف طاااااازه  قبل شوي كنت في البقالة الاحظ في عدة يمنيين في الاربعين من عمرهم تقريبا واقفين عندها ... دخلت اخذت غرضي وانا عند الباب من داخل البقالة اشوف العامل يناظر لبرا وكان يناظر فيهم اقول له وش فيك تناظر بالطريقة ذ",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u53bao/ياترى_ليش_معاهم_نحل/",
+      "timestamp": "2026-06-13T21:55:20.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u533fa",
+      "title": "Who wants to be my friend?",
+      "summary": "Lately I've been feeling lonely, so I want to make new friends. Whoever wants to can message me on my Instagram : xm\\_\\_0v ويسعد مسائكم 🩷",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u533fa/who_wants_to_be_my_friend/",
+      "timestamp": "2026-06-13T21:45:54.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u530zx",
+      "title": "الوظيفة والمعيشة برا",
+      "summary": "افكر انتقل لدولة أجنبية غير عربية وابحث عن فرص عمل واستقر هناك (امريكا - كوريا - بريطانيا )  هل احد عنده تجربة يفيدني؟",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u530zx/الوظيفة_والمعيشة_برا/",
+      "timestamp": "2026-06-13T21:42:58.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52utw",
+      "title": "Advise/Referal needed - BIM",
+      "summary": "Hi All, I hope you're doing well. I am a Senior BIM Coordinator with 5+ years of experience in BIM management, multidisciplinary coordination, ACC/CDE workflows, ISO 19650 implementation, and construction BIM delivery ac",
+      "url": "https://reddit.com/r/UAE/comments/1u52utw/advisereferal_needed_bim/",
+      "timestamp": "2026-06-13T21:35:28.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52u9c",
+      "title": "Jung Kook and Fahad's WC Dreamers song is up there with Waka Waka etc.",
+      "summary": "This got deleted from some football subs but wanted to repost - Idk how I missed it for the last 4 years but that kinda song is what makes people look back at a world cup and go like damn that was a great experience. I f",
+      "url": "https://reddit.com/r/qatar/comments/1u52u9c/jung_kook_and_fahads_wc_dreamers_song_is_up_there/",
+      "timestamp": "2026-06-13T21:34:46.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52t57",
+      "title": "Move to Dubai please can I have some information please",
+      "summary": "Hi everyone im moving to Dubai in 2 months i have my Emirates ID and my bank account im moving with my family.   1 do I have to change my uk driving  license to uae  Driving  licence ? Or no  Please anyone have health ca",
+      "url": "https://reddit.com/r/dubai/comments/1u52t57/move_to_dubai_please_can_i_have_some_information/",
+      "timestamp": "2026-06-13T21:33:28.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52sbh",
+      "title": "Moving to Bahrain as an expat spouse of a Bahraini – what should I know?",
+      "summary": "Moving to Bahrain soon as an expat married to a Bahraini. What are the real things to expect, know, love, hate, or avoid?",
+      "url": "https://reddit.com/r/Bahrain/comments/1u52sbh/moving_to_bahrain_as_an_expat_spouse_of_a/",
+      "timestamp": "2026-06-13T21:32:29.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52q2d",
+      "title": "فضفضة للي صاحي",
+      "summary": "لي اسبوعين حاسة بمشاعر غريبة.. فيني رغبة عارمة    والادهى والامر ان توني احس فيها!!! جتني جارفة ومتأججة بهالشكل وانا توي كملت ٢٣… مو كأنه بدري شوي",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u52q2d/فضفضة_للي_صاحي/",
+      "timestamp": "2026-06-13T21:29:44.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52ppf",
+      "title": "Any app to watch football wc free",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/UAE/comments/1u52ppf/any_app_to_watch_football_wc_free/",
+      "timestamp": "2026-06-13T21:29:17.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52nse",
+      "title": "Ooredoo text message",
+      "summary": "Did anyone receive a ‘test’ message from ooredoo??",
+      "url": "https://reddit.com/r/qatar/comments/1u52nse/ooredoo_text_message/",
+      "timestamp": "2026-06-13T21:26:54.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52eom",
+      "title": "Good night brethren",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/qatar/comments/1u52eom/good_night_brethren/",
+      "timestamp": "2026-06-13T21:15:47.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52d87",
+      "title": "Have I been scammed?",
+      "summary": "Got sent this link for a furniture sale ....",
+      "url": "https://reddit.com/r/UAE/comments/1u52d87/have_i_been_scammed/",
+      "timestamp": "2026-06-13T21:14:02.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52bmv",
+      "title": "Legendary draw for Qatar in the World Cup!",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/qatar/comments/1u52bmv/legendary_draw_for_qatar_in_the_world_cup/",
+      "timestamp": "2026-06-13T21:12:08.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/13/qatar-earn-first-world-cup-point-with-late-leveller-against-switzerland/",
+      "title": "Qatar earn first World Cup point with late leveller against Switzerland",
+      "summary": "The many off-field controversies of the opening week of the North American World Cup might have led some to rethink their opinions of the corresponding tournament four years previously. But one thing seemed certain concerning Qatar’s nation",
+      "url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/06/13/qatar-earn-first-world-cup-point-with-late-leveller-against-switzerland/",
+      "timestamp": "2026-06-13T21:10:41.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Qatar",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u52a9b",
+      "title": "Road test - Seeb",
+      "summary": "Salam, i have my road test coming up in seeb soon, and im just wondering what routes you’re asked to take by ROP or any tips in general? This is my 3rd attempt 😬 (in qurum), so i really really want to pass on this try. ",
+      "url": "https://reddit.com/r/Oman/comments/1u52a9b/road_test_seeb/",
+      "timestamp": "2026-06-13T21:10:25.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u52a4l",
+      "title": "Lets F’kn GO moment for Qatar!!!! What a match!",
+      "summary": "What a match! Amazing header by Khoukhi! ⚽️🥳",
+      "url": "https://reddit.com/r/qatar/comments/1u52a4l/lets_fkn_go_moment_for_qatar_what_a_match/",
+      "timestamp": "2026-06-13T21:10:16.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 2,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5280l",
+      "title": "Noon world cup 2026 prediction",
+      "summary": "Do any of y'all play the world cup match prediction game in noon ? How many off y'all got it right",
+      "url": "https://reddit.com/r/UAE/comments/1u5280l/noon_world_cup_2026_prediction/",
+      "timestamp": "2026-06-13T21:07:40.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u525ss",
+      "title": "Ooredoo?",
+      "summary": "This is so random from ooredoo lol",
+      "url": "https://reddit.com/r/qatar/comments/1u525ss/ooredoo/",
+      "timestamp": "2026-06-13T21:05:03.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u524ue",
+      "title": "مباراة السعودية اي يوم؟",
+      "summary": "مباراة السعوديه يوم الاثنين الساعه وحده ولا الثلاثاء الساعه ١",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u524ue/مباراة_السعودية_اي_يوم/",
+      "timestamp": "2026-06-13T21:03:51.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/football/2026/06/13/iraqs-world-cup-team-meet-a-wild-and-wonderful-west-virginia/",
+      "title": "Iraq's World Cup team meet a 'wild and wonderful' West Virginia",
+      "summary": "Life as a journalist – and as a professional footballer – can take you to unexpected places. Sometimes these journeys intersect, as they did for The National and Iraq's World Cup squad in White Sulphur Springs, West Virginia. The small Amer",
+      "url": "https://www.thenationalnews.com/sport/football/2026/06/13/iraqs-world-cup-team-meet-a-wild-and-wonderful-west-virginia/",
+      "timestamp": "2026-06-13T21:03:33.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iraq",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u524hp",
+      "title": "ايش الي يخليك تستمتع بحياتك ؟",
+      "summary": "علموني كيف سويتو حتى حسيتو بالمتعه بحياتكم",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u524hp/ايش_الي_يخليك_تستمتع_بحياتك/",
+      "timestamp": "2026-06-13T21:03:26.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u522n3",
+      "title": "Talabat pro TOd by bein offer for fifa 2026",
+      "summary": "Hi everyone i wanted to ask a few questions from people who bought TOD via talabat pro. 1. How many devices can i stream in at a time? 1 or 2  2. Will i get 1 year subscription of TOD with pro  3. Should i buy subscripti",
+      "url": "https://reddit.com/r/qatar/comments/1u522n3/talabat_pro_tod_by_bein_offer_for_fifa_2026/",
+      "timestamp": "2026-06-13T21:01:16.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u522e6",
+      "title": "ROP app error",
+      "summary": "Guys I got an eye test for the driving learning permit, but I’ve been trying to log into the account on ROP app Subi my ID card for the past 2 days and it keeps showing a 404 error, idk why it stops as soon as I click th",
+      "url": "https://reddit.com/r/Oman/comments/1u522e6/rop_app_error/",
+      "timestamp": "2026-06-13T21:00:59.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u521v7",
+      "title": "Hrar Sunday | June 14, 2026 | هرار الأحد",
+      "summary": "Free for all discussion. Looking for a certain thing in particular? Need to know who/where/what to do? Need information about ISPs or online shopping/shipping? Got questions that don't deserve a thread? Ask here. Otherwi",
+      "url": "https://reddit.com/r/Bahrain/comments/1u521v7/hrar_sunday_june_14_2026_هرار_الأحد/",
+      "timestamp": "2026-06-13T21:00:28.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u521ur",
+      "title": "Is sale of vapes really banned in oman",
+      "summary": "Let me know",
+      "url": "https://reddit.com/r/Oman/comments/1u521ur/is_sale_of_vapes_really_banned_in_oman/",
+      "timestamp": "2026-06-13T21:00:27.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u521tf",
+      "title": "Advice on a game I’m working on",
+      "summary": "Hi all, I'm a student who's been working on a board game the past couple of months here in Kuwait. You may have heard of the idea before or thought of it, but not in Kuwait, which is why I made a local version. If you ha",
+      "url": "https://reddit.com/r/Kuwait/comments/1u521tf/advice_on_a_game_im_working_on/",
+      "timestamp": "2026-06-13T21:00:25.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u52196",
+      "title": "Noon wc prediction",
+      "summary": "Do any of y'all play the world cup match prediction game in noon ? How many off y'all got it right",
+      "url": "https://reddit.com/r/dubai/comments/1u52196/noon_wc_prediction/",
+      "timestamp": "2026-06-13T20:59:51.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u5205l",
+      "title": "هدايا العروس لخوات العريس؟",
+      "summary": "اهلا ياجماعة  قد سمعتوا بفكرة ان العروس تجيب هدايا لخوات العريس في الزواج؟؟؟ اللي اعرفه بس لأم العريس  امي مره ناشبه لي اخذ لخواته بس احس احراج ماله داعي شكلي غلط كأني ماصدقت على الله والوالدة الله يهديها عندها فكرة ارضا",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u5205l/هدايا_العروس_لخوات_العريس/",
+      "timestamp": "2026-06-13T20:58:30.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u51xcz",
+      "title": "Doha-based freelance Interior Designer needed to finalise home plans (In-person)",
+      "summary": "I’m setting up my new place and need a qualified pro to help me finalise the designs. I already have some initial concepts from working with freelancers on Fiverr, but I need someone to take those files, improve upon the",
+      "url": "https://reddit.com/r/qatar/comments/1u51xcz/dohabased_freelance_interior_designer_needed_to/",
+      "timestamp": "2026-06-13T20:55:07.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u51wzp",
+      "title": "مين يعرف قروبات للمودلز",
+      "summary": "ودي ادخل مجال المودلينغ سواء عبايات أو ملابس فا الي يعرف قروبات بالشرقية يرسلي بليز",
+      "url": "https://reddit.com/r/saudiarabia/comments/1u51wzp/مين_يعرف_قروبات_للمودلز/",
+      "timestamp": "2026-06-13T20:54:41.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u51w1x",
+      "title": "Jobs",
+      "summary": "I’m a 18y/o a female, I’m the only child and my parents r like very abusive to each other (literally physically) hitting each other and blood everywhere, I’m so tired of living like this and when I left home because I di",
+      "url": "https://reddit.com/r/UAE/comments/1u51w1x/jobs/",
+      "timestamp": "2026-06-13T20:53:35.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u51r6d",
+      "title": "coffee date?",
+      "summary": "Hey everyone!  I’ve been wanting to meet some new people in Qatar around my age (18F), so I thought it would be fun to plan a coloring and coffee date prolly this week If anyone’s interested in joining hmu! Just looking ",
+      "url": "https://reddit.com/r/qatar/comments/1u51r6d/coffee_date/",
+      "timestamp": "2026-06-13T20:47:44.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "hn-48521236",
+      "title": "Show HN: Trace, offline Mac meeting transcripts you can flag mid-call",
+      "summary": "1 pts · 1 comments",
+      "url": "https://traceapp.info",
+      "timestamp": "2026-06-13T20:41:58.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u51byr",
+      "title": "Anyone want to join me for ice skating tomorrow😊?",
+      "summary": "It would be fun and yeah..",
+      "url": "https://reddit.com/r/UAE/comments/1u51byr/anyone_want_to_join_me_for_ice_skating_tomorrow/",
+      "timestamp": "2026-06-13T20:30:31.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u51afw",
+      "title": "Egypt’s match watch party",
+      "summary": "Hi Egyptian here and wanted to know if there are any groups watching the worldcup match on Monday where Egypt is playing together? I’d love to join",
+      "url": "https://reddit.com/r/dubai/comments/1u51afw/egypts_match_watch_party/",
+      "timestamp": "2026-06-13T20:28:55.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u515l5",
+      "title": "Any ways i could expand my audience for thrifters?",
+      "summary": "I own an account (instagram = prelovedchanceskwt   where i just resell my stuff, making sure theyre clean as well, i have gotten very little customers since idk when, i just want to find some ways people can buy my stuff",
+      "url": "https://reddit.com/r/Kuwait/comments/1u515l5/any_ways_i_could_expand_my_audience_for_thrifters/",
+      "timestamp": "2026-06-13T20:23:19.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u512sc",
+      "title": "Is Dubai safe to visit/ move to right now?",
+      "summary": "I live in Canada and just want a fresh start and I always loved Dubai and the way the city is. I wanted to visit there for a long time but recent news and war with Iran has stopped me, I wanted to visit this August/ Sept",
+      "url": "https://reddit.com/r/dubai/comments/1u512sc/is_dubai_safe_to_visit_move_to_right_now/",
+      "timestamp": "2026-06-13T20:20:04.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "hn-48520967",
+      "title": "We aren't getting to AGI without a fight",
+      "summary": "3 pts · 1 comments",
+      "url": "https://news.ycombinator.com/item?id=48520967",
+      "timestamp": "2026-06-13T20:13:41.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 3,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u50ww7",
+      "title": "Any ways i could expand my audience for thrifters?",
+      "summary": "I own an account (instagram = prelovedchanceskwt where i just resell my stuff, making sure theyre clean as well, i have gotten very little customers since idk when, i just want to find some ways people can buy my stuff? ",
+      "url": "https://reddit.com/r/Kuwait/comments/1u50ww7/any_ways_i_could_expand_my_audience_for_thrifters/",
+      "timestamp": "2026-06-13T20:13:16.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u50sdh",
+      "title": "Where are you all parking money?",
+      "summary": "After WIO Bank decreased the interest rates, what other good options are available that are reliable and safe like WIO? Thanks,",
+      "url": "https://reddit.com/r/UAE/comments/1u50sdh/where_are_you_all_parking_money/",
+      "timestamp": "2026-06-13T20:08:05.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u50rqc",
+      "title": "Looking to split Talabat Pro for World Cup DM me!!",
+      "summary": "Hi everyone, I’m looking for people interested in splitting Talabat Pro for watching the World Cup. If you’re interested, please DM me or comment here. I tried IPTV before, but the signal was really bad and unreliable. I",
+      "url": "https://reddit.com/r/UAE/comments/1u50rqc/looking_to_split_talabat_pro_for_world_cup_dm_me/",
+      "timestamp": "2026-06-13T20:07:20.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u50opv",
+      "title": "HAIRSTYLIST",
+      "summary": "guys im looking for my sister who wants to get her hair done (balayage) for the first time and she doesnt want to use bleachbut wants like mocha blend type.   any good salons under 400 bucks?",
+      "url": "https://reddit.com/r/dubai/comments/1u50opv/hairstylist/",
+      "timestamp": "2026-06-13T20:03:53.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u50n16",
+      "title": "Insurance renewal while pregnant",
+      "summary": "Can anyone who works in insurance or who’s been through similar advise me,    I have my own insurance that includes maternity and I’m currently pregnant 13weeks I’ll need to renew next month and I’m wondering will they r",
+      "url": "https://reddit.com/r/dubai/comments/1u50n16/insurance_renewal_while_pregnant/",
+      "timestamp": "2026-06-13T20:01:58.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u50mic",
+      "title": "Insurance renewal while pregnant",
+      "summary": "Can anyone who works in insurance or who’s been through similar advise me,    I have my own insurance that includes maternity and I’m currently pregnant 13weeks I’ll need to renew next month and I’m wondering will they r",
+      "url": "https://reddit.com/r/UAE/comments/1u50mic/insurance_renewal_while_pregnant/",
+      "timestamp": "2026-06-13T20:01:21.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u50hpa",
+      "title": "Room for sharing in amwaj",
+      "summary": "Hi everyone - I am looking for someone having a 2bhk studio apartment living in amwaj, who is open to sharing (renting) 1 room. Not sure if this is the right platform or maybe of someone can guide where can i find.  TIA!",
+      "url": "https://reddit.com/r/Bahrain/comments/1u50hpa/room_for_sharing_in_amwaj/",
+      "timestamp": "2026-06-13T19:55:51.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u509qo",
+      "title": "GCC slams misleading media campaigns against UAE and Qatar",
+      "summary": "[https://gulfnews.com/uae/gcc-condemns-misleading-media-campaigns-targeting-uae-and-qatar-reaffirms-role-in-regional-security-and-stability-1.500573518](https://gulfnews.com/uae/gcc-condemns-misleading-media-campaigns-ta",
+      "url": "https://reddit.com/r/UAE/comments/1u509qo/gcc_slams_misleading_media_campaigns_against_uae/",
+      "timestamp": "2026-06-13T19:46:44.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u502pt",
+      "title": "Sharjah international airport.",
+      "summary": "I went to pickup my friend from sharjah airport after coming from a wedding in india at night and I saw next to the arrivals a whole new side of the airport with cranes and scaffolding so is this a new terminal or someth",
+      "url": "https://reddit.com/r/UAE/comments/1u502pt/sharjah_international_airport/",
+      "timestamp": "2026-06-13T19:38:34.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u502ml",
+      "title": "People of Determination card holder here",
+      "summary": "I am in a dilemma and I am tired of taxi drivers and bus driver treating us like shit. I want to complaint so this changes but I always think about how less of money they make and if I complaint, they gonna lose their jo",
+      "url": "https://reddit.com/r/UAE/comments/1u502ml/people_of_determination_card_holder_here/",
+      "timestamp": "2026-06-13T19:38:27.000Z",
+      "source": "r/UAE",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u500fg",
+      "title": "Qatar vs Switzerland offside penalty",
+      "summary": "Makes no sense",
+      "url": "https://reddit.com/r/qatar/comments/1u500fg/qatar_vs_switzerland_offside_penalty/",
+      "timestamp": "2026-06-13T19:35:47.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4zyw6",
+      "title": "LETS GO ANABBI",
+      "summary": "Comeback pls😭",
+      "url": "https://reddit.com/r/qatar/comments/1u4zyw6/lets_go_anabbi/",
+      "timestamp": "2026-06-13T19:34:03.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4zy6a",
+      "title": "Gas alarm beeping randomly / false alarm issue.",
+      "summary": "My gas detector keeps beeping randomly even when the gas is off. The green power light stays on, the red alarm light comes on during beeping, and pressing reset doesn’t stop it. The alarm eventually stops on its own afte",
+      "url": "https://reddit.com/r/dubai/comments/1u4zy6a/gas_alarm_beeping_randomly_false_alarm_issue/",
+      "timestamp": "2026-06-13T19:33:13.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4zuhp",
+      "title": "Visiting Qatar – Best Area to Stay Near the Gold Market?",
+      "summary": "Hi everyone! I’m planning a trip to Qatar for **networking with local jewelers**. I’ll be spending most of my time around the gold souqs and jewelry districts, so I’d love some advice from locals or anyone familiar with ",
+      "url": "https://reddit.com/r/qatar/comments/1u4zuhp/visiting_qatar_best_area_to_stay_near_the_gold/",
+      "timestamp": "2026-06-13T19:29:00.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4ztdi",
+      "title": "Visiting Qatar for Jewelry – Best Area to Stay Near the Gold Market?",
+      "summary": "Hi everyone! I’m planning a trip to Qatar for **jewelry selling and networking with local jewelers**. I’ll be spending most of my time around the gold souqs and jewelry districts, so I’d love some advice from locals or a",
+      "url": "https://reddit.com/r/qatar/comments/1u4ztdi/visiting_qatar_for_jewelry_best_area_to_stay_near/",
+      "timestamp": "2026-06-13T19:27:47.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4zi0j",
+      "title": "World cup 2026",
+      "summary": "Hi how do y’all watch the world cup2026",
+      "url": "https://reddit.com/r/qatar/comments/1u4zi0j/world_cup_2026/",
+      "timestamp": "2026-06-13T19:14:40.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4zd80",
+      "title": "art classes for adults?",
+      "summary": "& i mean real ones taught by professionals. not just arts & crafts or by someone IG famous.",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4zd80/art_classes_for_adults/",
+      "timestamp": "2026-06-13T19:09:10.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4zb6o",
+      "title": "What are the most geographically flexible careers for an expat?",
+      "summary": "Maybe not in every country but let's say 1 or 2 countries in each continent. Let's also assume language and visa issues are not barriers.  What type of jobs or skillsets are less location dependent and aren't a dime in a",
+      "url": "https://reddit.com/r/expats/comments/1u4zb6o/what_are_the_most_geographically_flexible_careers/",
+      "timestamp": "2026-06-13T19:06:45.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4z2qo",
+      "title": "Al khor to Old airport commute - Advice",
+      "summary": "I live in Al Khor and work near Old Airport Road in Doha. I don’t have a driving license yet, so I’m looking for practical commuting options. My work time is 7 AM.  Could anyone share their experience with: \t•\tCarpool op",
+      "url": "https://reddit.com/r/qatar/comments/1u4z2qo/al_khor_to_old_airport_commute_advice/",
+      "timestamp": "2026-06-13T18:57:20.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4z1ez",
+      "title": "9 months ago i discussed here that i wanna marry outside my culture",
+      "summary": "so basically 9 months ago I posted here as a qatari guy who would like to marry outside my culture or basically outside my nationality it turned out to be a nice discussion here but this time my question is are there peo",
+      "url": "https://reddit.com/r/qatar/comments/1u4z1ez/9_months_ago_i_discussed_here_that_i_wanna_marry/",
+      "timestamp": "2026-06-13T18:55:50.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4ywq6",
+      "title": "socializing in qatar",
+      "summary": "how do you socialize in qatar if you are an 18F who does not wanna hang out with men.",
+      "url": "https://reddit.com/r/qatar/comments/1u4ywq6/socializing_in_qatar/",
+      "timestamp": "2026-06-13T18:50:26.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4yvzp",
+      "title": "Anyone carried 27inch monitor hand luggage carry on jazeera airways or any other airways?",
+      "summary": "1 hour flight only",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4yvzp/anyone_carried_27inch_monitor_hand_luggage_carry/",
+      "timestamp": "2026-06-13T18:49:36.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4yrz6",
+      "title": "Has Anyone ordered using On Cloud Qatar website ?",
+      "summary": "Has anyone ordered from the On Cloud Qatar website? Their prices are almost half of what the shoes sell for in stores here in Qatar. I'm just wondering if anyone has experience with them and how long the delivery took.",
+      "url": "https://reddit.com/r/qatar/comments/1u4yrz6/has_anyone_ordered_using_on_cloud_qatar_website/",
+      "timestamp": "2026-06-13T18:44:59.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4yolm",
+      "title": "Does Mercato beach have new parking",
+      "summary": "Is the beach renovating completed and does Mercato beach have any new parking area open or any other parking at Jumeirah 2 beach parking. Going with kids so cannot park too far. Cheers",
+      "url": "https://reddit.com/r/dubai/comments/1u4yolm/does_mercato_beach_have_new_parking/",
+      "timestamp": "2026-06-13T18:41:11.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4yol0",
+      "title": "Chill coffee shops to do art",
+      "summary": "Hi, my friend and I are looking for a quiet and empty coffee shop preferably spacious where they have  good  comfortable sittings to do art/ bring my own supplies and just stay for hours, so table should be chest height.",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4yol0/chill_coffee_shops_to_do_art/",
+      "timestamp": "2026-06-13T18:41:10.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4ydyv",
+      "title": "any active osu players in bahrain?",
+      "summary": "heyo, so I been wondering if there are any active osu! players in Bahrain if they are what is your ranking, skill level and when did you start playing. i started at April 2026 and im ranked #680k (#211 in Bahrain) and i ",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4ydyv/any_active_osu_players_in_bahrain/",
+      "timestamp": "2026-06-13T18:29:33.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4y53e",
+      "title": "Slovenia lifts ban on arms trade with Israel",
+      "summary": "↑1 · 💬1",
+      "url": "https://reddit.com/r/arabs/comments/1u4y53e/slovenia_lifts_ban_on_arms_trade_with_israel/",
+      "timestamp": "2026-06-13T18:19:43.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Israel",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4xgjj",
+      "title": "Calling all UAE Vinyl Collectors & Audiophiles! 🇦🇪🎚️ (Admin approved / Delete if not allowed)",
+      "summary": "Hey everyone!   I hope it’s okay to share this here—I wanted to reach out to the local community because a few of us have just launched a brand new space dedicated entirely to analog music lovers in the Emirates: **r/uae",
+      "url": "https://reddit.com/r/dubai/comments/1u4xgjj/calling_all_uae_vinyl_collectors_audiophiles/",
+      "timestamp": "2026-06-13T17:53:15.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4xf8f",
+      "title": "Anyone use \"Savvy Nomad\" for legal domicile and mail forwarding?",
+      "summary": "Hey y'all! I'm getting ready to move abroad and one of the things I need to set up is a legal US domicile for filing taxes, banking, etc. this company also provides digital mail scanning/forwarding. it sounds good, but I",
+      "url": "https://reddit.com/r/expats/comments/1u4xf8f/anyone_use_savvy_nomad_for_legal_domicile_and/",
+      "timestamp": "2026-06-13T17:51:49.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4x4zd",
+      "title": "UAE paid Iran $3B, agreed to release $10B more to halt attacks",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/MiddleEast/comments/1u4x4zd/uae_paid_iran_3b_agreed_to_release_10b_more_to/",
+      "timestamp": "2026-06-13T17:40:25.000Z",
+      "source": "r/middleeast",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4x1yd",
+      "title": "Blocking Sidewalks?",
+      "summary": "**Is there a law in Qatar that prohibits blocking sidewalks? It’s really frustrating whenever my baby and I are out with a stroller and the sidewalk is blocked. Sidewalks are meant for pedestrians so they can walk safely",
+      "url": "https://reddit.com/r/qatar/comments/1u4x1yd/blocking_sidewalks/",
+      "timestamp": "2026-06-13T17:37:11.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4wpy8",
+      "title": "Blocking Sidewalks?",
+      "summary": "**Is there a law in Qatar that prohibits blocking sidewalks? It’s really frustrating whenever my baby and I are out with a stroller and the sidewalk is blocked. Sidewalks are meant for pedestrians so they can walk safely",
+      "url": "https://reddit.com/r/qatar/comments/1u4wpy8/blocking_sidewalks/",
+      "timestamp": "2026-06-13T17:23:47.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4wll5",
+      "title": "Korean pants for Men in Doha",
+      "summary": "Good evening everyone, Can someone please tell me where can I find Korean pants for men in doha? Attaching pictures for reference. Thank you, have a wonderful evening ahead. &#x200B;",
+      "url": "https://reddit.com/r/qatar/comments/1u4wll5/korean_pants_for_men_in_doha/",
+      "timestamp": "2026-06-13T17:19:00.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4wlbn",
+      "title": "How do I report this creep?",
+      "summary": "This creep messaged me and ig he works in oman only, This guy has been messaging me asking for pics, vc and whatnot and I am pretty sure I am not the only girl in this... wanna report him to the authorities, also if u do",
+      "url": "https://reddit.com/r/Oman/comments/1u4wlbn/how_do_i_report_this_creep/",
+      "timestamp": "2026-06-13T17:18:42.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4wefi",
+      "title": "Tired of paying more than you need to for groceries? Yeah, us too.",
+      "summary": "Real talk: we started this because every time we shopped, we'd wonder if we were getting ripped off. Are prices cheaper at Carrefour? Lulu? Who knows, right? So we built Akelny. It's a stupid-simple app that shows you pr",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4wefi/tired_of_paying_more_than_you_need_to_for/",
+      "timestamp": "2026-06-13T17:11:04.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4wbk0",
+      "title": "Vets for Parrots?",
+      "summary": "To my fellow Parrots owners. Any recommendations for a good Vet clinic that knows how to handle parrots in Muscat?",
+      "url": "https://reddit.com/r/Oman/comments/1u4wbk0/vets_for_parrots/",
+      "timestamp": "2026-06-13T17:07:56.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4w8iv",
+      "title": "How are gym goers managing the chicken breast shortage?",
+      "summary": "Chicken breast has always been my main protein source because it’s affordable and has a great protein to cost ratio. Recently, though, it’s been getting harder to find and the prices have gone up quite a bit. I don’t use",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4w8iv/how_are_gym_goers_managing_the_chicken_breast/",
+      "timestamp": "2026-06-13T17:04:33.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "3966213",
+      "title": "Canada, Ireland agree new framework to boost trade, investment, security cooperation",
+      "summary": "Leaders announce new partnership commitments during Canadian Premier Carney's visit to Dublin",
+      "url": "https://www.aa.com.tr/en/world/canada-ireland-agree-new-framework-to-boost-trade-investment-security-cooperation/3966213",
+      "timestamp": "2026-06-13T16:57:42.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4vx8x",
+      "title": "Could someone flying from Australia to India bring a car grille for me?",
+      "summary": "I need a Suzuki Heritage Front Grille (9911C-78R00-ZSC) for my Jimny. It is 1.6 kg and 135x40 cm. Item size is bigger than what Australia Post allows and other options (UPS, FedEx) are too expensive, costing more than th",
+      "url": "https://reddit.com/r/expats/comments/1u4vx8x/could_someone_flying_from_australia_to_india/",
+      "timestamp": "2026-06-13T16:52:17.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4vw8a",
+      "title": "Why do most of Europeans go and shop around on Saturday not Friday or Thursday like most people",
+      "summary": "I notice based on my observation Europeans go and walk on  Saturday I have never seen Europeans go or walk  Friday or  Thursday do they like more quiet and peaceful days do you notice this thing also",
+      "url": "https://reddit.com/r/qatar/comments/1u4vw8a/why_do_most_of_europeans_go_and_shop_around_on/",
+      "timestamp": "2026-06-13T16:51:06.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4vv9r",
+      "title": "Living in Luxembourg",
+      "summary": "Hiii, I received an offer to work in Luxembourg and now I live in Italy really underpaid. My problem is that I'm really really Italian (I talk with everyone, I scream etc but I have a lot of international friends). Shoul",
+      "url": "https://reddit.com/r/expats/comments/1u4vv9r/living_in_luxembourg/",
+      "timestamp": "2026-06-13T16:50:00.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "3966207",
+      "title": "Protesters in Stockholm rally against Israeli attacks in Palestinian territories, Lebanon",
+      "summary": "Demonstrators call for end to Israeli military operations, halt to Swedish arms sales to Israel",
+      "url": "https://www.aa.com.tr/en/world/protesters-in-stockholm-rally-against-israeli-attacks-in-palestinian-territories-lebanon/3966207",
+      "timestamp": "2026-06-13T16:48:21.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Lebanon",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4vnwn",
+      "title": "Is it normal for young Emirati Baloch people to speak Balochi in the UAE?",
+      "summary": "I’m curious about the Baloch community in the UAE. From what I’ve seen, many older Emirati Baloch people (parents, grandparents, etc.) speak Balochi and sometimes Urdu, but younger generations usually seem to speak Arabi",
+      "url": "https://reddit.com/r/dubai/comments/1u4vnwn/is_it_normal_for_young_emirati_baloch_people_to/",
+      "timestamp": "2026-06-13T16:41:47.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4vljh",
+      "title": "Rental fees breakdown needed",
+      "summary": "Salam/Hello - I'm trying to understand the rental fees when signing a lease - what does the person who is renting have to pay when signing the lease including all fees, commission, etc Thank you",
+      "url": "https://reddit.com/r/Oman/comments/1u4vljh/rental_fees_breakdown_needed/",
+      "timestamp": "2026-06-13T16:39:11.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4vkrr",
+      "title": "Where do you go for full body check up?",
+      "summary": "Life pharmacy removed their Full body check up offer so now Im looking for affordable ones. Im type 2 diabetic and would need to go for every 3 months. Can you recommend me CHEAP, AFFORDABLE clinic that does? Thank u!",
+      "url": "https://reddit.com/r/dubai/comments/1u4vkrr/where_do_you_go_for_full_body_check_up/",
+      "timestamp": "2026-06-13T16:38:23.000Z",
+      "source": "r/dubai",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4v5hb",
+      "title": "Hayya A3 visa question",
+      "summary": "I am interested to know if I apply for Qatar visa on arrival A3 visa with US h1b visa (expires Aug 10th 2026), will it be rejected since the visa expires in less than 2 months? The websites all talk about passport validi",
+      "url": "https://reddit.com/r/qatar/comments/1u4v5hb/hayya_a3_visa_question/",
+      "timestamp": "2026-06-13T16:21:12.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "3966186",
+      "title": "Experts discuss NATO’s future, Türkiye’s strategic role ahead of Ankara summit",
+      "summary": "Panel in Istanbul addresses transatlantic ties, European security, strategic autonomy, Türkiye’s role in NATO ahead of 2026 Ankara summit",
+      "url": "https://www.aa.com.tr/en/politics/experts-discuss-nato-s-future-turkiye-s-strategic-role-ahead-of-ankara-summit/3966186",
+      "timestamp": "2026-06-13T16:09:11.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4upft",
+      "title": "Peptides",
+      "summary": "Hello 👋    I see subcutaneous peptides everywhere on social media, for example Cu-GHK, Reta, glutathione etc.   It’s seems like the next amazing thing.   Has anyone in Bahrain tried any or knows of any supplier?",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4upft/peptides/",
+      "timestamp": "2026-06-13T16:03:20.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4uoyb",
+      "title": "Topics random",
+      "summary": "Hi everyone! I'm new here and looking to meet new ppl from different backgrounds and interests. One thing I rly enjoy is having convos abt all kinds of topics. Even when Idk much abt smtg, I'm always curious and happy to",
+      "url": "https://reddit.com/r/arabs/comments/1u4uoyb/topics_random/",
+      "timestamp": "2026-06-13T16:02:51.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4uo1q",
+      "title": "Am I in the wrong?",
+      "summary": "Hey everyone, looking for some genuine perspective here. I’ve stayed at plenty of farmhouses before and never had an issue, but something happened recently that left a bad taste in my mouth, and I honestly want to know i",
+      "url": "https://reddit.com/r/Oman/comments/1u4uo1q/am_i_in_the_wrong/",
+      "timestamp": "2026-06-13T16:01:54.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4ubd5",
+      "title": "Been in Qatar for three generations just experienced the a clear case of rascism.",
+      "summary": "So me and my friend, 32M have been in Qatar for 3 generations and our kids are the 4th generation.  &#x200B; We ( 2 males) wanted to have an ice cold spanish late from Mina port at sunset. While we entered, we were stopp",
+      "url": "https://reddit.com/r/qatar/comments/1u4ubd5/been_in_qatar_for_three_generations_just/",
+      "timestamp": "2026-06-13T15:47:32.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4u3ws",
+      "title": "Russian (M) / Taiwanese (F) expecting our first child. Is birth tourism in LATAM (Argentina/Brazil) still worth it in 2026?",
+      "summary": "Hey everyone, looking for some real talk on a \"Plan B\" passport strategy. My wife just found out she's two months pregnant, so we are starting to look at our options. &#x200B; I'm a Russian citizen but I've lived here in",
+      "url": "https://reddit.com/r/expats/comments/1u4u3ws/russian_m_taiwanese_f_expecting_our_first_child/",
+      "timestamp": "2026-06-13T15:38:53.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "3966173",
+      "title": "Trump to meet Middle East leaders on sidelines of G7 summit: Reports",
+      "summary": "US president to hold separate bilateral meetings with leaders of Qatar, UAE, Egypt on Tuesday",
+      "url": "https://www.aa.com.tr/en/world/trump-to-meet-middle-east-leaders-on-sidelines-of-g7-summit-reports/3966173",
+      "timestamp": "2026-06-13T15:26:53.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4to5w",
+      "title": "Deal Or No Deal? Nervous Wait Continues Amid Fragile Cease-Fire",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/MiddleEast/comments/1u4to5w/deal_or_no_deal_nervous_wait_continues_amid/",
+      "timestamp": "2026-06-13T15:21:14.000Z",
+      "source": "r/middleeast",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4t4sp",
+      "title": "Spider man brand new day",
+      "summary": "As most of us know the spider is coming to the cinemas next month, I'm a bit curious about the tickets situation because sony announced that it's gonna be released on Wednesday but im not sure if that includes bahrain to",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4t4sp/spider_man_brand_new_day/",
+      "timestamp": "2026-06-13T14:59:16.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4skab",
+      "title": "joining Qatar military as a non Qatari",
+      "summary": "there was a recent post about recruitment for a 5 year service, i am a 18 male currently in a University, do you guys think joining the Qatari military as a non Qatari would be worth it? (born and raised here)",
+      "url": "https://reddit.com/r/qatar/comments/1u4skab/joining_qatar_military_as_a_non_qatari/",
+      "timestamp": "2026-06-13T14:35:10.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4sgfr",
+      "title": "Where can I buy sand in Bahrain?",
+      "summary": "I'm looking to buy a little sand for my garden. It's not for plants.",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4sgfr/where_can_i_buy_sand_in_bahrain/",
+      "timestamp": "2026-06-13T14:30:44.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4scio",
+      "title": "Just Rant: Nobody in this sub probably cares, but it bothers me how our cinemas fumbled the best month for horror movies in over a decade",
+      "summary": "After years of CBM slop, Obsession and Backrooms, two horror movies finally became global horror hits thanks to strong word of mouth and the movies been peak. You'd think our cinemas would take advantage of that with dou",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4scio/just_rant_nobody_in_this_sub_probably_cares_but/",
+      "timestamp": "2026-06-13T14:26:12.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4s553",
+      "title": "كبير مهندسي ناسا للفضاء من أصول فلسطينية، المهندس محمد الحسان",
+      "summary": "في هذه الحلقة الاستثنائية، نأخذكم في جولة حصرية داخل مركز مارشال لرحلات الفضاء التابع لوكالة ناسا (NASA) في هنتسفيل، ألاباما، برفقة المهندس الفلسطيني محمد   الحسان، ابن مدينة طولكرم. محمد يشغل منصب كبير المهندسين (Lead E",
+      "url": "https://reddit.com/r/arabs/comments/1u4s553/كبير_مهندسي_ناسا_للفضاء_من_أصول_فلسطينية_المهندس/",
+      "timestamp": "2026-06-13T14:17:35.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "3966124",
+      "title": "EXPLAINER - Can Switzerland afford a 10-million population cap?",
+      "summary": "Ahead of June 14 referendum on capping Switzerland's population at 10M, foreign workers' critical role in healthcare, construction, and hospitality has come under renewed scrutiny",
+      "url": "https://www.aa.com.tr/en/world/explainer-can-switzerland-afford-a-10-million-population-cap/3966124",
+      "timestamp": "2026-06-13T14:16:41.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "3966119",
+      "title": "Iran says signing of memorandum of understanding with US ‘will not be tomorrow’",
+      "summary": "‘Although it will not be tomorrow, the possibility of this happening in the coming days cannot be ruled out,’ foreign ministry spokesman says",
+      "url": "https://www.aa.com.tr/en/world/iran-says-signing-of-memorandum-of-understanding-with-us-will-not-be-tomorrow-/3966119",
+      "timestamp": "2026-06-13T14:09:32.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4ruxg",
+      "title": "Looking for a new home in Europe as an American expat…",
+      "summary": "My family of three has traveled throughout Europe for many years and, now that our son is applying only to universities there with hopes of staying, my husband and I are ready to plan our own move abroad.  Our last trip ",
+      "url": "https://reddit.com/r/expats/comments/1u4ruxg/looking_for_a_new_home_in_europe_as_an_american/",
+      "timestamp": "2026-06-13T14:05:34.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4ruqg",
+      "title": "Why don't schools here actually teach Arabic to non-Arab students? And why isn't it mandatory?",
+      "summary": "Why don't schools in Bahrain actually teach Arabic to non-Arab students? And why isn't it mandatory? If you're born in Germany, you speak German. Born in Japan, you speak Japanese. That's just how it works everywhere in ",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4ruqg/why_dont_schools_here_actually_teach_arabic_to/",
+      "timestamp": "2026-06-13T14:05:19.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "3966118",
+      "title": "Flotilla stages protest on Lake Geneva against G7 summit",
+      "summary": "Around 100 activists from 15 countries take part in symbolic demonstration opposite Evian",
+      "url": "https://www.aa.com.tr/en/world/flotilla-stages-protest-on-lake-geneva-against-g7-summit/3966118",
+      "timestamp": "2026-06-13T14:02:41.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4rom9",
+      "title": "Is there animal shelters to volunteer at",
+      "summary": "Title",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4rom9/is_there_animal_shelters_to_volunteer_at/",
+      "timestamp": "2026-06-13T13:58:17.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4rhud",
+      "title": "لو شخص قالك",
+      "summary": "لو شخص قالك أطلع من بيتك وديرتك وبعطيك فلوس كثيره هل تطلع ولالا وليش؟",
+      "url": "https://reddit.com/r/arabs/comments/1u4rhud/لو_شخص_قالك/",
+      "timestamp": "2026-06-13T13:50:02.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4qx3d",
+      "title": "Anyone here use dataflow?",
+      "summary": "Are there any doctors here that have been through the equivalency process through dataflow? My question is how long has it taken for your documents to be processed?  &#x200B;",
+      "url": "https://reddit.com/r/Oman/comments/1u4qx3d/anyone_here_use_dataflow/",
+      "timestamp": "2026-06-13T13:24:27.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4qui5",
+      "title": "Missing Energy Drink",
+      "summary": "A couple months ago there was this pre workout energy drink in every trolley in kuwait,   **HYPE.**    It had me and my family in a chokehold because of the pump it had, veins popping and all, felt like you were mini Arn",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4qui5/missing_energy_drink/",
+      "timestamp": "2026-06-13T13:21:08.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4qpm9",
+      "title": "Where can I find good affordable drivers?",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4qpm9/where_can_i_find_good_affordable_drivers/",
+      "timestamp": "2026-06-13T13:15:16.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4qp73",
+      "title": "I live in Manama looking for a girl for sex We always become friends because I feel so lonely",
+      "summary": "Girl pls ♥️🇧🇭",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4qp73/i_live_in_manama_looking_for_a_girl_for_sex_we/",
+      "timestamp": "2026-06-13T13:14:44.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4qmme",
+      "title": "Found Original Panini FIFA World Cup 2026 Stickers & Albums on Mzad Qatar",
+      "summary": "**📢 Note: This is not an advertisement, buying, or selling post — just sharing information for fellow collectors.**      I noticed that someone is currently offering original Panini FIFA World Cup 2026 albums and sticke",
+      "url": "https://reddit.com/r/qatar/comments/1u4qmme/found_original_panini_fifa_world_cup_2026/",
+      "timestamp": "2026-06-13T13:11:36.000Z",
+      "source": "r/qatar",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Qatar",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4qj1r",
+      "title": "\"Fake cleanliness\" scams are a nightmare for hosts who rent out their homes remotely. Has anyone else encountered this?",
+      "summary": "Hi everyone! I partially finance my life abroad by managing rental properties remotely from home. Lately, I've encountered a particular type of scam from guests: fake dirt. Recently, one guest literally brought in hair a",
+      "url": "https://reddit.com/r/expats/comments/1u4qj1r/fake_cleanliness_scams_are_a_nightmare_for_hosts/",
+      "timestamp": "2026-06-13T13:07:08.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4qd6y",
+      "title": "\"Fake cleanliness\" scams are a nightmare for hosts who rent out their homes remotely. Has anyone else encountered this?",
+      "summary": "Hi everyone! I partially finance my life abroad by managing rental properties remotely from home. Lately, I've encountered a particular type of scam from guests: fake dirt. Recently, one guest literally brought in hair a",
+      "url": "https://reddit.com/r/expats/comments/1u4qd6y/fake_cleanliness_scams_are_a_nightmare_for_hosts/",
+      "timestamp": "2026-06-13T13:00:06.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4q5fp",
+      "title": "Temu orders to Kuwait",
+      "summary": "Hey guys, &#x200B; Anyone just ordered from Temu recently? I placed an order on the 8th of June, and as of today it's at package arrived at airport, awaiting flight from June 11th. &#x200B; My delivery parcel is GFS Expr",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4q5fp/temu_orders_to_kuwait/",
+      "timestamp": "2026-06-13T12:49:50.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4q50y",
+      "title": "Digital media platform business opportunity",
+      "summary": "Hello everyone    I own this Digital   Looking for an investor partnership for this  🚫 Reject fake news   ✅ Get authentic and credible information about Saudi Arabia and the Gulf countries   A deep focus on key Middle E",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4q50y/digital_media_platform_business_opportunity/",
+      "timestamp": "2026-06-13T12:49:18.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4q29e",
+      "title": "Questions relating to employment",
+      "summary": "Hello how hard is it to find english speaking jobs in Oman. I'm already moving to Oman for work and i was wondering how hard it would be for my wife to find a english speaking role in Human resource?",
+      "url": "https://reddit.com/r/Oman/comments/1u4q29e/questions_relating_to_employment/",
+      "timestamp": "2026-06-13T12:45:43.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4q22c",
+      "title": "The question WHY?",
+      "summary": "I feel most people just do whats comfortable, or copy others. They arent seeking answers themselves, or asking them in the first place. And thats dangerous in a way. It can mislead the person, nations, and generations.  ",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4q22c/the_question_why/",
+      "timestamp": "2026-06-13T12:45:28.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4q1m2",
+      "title": "Dealing with long distance",
+      "summary": "Hi Guys, I’m trying to figure out how international couples figure out which country to live in together. If you’ve been through this what was the hardest part? What did you wish existed? The more detailed you can be the",
+      "url": "https://reddit.com/r/expats/comments/1u4q1m2/dealing_with_long_distance/",
+      "timestamp": "2026-06-13T12:44:52.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4px13",
+      "title": "Where to buy Areon air refresheners?",
+      "summary": "I notice these alot on cars, I just recently bought one from bluebell and the smell lasted me nearly a month and smelled great and everything, but I never knew what stores mass sell these specific air refresheners.   I'v",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4px13/where_to_buy_areon_air_refresheners/",
+      "timestamp": "2026-06-13T12:38:41.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4p4hf",
+      "title": "Good Daycares in Fahaheel/Mangaf Area",
+      "summary": "Please suggest any good daycares in Fahaheel Mangaf areas.  &#x200B; (It would be great if the daycare was where your family and friends sent kids. Too many money hungry people out there.)",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4p4hf/good_daycares_in_fahaheelmangaf_area/",
+      "timestamp": "2026-06-13T12:00:25.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "https://www.bbc.com/news/articles/c39y02x98k8o#0",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-06-13T11:15:18.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Lebanon",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4nkc8",
+      "title": "Part time jobs for teachers",
+      "summary": "Hello everyone , im a first year teacher and as yall know its SUMMER BREAK now this is my first time actually having free time in summer lol and unfortunately im not travelling this summer so i have approximately 2 month",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4nkc8/part_time_jobs_for_teachers/",
+      "timestamp": "2026-06-13T10:36:40.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4nbcc",
+      "title": "Finding anemoia in these old postcards photos",
+      "summary": "There is a sense of anemoia that comes with looking at these old postcards, leaving me with a strange, melancholic longing for a bygone era I never actually lived through, thought I should share these with everyone.  (ps",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4nbcc/finding_anemoia_in_these_old_postcards_photos/",
+      "timestamp": "2026-06-13T10:22:06.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "3965934",
+      "title": "Food waste accelerates global warming, experts warn",
+      "summary": "Preventing food loss and waste described as fastest way to cool planet and improve food security, experts call for waste agenda to gain prominent place at COP31",
+      "url": "https://www.aa.com.tr/en/world/food-waste-accelerates-global-warming-experts-warn/3965934",
+      "timestamp": "2026-06-13T10:18:33.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4mhvl",
+      "title": "why does this always happen? why is everything so regulated?",
+      "summary": "so I hope this doesn’t get taken down because this is the 10th time I have done this and I’m done    I have bought a figurine for approximately 500 dinar the figure is from resident evil it’s a collector it’s a hobby so ",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4mhvl/why_does_this_always_happen_why_is_everything_so/",
+      "timestamp": "2026-06-13T09:32:01.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4mh88",
+      "title": "Gift Ideas for my Friend that I can order",
+      "summary": "My friends birthday is on Tuesday, I was planning on ordering for her a crochet blanket and a cake but the crochet business I have been in contact with is taking too long to finish this process and reply to me so I dont ",
+      "url": "https://reddit.com/r/Kuwait/comments/1u4mh88/gift_ideas_for_my_friend_that_i_can_order/",
+      "timestamp": "2026-06-13T09:30:56.000Z",
+      "source": "r/kuwait",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Kuwait",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4lb8n",
+      "title": "Paying out instantly for verification over apps and websites $30-$500 USD (USA Only) - Comment \"State\"",
+      "summary": "↑1 · 💬0",
+      "url": "https://reddit.com/r/expats/comments/1u4lb8n/paying_out_instantly_for_verification_over_apps/",
+      "timestamp": "2026-06-13T08:18:32.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4kvln",
+      "title": "Anyone else just… avoid making phone calls in your country?",
+      "summary": "Two years in Finland. I can order coffee, read signs, handle most daily stuff. But every time I have to call the bank or a government office, I find myself putting it off for days. Sometimes weeks. There’s something uniq",
+      "url": "https://reddit.com/r/expats/comments/1u4kvln/anyone_else_just_avoid_making_phone_calls_in_your/",
+      "timestamp": "2026-06-13T07:52:39.000Z",
+      "source": "r/expats",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4knsw",
+      "title": "Birthday freebies/ benefits?",
+      "summary": "Hey guys  Do yall know what are the birthday offers or benefits we get during your birthday month or birthday? Saw this post and was wondering if it applies to bahrain as well",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4knsw/birthday_freebies_benefits/",
+      "timestamp": "2026-06-13T07:39:25.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4k6vv",
+      "title": "IT Business student interested in FinTech in Bahrain – looking for career advice",
+      "summary": "I’m an IT Business student with around a year left before graduating. I’ve recently become interested in FinTech and was wondering what the industry looks like in Bahrain these days. Is FinTech still growing? What kind o",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4k6vv/it_business_student_interested_in_fintech_in/",
+      "timestamp": "2026-06-13T07:12:20.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1u4k6s1",
+      "title": "Forklift license",
+      "summary": "Good morning,   I was thinking about getting a forklift license, if anyone can guide me on where can I get one? How much would that cost? and how long would that take?   Thanks in advance",
+      "url": "https://reddit.com/r/Oman/comments/1u4k6s1/forklift_license/",
+      "timestamp": "2026-06-13T07:12:11.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4k6ow",
+      "title": "Forklift license",
+      "summary": "Good morning,   I was thinking about getting a forklift license, if anyone can guide me on where can I get one? How much would that cost? and how long would that take?   Thanks in advance",
+      "url": "https://reddit.com/r/Oman/comments/1u4k6ow/forklift_license/",
+      "timestamp": "2026-06-13T07:12:03.000Z",
+      "source": "r/oman",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Oman",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1u4jkoy",
+      "title": "Prenatal/Postpartum massage",
+      "summary": "hello everyone, hope you’re having a good Saturday. as the title suggests, just looking for decent massage therapists and recommendations/experiences/opinions about it. i did a quick search on the subreddit but couldn’t ",
+      "url": "https://reddit.com/r/Bahrain/comments/1u4jkoy/prenatalpostpartum_massage/",
+      "timestamp": "2026-06-13T06:36:59.000Z",
+      "source": "r/bahrain",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Bahrain",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 0
+    },
     {
       "id": "442258 at https://www.middleeasteye.net/",
       "title": "One killed in Israeli strike in southern Lebanon, report says",
@@ -455,7 +4775,7 @@
     {
       "id": "hn-48513331",
       "title": "Realistic Superintelligence",
-      "summary": "1 pts · 4 comments",
+      "summary": "2 pts · 4 comments",
       "url": "https://news.ycombinator.com/item?id=48513331",
       "timestamp": "2026-06-13T04:50:37.000Z",
       "source": "Hacker News",
@@ -467,7 +4787,7 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
+      "score": 2,
       "comments": 4
     },
     {
@@ -1098,24 +5418,6 @@
         "score": 0
       },
       "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c39y02x98k8o#0",
-      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
-      "summary": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&amp;at_campaign=rss",
-      "timestamp": "2026-06-13T00:51:20.000Z",
-      "source": "BBC Middle East",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iran",
-      "section": "Other",
-      "sentiment": {
-        "label": "POSITIVE",
-        "score": 2
-      },
-      "score": 0,
       "comments": 0
     },
     {
@@ -2633,7 +6935,7 @@
     {
       "id": "hn-48507696",
       "title": "Ask HN: What happens when AI-voice becomes good enough?",
-      "summary": "1 pts · 7 comments",
+      "summary": "1 pts · 8 comments",
       "url": "https://news.ycombinator.com/item?id=48507696",
       "timestamp": "2026-06-12T18:30:02.000Z",
       "source": "Hacker News",
@@ -2646,7 +6948,7 @@
         "score": 0
       },
       "score": 1,
-      "comments": 7
+      "comments": 8
     },
     {
       "id": "reddit-1u43ksx",
@@ -2664,7 +6966,7 @@
         "score": 1
       },
       "score": 1,
-      "comments": 1
+      "comments": 4
     },
     {
       "id": "3965567",
@@ -2754,7 +7056,7 @@
         "score": 0
       },
       "score": 1,
-      "comments": 0
+      "comments": 1
     },
     {
       "id": "reddit-1u431fk",
@@ -2843,8 +7145,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 0,
+      "comments": 1
     },
     {
       "id": "reddit-1u42x55",
@@ -2861,13 +7163,13 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 13,
+      "comments": 13
     },
     {
       "id": "hn-48507406",
       "title": "Are Americans Too Old?",
-      "summary": "6 pts · 8 comments",
+      "summary": "7 pts · 8 comments",
       "url": "https://www.newyorker.com/culture/open-questions/are-americans-too-old",
       "timestamp": "2026-06-12T18:06:09.000Z",
       "source": "Hacker News",
@@ -2879,7 +7181,7 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 6,
+      "score": 7,
       "comments": 8
     },
     {
@@ -2897,8 +7199,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 2,
+      "comments": 4
     },
     {
       "id": "https://www.thenationalnews.com/news/2026/06/12/pictures-of-the-week-from-the-uae-games-to-sumo-wrestlers-in-paris/",
@@ -2987,8 +7289,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 103,
+      "comments": 6
     },
     {
       "id": "reddit-1u4261x",
@@ -3078,7 +7380,7 @@
         "score": 0
       },
       "score": 1,
-      "comments": 1
+      "comments": 11
     },
     {
       "id": "reddit-1u41s5r",
@@ -3149,8 +7451,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 5,
+      "comments": 3
     },
     {
       "id": "reddit-1u41ep7",
@@ -3203,8 +7505,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 45,
+      "comments": 3
     },
     {
       "id": "reddit-1u40n0u",
@@ -3239,8 +7541,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 19,
+      "comments": 20
     },
     {
       "id": "reddit-1u404g0",
@@ -3275,8 +7577,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 8,
+      "comments": 12
     },
     {
       "id": "reddit-1u3zqt9",
@@ -3293,8 +7595,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 91,
+      "comments": 58
     },
     {
       "id": "reddit-1u3zqkr",
@@ -3330,7 +7632,7 @@
         "score": 0
       },
       "score": 1,
-      "comments": 0
+      "comments": 4
     },
     {
       "id": "reddit-1u3zglh",
@@ -3383,8 +7685,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 0,
+      "comments": 12
     },
     {
       "id": "reddit-1u3z966",
@@ -3402,7 +7704,7 @@
         "score": 0
       },
       "score": 1,
-      "comments": 0
+      "comments": 3
     },
     {
       "id": "reddit-1u3z94s",
@@ -3425,7 +7727,7 @@
     {
       "id": "hn-48505598",
       "title": "Responding to Plausibility of Alien Visitors",
-      "summary": "1 pts · 2 comments",
+      "summary": "1 pts · 3 comments",
       "url": "https://news.ycombinator.com/item?id=48505598",
       "timestamp": "2026-06-12T15:45:21.000Z",
       "source": "Hacker News",
@@ -3438,7 +7740,7 @@
         "score": 0
       },
       "score": 1,
-      "comments": 2
+      "comments": 3
     },
     {
       "id": "hn-48505517",
@@ -3509,8 +7811,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 3,
+      "comments": 6
     },
     {
       "id": "reddit-1u3yfre",
@@ -3527,8 +7829,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 0,
+      "comments": 11
     },
     {
       "id": "reddit-1u3y5cd",
@@ -3546,7 +7848,7 @@
         "score": 0
       },
       "score": 1,
-      "comments": 0
+      "comments": 2
     },
     {
       "id": "3965398",
@@ -3599,13 +7901,13 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 3,
+      "comments": 2
     },
     {
       "id": "reddit-1u3wvop",
       "title": "Can i post personal add today?",
-      "summary": "↑1 · 💬0",
+      "summary": "↑0 · 💬1",
       "url": "https://reddit.com/r/Bahrain/comments/1u3wvop/can_i_post_personal_add_today/",
       "timestamp": "2026-06-12T14:29:01.000Z",
       "source": "r/bahrain",
@@ -3617,8 +7919,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 0,
+      "comments": 1
     },
     {
       "id": "reddit-1u3ws2z",
@@ -3635,8 +7937,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 6,
+      "comments": 8
     },
     {
       "id": "reddit-1u3wnav",
@@ -3779,8 +8081,8 @@
         "label": "STABLE",
         "score": 1
       },
-      "score": 1,
-      "comments": 0
+      "score": 0,
+      "comments": 2
     },
     {
       "id": "hn-48503113",
@@ -3839,7 +8141,7 @@
     {
       "id": "reddit-1u3t7t1",
       "title": "Hit me with the most craziest and unknown facts and secrets about Bahrain 😤",
-      "summary": "↑1 · 💬0",
+      "summary": "↑35 · 💬52",
       "url": "https://reddit.com/r/Bahrain/comments/1u3t7t1/hit_me_with_the_most_craziest_and_unknown_facts/",
       "timestamp": "2026-06-12T11:58:27.000Z",
       "source": "r/bahrain",
@@ -3851,8 +8153,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 35,
+      "comments": 52
     },
     {
       "id": "reddit-1u3szpe",
@@ -3977,8 +8279,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 13,
+      "comments": 6
     },
     {
       "id": "reddit-1u3revm",
@@ -4121,7 +8423,7 @@
         "label": "WARNING",
         "score": -1
       },
-      "score": 1,
+      "score": 9,
       "comments": 1
     },
     {
@@ -4229,8 +8531,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 0,
+      "comments": 2
     },
     {
       "id": "reddit-1u3pqox",
@@ -4337,8 +8639,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 0,
+      "comments": 29
     },
     {
       "id": "reddit-1u3p4ut",
@@ -4409,8 +8711,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 6,
+      "comments": 32
     },
     {
       "id": "reddit-1u3o8lf",
@@ -4445,8 +8747,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 0,
+      "comments": 56
     },
     {
       "id": "reddit-1u3nt68",
@@ -4751,8 +9053,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 0
+      "score": 7,
+      "comments": 44
     },
     {
       "id": "reddit-1u3moxd",
@@ -5025,6 +9327,24 @@
       "comments": 0
     },
     {
+      "id": "https://www.bbc.com/news/articles/cewpwjr9rj4o#0",
+      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "summary": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
+      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-06-12T05:01:48.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "Other",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
       "id": "reddit-1u3lss8",
       "title": "Can I get a Rolex Lady Datejust in any AD of Dubai?",
       "summary": "Hi! I want to buy a Rolex Lady Datejust for my wife, but I want to buy it from AD and I have no idea if it's possible to get it in stock in store or if it's in high demand. Can anyone help me, please?",
@@ -5292,7 +9612,7 @@
         "score": 0
       },
       "score": 1,
-      "comments": 0
+      "comments": 1
     },
     {
       "id": "442175 at https://www.middleeasteye.net/",
@@ -427480,168 +431800,6 @@
       "sentiment": {
         "label": "WARNING",
         "score": -1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "hn-47394961",
-      "title": "The Iran war may be about to escalate",
-      "summary": "38 pts · 2 comments",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/03/15/the-iran-war-may-be-about-to-escalate",
-      "timestamp": "2026-03-16T03:37:58.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Iran",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 38,
-      "comments": 2
-    },
-    {
-      "id": "reddit-1rusgr1",
-      "title": "How can I verify my phone number to use Llave MX as a newly establish dual citizen (US/Mexico) based on family descent when I'm not getting the SMS text verifications?",
-      "summary": "I just got my official CURP as I was born in the US to Mexican parents, and so DN Express helped me navigate the process and submitted all of my paperwork to Tijuana, Baja California. Upon getting my green sheet, I set a",
-      "url": "https://reddit.com/r/expat/comments/1rusgr1/how_can_i_verify_my_phone_number_to_use_llave_mx/",
-      "timestamp": "2026-03-15T22:52:00.000Z",
-      "source": "r/expat",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 0,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1rukcej",
-      "title": "The Real Winner of Trump’s Iran War So Far? Vladimir Putin. China’s Xi Jinping is also benefiting. By Amb. Michael McFaul.",
-      "summary": "↑1",
-      "url": "https://reddit.com/r/MiddleEast/comments/1rukcej/the_real_winner_of_trumps_iran_war_so_far/",
-      "timestamp": "2026-03-15T17:39:10.000Z",
-      "source": "r/middleeast",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Iran",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "hn-47388828",
-      "title": "'Bit of treachery': US attack on IRIS Dena undermines Indian security ties",
-      "summary": "3 pts · 0 comments",
-      "url": "https://www.theguardian.com/world/2026/mar/15/us-attack-iris-dena-undermines-indian-security-ties-iran",
-      "timestamp": "2026-03-15T16:16:07.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "id": "hn-47388256",
-      "title": "Ask HN: How do you handle personal finance without giving data to third parties?",
-      "summary": "1 pts · 2 comments",
-      "url": "https://news.ycombinator.com/item?id=47388256",
-      "timestamp": "2026-03-15T15:19:27.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 2
-    },
-    {
-      "id": "reddit-1ruer2b",
-      "title": "Israel Says Michigan Synagogue Attacker’s Brother Was a Hezbollah Commander",
-      "summary": "↑3",
-      "url": "https://reddit.com/r/MiddleEast/comments/1ruer2b/israel_says_michigan_synagogue_attackers_brother/",
-      "timestamp": "2026-03-15T13:59:22.000Z",
-      "source": "r/middleeast",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Israel",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 3,
-      "comments": 0
-    },
-    {
-      "id": "hn-47387413",
-      "title": "FCC Chair Threatens to Revoke Broadcasters' Licenses over War Coverage",
-      "summary": "6 pts · 1 comments",
-      "url": "https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html",
-      "timestamp": "2026-03-15T13:55:36.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 6,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1ruehk8",
-      "title": "As the Strait of Hormuz stays shut, ships weigh a deadly choice",
-      "summary": "↑1",
-      "url": "https://reddit.com/r/MiddleEast/comments/1ruehk8/as_the_strait_of_hormuz_stays_shut_ships_weigh_a/",
-      "timestamp": "2026-03-15T13:48:00.000Z",
-      "source": "r/middleeast",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1rucg2e",
-      "title": "U.S. intelligence shows Iran's late supreme leader was wary of his son taking power, sources say",
-      "summary": "↑1",
-      "url": "https://reddit.com/r/MiddleEast/comments/1rucg2e/us_intelligence_shows_irans_late_supreme_leader/",
-      "timestamp": "2026-03-15T12:10:08.000Z",
-      "source": "r/middleeast",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Iran",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
       },
       "score": 1,
       "comments": 0
