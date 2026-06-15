@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T07:08:47.485Z",
+  "generated_at": "2026-06-15T08:39:45.847Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Big Changes Lives",
+  "dominantNarrative": "Winning Big Dreams",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "gratitude"
+    "Excitement",
+    "Optimism",
+    "Disappointment"
   ],
-  "psychInsight": "The prospect of winning the lottery triggers a strong emotional response, driven by the desire for financial freedom and a better life. This hopefulness is fueled by stories of ordinary people winning life-changing amounts, creating a sense of possibility and motivation.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with the uncertainty of outcomes fueling a mix of emotions. The prevalence of lottery-related discussions indicates a strong appeal to chance and luck in the Middle East region.",
   "riskSignals": [
-    "gambling addiction",
-    "financial recklessness"
+    "Scams",
+    "False hopes"
   ],
   "opportunitySignals": [
-    "financial inclusion",
-    "responsible gaming"
+    "Increased engagement",
+    "Loyalty programs"
   ]
 }

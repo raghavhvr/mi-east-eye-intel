@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-14T07:08:46.927Z",
+  "generated_at": "2026-06-15T08:39:45.201Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Social Media Chatter",
-  "summary": "The analyzed headlines indicate a prevalence of mundane and everyday topics, with no apparent security threats or concerns. The overall tone of the headlines suggests a focus on personal interests and consumerism, with minimal discussion of geopolitical or regional issues.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "MENA Conflict",
+  "summary": "Recent Israeli strikes in southern Lebanon and the interception of a Russian shadow tanker in the UK Channel indicate increased tensions in the region. A peace accord has been announced after 108 days of war, but the situation remains volatile",
   "keyTrends": [
-    "Social Media",
-    "Consumerism",
-    "Leisure Activities"
+    "Israel-Lebanon Conflict",
+    "Russian Influence",
+    "Regional Security"
   ],
   "watchItems": [
-    "Pezeshkian's statement",
-    "Regional demographics"
+    "Lebanon Ceasefire",
+    "Russian Tanker Interception"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Lack of sensitive topics",
-    "Focus on personal interests"
+    "Ongoing Conflict",
+    "Geopolitical Tensions"
   ]
 }
