@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-06-15T07:41:46.192Z",
+  "generated_at": "2026-06-16T07:45:50.144Z",
   "gdelt_tone": {
-    "UAE": -0.5,
-    "Saudi Arabia": 0.05,
-    "Qatar": -0.56,
-    "Kuwait": -2.54,
-    "Bahrain": -1.35,
-    "Oman": -2.88,
-    "Jordan": -2.28,
-    "Lebanon": -3.81,
-    "Iraq": -3.14,
-    "Egypt": 0,
-    "Yemen": -4.12,
-    "Iran": -3.23
+    "UAE": -0.38,
+    "Saudi Arabia": 0.66,
+    "Qatar": 0.14,
+    "Kuwait": -2.36,
+    "Bahrain": -1.36,
+    "Oman": -2.89,
+    "Jordan": -2.2,
+    "Lebanon": -3.09,
+    "Iraq": -2.57,
+    "Egypt": 0.36,
+    "Yemen": -3.8,
+    "Iran": -2.49
   },
   "weather": {
-    "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 41,
-      "wind_kmh": 3,
+      "temp_c": 39,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 16,
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 24,
       "condition": "Clear",
-      "city": "Kuwait City"
+      "city": "Abu Dhabi"
     },
     "Qatar": {
-      "temp_c": 43,
-      "wind_kmh": 7,
+      "temp_c": 41,
+      "wind_kmh": 22,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Kuwait": {
+      "temp_c": 38,
+      "wind_kmh": 24,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Bahrain": {
-      "temp_c": 39,
-      "wind_kmh": 10,
+      "temp_c": 35,
+      "wind_kmh": 23,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 37,
-      "wind_kmh": 13,
-      "condition": "Thunderstorm",
+      "temp_c": 38,
+      "wind_kmh": 17,
+      "condition": "Clear",
       "city": "Muscat"
     },
     "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 11,
+      "temp_c": 27,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Amman"
     },
     "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 13,
+      "temp_c": 26,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 7,
+      "temp_c": 27,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 36,
-      "wind_kmh": 8,
+      "temp_c": 37,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Baghdad"
     },
+    "Yemen": {
+      "temp_c": 29,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
     "Iran": {
-      "temp_c": 33,
-      "wind_kmh": 18,
+      "temp_c": 31,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 28,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308256,
+    "KWD": 0.308057,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.617244,
-    "IQD": 1312.076816
+    "EGP": 50.37908,
+    "IQD": 1311.589016
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u6zi8b",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1u6zi8b/powerball_winning_numbers_monday/",
+        "timestamp": "2026-06-16T01:20:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u6xg8g",
+        "title": "scratchstats.ai - Rank scratch tickets in your state by expected value",
+        "summary": "This is not an AI slop tool! I promise. I built this after having bad experiences with the existing scratch ticket analysis tools out there. Most of what I found for evaluating scratch tickets were either buried in ads, required an account,",
+        "url": "https://reddit.com/r/Lottery/comments/1u6xg8g/scratchstatsai_rank_scratch_tickets_in_your_state/",
+        "timestamp": "2026-06-15T23:48:34.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u6so35",
+        "title": "TRAVEL AGENCY SCAM",
+        "summary": "Has anyone been contacted by this company \"XXXX XXXXX International\" saying you have been selected for gift vouchers in a lucky draw from our company. They ask you to come and collect the gift vouchers and prizes along with your family at t",
+        "url": "https://reddit.com/r/qatar/comments/1u6so35/travel_agency_scam/",
+        "timestamp": "2026-06-15T20:39:55.000Z",
+        "source": "r/qatar",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1u6rk17",
+        "title": "Double billing?",
+        "summary": "I have been looking back through my lottery and bank records, and it appears that several times, when I've put money in the system, I was charged twice.  I never put in money twice in one day. Has anyone else run into this? How do I resolve",
+        "url": "https://reddit.com/r/Lottery/comments/1u6rk17/double_billing/",
+        "timestamp": "2026-06-15T19:59:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u6r8lg",
+        "title": "$500 winner on the new Texas lottery ticket that came out today!",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1u6r8lg/500_winner_on_the_new_texas_lottery_ticket_that/",
+        "timestamp": "2026-06-15T19:48:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1u668tr",
         "title": "Lottery winners of Reddit: How much did you win, and how many tickets did you buy before you finally hit it?",
@@ -147,6 +222,36 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Bambu Lab Store Hits Record-Low Prices -- Including First-Ever Discounts on P2S, H2S and H2C",
+        "summary": "The 4th Anniversary Sale runs June 15 to July 15 across US, EU, UK, Canada, and Australia — with record-low prices on P1S, P2S, H2S, H2D, and H2C, a free coupon for subscribers, weekly flash deals, and a prize draw that pays back your entire order. AUSTIN, Te…",
+        "url": "https://www.prnewswire.com/news-releases/bambu-lab-store-hits-record-low-prices--including-first-ever-discounts-on-p2s-h2s-and-h2c-302799627.html",
+        "timestamp": "2026-06-15T00:00:00Z",
+        "source": "PRNewswire",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Bambu Lab Store Hits Record-Low Prices -- Including First-Ever Discounts on P2S, H2S and H2C",
+        "summary": "The 4th Anniversary Sale runs June 15 to July 15 across US, EU, UK, Canada, and Australia — with record-low prices on P1S, P2S, H2S, H2D, and H2C, a free coupon for subscribers, weekly flash deals, and a prize draw that pays back your entire order. AUSTIN, Te…",
+        "url": "https://www.prnewswire.com/news-releases/bambu-lab-store-hits-record-low-prices--including-first-ever-discounts-on-p2s-h2s-and-h2c-302799631.html",
+        "timestamp": "2026-06-15T00:00:00Z",
+        "source": "PRNewswire",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1u5q8jd",
         "title": "Postcode lottery referral code",
         "summary": "https://postcodelottery.mention-me.com/m/ol/mo3fdfgd-d1fcb95abc referral code 😊 for £15 free!",
@@ -171,7 +276,37 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 3,
+        "comments": 8,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Numbers June 13 2026: No Jackpot Winner as $257 Million Prize Rolls Over to $269 Million Monday Draw",
+        "summary": "The Powerball jackpot has increased to $269 million after no ticket matched all numbers in Saturday's draw. The next opportunity for a winner is Monday, June 15.",
+        "url": "https://www.ibtimes.com.au/powerball-jackpot-soars-269-million-1870619",
+        "timestamp": "2026-06-14T12:41:54Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Senior legal boss who joked raffle winner could take junior colleague's virginity has been banned from profession",
+        "summary": "Darren Shaw (pictured), a chartered legal executive at personal injury firm Keller Postman, made the toe-curling comments when a prize was announced as a 'Virgin Experience Day'.",
+        "url": "https://www.dailymail.com/news/article-15895231/Senior-legal-boss-joked-raffle-winner-junior-colleague-virginity-banned-profession.html",
+        "timestamp": "2026-06-14T10:51:21Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -186,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -552,21 +687,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "BBC Predict – World Cup Prize Draw Terms",
-        "summary": "The terms for BBC Predict – World Cup Prize Draw.",
-        "url": "https://www.bbc.com/sport/football/articles/c23ykgl770go?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "timestamp": "2026-06-08T12:56:07Z",
-        "source": "BBC News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1tzrafs",
         "title": "I want a $2 draw coupon on the Missouri Lotto app and turned it into $40",
         "summary": "↑26 · 💬4",
@@ -578,21 +698,6 @@
         "country": "Global",
         "score": 26,
         "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tz0atq",
-        "title": "When I wake up I will become the Powerball Jackpot Winner!",
-        "summary": "Look for me on Timothy Schultz channel! Goodnight everyone!",
-        "url": "https://reddit.com/r/Lottery/comments/1tz0atq/when_i_wake_up_i_will_become_the_powerball/",
-        "timestamp": "2026-06-07T02:50:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 10,
-        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -643,17 +748,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 36,
-      "meSignals": 2,
+      "totalSignals": 43,
+      "meSignals": 5,
       "moodDist": {
-        "HOPEFUL": 31,
+        "HOPEFUL": 36,
         "CYNICAL": 0,
-        "ANXIOUS": 0,
-        "NEUTRAL": 5
+        "ANXIOUS": 1,
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 14
+      "uncertaintyScore": 16
     }
   }
 }
