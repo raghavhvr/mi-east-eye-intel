@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-15T08:39:45.201Z",
+  "generated_at": "2026-06-16T08:33:18.585Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "MENA Conflict",
-  "summary": "Recent Israeli strikes in southern Lebanon and the interception of a Russian shadow tanker in the UK Channel indicate increased tensions in the region. A peace accord has been announced after 108 days of war, but the situation remains volatile",
+  "threatLevel": "LOW",
+  "topTheme": "US-Iran Relations",
+  "summary": "The region remains stable with no major security threats, but diplomatic developments between the US and Iran are worth monitoring. Egypt's efforts to enhance its US partnership and Iran's monetary cooperation with Russia are notable trends",
   "keyTrends": [
-    "Israel-Lebanon Conflict",
-    "Russian Influence",
-    "Regional Security"
+    "US-Iran Diplomacy",
+    "Egypt-US Relations",
+    "Iran-Russia Cooperation"
   ],
   "watchItems": [
-    "Lebanon Ceasefire",
-    "Russian Tanker Interception"
+    "US-Iran Deal",
+    "Egypt's G7 Meeting"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Ongoing Conflict",
-    "Geopolitical Tensions"
+    "Geopolitical Uncertainty",
+    "Economic Cooperation"
   ]
 }

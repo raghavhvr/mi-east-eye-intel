@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-15T08:39:45.847Z",
+  "generated_at": "2026-06-16T08:33:19.189Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
-  "dominantNarrative": "Winning Big Dreams",
+  "dominantNarrative": "Big wins ahead",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Disappointment"
+    "excitement",
+    "optimism",
+    "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with the uncertainty of outcomes fueling a mix of emotions. The prevalence of lottery-related discussions indicates a strong appeal to chance and luck in the Middle East region.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, with many seeking to improve their financial situation through lottery and gambling. The presence of scams and false wins, however, also triggers feelings of frustration and caution.",
   "riskSignals": [
-    "Scams",
-    "False hopes"
+    "scams",
+    "false wins"
   ],
   "opportunitySignals": [
-    "Increased engagement",
-    "Loyalty programs"
+    "new lottery tickets",
+    "record-low prices"
   ]
 }
