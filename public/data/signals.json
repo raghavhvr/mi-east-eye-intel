@@ -1,106 +1,208 @@
 {
-  "generated_at": "2026-06-16T07:45:50.144Z",
+  "generated_at": "2026-06-17T07:30:08.210Z",
   "gdelt_tone": {
-    "UAE": -0.38,
-    "Saudi Arabia": 0.66,
-    "Qatar": 0.14,
-    "Kuwait": -2.36,
-    "Bahrain": -1.36,
-    "Oman": -2.89,
-    "Jordan": -2.2,
-    "Lebanon": -3.09,
-    "Iraq": -2.57,
-    "Egypt": 0.36,
-    "Yemen": -3.8,
-    "Iran": -2.49
+    "UAE": -0.32,
+    "Saudi Arabia": 0.75,
+    "Qatar": 0.25,
+    "Kuwait": -2.35,
+    "Bahrain": -1.78,
+    "Oman": -2.81,
+    "Jordan": -2.11,
+    "Lebanon": -2.82,
+    "Iraq": -2.03,
+    "Egypt": 0.53,
+    "Yemen": -3.5,
+    "Iran": -2.21
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 39,
+      "temp_c": 37,
       "wind_kmh": 8,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 24,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Qatar": {
-      "temp_c": 41,
+      "temp_c": 39,
       "wind_kmh": 22,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 24,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 23,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 17,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Jordan": {
-      "temp_c": 27,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Yemen": {
-      "temp_c": 29,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 31,
+    "UAE": {
+      "temp_c": 36,
       "wind_kmh": 9,
       "condition": "Clear",
-      "city": "Tehran"
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 38,
+      "wind_kmh": 26,
+      "condition": "Clear",
+      "city": "Kuwait City"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308057,
+    "KWD": 0.308318,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.37908,
-    "IQD": 1311.589016
+    "EGP": 50.202783,
+    "IQD": 1311.63285
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u7tcs5",
+        "title": "AZ Lottery $500!!",
+        "summary": "2nd time hitting 500 on these. And believe it or not I’m still on top!   If you gonna play the $50 tickets make the most sense as far as odds go. Also always check the state lottery website to see what games still have lots of top tier winn",
+        "url": "https://reddit.com/r/Lottery/comments/1u7tcs5/az_lottery_500/",
+        "timestamp": "2026-06-16T23:12:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u7s3hc",
+        "title": "Matched 5 out of 6 $500",
+        "summary": "It’s a lottery game here in Wisconsin called “super cash “ I matched 5 out of 6 and won $500 , 1 set off the grand prize of $350,000 if you match 6 out of 6",
+        "url": "https://reddit.com/r/Lottery/comments/1u7s3hc/matched_5_out_of_6_500/",
+        "timestamp": "2026-06-16T22:20:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u7lzhl",
+        "title": "Michigan man wins huge lottery jackpot after accidentally buying ticket: ‘I hadn’t been having luck with it’",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1u7lzhl/michigan_man_wins_huge_lottery_jackpot_after/",
+        "timestamp": "2026-06-16T18:33:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u7fmq7",
+        "title": "Got interesting results in lottery simulator",
+        "summary": "Anyone interested in knowing let me know",
+        "url": "https://reddit.com/r/Lottery/comments/1u7fmq7/got_interesting_results_in_lottery_simulator/",
+        "timestamp": "2026-06-16T14:47:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u7f5xr",
+        "title": "want to push lottery simulator getting 3/5+pb  to 4/5+pb for Powerball",
+        "summary": "Anyone interested in knowing the details let me know",
+        "url": "https://reddit.com/r/Lottery/comments/1u7f5xr/want_to_push_lottery_simulator_getting_35pb_to/",
+        "timestamp": "2026-06-16T14:29:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u7exdo",
+        "title": "lottery simulator getting 4/5+pb for Powerball",
+        "summary": "I have created lottery simulator. currently able to achieve 4/5+pb for Powerball. Anyone interested in knowing the details let me know",
+        "url": "https://reddit.com/r/Lottery/comments/1u7exdo/lottery_simulator_getting_45pb_for_powerball/",
+        "timestamp": "2026-06-16T14:20:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u7bhr0",
+        "title": "Top 10 Lottery Formats by Simulated Win Rate (6,476 Plays Across 150 Days)",
+        "summary": "I thought some people here might find this interesting.  Over the last 150 days I've been collecting data from thousands of lottery simulations and finally decided to look at which lottery formats produced the highest win rates. Some of the",
+        "url": "https://reddit.com/r/Lottery/comments/1u7bhr0/top_10_lottery_formats_by_simulated_win_rate_6476/",
+        "timestamp": "2026-06-16T11:59:55.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u7b0c0",
+        "title": "Winning 3 gifts from BLUE WINGS INTERNATIONAL (Qatar)",
+        "summary": "Has anyone else experienced this? A few days ago, I was at a supermarket in Souq when someone approached me and said there was a free raffle draw. The guy approached me and asked me to fill out a form, and since it was presented as free, I ",
+        "url": "https://reddit.com/r/qatar/comments/1u7b0c0/winning_3_gifts_from_blue_wings_international/",
+        "timestamp": "2026-06-16T11:36:30.000Z",
+        "source": "r/qatar",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Nagaland Lottery Sambad result out today (16-06-2026); check Rs 1 crore prize winning number and full list here",
+        "summary": "Nagaland State Lottery Sambad Dear Tuesday Weekly draw results for today, 16 June 2026, have been officially declared. The first prize of ₹1 Crore has been announced. Participants can now check if their tickets have won big in today’s lucky draw.",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/nagaland-lottery-sambad-result-out-today-15-06-2026-check-rs-1-crore-prize-winning-number-and-full-list-here/articleshow/131762233.cms",
+        "timestamp": "2026-06-16T06:45:31Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Why is the National Lottery’s new ad campaign a copy of an old New Zealand one?",
+        "summary": "Kiwis’ cash-in-transit caper adapted for Ireland",
+        "url": "https://www.irishtimes.com/business/2026/06/16/why-is-the-national-lotterys-new-ad-campaign-a-copy-of-an-old-new-zealand-one/",
+        "timestamp": "2026-06-16T04:37:00Z",
+        "source": "The Irish Times",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1u6zi8b",
         "title": "Powerball Winning Numbers (Monday)",
@@ -186,8 +288,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +303,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 12,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -522,21 +624,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "'Hands, legs were shaking': Rs 78,00,00,000 lottery win for Nepali Security Guard in UAE, he plans to build a house and own Mahindra Thar",
-        "summary": "A Nepali security guard in Abu Dhabi has won a Dh30 million lottery jackpot. Tayab Khan and four friends pooled money for the winning ticket. Each friend receives Dh6 million. Khan dreams of buying a Mahindra Thar and a new house for his family. The win offer…",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/hands-legs-were-shaking-rs-780000000-lottery-win-for-nepali-security-guard-in-uae-he-plans-to-build-a-house-and-own-mahindra-thar/articleshow/131624522.cms",
-        "timestamp": "2026-06-10T04:16:34Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1u1p66g",
         "title": "Lottery Winners",
         "summary": "Anyone who has won a lottery jackpot or know of someone...did they feel lucky when they bought ticket, had weird dreams, or something told them to buy it? And do you believe some god or spirit heard their prayers to win and just granted the",
@@ -550,21 +637,6 @@
         "comments": 18,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "I secretly became a millionaire after winning the lottery - but I'm still working at a job I hate and driving Ubers for a living",
-        "summary": "A woman who grew up poor has revealed how she's been living as if nothing ever changed after secretly becoming a millionaire overnight.",
-        "url": "https://www.dailymail.com/lifestyle/article-15887275/I-secretly-millionaire-winning-lottery-Im-working-job-hate-driving-Ubers-living.html",
-        "timestamp": "2026-06-10T01:43:09Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       },
       {
         "id": "reddit-lot-1u1gzcg",
@@ -593,111 +665,6 @@
         "country": "Global",
         "score": 31,
         "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u0tvxz",
-        "title": "PA Lottery is using AI to scam people with the daily number drawings. Anyone else been noticing these weird patterns?",
-        "summary": "There is simply no way this is possible for it to be happening on a routine basis. I'm talking almost every single time I play it's 1 digit off...and the day time drawing will be 1 digit different than the previous night's drawing.  Every s",
-        "url": "https://reddit.com/r/Lottery/comments/1u0tvxz/pa_lottery_is_using_ai_to_scam_people_with_the/",
-        "timestamp": "2026-06-09T03:40:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 37,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u0tago",
-        "title": "I charted 30 years of Powerball draws — are any numbers actually \"due\"?",
-        "summary": "I grabbed the full Powerball draw history (1995–2025) and charted how often each number has come up — main balls 1–69 and the Powerball field 1–26. Short answer to the title: no. The most-drawn main number has appeared only \\~40% more than ",
-        "url": "https://reddit.com/r/Lottery/comments/1u0tago/i_charted_30_years_of_powerball_draws_are_any/",
-        "timestamp": "2026-06-09T03:11:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u0r4k0",
-        "title": "Powerball Winning Numbers (Wednesday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1u0r4k0/powerball_winning_numbers_wednesday/",
-        "timestamp": "2026-06-09T01:30:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u0qwnt",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑2 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1u0qwnt/powerball_winning_numbers_monday/",
-        "timestamp": "2026-06-09T01:20:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u0bnad",
-        "title": "Best deposit methods for online lottery/betting platforms?",
-        "summary": "I am just comparing different payment methods used on online lottery style platforms such as Lottoland. For someone who have used such platforms before, what deposit method do you usually use, debit card, e wallet, bank transfer, prepaid ca",
-        "url": "https://reddit.com/r/Lottery/comments/1u0bnad/best_deposit_methods_for_online_lotterybetting/",
-        "timestamp": "2026-06-08T15:44:43.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u08thp",
-        "title": "How to go from 1 in 292 million to 1 in 5,239",
-        "summary": "One of the most interesting concepts behind Repeating Numerical Groups (**RNP**) analysis is what I call **Collapsing Dimensional Space**. Most lottery discussions focus on predicting an exact future draw. In Powerball, that means correctly",
-        "url": "https://reddit.com/r/Lottery/comments/1u08thp/how_to_go_from_1_in_292_million_to_1_in_5239/",
-        "timestamp": "2026-06-08T14:01:32.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1tzrafs",
-        "title": "I want a $2 draw coupon on the Missouri Lotto app and turned it into $40",
-        "summary": "↑26 · 💬4",
-        "url": "https://reddit.com/r/Lottery/comments/1tzrafs/i_want_a_2_draw_coupon_on_the_missouri_lotto_app/",
-        "timestamp": "2026-06-07T23:22:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 26,
-        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -748,17 +715,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 43,
-      "meSignals": 5,
+      "totalSignals": 44,
+      "meSignals": 4,
       "moodDist": {
         "HOPEFUL": 36,
         "CYNICAL": 0,
         "ANXIOUS": 1,
-        "NEUTRAL": 6
+        "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 16
+      "uncertaintyScore": 18
     }
   }
 }
