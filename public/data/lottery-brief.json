@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-16T08:33:19.189Z",
+  "generated_at": "2026-06-17T07:37:24.545Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Big wins ahead",
+  "dominantNarrative": "Winning Lottery Jackpots",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "frustration"
+    "Excitement",
+    "Optimism",
+    "Luck"
   ],
-  "psychInsight": "The public is driven by the desire for life-changing wins, with many seeking to improve their financial situation through lottery and gambling. The presence of scams and false wins, however, also triggers feelings of frustration and caution.",
+  "psychInsight": "The public's reactions are driven by the desire for financial windfalls and the thrill of possibly winning, which activates the brain's reward system and releases dopamine. The sharing of winning stories and lottery strategies also fosters a sense of community and social bonding among individuals with similar interests.",
   "riskSignals": [
-    "scams",
-    "false wins"
+    "Scams",
+    "Double billing"
   ],
   "opportunitySignals": [
-    "new lottery tickets",
-    "record-low prices"
+    "Lottery simulators",
+    "New lottery tickets"
   ]
 }
