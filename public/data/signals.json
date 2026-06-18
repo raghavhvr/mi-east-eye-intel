@@ -1,58 +1,166 @@
 {
-  "generated_at": "2026-06-17T07:30:08.210Z",
+  "generated_at": "2026-06-18T07:12:59.678Z",
   "gdelt_tone": {
-    "UAE": -0.32,
-    "Saudi Arabia": 0.75,
-    "Qatar": 0.25,
-    "Kuwait": -2.35,
-    "Bahrain": -1.78,
-    "Oman": -2.81,
-    "Jordan": -2.11,
-    "Lebanon": -2.82,
-    "Iraq": -2.03,
-    "Egypt": 0.53,
-    "Yemen": -3.5,
-    "Iran": -2.21
+    "UAE": -0.38,
+    "Saudi Arabia": 0.78,
+    "Qatar": 0.42,
+    "Kuwait": -2.22,
+    "Bahrain": -1.31,
+    "Oman": -2.59,
+    "Jordan": -1.42,
+    "Lebanon": -2.61,
+    "Iraq": -1.96,
+    "Egypt": 0.46,
+    "Yemen": -3.49,
+    "Iran": -1.8
   },
   "weather": {
+    "UAE": {
+      "temp_c": 39,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 8,
+      "temp_c": 38,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 22,
+      "temp_c": 37,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Doha"
     },
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 26,
+      "temp_c": 40,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Kuwait City"
+    },
+    "Bahrain": {
+      "temp_c": 36,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 35,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Lebanon": {
+      "temp_c": 26,
+      "wind_kmh": 20,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 26,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 41,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 26,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iran": {
+      "temp_c": 30,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 28,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308318,
+    "KWD": 0.307549,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.202783,
-    "IQD": 1311.63285
+    "EGP": 49.929933,
+    "IQD": 1311.041888
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u8yonq",
+        "title": "Lucky Streak with AZ lottery",
+        "summary": "This game has the best odds to win 1k.",
+        "url": "https://reddit.com/r/Lottery/comments/1u8yonq/lucky_streak_with_az_lottery/",
+        "timestamp": "2026-06-18T06:33:33.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u8wxa6",
+        "title": "Lottery stores better than other stores",
+        "summary": "Is true that some lottery stores are better than other ones? I’m from CT. I have a friend that has a lot of experience with lottery. And we went to a place where we get some scratch tickets and at least we were getting some bucks back and s",
+        "url": "https://reddit.com/r/Lottery/comments/1u8wxa6/lottery_stores_better_than_other_stores/",
+        "timestamp": "2026-06-18T04:53:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
+        "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
+        "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/17/the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
+        "timestamp": "2026-06-17T17:50:17Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9h",
+        "title": "Casino Gambling Slots Poker Roulette Jackpot Rewards Icons Pack by Neprosto Assets",
+        "summary": "A collection of casino, poker, roulette, slot machine, jackpot, gambling rewards, collectibles, and gaming event icons for casino-themed game systems.<ul><li>File Format: Prefabs + PNG</li><li>Icons: 124</li><li>Average Resolution: 512x512 px</li></ul>This as…",
+        "url": "https://assetstore.unity.com/packages/2d/casino-gambling-slots-poker-roulette-jackpot-rewards-icons-pack-387182",
+        "timestamp": "2026-06-17T05:41:09Z",
+        "source": "Unity.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1u7tcs5",
         "title": "AZ Lottery $500!!",
@@ -86,15 +194,15 @@
       {
         "id": "reddit-lot-1u7lzhl",
         "title": "Michigan man wins huge lottery jackpot after accidentally buying ticket: ‘I hadn’t been having luck with it’",
-        "summary": "↑1 · 💬0",
+        "summary": "↑71 · 💬6",
         "url": "https://reddit.com/r/Lottery/comments/1u7lzhl/michigan_man_wins_huge_lottery_jackpot_after/",
         "timestamp": "2026-06-16T18:33:44.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 71,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -153,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -169,7 +277,7 @@
         "tag": "ME-LOT",
         "country": "Regional",
         "score": 1,
-        "comments": 0,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": true
       },
@@ -228,25 +336,10 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1u6so35",
-        "title": "TRAVEL AGENCY SCAM",
-        "summary": "Has anyone been contacted by this company \"XXXX XXXXX International\" saying you have been selected for gift vouchers in a lucky draw from our company. They ask you to come and collect the gift vouchers and prizes along with your family at t",
-        "url": "https://reddit.com/r/qatar/comments/1u6so35/travel_agency_scam/",
-        "timestamp": "2026-06-15T20:39:55.000Z",
-        "source": "r/qatar",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": true
       },
       {
         "id": "reddit-lot-1u6rk17",
@@ -258,23 +351,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "NEUTRAL",
         "isME": false
       },
       {
         "id": "reddit-lot-1u6r8lg",
         "title": "$500 winner on the new Texas lottery ticket that came out today!",
-        "summary": "↑1 · 💬0",
+        "summary": "↑59 · 💬13",
         "url": "https://reddit.com/r/Lottery/comments/1u6r8lg/500_winner_on_the_new_texas_lottery_ticket_that/",
         "timestamp": "2026-06-15T19:48:22.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 59,
+        "comments": 13,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -624,51 +717,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1u1p66g",
-        "title": "Lottery Winners",
-        "summary": "Anyone who has won a lottery jackpot or know of someone...did they feel lucky when they bought ticket, had weird dreams, or something told them to buy it? And do you believe some god or spirit heard their prayers to win and just granted the",
-        "url": "https://reddit.com/r/Lottery/comments/1u1p66g/lottery_winners/",
-        "timestamp": "2026-06-10T02:16:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 18,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u1gzcg",
-        "title": "Eurojackpot + Other lottery Discord",
-        "summary": "Are you interested to talk about Eurojackpot with others? Are you interested to share lotto numbers you play and discuss about the game (jackpot size, hot and cold numbers etc.)?  If yes, you are welcome to join Eurojackpot Community Discor",
-        "url": "https://reddit.com/r/Lottery/comments/1u1gzcg/eurojackpot_other_lottery_discord/",
-        "timestamp": "2026-06-09T20:34:01.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u1g4wi",
-        "title": "Whenever the local lottery releases a new scratch ticket game",
-        "summary": "↑31 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1u1g4wi/whenever_the_local_lottery_releases_a_new_scratch/",
-        "timestamp": "2026-06-09T20:03:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 31,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-business-2026-jun-05-william-hill-owner-agrees-evoke-takeover-greek-casino-lottery-firm",
         "title": "William Hill owner agrees £243m takeover by Greek casino and lottery firm",
         "summary": "Evoke had been in talks for two months with Bally’s Intralot, which has extensive international operations",
@@ -716,16 +764,16 @@
     ],
     "meta": {
       "totalSignals": 44,
-      "meSignals": 4,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 37,
         "CYNICAL": 0,
-        "ANXIOUS": 1,
+        "ANXIOUS": 0,
         "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 18
+      "uncertaintyScore": 16
     }
   }
 }
