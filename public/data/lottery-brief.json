@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T07:37:24.545Z",
+  "generated_at": "2026-06-18T07:19:10.786Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Lottery Jackpots",
+  "dominantNarrative": "Winning big sums money",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Luck"
+    "excitement",
+    "optimism",
+    "anticipation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial windfalls and the thrill of possibly winning, which activates the brain's reward system and releases dopamine. The sharing of winning stories and lottery strategies also fosters a sense of community and social bonding among individuals with similar interests.",
+  "psychInsight": "The public is driven by the desire for financial windfalls and the thrill of possibly winning, which activates the brain's reward system and releases dopamine. This hope for a better financial future is a key motivator for engagement with lottery and gambling activities.",
   "riskSignals": [
-    "Scams",
-    "Double billing"
+    "gambling addiction",
+    "financial loss"
   ],
   "opportunitySignals": [
-    "Lottery simulators",
-    "New lottery tickets"
+    "increased engagement",
+    "new marketing strategies"
   ]
 }
