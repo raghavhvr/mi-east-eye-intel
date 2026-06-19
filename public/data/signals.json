@@ -1,106 +1,196 @@
 {
-  "generated_at": "2026-06-18T07:12:59.678Z",
+  "generated_at": "2026-06-19T07:32:47.602Z",
   "gdelt_tone": {
-    "UAE": -0.38,
-    "Saudi Arabia": 0.78,
-    "Qatar": 0.42,
-    "Kuwait": -2.22,
-    "Bahrain": -1.31,
-    "Oman": -2.59,
-    "Jordan": -1.42,
-    "Lebanon": -2.61,
-    "Iraq": -1.96,
-    "Egypt": 0.46,
-    "Yemen": -3.49,
-    "Iran": -1.8
+    "UAE": -0.47,
+    "Saudi Arabia": 0.93,
+    "Qatar": 0.7,
+    "Kuwait": -0.66,
+    "Bahrain": 1.31,
+    "Oman": -1.94,
+    "Jordan": -0.77,
+    "Lebanon": -2.52,
+    "Iraq": -1.84,
+    "Egypt": 0.54,
+    "Yemen": -3.45,
+    "Iran": -1.42
   },
   "weather": {
     "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 5,
+      "temp_c": 41,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 3,
+      "temp_c": 40,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
       "temp_c": 37,
-      "wind_kmh": 9,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 40,
-      "wind_kmh": 11,
+      "temp_c": 39,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Oman": {
-      "temp_c": 35,
-      "wind_kmh": 14,
+      "temp_c": 39,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 20,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+    "Bahrain": {
+      "temp_c": 36,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Manama"
     },
     "Jordan": {
       "temp_c": 26,
-      "wind_kmh": 12,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 41,
-      "wind_kmh": 8,
+    "Lebanon": {
+      "temp_c": 25,
+      "wind_kmh": 15,
       "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 5,
+      "temp_c": 28,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 30,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
+    "Iraq": {
+      "temp_c": 42,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Yemen": {
       "temp_c": 28,
-      "wind_kmh": 11,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 34,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307549,
+    "KWD": 0.308087,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.929933,
-    "IQD": 1311.041888
+    "EGP": 49.919072,
+    "IQD": 1308.907655
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1u9tmot",
+        "title": "What are the odds on winning a small chunk of cash from 1$ bucks scratchers?",
+        "summary": "Im pretty new to dollar lottos and spent 5 bucks on 1$ bucks scratchers the other day, all of them were duds except one that paid me out 15 bucks.    I wanna try more but I don't expect to get a crap load of money, just some spare change to",
+        "url": "https://reddit.com/r/Lottery/comments/1u9tmot/what_are_the_odds_on_winning_a_small_chunk_of/",
+        "timestamp": "2026-06-19T05:51:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u9owxn",
+        "title": "This is what I was told today, not sure how true it is….",
+        "summary": "Ok so I bought a couple scratch offs at my local gas station (Texas) and I guess I hit credit instead of debit and the clerk kinda freaked out on me. He said they could lose their license because I paid with a/as “credit” and if I won anyth",
+        "url": "https://reddit.com/r/Lottery/comments/1u9owxn/this_is_what_i_was_told_today_not_sure_how_true/",
+        "timestamp": "2026-06-19T01:51:35.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u9nob8",
+        "title": "How many times could someone win before being stopped?",
+        "summary": "Hello, I’ve been thinking about this all day, but I just don’t have much knowledge on lotteries or companies that run them. I’m very sorry if this isn’t the correct place to ask this question. In this scenario there’s no cheating or scams g",
+        "url": "https://reddit.com/r/Lottery/comments/1u9nob8/how_many_times_could_someone_win_before_being/",
+        "timestamp": "2026-06-19T00:51:34.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u9mw3a",
+        "title": "Bonus win Royal Jackpot",
+        "summary": "My new favorite game. Already hit couple of $400 win’s 🙌 good luck to all keep scratchin 🍀",
+        "url": "https://reddit.com/r/Lottery/comments/1u9mw3a/bonus_win_royal_jackpot/",
+        "timestamp": "2026-06-19T00:14:35.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u9ll7a",
+        "title": "Georgia Lottery poorly run",
+        "summary": "Georgia Lottery joined Millionaire For Life on February 22. You still can't buy it online. Their array of games is pitiful compared to other states. &#x200B; Visit Tennessee and look at their games. Many daily $1 games. Who runs the Tenness",
+        "url": "https://reddit.com/r/Lottery/comments/1u9ll7a/georgia_lottery_poorly_run/",
+        "timestamp": "2026-06-18T23:15:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1u99nnc",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1u99nnc/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-06-18T15:38:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1u8yonq",
         "title": "Lucky Streak with AZ lottery",
@@ -171,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 48,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 119,
+        "comments": 15,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -265,21 +355,6 @@
         "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1u7b0c0",
-        "title": "Winning 3 gifts from BLUE WINGS INTERNATIONAL (Qatar)",
-        "summary": "Has anyone else experienced this? A few days ago, I was at a supermarket in Souq when someone approached me and said there was a free raffle draw. The guy approached me and asked me to fill out a form, and since it was presented as free, I ",
-        "url": "https://reddit.com/r/qatar/comments/1u7b0c0/winning_3_gifts_from_blue_wings_international/",
-        "timestamp": "2026-06-16T11:36:30.000Z",
-        "source": "r/qatar",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": true
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
@@ -687,36 +762,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1u2axmc",
-        "title": "Fellow California Scratchers: 7's Ticket Is A Great Bet Right Now, Here's Why",
-        "summary": "The 7's just crossed 90% expected value (EV) yesterday! So out of the 24 states I track this is currently the 18th best ticket in the country to buy right now. Almost 60% of tickets are sold and 4/5 jackpots are still remaining. 90% EV mean",
-        "url": "https://reddit.com/r/Lottery/comments/1u2axmc/fellow_california_scratchers_7s_ticket_is_a_great/",
-        "timestamp": "2026-06-10T18:40:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 12,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u22fnr",
-        "title": "In the Polish Lotto game (Duży Lotek) there is a set of 12 \"golden numbers\": 16, 17, 18, 19, 21, 23, 24, 28, 29, 36, 38, 41, and if I had played them using the 12-number system in every draw since the beginning of lottery in Poland in 1957, I would have won the jackpot 7 times (ROI of 106.5%).",
-        "summary": "In the Polish Lotto game (Duży Lotek) there is a set of 12 \"golden numbers\": **16**, **17**, **18**, **19**, **21**, **23**, **24**, **28**, **29**, **36**, **38**, **41**. If I had played them using the 12-number system in every draw since",
-        "url": "https://reddit.com/r/Lottery/comments/1u22fnr/in_the_polish_lotto_game_duży_lotek_there_is_a/",
-        "timestamp": "2026-06-10T13:36:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-business-2026-jun-05-william-hill-owner-agrees-evoke-takeover-greek-casino-lottery-firm",
         "title": "William Hill owner agrees £243m takeover by Greek casino and lottery firm",
         "summary": "Evoke had been in talks for two months with Bally’s Intralot, which has extensive international operations",
@@ -763,17 +808,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 44,
-      "meSignals": 3,
+      "totalSignals": 47,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 37,
+        "HOPEFUL": 40,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 16
+      "uncertaintyScore": 15
     }
   }
 }
