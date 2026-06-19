@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-18T07:19:10.265Z",
-  "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "US-Iran Talks",
-  "summary": "The US and Iran are reportedly engaging in talks, with a potential peace deal and reopening of the Hormuz Strait, while Germany deploys ships to the Red Sea. The situation remains fluid, with various regional players involved, including Qatar, which may have played a role in securing the US-Iran deal",
+  "generated_at": "2026-06-19T08:18:17.324Z",
+  "model": "keyword-fallback",
+  "threatLevel": "LOW",
+  "topTheme": "Political Developments",
+  "summary": "Regional signals indicate low activity with focus on political developments. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "US-Iran Relations",
-    "Regional Diplomacy",
-    "Maritime Security"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Hormuz Strait",
-    "German Naval Deployment"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Uncertainty around US-Iran deal",
-    "Regional geopolitical tensions"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }

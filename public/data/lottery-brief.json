@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T07:19:10.786Z",
+  "generated_at": "2026-06-19T08:18:18.157Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big sums money",
+  "dominantNarrative": "Winning Big Jackpots",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "anticipation"
+    "Excitement",
+    "Optimism",
+    "Luck"
   ],
-  "psychInsight": "The public is driven by the desire for financial windfalls and the thrill of possibly winning, which activates the brain's reward system and releases dopamine. This hope for a better financial future is a key motivator for engagement with lottery and gambling activities.",
+  "psychInsight": "The public is driven by the desire for instant gratification and the thrill of potentially life-changing wins, with many individuals exhibiting a strong optimism bias. The lottery and gambling discussions also reveal a tendency to attribute success to luck rather than skill or strategy.",
   "riskSignals": [
-    "gambling addiction",
-    "financial loss"
+    "Problem Gambling",
+    "Unrealistic Expectations"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "new marketing strategies"
+    "Increased Engagement",
+    "Loyalty Programs"
   ]
 }
