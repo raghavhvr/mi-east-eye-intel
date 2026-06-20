@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-06-19T08:18:18.157Z",
+  "generated_at": "2026-06-20T06:47:40.878Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
-  "dominantNarrative": "Winning Big Jackpots",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
     "Excitement",
     "Optimism",
     "Luck"
   ],
-  "psychInsight": "The public is driven by the desire for instant gratification and the thrill of potentially life-changing wins, with many individuals exhibiting a strong optimism bias. The lottery and gambling discussions also reveal a tendency to attribute success to luck rather than skill or strategy.",
+  "psychInsight": "The public is driven by the thrill of potentially winning large sums of money, which activates the brain's reward system and releases dopamine. This hope for a life-changing win overrides concerns about the odds, creating a sense of optimism and excitement.",
   "riskSignals": [
     "Problem Gambling",
     "Unrealistic Expectations"
