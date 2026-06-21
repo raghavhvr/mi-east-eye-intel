@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T06:47:40.878Z",
+  "generated_at": "2026-06-21T07:18:59.025Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Winning big money",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Luck"
+    "excitement",
+    "optimism",
+    "greed"
   ],
-  "psychInsight": "The public is driven by the thrill of potentially winning large sums of money, which activates the brain's reward system and releases dopamine. This hope for a life-changing win overrides concerns about the odds, creating a sense of optimism and excitement.",
+  "psychInsight": "The public is driven by the desire for instant wealth and the thrill of possibly winning, which activates the brain's reward system and releases dopamine. This can lead to impulsive decisions and a disregard for odds, highlighting a lack of understanding of probability and risk management.",
   "riskSignals": [
-    "Problem Gambling",
-    "Unrealistic Expectations"
+    "problem gambling",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "Increased Engagement",
-    "Loyalty Programs"
+    "increased engagement",
+    "lottery revenue growth"
   ]
 }

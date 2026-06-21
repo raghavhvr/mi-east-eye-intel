@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-06-20T06:47:40.184Z",
+  "generated_at": "2026-06-21T07:18:58.355Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Middle East Conflict",
-  "summary": "Recent Israeli strikes in Gaza City and southern Lebanon have resulted in casualties, while other regional issues such as business and residency services are also being discussed. The overall sentiment in the region remains cautious due to ongoing geopolitical tensions and concerns over service reliability",
+  "threatLevel": "LOW",
+  "topTheme": "MENA Regional Developments",
+  "summary": "The region is experiencing a mix of tourism and diplomatic developments, with Dubai seeing a potential increase in tourism and the Pakistan army chief engaging in US-Iran talks. Overall, the situation remains stable with no major security concerns emerging from the available open-source information.",
   "keyTrends": [
-    "Israeli strikes",
-    "UAE business services",
-    "healthcare tourism"
+    "Tourism Recovery",
+    "Diplomatic Efforts",
+    "Regional Sports"
   ],
   "watchItems": [
-    "Gaza City",
-    "Israeli-Lebanese relations",
-    "TALABAT scam allegations"
+    "US-Iran Talks",
+    "Dubai Tourism"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "OPTIMISTIC",
   "sentimentDrivers": [
-    "geopolitical tensions",
-    "service reliability concerns"
+    "Positive Travel News",
+    "Successful Diplomatic Engagements"
   ]
 }
