@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-21T07:18:58.355Z",
+  "generated_at": "2026-06-22T08:42:22.196Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "MENA Regional Developments",
-  "summary": "The region is experiencing a mix of tourism and diplomatic developments, with Dubai seeing a potential increase in tourism and the Pakistan army chief engaging in US-Iran talks. Overall, the situation remains stable with no major security concerns emerging from the available open-source information.",
+  "threatLevel": "MODERATE",
+  "topTheme": "US-Iran Talks",
+  "summary": "The US and Iran are advancing peace talks, but Lebanon remains a point of contention, while China has imposed export curbs on US entities. Regional dynamics are shifting, with Qatar experiencing a gas plant explosion and Abu Dhabi strengthening ties with Mumbai's new airport",
   "keyTrends": [
-    "Tourism Recovery",
-    "Diplomatic Efforts",
-    "Regional Sports"
+    "US-Iran Relations",
+    "China-US Tensions",
+    "MENA Economic Shifts"
   ],
   "watchItems": [
-    "US-Iran Talks",
-    "Dubai Tourism"
+    "Lebanon",
+    "Qatar Gas Plant"
   ],
-  "userSentiment": "OPTIMISTIC",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Positive Travel News",
-    "Successful Diplomatic Engagements"
+    "Geopolitical Uncertainty",
+    "Economic Volatility"
   ]
 }
