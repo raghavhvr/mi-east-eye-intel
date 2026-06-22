@@ -1,91 +1,91 @@
 {
-  "generated_at": "2026-06-21T07:12:32.834Z",
+  "generated_at": "2026-06-22T07:44:22.513Z",
   "gdelt_tone": {
-    "UAE": -0.21,
-    "Saudi Arabia": 1.07,
-    "Qatar": 0.36,
-    "Kuwait": -0.37,
-    "Bahrain": 1.4,
-    "Oman": -1.08,
-    "Jordan": -0.43,
-    "Lebanon": -2.92,
-    "Iraq": -1.69,
-    "Egypt": 0.59,
+    "UAE": -0.16,
+    "Saudi Arabia": 1.03,
+    "Qatar": 0,
+    "Kuwait": -0.73,
+    "Bahrain": 1.57,
+    "Oman": -0.49,
+    "Jordan": -0.86,
+    "Lebanon": -2.88,
+    "Iraq": -1.58,
+    "Egypt": 0.65,
     "Yemen": -3.04,
-    "Iran": -1.55
+    "Iran": -1.6
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 41,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 12,
+      "temp_c": 40,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Saudi Arabia": {
+      "temp_c": 42,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "Kuwait": {
       "temp_c": 42,
-      "wind_kmh": 7,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 43,
-      "wind_kmh": 11,
+      "temp_c": 44,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Doha"
     },
     "Oman": {
-      "temp_c": 40,
-      "wind_kmh": 14,
+      "temp_c": 37,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 40,
-      "wind_kmh": 9,
+      "temp_c": 37,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Jordan": {
-      "temp_c": 28,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
       "temp_c": 26,
-      "wind_kmh": 9,
+      "wind_kmh": 16,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
+    "Jordan": {
+      "temp_c": 25,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Amman"
     },
     "Iraq": {
-      "temp_c": 40,
-      "wind_kmh": 11,
+      "temp_c": 43,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 9,
+    "Egypt": {
+      "temp_c": 26,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Cairo"
     },
     "Iran": {
-      "temp_c": 37,
-      "wind_kmh": 14,
+      "temp_c": 38,
+      "wind_kmh": 21,
       "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 27,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
@@ -101,6 +101,36 @@
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1ubzrtg",
+        "title": "The number on a lottery scratch off ticket doesn't matter.",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1ubzrtg/the_number_on_a_lottery_scratch_off_ticket_doesnt/",
+        "timestamp": "2026-06-21T20:04:49.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uby9zr",
+        "title": "Powerball ticket from around 2 months ago, one digit away…",
+        "summary": "Dont think iv seen a post this close before. one digit makes a difference between $100 and $1,000,000. pain.",
+        "url": "https://reddit.com/r/Lottery/comments/1uby9zr/powerball_ticket_from_around_2_months_ago_one/",
+        "timestamp": "2026-06-21T19:04:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1ubhoxx",
         "title": "Lotto.com",
@@ -141,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 33,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,7 +186,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 18,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -582,66 +612,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1u5hom5",
-        "title": "Millionaire For Life: The Millionaire Ball",
-        "summary": "I understand this game has significantly better odds than most other lottery games, but I still feel it's not designed well. In literally any other lottery, hitting just the bonus ball is good enough for a payout. But in Millionaire For Lif",
-        "url": "https://reddit.com/r/Lottery/comments/1u5hom5/millionaire_for_life_the_millionaire_ball/",
-        "timestamp": "2026-06-14T10:33:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u57u40",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1u57u40/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-06-14T01:30:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u53wvf",
-        "title": "$20 not $100,000",
-        "summary": "This happens far too often! &#x200B; https://www.yahoo.com/news/us/articles/lottery-winner-thought-won-100-100000552.html",
-        "url": "https://reddit.com/r/Lottery/comments/1u53wvf/20_not_100000/",
-        "timestamp": "2026-06-13T22:22:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u4v73k",
-        "title": "Free stats",
-        "summary": "free loto stats here : https://lottoscope.org",
-        "url": "https://reddit.com/r/Lottery/comments/1u4v73k/free_stats/",
-        "timestamp": "2026-06-13T16:23:01.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-world-2026-jun-12-nigerian-man-unable-to-claim-italian-lottery-win-gains-residency-permit",
         "title": "Nigerian man unable to claim Italian lottery win gains residency permit",
         "summary": "Former street seller celebrates newfound rights after debacle in claiming €500,000 scratchcard prize while undocumented",
@@ -688,17 +658,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 39,
+      "totalSignals": 37,
       "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 33,
+        "HOPEFUL": 32,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 6
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 15
+      "uncertaintyScore": 14
     }
   }
 }
