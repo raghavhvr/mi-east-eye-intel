@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-06-22T07:44:22.513Z",
+  "generated_at": "2026-06-23T06:29:53.093Z",
   "gdelt_tone": {
-    "UAE": -0.16,
-    "Saudi Arabia": 1.03,
-    "Qatar": 0,
-    "Kuwait": -0.73,
-    "Bahrain": 1.57,
-    "Oman": -0.49,
-    "Jordan": -0.86,
-    "Lebanon": -2.88,
+    "UAE": 0.01,
+    "Saudi Arabia": 0.81,
+    "Qatar": -0.57,
+    "Kuwait": -0.79,
+    "Bahrain": 1.03,
+    "Oman": -0.29,
+    "Jordan": -0.58,
+    "Lebanon": -3.04,
     "Iraq": -1.58,
-    "Egypt": 0.65,
-    "Yemen": -3.04,
-    "Iran": -1.6
+    "Egypt": 0.51,
+    "Yemen": -3.49,
+    "Iran": -1.72
   },
   "weather": {
     "UAE": {
-      "temp_c": 40,
-      "wind_kmh": 11,
+      "temp_c": 38,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 42,
-      "wind_kmh": 8,
+      "temp_c": 41,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 42,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Qatar": {
-      "temp_c": 44,
-      "wind_kmh": 12,
+      "temp_c": 38,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Kuwait": {
+      "temp_c": 43,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Oman": {
       "temp_c": 37,
-      "wind_kmh": 15,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
       "temp_c": 37,
-      "wind_kmh": 15,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 14,
+      "temp_c": 23,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 43,
-      "wind_kmh": 10,
+    "Lebanon": {
+      "temp_c": 26,
+      "wind_kmh": 18,
       "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 7,
+      "temp_c": 25,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 38,
-      "wind_kmh": 21,
+    "Iraq": {
+      "temp_c": 40,
+      "wind_kmh": 5,
       "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Iran": {
+      "temp_c": 32,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     },
     "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 6,
+      "temp_c": 25,
+      "wind_kmh": 2,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     }
@@ -92,15 +92,120 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309251,
+    "KWD": 0.30873,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.920948,
-    "IQD": 1326.885984
+    "EGP": 49.802693,
+    "IQD": 1311.69904
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1ud8g2k",
+        "title": "Scratcher Strategy: KY, NY, MA, MI, VA, MS All Have \"Winning Bet\" Scratchers! (June 22, 2026)",
+        "summary": "Figured I'd do a post and aid my fellow scratchers to win some cash. There are some great scratchers out there right now. These are all scratchers that are \"winning bets\" by the math. So if you're lucky enough to live in these states and al",
+        "url": "https://reddit.com/r/Lottery/comments/1ud8g2k/scratcher_strategy_ky_ny_ma_mi_va_ms_all_have/",
+        "timestamp": "2026-06-23T05:40:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ud4z2a",
+        "title": "Unclaimed prizes",
+        "summary": "I check the Michigan lottery a lot and clicked a link for unclaimed prizes and saw this. Over $1 million dollars still not claimed and are about to expire. My thought process is either these tickets got lost or the person who bought the tic",
+        "url": "https://reddit.com/r/Lottery/comments/1ud4z2a/unclaimed_prizes/",
+        "timestamp": "2026-06-23T02:44:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ud35d3",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1ud35d3/powerball_winning_numbers_monday/",
+        "timestamp": "2026-06-23T01:20:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ucyind",
+        "title": "Gotta count the smalls wins 🍀 part 2",
+        "summary": "I play the lottery daily. I always go for quick picks. Today I turned $1 into $19.50. On the journey of winning the jackpot 🎰 have fun with it. Stay tuned for more 🍀",
+        "url": "https://reddit.com/r/Lottery/comments/1ucyind/gotta_count_the_smalls_wins_part_2/",
+        "timestamp": "2026-06-22T22:03:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ucntvl",
+        "title": "The Onchain Lottery Jackpot is $251,082.00",
+        "summary": "Do you know about the onchain lottery?  Still a bit under the radar...only about 1000 entries today. Pick 5 + powerball. Definitely legit, they have several audits from known organizations and have paid out over 200M since July 2024. Severa",
+        "url": "https://reddit.com/r/Lottery/comments/1ucntvl/the_onchain_lottery_jackpot_is_25108200/",
+        "timestamp": "2026-06-22T15:31:35.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "hn-lot-48630318",
+        "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+        "summary": "33 pts · 5 comments",
+        "url": "https://www.monolisa.dev/",
+        "timestamp": "2026-06-22T14:05:23.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 33,
+        "comments": 5,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uch47f",
+        "title": "I owed $2 Billion. The first step was opening a coconut.",
+        "summary": "Well... technically not in real life 😅 I've been working on a game called Debts & Jackpots where you start buried under a ridiculous amount of debt and slowly work your way back by opening containers, finding valuables, hitting jackpots, a",
+        "url": "https://reddit.com/r/Lottery/comments/1uch47f/i_owed_2_billion_the_first_step_was_opening_a/",
+        "timestamp": "2026-06-22T10:42:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1ubzrtg",
         "title": "The number on a lottery scratch off ticket doesn't matter.",
@@ -141,7 +246,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 4,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -149,15 +254,15 @@
       {
         "id": "reddit-lot-1ubd6jn",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑2 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1ubd6jn/powerball_winning_numbers_saturday/",
         "timestamp": "2026-06-21T01:30:11.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -447,36 +552,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Nagaland Lottery Sambad result out today (16-06-2026); check Rs 1 crore prize winning number and full list here",
-        "summary": "Nagaland State Lottery Sambad Dear Tuesday Weekly draw results for today, 16 June 2026, have been officially declared. The first prize of ₹1 Crore has been announced. Participants can now check if their tickets have won big in today’s lucky draw.",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/nagaland-lottery-sambad-result-out-today-15-06-2026-check-rs-1-crore-prize-winning-number-and-full-list-here/articleshow/131762233.cms",
-        "timestamp": "2026-06-16T06:45:31Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Why is the National Lottery’s new ad campaign a copy of an old New Zealand one?",
-        "summary": "Kiwis’ cash-in-transit caper adapted for Ireland",
-        "url": "https://www.irishtimes.com/business/2026/06/16/why-is-the-national-lotterys-new-ad-campaign-a-copy-of-an-old-new-zealand-one/",
-        "timestamp": "2026-06-16T04:37:00Z",
-        "source": "The Irish Times",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1u6zi8b",
         "title": "Powerball Winning Numbers (Monday)",
         "summary": "↑1 · 💬0",
@@ -519,96 +594,6 @@
         "score": 0,
         "comments": 2,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u6r8lg",
-        "title": "$500 winner on the new Texas lottery ticket that came out today!",
-        "summary": "↑59 · 💬13",
-        "url": "https://reddit.com/r/Lottery/comments/1u6r8lg/500_winner_on_the_new_texas_lottery_ticket_that/",
-        "timestamp": "2026-06-15T19:48:22.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 59,
-        "comments": 13,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u668tr",
-        "title": "Lottery winners of Reddit: How much did you win, and how many tickets did you buy before you finally hit it?",
-        "summary": "Whether it was the Powerball, Mega Millions, or just a local scratch-off—what’s your story? Did you buy tickets for years, or was it just a random lucky purchase? How has life changed since?",
-        "url": "https://reddit.com/r/Lottery/comments/1u668tr/lottery_winners_of_reddit_how_much_did_you_win/",
-        "timestamp": "2026-06-15T04:22:50.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u624d6",
-        "title": "Thought I won 10k or a travel trip but says non winning when scanned?",
-        "summary": "Check rule number 6 on picture attached. I played the game correctly. I uncovered 3 planes on the game board. Should I contact the lottery office or the place I bought the ticket from?",
-        "url": "https://reddit.com/r/Lottery/comments/1u624d6/thought_i_won_10k_or_a_travel_trip_but_says_non/",
-        "timestamp": "2026-06-15T01:02:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 12,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u61zw3",
-        "title": "I thought I won 10k or a Canadian travel trip on my ticket but says it’s a non winning ticket when scanned?",
-        "summary": "I just scratched this, seems I played the game correctly but says non winning ticket? Should I contact the lottery office? Not sure what’s going on here as it seems I won. I’m going to hold onto the ticket for now. I wanted to attach pictur",
-        "url": "https://reddit.com/r/Lottery/comments/1u61zw3/i_thought_i_won_10k_or_a_canadian_travel_trip_on/",
-        "timestamp": "2026-06-15T00:56:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u5q8jd",
-        "title": "Postcode lottery referral code",
-        "summary": "https://postcodelottery.mention-me.com/m/ol/mo3fdfgd-d1fcb95abc referral code 😊 for £15 free!",
-        "url": "https://reddit.com/r/Lottery/comments/1u5q8jd/postcode_lottery_referral_code/",
-        "timestamp": "2026-06-14T16:51:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u5n5pj",
-        "title": "Texas and California",
-        "summary": "Why are there so many winners in these states? I live in Maryland and the lottery kinda sucks here",
-        "url": "https://reddit.com/r/Lottery/comments/1u5n5pj/texas_and_california/",
-        "timestamp": "2026-06-14T14:51:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 8,
-        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -658,17 +643,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 37,
+      "totalSignals": 36,
       "meSignals": 0,
       "moodDist": {
         "HOPEFUL": 32,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 5
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 14
+      "uncertaintyScore": 11
     }
   }
 }
