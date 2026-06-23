@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-22T08:42:22.196Z",
+  "generated_at": "2026-06-23T06:33:52.794Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "US-Iran Talks",
-  "summary": "The US and Iran are advancing peace talks, but Lebanon remains a point of contention, while China has imposed export curbs on US entities. Regional dynamics are shifting, with Qatar experiencing a gas plant explosion and Abu Dhabi strengthening ties with Mumbai's new airport",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "The region is experiencing increased tensions due to Israeli army movements in Lebanon and concerns over Palestine, while other news such as the World Cup and local events provide a distraction. Overall, the situation remains volatile with potential for escalation in the coming weeks.",
   "keyTrends": [
-    "US-Iran Relations",
-    "China-US Tensions",
-    "MENA Economic Shifts"
+    "Israel-Lebanon Tensions",
+    "Palestine Annexation",
+    "World Cup Distraction"
   ],
   "watchItems": [
-    "Lebanon",
-    "Qatar Gas Plant"
+    "Israeli army movements",
+    "Palestinian protests"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Geopolitical Uncertainty",
-    "Economic Volatility"
+    "Regional conflict fears",
+    "Human rights concerns"
   ]
 }
