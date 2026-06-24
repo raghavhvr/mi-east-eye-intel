@@ -1,106 +1,151 @@
 {
-  "generated_at": "2026-06-23T06:29:53.093Z",
+  "generated_at": "2026-06-24T06:26:36.062Z",
   "gdelt_tone": {
-    "UAE": 0.01,
-    "Saudi Arabia": 0.81,
-    "Qatar": -0.57,
-    "Kuwait": -0.79,
-    "Bahrain": 1.03,
-    "Oman": -0.29,
-    "Jordan": -0.58,
-    "Lebanon": -3.04,
-    "Iraq": -1.58,
-    "Egypt": 0.51,
-    "Yemen": -3.49,
-    "Iran": -1.72
+    "UAE": 0,
+    "Saudi Arabia": 0.79,
+    "Qatar": -0.88,
+    "Kuwait": -0.94,
+    "Bahrain": 0.84,
+    "Oman": -0.02,
+    "Jordan": -0.54,
+    "Lebanon": -3.09,
+    "Iraq": -1.72,
+    "Egypt": 0.48,
+    "Yemen": -3.63,
+    "Iran": -1.73
   },
   "weather": {
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
       "temp_c": 41,
-      "wind_kmh": 2,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 4,
+    "UAE": {
+      "temp_c": 40,
+      "wind_kmh": 13,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 43,
-      "wind_kmh": 13,
+      "temp_c": 40,
+      "wind_kmh": 21,
       "condition": "Clear",
       "city": "Kuwait City"
     },
+    "Qatar": {
+      "temp_c": 36,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Oman": {
       "temp_c": 37,
-      "wind_kmh": 8,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 13,
+      "temp_c": 39,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Manama"
     },
     "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 13,
+      "temp_c": 24,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Amman"
     },
     "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 18,
-      "condition": "Clear",
+      "temp_c": 27,
+      "wind_kmh": 22,
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 25,
+      "temp_c": 26,
       "wind_kmh": 5,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 40,
-      "wind_kmh": 5,
+      "temp_c": 36,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Baghdad"
     },
+    "Yemen": {
+      "temp_c": 27,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
     "Iran": {
       "temp_c": 32,
-      "wind_kmh": 8,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 25,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30873,
+    "KWD": 0.309009,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.802693,
-    "IQD": 1311.69904
+    "EGP": 49.725852,
+    "IQD": 1311.109087
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1ue3au7",
+        "title": "I am tried of Losing",
+        "summary": "https://preview.redd.it/58bogw1yo59h1.png?width=727&format=png&auto=webp&s=7eddbe66f7684e2d3d3d4476dd7e07bce114fdd6 I am tired of losing everytime and have given up hopes for winning the Jackpot prize. I have been playing since 8 years. The",
+        "url": "https://reddit.com/r/Lottery/comments/1ue3au7/i_am_tried_of_losing/",
+        "timestamp": "2026-06-24T04:18:53.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1udsa2c",
+        "title": "Gotta count the small wins 🍀 - Part 3",
+        "summary": "I turned 50 cents into $100, by accident lol . I asked the clerk for 1 game 50/50, then ended up giving me 2 games. I did a quick pick as always. Stay tuned for more on my lottery journey 🍀.",
+        "url": "https://reddit.com/r/Lottery/comments/1udsa2c/gotta_count_the_small_wins_part_3/",
+        "timestamp": "2026-06-23T20:18:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1udlmwx",
+        "title": "First win!",
+        "summary": "It's nothing crazy, but this is my first time winning anything on the Georgia Lottery. Hopefully the next ticket wins me something of actual value. Still better than losing.",
+        "url": "https://reddit.com/r/Lottery/comments/1udlmwx/first_win/",
+        "timestamp": "2026-06-23T16:16:15.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1ud8g2k",
         "title": "Scratcher Strategy: KY, NY, MA, MI, VA, MS All Have \"Winning Bet\" Scratchers! (June 22, 2026)",
@@ -171,23 +216,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "hn-lot-48630318",
         "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-        "summary": "33 pts · 5 comments",
+        "summary": "60 pts · 9 comments",
         "url": "https://www.monolisa.dev/",
         "timestamp": "2026-06-22T14:05:23.000Z",
         "source": "Hacker News",
         "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 33,
-        "comments": 5,
+        "score": 60,
+        "comments": 9,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -201,7 +246,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -209,15 +254,15 @@
       {
         "id": "reddit-lot-1ubzrtg",
         "title": "The number on a lottery scratch off ticket doesn't matter.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑20 · 💬3",
         "url": "https://reddit.com/r/Lottery/comments/1ubzrtg/the_number_on_a_lottery_scratch_off_ticket_doesnt/",
         "timestamp": "2026-06-21T20:04:49.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 20,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 46,
+        "comments": 27,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -432,21 +477,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9h",
-        "title": "Casino Gambling Slots Poker Roulette Jackpot Rewards Icons Pack by Neprosto Assets",
-        "summary": "A collection of casino, poker, roulette, slot machine, jackpot, gambling rewards, collectibles, and gaming event icons for casino-themed game systems.<ul><li>File Format: Prefabs + PNG</li><li>Icons: 124</li><li>Average Resolution: 512x512 px</li></ul>This as…",
-        "url": "https://assetstore.unity.com/packages/2d/casino-gambling-slots-poker-roulette-jackpot-rewards-icons-pack-387182",
-        "timestamp": "2026-06-17T05:41:09Z",
-        "source": "Unity.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1u7tcs5",
         "title": "AZ Lottery $500!!",
         "summary": "2nd time hitting 500 on these. And believe it or not I’m still on top!   If you gonna play the $50 tickets make the most sense as far as odds go. Also always check the state lottery website to see what games still have lots of top tier winn",
@@ -552,51 +582,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1u6zi8b",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1u6zi8b/powerball_winning_numbers_monday/",
-        "timestamp": "2026-06-16T01:20:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u6xg8g",
-        "title": "scratchstats.ai - Rank scratch tickets in your state by expected value",
-        "summary": "This is not an AI slop tool! I promise. I built this after having bad experiences with the existing scratch ticket analysis tools out there. Most of what I found for evaluating scratch tickets were either buried in ads, required an account,",
-        "url": "https://reddit.com/r/Lottery/comments/1u6xg8g/scratchstatsai_rank_scratch_tickets_in_your_state/",
-        "timestamp": "2026-06-15T23:48:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1u6rk17",
-        "title": "Double billing?",
-        "summary": "I have been looking back through my lottery and bank records, and it appears that several times, when I've put money in the system, I was charged twice.  I never put in money twice in one day. Has anyone else run into this? How do I resolve",
-        "url": "https://reddit.com/r/Lottery/comments/1u6rk17/double_billing/",
-        "timestamp": "2026-06-15T19:59:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-world-2026-jun-12-nigerian-man-unable-to-claim-italian-lottery-win-gains-residency-permit",
         "title": "Nigerian man unable to claim Italian lottery win gains residency permit",
         "summary": "Former street seller celebrates newfound rights after debacle in claiming €500,000 scratchcard prize while undocumented",
@@ -643,17 +628,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 36,
+      "totalSignals": 35,
       "meSignals": 0,
       "moodDist": {
         "HOPEFUL": 32,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 4
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 11
+      "uncertaintyScore": 9
     }
   }
 }
