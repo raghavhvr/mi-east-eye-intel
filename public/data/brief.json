@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-23T06:33:52.794Z",
+  "generated_at": "2026-06-24T06:30:44.481Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "The region is experiencing increased tensions due to Israeli army movements in Lebanon and concerns over Palestine, while other news such as the World Cup and local events provide a distraction. Overall, the situation remains volatile with potential for escalation in the coming weeks.",
+  "threatLevel": "LOW",
+  "topTheme": "World Cup",
+  "summary": "The current news cycle in the MENA region is dominated by the World Cup, with various teams and players making headlines. Economic developments, such as Abu Dhabi attracting global companies, are also notable, but overall the tone remains lighthearted and focused on sports and lifestyle.",
   "keyTrends": [
-    "Israel-Lebanon Tensions",
-    "Palestine Annexation",
-    "World Cup Distraction"
+    "World Cup updates",
+    "Economic growth",
+    "Lifestyle advice"
   ],
   "watchItems": [
-    "Israeli army movements",
-    "Palestinian protests"
+    "Abu Dhabi business developments",
+    "Qatar World Cup performance"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "OPTIMISTIC",
   "sentimentDrivers": [
-    "Regional conflict fears",
-    "Human rights concerns"
+    "successful sports events",
+    "positive economic news"
   ]
 }
