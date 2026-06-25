@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-24T06:30:44.481Z",
+  "generated_at": "2026-06-25T06:34:05.214Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "World Cup",
-  "summary": "The current news cycle in the MENA region is dominated by the World Cup, with various teams and players making headlines. Economic developments, such as Abu Dhabi attracting global companies, are also notable, but overall the tone remains lighthearted and focused on sports and lifestyle.",
+  "topTheme": "Job Market",
+  "summary": "The majority of headlines indicate individuals seeking employment or discussing job-related topics, with no apparent security threats. The region's job market and economic conditions appear to be the primary concerns for these individuals.",
   "keyTrends": [
-    "World Cup updates",
-    "Economic growth",
-    "Lifestyle advice"
+    "Employment",
+    "Economy",
+    "Regional Sports"
   ],
   "watchItems": [
-    "Abu Dhabi business developments",
-    "Qatar World Cup performance"
+    "Venezuela Earthquake",
+    "Algeria v Austria"
   ],
-  "userSentiment": "OPTIMISTIC",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "successful sports events",
-    "positive economic news"
+    "Economic uncertainty",
+    "Job insecurity"
   ]
 }

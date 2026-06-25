@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T06:30:45.637Z",
+  "generated_at": "2026-06-25T06:34:05.825Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Small wins matter",
+  "dominantNarrative": "Winning is possible",
   "keyEmotions": [
     "excitement",
     "frustration",
     "optimism"
   ],
-  "psychInsight": "The public is driven by the desire for instant gratification and the thrill of potentially winning, with small wins reinforcing this behavior. The presence of unclaimed prizes and near-misses fuels the hope of eventually winning big, keeping the public engaged and invested in lottery and gambling activities.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with frustration stemming from repeated losses. The presence of small wins and strategies fuels optimism and encourages continued participation.",
   "riskSignals": [
-    "problematic spending",
-    "unrealistic expectations"
+    "unclaimed prizes",
+    "loss frustration"
   ],
   "opportunitySignals": [
-    "targeted marketing",
-    "responsible gaming initiatives"
+    "scratchers strategy",
+    "online lottery apps"
   ]
 }
