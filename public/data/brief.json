@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-25T06:34:05.214Z",
+  "generated_at": "2026-06-26T06:37:56.107Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "Job Market",
-  "summary": "The majority of headlines indicate individuals seeking employment or discussing job-related topics, with no apparent security threats. The region's job market and economic conditions appear to be the primary concerns for these individuals.",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "The recent Israeli raid in southern Lebanon has raised concerns, but overall regional stability remains intact. Ongoing regional events, such as the World Cup, are distracting from potential security issues.",
   "keyTrends": [
-    "Employment",
-    "Economy",
-    "Regional Sports"
+    "Lebanon-Israel Tensions",
+    "Regional Sports Events",
+    "Open-Source Security"
   ],
   "watchItems": [
-    "Venezuela Earthquake",
-    "Algeria v Austria"
+    "Lebanon-Israel Border",
+    "GTA 6 Censorship"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Economic uncertainty",
-    "Job insecurity"
+    "Regional Conflict",
+    "Censorship Concerns"
   ]
 }

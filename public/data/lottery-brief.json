@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-06-25T06:34:05.825Z",
+  "generated_at": "2026-06-26T06:37:58.095Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning is possible",
+  "dominantNarrative": "Winning lottery dreams",
   "keyEmotions": [
     "excitement",
-    "frustration",
-    "optimism"
+    "optimism",
+    "frustration"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with frustration stemming from repeated losses. The presence of small wins and strategies fuels optimism and encourages continued participation.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, with lottery and gambling news sparking hope and excitement. However, the postcode lottery and residency issues also highlight frustration with unequal access and opportunities.",
   "riskSignals": [
-    "unclaimed prizes",
-    "loss frustration"
+    "inequality",
+    "unfair access"
   ],
   "opportunitySignals": [
-    "scratchers strategy",
-    "online lottery apps"
+    "growing demand",
+    "expansion into new markets"
   ]
 }
