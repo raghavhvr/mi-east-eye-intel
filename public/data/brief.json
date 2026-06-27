@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-26T06:37:56.107Z",
+  "generated_at": "2026-06-27T06:16:06.479Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "The recent Israeli raid in southern Lebanon has raised concerns, but overall regional stability remains intact. Ongoing regional events, such as the World Cup, are distracting from potential security issues.",
+  "topTheme": "MENA Regional News",
+  "summary": "The region's news is dominated by non-security related stories, with a focus on everyday life and regional sports. Economic and social issues are also present, but do not indicate any imminent security threats.",
   "keyTrends": [
-    "Lebanon-Israel Tensions",
-    "Regional Sports Events",
-    "Open-Source Security"
+    "Lebanon-Israel relations",
+    "UAE humanitarian aid",
+    "Egypt sports"
   ],
   "watchItems": [
-    "Lebanon-Israel Border",
-    "GTA 6 Censorship"
+    "Lebanon-Israel framework agreement",
+    "UAE-Venezuela relations"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Conflict",
-    "Censorship Concerns"
+    "economic uncertainty",
+    "cultural adaptation challenges"
   ]
 }
