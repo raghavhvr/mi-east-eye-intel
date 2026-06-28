@@ -1,106 +1,196 @@
 {
-  "generated_at": "2026-06-27T06:04:47.273Z",
+  "generated_at": "2026-06-28T06:38:45.826Z",
   "gdelt_tone": {
-    "UAE": -0.44,
-    "Saudi Arabia": 0.03,
-    "Qatar": -1.2,
-    "Kuwait": -1.27,
-    "Bahrain": 0.17,
-    "Oman": -0.77,
-    "Jordan": -0.88,
-    "Lebanon": -2.81,
-    "Iraq": -1.83,
+    "UAE": -0.64,
+    "Saudi Arabia": -0.15,
+    "Qatar": -1.31,
+    "Kuwait": -1.45,
+    "Bahrain": -0.94,
+    "Oman": -0.99,
+    "Jordan": -0.97,
+    "Lebanon": -2.41,
+    "Iraq": -1.88,
     "Egypt": 0.49,
-    "Yemen": -3.91,
-    "Iran": -2
+    "Yemen": -4.1,
+    "Iran": -2.1
   },
   "weather": {
     "UAE": {
       "temp_c": 36,
-      "wind_kmh": 6,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 4,
+      "temp_c": 39,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 8,
+      "temp_c": 39,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 11,
+    "Qatar": {
+      "temp_c": 39,
+      "wind_kmh": 7,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Doha"
     },
     "Oman": {
-      "temp_c": 34,
+      "temp_c": 35,
       "wind_kmh": 14,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 13,
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 8,
       "condition": "Clear",
-      "city": "Amman"
+      "city": "Manama"
     },
     "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 16,
+      "temp_c": 27,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
+    "Jordan": {
+      "temp_c": 27,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 4,
+      "temp_c": 28,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 36,
-      "wind_kmh": 6,
+      "temp_c": 38,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Iran": {
-      "temp_c": 32,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
     "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 6,
-      "condition": "Clear",
+      "temp_c": 27,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 33,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309421,
+    "KWD": 0.309364,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.521367,
-    "IQD": 1309.76795
+    "EGP": 49.521365,
+    "IQD": 1309.778946
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uhoedp",
+        "title": "$900 win at night hehe🤑🤑. Digital instant game nclottery",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1uhoedp/900_win_at_night_hehe_digital_instant_game/",
+        "timestamp": "2026-06-28T05:15:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uhjwx3",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1uhjwx3/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-06-28T01:30:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uhedyj",
+        "title": "Does anyone here play Washington's Match 4 lottery?",
+        "summary": "https://preview.redd.it/1brh7wg57w9h1.png?width=560&format=png&auto=webp&s=fa3efd76beb63bb3f69a0c47828c0d5ffe6cb217",
+        "url": "https://reddit.com/r/Lottery/comments/1uhedyj/does_anyone_here_play_washingtons_match_4_lottery/",
+        "timestamp": "2026-06-27T21:23:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uheayi",
+        "title": "Jackpot growth difference",
+        "summary": "Since the proliferation of gambling/trading technology sites (like draft kings, kalshi, polymarket) have you noticed any difference in lottery jackpot growth?",
+        "url": "https://reddit.com/r/Lottery/comments/1uheayi/jackpot_growth_difference/",
+        "timestamp": "2026-06-27T21:20:21.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uh9hwb",
+        "title": "Looking for honest feedback from real players.",
+        "summary": "I have been in the lottery industry for over 20 years. I put together a lottery data website as a side project and would love some honest feedback from daily/weekly players. The idea is to make official lottery data actually easy to explore",
+        "url": "https://reddit.com/r/Lottery/comments/1uh9hwb/looking_for_honest_feedback_from_real_players/",
+        "timestamp": "2026-06-27T18:04:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1uh9fax",
+        "title": "I’ve worked in the lottery industry for 20+ years and built a data tool. Looking for honest feedback from real players.",
+        "summary": "I put together a lottery data website as a side project and would love some honest feedback from daily/weekly players. The idea is to make official lottery data actually easy to explore—scratch-off remaining prizes, weekly rankings, draw hi",
+        "url": "https://reddit.com/r/Lottery/comments/1uh9fax/ive_worked_in_the_lottery_industry_for_20_years/",
+        "timestamp": "2026-06-27T18:01:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1ugtg61",
         "title": "Found a losing lottery ticket and entered into the 2nd chance drawing",
@@ -132,6 +222,36 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9z",
+        "title": "A Dead NASCAR Champion Just Won Maine's Moose Lottery and Honestly That Tracks",
+        "summary": "Some news stories are strange enough to stop you mid-scroll, and Maine's latest moose permit drawing produced exactly that kind of double-take. Among the names pulled in the state's yearly lottery was a former NASCAR champion who, by every available account, …",
+        "url": "https://sports.yahoo.com/articles/dead-nascar-champion-just-won-020000219.html",
+        "timestamp": "2026-06-27T02:00:00Z",
+        "source": "Yahoo Entertainment",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9i",
+        "title": "In A Twisted Case, Four Different People In Arizona Claim They Are The Owners Of A Single $12.8 Million Winning Lottery Ticket",
+        "summary": "In a wild case that almost doesn’t seem real, four different people in Arizona claim they are the owners of a $12.8 million winning lottery ticket. And, no, it isn’t because they all went in on it together. It’s one ticket that they all separately claim is th…",
+        "url": "https://brobible.com/culture/article/four-different-people-claim-arizona-winning-lottery-ticket/",
+        "timestamp": "2026-06-26T20:58:04Z",
+        "source": "BroBible",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1ugautp",
         "title": "How often people criticize you for playing the lottery?",
         "summary": "Literally everyone. I remember people making funny faces around me when I said that I play the lottery. It's always \"you never gonna win\" etc. It's kind annoying tbh. That's why lately I don't tell anyone.",
@@ -141,10 +261,25 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 36,
+        "comments": 17,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Bengal to ‘scrap’ urban land ceiling Act to attract big ticket investment",
+        "summary": "Bengal can witness the highest growth rates in India in the next four years, given an “enabling” framework provided by the government, said West Bengal Finance Minister",
+        "url": "https://www.thehindubusinessline.com/news/national/bengal-to-scrap-urban-land-ceiling-act-to-attract-big-ticket-investment/article71151482.ece",
+        "timestamp": "2026-06-26T15:25:49Z",
+        "source": "BusinessLine",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
       },
       {
         "id": "reddit-lot-1ufu0gs",
@@ -156,23 +291,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 3,
         "mood": "ANXIOUS",
         "isME": false
       },
       {
         "id": "reddit-lot-1ufrnkc",
         "title": "I’m winning the Powerball!",
-        "summary": "↑1 · 💬0",
+        "summary": "↑13 · 💬5",
         "url": "https://reddit.com/r/Lottery/comments/1ufrnkc/im_winning_the_powerball/",
         "timestamp": "2026-06-26T00:37:47.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -265,21 +400,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Record Store Day UK launches charity prize draws for speakers signed by Robert Plant, Wolf Alice and Foals",
-        "summary": "Record Store Day UK has announced three charity prize draws of limited-edition Bowers &amp; Wilkins speakers signed by Robert Plant, Wolf Alice and Foals in support of War Child.",
-        "url": "https://www.thelineofbestfit.com/news/record-store-day-uk-launches-charity-prize-draws-for-speakers-signed-by-robert-plant-wolf-alice-and-foals",
-        "timestamp": "2026-06-24T10:00:00Z",
-        "source": "Thelineofbestfit.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       },
       {
         "id": "reddit-lot-1ue3au7",
@@ -492,36 +612,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1uak0f2",
-        "title": "$200 on a $2 scratch card",
-        "summary": "Best win in 5 years of gambling. Won $110 at the casino one time. Won $50 as well a while back.",
-        "url": "https://reddit.com/r/Lottery/comments/1uak0f2/200_on_a_2_scratch_card/",
-        "timestamp": "2026-06-20T01:50:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 33,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uaehna",
-        "title": "I am making money hand over fist today. Anothuh one",
-        "summary": "I feel like George papageorgio from vegas vacation right now. Check my last two posts. I buy a ticket, I win a small jackpot. I buy another ticket, I win a small jackpot. Good lord, this run is insane. Now I have to go to four different sto",
-        "url": "https://reddit.com/r/Lottery/comments/1uaehna/i_am_making_money_hand_over_fist_today_anothuh_one/",
-        "timestamp": "2026-06-19T21:36:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 18,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
         "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
         "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
@@ -583,17 +673,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 32,
-      "meSignals": 1,
+      "totalSignals": 38,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 26,
+        "HOPEFUL": 31,
         "CYNICAL": 0,
         "ANXIOUS": 1,
-        "NEUTRAL": 5
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 19
+      "uncertaintyScore": 18
     }
   }
 }
