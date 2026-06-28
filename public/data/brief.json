@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-27T06:16:06.479Z",
+  "generated_at": "2026-06-28T06:45:30.040Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "MENA Regional News",
-  "summary": "The region's news is dominated by non-security related stories, with a focus on everyday life and regional sports. Economic and social issues are also present, but do not indicate any imminent security threats.",
+  "topTheme": "Regional Security",
+  "summary": "The region remains relatively stable with no major security threats emerging from the headlines, although Israel's military actions in southern Syria and Lebanon are noteworthy. Overall, the open-source headlines suggest a mix of everyday concerns and regional developments, with no indication of imminent crisis",
   "keyTrends": [
-    "Lebanon-Israel relations",
-    "UAE humanitarian aid",
-    "Egypt sports"
+    "Regional Security",
+    "Career Development",
+    "International Trade"
   ],
   "watchItems": [
-    "Lebanon-Israel framework agreement",
-    "UAE-Venezuela relations"
+    "Israel-Syria-Lebanon tensions",
+    "UK Visa applications"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "economic uncertainty",
-    "cultural adaptation challenges"
+    "Lack of major security incidents",
+    "Diverse range of topics"
   ]
 }
