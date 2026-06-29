@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-06-28T06:38:45.826Z",
+  "generated_at": "2026-06-29T07:09:20.111Z",
   "gdelt_tone": {
-    "UAE": -0.64,
-    "Saudi Arabia": -0.15,
-    "Qatar": -1.31,
-    "Kuwait": -1.45,
-    "Bahrain": -0.94,
-    "Oman": -0.99,
-    "Jordan": -0.97,
-    "Lebanon": -2.41,
-    "Iraq": -1.88,
-    "Egypt": 0.49,
-    "Yemen": -4.1,
-    "Iran": -2.1
+    "UAE": -0.76,
+    "Saudi Arabia": -0.55,
+    "Qatar": -1.48,
+    "Kuwait": -2.13,
+    "Bahrain": -1.62,
+    "Oman": -1.15,
+    "Jordan": -0.76,
+    "Lebanon": -2.35,
+    "Iraq": -2.31,
+    "Egypt": 0.47,
+    "Yemen": -4.18,
+    "Iran": -2.3
   },
   "weather": {
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
       "temp_c": 39,
-      "wind_kmh": 3,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Riyadh"
     },
+    "UAE": {
+      "temp_c": 38,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 6,
+      "temp_c": 40,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 7,
+      "temp_c": 41,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Doha"
     },
     "Oman": {
-      "temp_c": 35,
-      "wind_kmh": 14,
+      "temp_c": 37,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 8,
+      "temp_c": 36,
+      "wind_kmh": 20,
       "condition": "Clear",
       "city": "Manama"
     },
     "Lebanon": {
       "temp_c": 27,
-      "wind_kmh": 9,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 27,
-      "wind_kmh": 10,
+      "temp_c": 28,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Egypt": {
-      "temp_c": 28,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 7,
+      "temp_c": 39,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 27,
+    "Egypt": {
+      "temp_c": 29,
       "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "Yemen": {
+      "temp_c": 28,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
     "Iran": {
-      "temp_c": 33,
-      "wind_kmh": 7,
+      "temp_c": 31,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Tehran"
     }
@@ -92,15 +92,75 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309364,
+    "KWD": 0.309189,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.521365,
-    "IQD": 1309.778946
+    "EGP": 49.485837,
+    "IQD": 1310.131819
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uiccgx",
+        "title": "NY lotto seems like winners are always from poorer places??? Is anyone skeptical?",
+        "summary": "I understand typicslly lower income poeple buy lottery tickets.  But it always seems off that its super rare rich places win. Like rarely Manhattan in NYC but often other places in NYC. Especially for scratch offs. Has there been any specul",
+        "url": "https://reddit.com/r/Lottery/comments/1uiccgx/ny_lotto_seems_like_winners_are_always_from/",
+        "timestamp": "2026-06-28T23:37:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uib657",
+        "title": "Need advice. Lol Am I crazy?",
+        "summary": "I either need advice or a mental health specialist … or both. Please read the instructions on this scratch off lottery very carefully, as I have done many times. Did I just win ALL the prizes on the ticket or am I f’ing crazy? Should I get ",
+        "url": "https://reddit.com/r/Lottery/comments/1uib657/need_advice_lol_am_i_crazy/",
+        "timestamp": "2026-06-28T22:45:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uiacjh",
+        "title": "What were the signs you got before you won the lottery?",
+        "summary": "If anyone can tell me what were the signs you got or saw before you won the lottery?",
+        "url": "https://reddit.com/r/Lottery/comments/1uiacjh/what_were_the_signs_you_got_before_you_won_the/",
+        "timestamp": "2026-06-28T22:09:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ui1v1q",
+        "title": "I Spent 3 Years Building an Advanced U.S. Lottery Analysis System",
+        "summary": "For the past 3 years, I've been analyzing U.S. lottery draws and developing an advanced Excel system based on historical data, statistics, and pattern analysis. I'm currently finishing my website, but until it's ready, Ask Me Anything about",
+        "url": "https://reddit.com/r/Lottery/comments/1ui1v1q/i_spent_3_years_building_an_advanced_us_lottery/",
+        "timestamp": "2026-06-28T16:34:41.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1uhoedp",
         "title": "$900 win at night hehe🤑🤑. Digital instant game nclottery",
@@ -171,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": true
       },
@@ -192,6 +252,21 @@
         "isME": true
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "O'Brien hoping Benvenuto Cellini can turn tables",
+        "summary": "Aidan O'Brien is keeping the faith in Benvenuto Cellini as he bids to put his Epsom nightmare behind him in the Dubai Duty Free Irish Derby at the Curragh on Sunday.",
+        "url": "https://www.rte.ie/sport/racing/2026/0627/1580654-obrien-hoping-benvenuto-cellini-can-turn-tables/",
+        "timestamp": "2026-06-27T14:02:59Z",
+        "source": "RTE",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1ugtg61",
         "title": "Found a losing lottery ticket and entered into the 2nd chance drawing",
         "summary": "Like the title says, I was at a gas station and I found a losing lottery ticket on the ground. There was no signature on the back and they didn’t even scan the ticket as they did not even attempt to scratch the bar code. I saw the ticket ha",
@@ -201,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 14,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -387,21 +462,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cDovLzl0",
-        "title": "Official Apple accessory Prime Day deals from $7: AirTag 2, cases, MagSafe Battery, cables, more",
-        "summary": "This year’s Prime Day celebrations feature loads of all-time lows on big ticket Apple gear, from the lowest prices ever on Apple Watch Series 11 and Apple Watch Ultra 3 at $150 off, through to AirPods Pro 3 at nearly 30% off and AirPods Max 2 at $150 off, but…",
-        "url": "http://9to5toys.com/2026/06/24/apple-accessory-prime-day-deals-airtag-2/",
-        "timestamp": "2026-06-24T14:54:21Z",
-        "source": "9to5Toys",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1ue3au7",
         "title": "I am tried of Losing",
         "summary": "https://preview.redd.it/58bogw1yo59h1.png?width=727&format=png&auto=webp&s=7eddbe66f7684e2d3d3d4476dd7e07bce114fdd6 I am tired of losing everytime and have given up hopes for winning the Jackpot prize. I have been playing since 8 years. The",
@@ -524,14 +584,14 @@
       {
         "id": "hn-lot-48630318",
         "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-        "summary": "189 pts · 92 comments",
+        "summary": "190 pts · 92 comments",
         "url": "https://www.monolisa.dev/",
         "timestamp": "2026-06-22T14:05:23.000Z",
         "source": "Hacker News",
         "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 189,
+        "score": 190,
         "comments": 92,
         "mood": "NEUTRAL",
         "isME": false
@@ -582,36 +642,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1ubhoxx",
-        "title": "Lotto.com",
-        "summary": "These free lottery mystery scratch-offs can be a lot trickier than they seem. I’ve been doing them for weeks now, sometimes using all three daily attempts at once and other times spacing them out throughout the day. I’ve come close to winni",
-        "url": "https://reddit.com/r/Lottery/comments/1ubhoxx/lottocom/",
-        "timestamp": "2026-06-21T05:31:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ubd6jn",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑2 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1ubd6jn/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-06-21T01:30:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
         "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
         "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
@@ -655,35 +685,20 @@
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
-      },
-      {
-        "id": "guardian-lot-environment-2026-may-30-on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
-        "title": "On-street EV charging in UK is postcode lottery as drivers face council objections",
-        "summary": "Despite government pledges, more than 20 authorities will not allow gullies, citing safety, legal and parking worries",
-        "url": "https://www.theguardian.com/environment/2026/may/30/on-street-ev-charging-uk-postcode-lottery-council-objections-gullies-safety-legal-parking",
-        "timestamp": "2026-05-30T07:00:12Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 38,
+      "totalSignals": 39,
       "meSignals": 4,
       "moodDist": {
         "HOPEFUL": 31,
         "CYNICAL": 0,
-        "ANXIOUS": 1,
+        "ANXIOUS": 2,
         "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 18
+      "uncertaintyScore": 21
     }
   }
 }
