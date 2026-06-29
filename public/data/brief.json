@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-28T06:45:30.040Z",
+  "generated_at": "2026-06-29T07:14:10.873Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "Regional Security",
-  "summary": "The region remains relatively stable with no major security threats emerging from the headlines, although Israel's military actions in southern Syria and Lebanon are noteworthy. Overall, the open-source headlines suggest a mix of everyday concerns and regional developments, with no indication of imminent crisis",
+  "topTheme": "MENA Regional Dynamics",
+  "summary": "The region remains relatively stable with diplomatic engagements and economic activities ongoing. However, potential flashpoints such as the Hormuz management discussions and anti-corruption drives warrant continued monitoring.",
   "keyTrends": [
+    "Iran-Oman Relations",
     "Regional Security",
-    "Career Development",
-    "International Trade"
+    "Economic Development"
   ],
   "watchItems": [
-    "Israel-Syria-Lebanon tensions",
-    "UK Visa applications"
+    "Iranian Minister's Discussions",
+    "Iraq's Anti-Corruption Drive"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Lack of major security incidents",
-    "Diverse range of topics"
+    "Geopolitical Tensions",
+    "Economic Uncertainty"
   ]
 }
