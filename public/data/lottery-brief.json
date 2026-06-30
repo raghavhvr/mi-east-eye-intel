@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T07:14:11.448Z",
+  "generated_at": "2026-06-30T06:39:57.040Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -9,17 +9,17 @@
   },
   "dominantNarrative": "Winning Lottery Dreams",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "skepticism"
+    "Excitement",
+    "Optimism",
+    "Curiosity"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning, with some individuals exhibiting skepticism due to perceived inconsistencies in lottery outcomes. The variety of posts also highlights the psychological aspect of seeking validation and sharing experiences related to lottery wins.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with many seeking strategies and systems to increase their chances. The lottery's unpredictability fuels a sense of hope and anticipation, leading people to share their experiences and seek advice from others.",
   "riskSignals": [
-    "gaming addiction",
-    "false hope"
+    "Gaming addiction",
+    "Unrealistic expectations"
   ],
   "opportunitySignals": [
-    "innovation in lottery analysis",
-    "community engagement"
+    "Innovative lottery systems",
+    "Player engagement platforms"
   ]
 }

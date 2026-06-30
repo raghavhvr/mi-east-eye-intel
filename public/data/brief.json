@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-29T07:14:10.873Z",
+  "generated_at": "2026-06-30T06:39:56.397Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "MENA Regional Dynamics",
-  "summary": "The region remains relatively stable with diplomatic engagements and economic activities ongoing. However, potential flashpoints such as the Hormuz management discussions and anti-corruption drives warrant continued monitoring.",
+  "threatLevel": "MODERATE",
+  "topTheme": "Iran Regional Tensions",
+  "summary": "Tensions in the MENA region persist with Iran facing internal and external pressures, while regional leaders celebrate sporting victories. Economic concerns, such as oil prices and household costs, also impact the regional landscape.",
   "keyTrends": [
-    "Iran-Oman Relations",
-    "Regional Security",
-    "Economic Development"
+    "Iran-US Relations",
+    "Regional Economic Shifts",
+    "MENA Security"
   ],
   "watchItems": [
-    "Iranian Minister's Discussions",
-    "Iraq's Anti-Corruption Drive"
+    "Iranian Military Activity",
+    "UAE Economic Developments"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Geopolitical Tensions",
+    "Regional Instability",
     "Economic Uncertainty"
   ]
 }
