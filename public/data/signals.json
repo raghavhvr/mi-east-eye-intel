@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-06-29T07:09:20.111Z",
+  "generated_at": "2026-06-30T06:35:02.474Z",
   "gdelt_tone": {
-    "UAE": -0.76,
-    "Saudi Arabia": -0.55,
-    "Qatar": -1.48,
-    "Kuwait": -2.13,
-    "Bahrain": -1.62,
-    "Oman": -1.15,
-    "Jordan": -0.76,
-    "Lebanon": -2.35,
-    "Iraq": -2.31,
-    "Egypt": 0.47,
-    "Yemen": -4.18,
-    "Iran": -2.3
+    "UAE": -0.83,
+    "Saudi Arabia": -0.64,
+    "Qatar": -1.38,
+    "Kuwait": -2.35,
+    "Bahrain": -1.86,
+    "Oman": -1.11,
+    "Jordan": -1.32,
+    "Lebanon": -2.3,
+    "Iraq": -2.36,
+    "Egypt": 0.48,
+    "Yemen": -3.75,
+    "Iran": -2.41
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 39,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 4,
+      "temp_c": 37,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Kuwait": {
-      "temp_c": 40,
-      "wind_kmh": 15,
+    "Saudi Arabia": {
+      "temp_c": 38,
+      "wind_kmh": 4,
       "condition": "Clear",
-      "city": "Kuwait City"
+      "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 13,
+      "temp_c": 40,
+      "wind_kmh": 20,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Kuwait": {
+      "temp_c": 39,
+      "wind_kmh": 20,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Oman": {
       "temp_c": 37,
-      "wind_kmh": 13,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
       "temp_c": 36,
-      "wind_kmh": 20,
+      "wind_kmh": 19,
       "condition": "Clear",
       "city": "Manama"
     },
     "Lebanon": {
       "temp_c": 27,
-      "wind_kmh": 8,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 28,
-      "wind_kmh": 11,
+      "temp_c": 27,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 39,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Egypt": {
-      "temp_c": 29,
+      "temp_c": 27,
       "wind_kmh": 8,
       "condition": "Clear",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 28,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+    "Iraq": {
+      "temp_c": 38,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Iran": {
-      "temp_c": 31,
+      "temp_c": 30,
       "wind_kmh": 10,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 27,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309189,
+    "KWD": 0.309264,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.485837,
-    "IQD": 1310.131819
+    "EGP": 49.278417,
+    "IQD": 1310.163531
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1ujg70r",
+        "title": "Can Advance Play Still Work If You Win?",
+        "summary": "Lets say I buy a ticket and get 5 advance plays on it and it hits 1 or 2 out of the 5 times, but I don't check it/turn it in until the end of the 5 draws- if I don't bother turning the ticket in until the end and it hits again, do I get tho",
+        "url": "https://reddit.com/r/Lottery/comments/1ujg70r/can_advance_play_still_work_if_you_win/",
+        "timestamp": "2026-06-30T05:26:50.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ujb3i6",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1ujb3i6/powerball_winning_numbers_monday/",
+        "timestamp": "2026-06-30T01:20:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1uiccgx",
         "title": "NY lotto seems like winners are always from poorer places??? Is anyone skeptical?",
@@ -156,38 +186,53 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Benvenuto Cellini comes good to land Irish Derby",
+        "summary": "Benvenuto Cellini put his Epsom disappointment behind him by leading home a one-two-three for Aidan O'Brien in the Dubai Duty Free Irish Derby.",
+        "url": "https://www.rte.ie/sport/racing/2026/0628/1580750-benvenuto-cellini-comes-good-to-landy-irish-derby/",
+        "timestamp": "2026-06-28T15:54:51Z",
+        "source": "RTE",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1uhoedp",
         "title": "$900 win at night hehe🤑🤑. Digital instant game nclottery",
-        "summary": "↑1 · 💬0",
+        "summary": "↑13 · 💬5",
         "url": "https://reddit.com/r/Lottery/comments/1uhoedp/900_win_at_night_hehe_digital_instant_game/",
         "timestamp": "2026-06-28T05:15:19.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1uhjwx3",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑5 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1uhjwx3/powerball_winning_numbers_saturday/",
         "timestamp": "2026-06-28T01:30:11.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -202,7 +247,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -217,7 +262,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -612,36 +657,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1ubzrtg",
-        "title": "The number on a lottery scratch off ticket doesn't matter.",
-        "summary": "↑20 · 💬3",
-        "url": "https://reddit.com/r/Lottery/comments/1ubzrtg/the_number_on_a_lottery_scratch_off_ticket_doesnt/",
-        "timestamp": "2026-06-21T20:04:49.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 20,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uby9zr",
-        "title": "Powerball ticket from around 2 months ago, one digit away…",
-        "summary": "Dont think iv seen a post this close before. one digit makes a difference between $100 and $1,000,000. pain.",
-        "url": "https://reddit.com/r/Lottery/comments/1uby9zr/powerball_ticket_from_around_2_months_ago_one/",
-        "timestamp": "2026-06-21T19:04:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 46,
-        "comments": 27,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
         "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
         "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
@@ -688,17 +703,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 39,
-      "meSignals": 4,
+      "totalSignals": 40,
+      "meSignals": 5,
       "moodDist": {
         "HOPEFUL": 31,
         "CYNICAL": 0,
         "ANXIOUS": 2,
-        "NEUTRAL": 6
+        "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 21
+      "uncertaintyScore": 22
     }
   }
 }
