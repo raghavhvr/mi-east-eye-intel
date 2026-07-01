@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-06-30T06:39:56.397Z",
+  "generated_at": "2026-07-01T06:55:36.229Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Iran Regional Tensions",
-  "summary": "Tensions in the MENA region persist with Iran facing internal and external pressures, while regional leaders celebrate sporting victories. Economic concerns, such as oil prices and household costs, also impact the regional landscape.",
+  "topTheme": "MENA Conflict",
+  "summary": "The MENA region is experiencing heightened tensions due to ongoing conflicts and diplomatic efforts. Analysts are closely monitoring the situation in Gaza, Iran, and Lebanon, where displacement and humanitarian crises persist.",
   "keyTrends": [
-    "Iran-US Relations",
-    "Regional Economic Shifts",
-    "MENA Security"
+    "Gaza Crisis",
+    "Iran Diplomacy",
+    "Lebanon Displacement"
   ],
   "watchItems": [
-    "Iranian Military Activity",
-    "UAE Economic Developments"
+    "Gaza Humanitarian Aid",
+    "Iran Nuclear Talks"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Economic Uncertainty"
+    "Escalating Conflicts",
+    "Humanitarian Crises"
   ]
 }
