@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-06-30T06:35:02.474Z",
+  "generated_at": "2026-07-01T06:47:38.809Z",
   "gdelt_tone": {
-    "UAE": -0.83,
-    "Saudi Arabia": -0.64,
-    "Qatar": -1.38,
-    "Kuwait": -2.35,
-    "Bahrain": -1.86,
-    "Oman": -1.11,
-    "Jordan": -1.32,
-    "Lebanon": -2.3,
-    "Iraq": -2.36,
-    "Egypt": 0.48,
-    "Yemen": -3.75,
-    "Iran": -2.41
+    "UAE": -0.81,
+    "Saudi Arabia": -0.58,
+    "Qatar": -1.18,
+    "Kuwait": -2.32,
+    "Bahrain": -1.93,
+    "Oman": -1.26,
+    "Jordan": -1.79,
+    "Lebanon": -2.25,
+    "Iraq": -2.57,
+    "Egypt": 0.45,
+    "Yemen": -3.56,
+    "Iran": -2.65
   },
   "weather": {
+    "Saudi Arabia": {
+      "temp_c": 39,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
     "UAE": {
       "temp_c": 37,
-      "wind_kmh": 13,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 20,
-      "condition": "Clear",
+      "temp_c": 42,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
       "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 20,
-      "condition": "Clear",
-      "city": "Kuwait City"
     },
     "Oman": {
       "temp_c": 37,
       "wind_kmh": 11,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Muscat"
     },
-    "Bahrain": {
-      "temp_c": 36,
+    "Kuwait": {
+      "temp_c": 40,
       "wind_kmh": 19,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Kuwait City"
     },
-    "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 9,
+    "Bahrain": {
+      "temp_c": 38,
+      "wind_kmh": 18,
       "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Manama"
     },
     "Jordan": {
       "temp_c": 27,
-      "wind_kmh": 10,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Cairo"
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Iraq": {
-      "temp_c": 38,
+      "temp_c": 39,
       "wind_kmh": 11,
       "condition": "Clear",
       "city": "Baghdad"
     },
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
     "Iran": {
-      "temp_c": 30,
-      "wind_kmh": 10,
+      "temp_c": 31,
+      "wind_kmh": 13,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     },
     "Yemen": {
       "temp_c": 27,
-      "wind_kmh": 7,
-      "condition": "Clear",
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
     }
   },
@@ -92,15 +92,45 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309264,
+    "KWD": 0.302627,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.278417,
-    "IQD": 1310.163531
+    "EGP": 49.227959,
+    "IQD": 1310.19745
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uk2dx9",
+        "title": "$500 win NY",
+        "summary": "Second time hitting $500 on this ticket . Bought from lottery machine at Stop & Shop ticket #12 . Still on the hunt for my first claimer !",
+        "url": "https://reddit.com/r/Lottery/comments/1uk2dx9/500_win_ny/",
+        "timestamp": "2026-06-30T21:35:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "guardian-lot-us-news-2026-jun-30-las-vegas-airport-jackpot-slot-machine",
+        "title": "Jetway jackpot: man wins $3.3m on slot machine at Las Vegas airport",
+        "summary": "‘That’s one way to spend a layover,’ says gambling company after lucky traveler wins big on $10 stake",
+        "url": "https://www.theguardian.com/us-news/2026/jun/30/las-vegas-airport-jackpot-slot-machine",
+        "timestamp": "2026-06-30T17:58:02Z",
+        "source": "The Guardian",
+        "sourceType": "News",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1ujg70r",
         "title": "Can Advance Play Still Work If You Win?",
@@ -115,6 +145,21 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "‘Obsession’ Arrives On Streaming This Week As Film Tops $370 Million At Box Office",
+        "summary": "Curry Barker’s \"Obsession,\" starring Inde Navarrette and Michael Johnston, is new on digital streaming this week as the blockbuster horror thriller keeps racking up big ticket sales at the box office worldwide.",
+        "url": "https://www.forbes.com/sites/timlammers/2026/06/30/obsession-arrives-on-streaming-this-week-as-film-tops-370-million-at-box-office/",
+        "timestamp": "2026-06-30T04:08:51Z",
+        "source": "Forbes",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
       },
       {
         "id": "reddit-lot-1ujb3i6",
@@ -156,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 62,
+        "comments": 38,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -171,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -703,17 +748,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 40,
-      "meSignals": 5,
+      "totalSignals": 43,
+      "meSignals": 6,
       "moodDist": {
-        "HOPEFUL": 31,
+        "HOPEFUL": 34,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 21
     }
   }
 }
