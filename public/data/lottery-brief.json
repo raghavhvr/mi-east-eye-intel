@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T06:55:36.848Z",
+  "generated_at": "2026-07-02T06:24:30.208Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -11,15 +11,15 @@
   "keyEmotions": [
     "excitement",
     "optimism",
-    "skepticism"
+    "envy"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with big jackpot announcements fueling optimism and excitement. However, skepticism also exists, particularly regarding the distribution of winners and the fairness of the system.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, and big jackpot stories fuel their optimism. The psychology of social comparison also plays a role, as people compare their own chances to those of winners.",
   "riskSignals": [
-    "gaming addiction",
-    "unrealistic expectations"
+    "lottery disputes",
+    "gambling addiction"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "diversified gaming options"
+    "investment opportunities",
+    "entertainment growth"
   ]
 }

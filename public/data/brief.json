@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-01T06:55:36.229Z",
+  "generated_at": "2026-07-02T06:24:29.442Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "MENA Conflict",
-  "summary": "The MENA region is experiencing heightened tensions due to ongoing conflicts and diplomatic efforts. Analysts are closely monitoring the situation in Gaza, Iran, and Lebanon, where displacement and humanitarian crises persist.",
+  "topTheme": "Iran Military Alert",
+  "summary": "Regional tensions are rising due to Iran's military alert for Khamenei's funeral and accusations against Israel. The situation is being closely monitored for potential escalation in the MENA region.",
   "keyTrends": [
-    "Gaza Crisis",
-    "Iran Diplomacy",
-    "Lebanon Displacement"
+    "Iran-Israel Tensions",
+    "MENA Regional Security",
+    "US Diplomacy"
   ],
   "watchItems": [
-    "Gaza Humanitarian Aid",
-    "Iran Nuclear Talks"
+    "Khamenei Funeral",
+    "Israel-Iran Relations"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Escalating Conflicts",
-    "Humanitarian Crises"
+    "Iran's Military Alert",
+    "US Diplomatic Statements"
   ]
 }
