@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-02T06:24:29.442Z",
+  "generated_at": "2026-07-03T06:16:50.555Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Iran Military Alert",
-  "summary": "Regional tensions are rising due to Iran's military alert for Khamenei's funeral and accusations against Israel. The situation is being closely monitored for potential escalation in the MENA region.",
+  "topTheme": "MENA Unrest",
+  "summary": "The region is experiencing increased instability due to recent terrorist attacks and leadership changes. Ongoing developments in Iran and Syria warrant close monitoring for potential escalation",
   "keyTrends": [
-    "Iran-Israel Tensions",
-    "MENA Regional Security",
-    "US Diplomacy"
+    "Iran Leadership Transition",
+    "Syria Conflict",
+    "Regional Security"
   ],
   "watchItems": [
     "Khamenei Funeral",
-    "Israel-Iran Relations"
+    "Damascus Attack Aftermath"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Iran's Military Alert",
-    "US Diplomatic Statements"
+    "Regional Instability",
+    "Leadership Changes"
   ]
 }
