@@ -1,30 +1,79 @@
 {
-  "generated_at": "2026-07-03T06:05:34.373Z",
+  "generated_at": "2026-07-04T05:56:26.993Z",
   "gdelt_tone": {
-    "UAE": -0.07,
-    "Saudi Arabia": -0.94,
-    "Qatar": -1.14,
-    "Kuwait": -2.51,
-    "Bahrain": -2.2,
-    "Oman": -1.19,
-    "Jordan": -2.06,
-    "Lebanon": -2.04,
-    "Iraq": -2.45,
-    "Egypt": 0.33,
-    "Yemen": -1.77,
-    "Iran": -2.85
+    "UAE": 0.42,
+    "Saudi Arabia": -0.63,
+    "Qatar": -1.09,
+    "Kuwait": -2.58,
+    "Bahrain": -2.35,
+    "Oman": -0.73,
+    "Jordan": -2.18,
+    "Lebanon": -2.1,
+    "Iraq": -2.44,
+    "Egypt": 0.34,
+    "Yemen": -2.06,
+    "Iran": -2.78
   },
-  "weather": {},
+  "weather": {
+    "UAE": {
+      "temp_c": 35,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 39,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Qatar": {
+      "temp_c": 38,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Egypt": {
+      "temp_c": 26,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 34,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Muscat"
+    }
+  },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309786,
+    "KWD": 0.310056,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.105574,
-    "IQD": 1310.312387
+    "EGP": 49.13235,
+    "IQD": 1310.310791
   },
   "lottery": {
     "items": [
@@ -46,14 +95,14 @@
       {
         "id": "reddit-lot-1uln2zu",
         "title": "Talk about crazy luck! The other day I bought a $10 777 scratch ticket at the grocery store lotto machine and won $200. Today I went to the same store and bought another $10 777, and won another $100!",
-        "summary": "↑1 · 💬0",
+        "summary": "↑29 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1uln2zu/talk_about_crazy_luck_the_other_day_i_bought_a_10/",
         "timestamp": "2026-07-02T16:29:19.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 29,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -68,8 +117,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -83,7 +132,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 9,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -98,8 +147,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -113,8 +162,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 57,
+        "comments": 14,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -449,36 +498,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9z",
-        "title": "A Dead NASCAR Champion Just Won Maine's Moose Lottery and Honestly That Tracks",
-        "summary": "Some news stories are strange enough to stop you mid-scroll, and Maine's latest moose permit drawing produced exactly that kind of double-take. Among the names pulled in the state's yearly lottery was a former NASCAR champion who, by every available account, …",
-        "url": "https://sports.yahoo.com/articles/dead-nascar-champion-just-won-020000219.html",
-        "timestamp": "2026-06-27T02:00:00Z",
-        "source": "Yahoo Entertainment",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9i",
-        "title": "In A Twisted Case, Four Different People In Arizona Claim They Are The Owners Of A Single $12.8 Million Winning Lottery Ticket",
-        "summary": "In a wild case that almost doesn’t seem real, four different people in Arizona claim they are the owners of a $12.8 million winning lottery ticket. And, no, it isn’t because they all went in on it together. It’s one ticket that they all separately claim is th…",
-        "url": "https://brobible.com/culture/article/four-different-people-claim-arizona-winning-lottery-ticket/",
-        "timestamp": "2026-06-26T20:58:04Z",
-        "source": "BroBible",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1ugautp",
         "title": "How often people criticize you for playing the lottery?",
         "summary": "Literally everyone. I remember people making funny faces around me when I said that I play the lottery. It's always \"you never gonna win\" etc. It's kind annoying tbh. That's why lately I don't tell anyone.",
@@ -492,21 +511,6 @@
         "comments": 17,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Bengal to ‘scrap’ urban land ceiling Act to attract big ticket investment",
-        "summary": "Bengal can witness the highest growth rates in India in the next four years, given an “enabling” framework provided by the government, said West Bengal Finance Minister",
-        "url": "https://www.thehindubusinessline.com/news/national/bengal-to-scrap-urban-land-ceiling-act-to-attract-big-ticket-investment/article71151482.ece",
-        "timestamp": "2026-06-26T15:25:49Z",
-        "source": "BusinessLine",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       },
       {
         "id": "reddit-lot-1ufu0gs",
@@ -569,78 +573,18 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1uey7dp",
-        "title": "Interesting concept",
-        "summary": "So this win is good for a 5 dollar CA super lotto plus quick pick ticket.... I guess it would be insanely epic to roll a 5 dollar scratcher over into a super lotto win",
-        "url": "https://reddit.com/r/Lottery/comments/1uey7dp/interesting_concept/",
-        "timestamp": "2026-06-25T03:02:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
+        "id": "hn-lot-48630318",
+        "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+        "summary": "190 pts · 92 comments",
+        "url": "https://www.monolisa.dev/",
+        "timestamp": "2026-06-22T14:05:23.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 19,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uewku8",
-        "title": "PA Lottery App",
-        "summary": "PA, your app sucks. We know lots of money is rolling in so please update the app 😩",
-        "url": "https://reddit.com/r/Lottery/comments/1uewku8/pa_lottery_app/",
-        "timestamp": "2026-06-25T01:45:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 5,
+        "score": 190,
+        "comments": 92,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uesqg3",
-        "title": "Mega Millions/Powerball",
-        "summary": "Which one y’all think is going to hit a billion first for 2026? Who’s claiming and what are you going to do with the money when you win.",
-        "url": "https://reddit.com/r/Lottery/comments/1uesqg3/mega_millionspowerball/",
-        "timestamp": "2026-06-24T22:54:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 36,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ue3au7",
-        "title": "I am tried of Losing",
-        "summary": "https://preview.redd.it/58bogw1yo59h1.png?width=727&format=png&auto=webp&s=7eddbe66f7684e2d3d3d4476dd7e07bce114fdd6 I am tired of losing everytime and have given up hopes for winning the Jackpot prize. I have been playing since 8 years. The",
-        "url": "https://reddit.com/r/Lottery/comments/1ue3au7/i_am_tried_of_losing/",
-        "timestamp": "2026-06-24T04:18:53.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 34,
-        "comments": 32,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1udsa2c",
-        "title": "Gotta count the small wins 🍀 - Part 3",
-        "summary": "I turned 50 cents into $100, by accident lol . I asked the clerk for 1 game 50/50, then ended up giving me 2 games. I did a quick pick as always. Stay tuned for more on my lottery journey 🍀.",
-        "url": "https://reddit.com/r/Lottery/comments/1udsa2c/gotta_count_the_small_wins_part_3/",
-        "timestamp": "2026-06-23T20:18:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 19,
-        "comments": 0,
-        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -690,17 +634,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 44,
-      "meSignals": 7,
+      "totalSignals": 37,
+      "meSignals": 6,
       "moodDist": {
-        "HOPEFUL": 34,
+        "HOPEFUL": 27,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 23
+      "uncertaintyScore": 27
     }
   }
 }
