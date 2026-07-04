@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-03T06:16:50.555Z",
+  "generated_at": "2026-07-04T06:00:25.015Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "MENA Unrest",
-  "summary": "The region is experiencing increased instability due to recent terrorist attacks and leadership changes. Ongoing developments in Iran and Syria warrant close monitoring for potential escalation",
+  "topTheme": "Khamenei Funeral",
+  "summary": "The funeral of Iranian Supreme Leader Khamenei has drawn significant attention, with reports of thousands gathering in Tehran and claims of 20 million attendees expected. The event is seen as a show of support for the Iranian regime, amid reports of US pressure keeping some countries away from attending the funeral.",
   "keyTrends": [
-    "Iran Leadership Transition",
-    "Syria Conflict",
-    "Regional Security"
+    "Iranian Politics",
+    "US-Iran Relations",
+    "Regional Stability"
   ],
   "watchItems": [
-    "Khamenei Funeral",
-    "Damascus Attack Aftermath"
+    "Iranian Regime Stability",
+    "US Middle East Policy"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Leadership Changes"
+    "Khamenei Succession",
+    "US Pressure on Iran"
   ]
 }
