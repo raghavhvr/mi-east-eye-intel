@@ -1,49 +1,55 @@
 {
-  "generated_at": "2026-07-04T05:56:26.993Z",
+  "generated_at": "2026-07-05T06:16:04.385Z",
   "gdelt_tone": {
-    "UAE": 0.42,
-    "Saudi Arabia": -0.63,
-    "Qatar": -1.09,
+    "UAE": 0.59,
+    "Saudi Arabia": -0.61,
+    "Qatar": -0.94,
     "Kuwait": -2.58,
-    "Bahrain": -2.35,
-    "Oman": -0.73,
-    "Jordan": -2.18,
-    "Lebanon": -2.1,
+    "Bahrain": -1.75,
+    "Oman": -0.28,
+    "Jordan": -1.96,
+    "Lebanon": -2.36,
     "Iraq": -2.44,
-    "Egypt": 0.34,
-    "Yemen": -2.06,
-    "Iran": -2.78
+    "Egypt": 0.31,
+    "Yemen": -2.29,
+    "Iran": -2.65
   },
   "weather": {
     "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 5,
+      "temp_c": 38,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 39,
-      "wind_kmh": 2,
+      "temp_c": 38,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 5,
+      "temp_c": 41,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 3,
+      "temp_c": 40,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
+    "Oman": {
+      "temp_c": 42,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 38,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Manama"
     },
     "Lebanon": {
       "temp_c": 28,
@@ -51,32 +57,110 @@
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 34,
+    "Jordan": {
+      "temp_c": 23,
       "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 38,
+      "wind_kmh": 8,
       "condition": "Clear",
-      "city": "Muscat"
+      "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 27,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 33,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310056,
+    "KWD": 0.309962,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.13235,
-    "IQD": 1310.310791
+    "EGP": 49.132111,
+    "IQD": 1310.308368
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1unpino",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1unpino/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-07-05T01:30:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1unkg1e",
+        "title": "Lottery & Eurojackpot Chat Space Discord",
+        "summary": "Are you interested to talk about Eurojackpot & lottery with others? Are you interested to share lotto numbers you play and discuss about Eurojackpot and other lotteries (and their jackpot size, hot and cold numbers etc.)?  If yes, you are w",
+        "url": "https://reddit.com/r/Lottery/comments/1unkg1e/lottery_eurojackpot_chat_space_discord/",
+        "timestamp": "2026-07-04T21:23:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1un2dux",
+        "title": "What should I do!?!",
+        "summary": "The ticket I got form one of the Arizona lottery machines says I won 21,000 if reading the ticket. But when I had it scanned, it said I only won $10. Not sure what to do honestly",
+        "url": "https://reddit.com/r/Lottery/comments/1un2dux/what_should_i_do/",
+        "timestamp": "2026-07-04T07:12:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "A scratch card participant, begging for change, wins half a million in Pesaro but can't claim it due to a lack of residency permits",
+        "summary": "A Nigerian man in Italy, Imagbe Ehizomwengie, won €500,000 on a scratchcard but couldn't claim it due to lacking a residency permit. His journey, marked by hardship and a rejected asylum claim, highlights bureaucratic hurdles for migrants. After a community e…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/a-scratch-card-participant-begging-for-change-wins-half-a-million-in-pesaro-but-cant-claim-it-due-to-a-lack-of-residency-permits/articleshow/132160234.cms",
+        "timestamp": "2026-07-03T11:44:47Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1ultpvb",
         "title": "My 3-Year Lottery Research Started with a Dream – Ask Me Anything",
@@ -87,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 19,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -453,21 +537,6 @@
         "isME": true
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "O'Brien hoping Benvenuto Cellini can turn tables",
-        "summary": "Aidan O'Brien is keeping the faith in Benvenuto Cellini as he bids to put his Epsom nightmare behind him in the Dubai Duty Free Irish Derby at the Curragh on Sunday.",
-        "url": "https://www.rte.ie/sport/racing/2026/0627/1580654-obrien-hoping-benvenuto-cellini-can-turn-tables/",
-        "timestamp": "2026-06-27T14:02:59Z",
-        "source": "RTE",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1ugtg61",
         "title": "Found a losing lottery ticket and entered into the 2nd chance drawing",
         "summary": "Like the title says, I was at a gas station and I found a losing lottery ticket on the ground. There was no signature on the back and they didn’t even scan the ticket as they did not even attempt to scratch the bar code. I saw the ticket ha",
@@ -543,51 +612,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1ufdjha",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1ufdjha/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-06-25T15:38:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 11,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ufb8by",
-        "title": "If the lottery was honest",
-        "summary": "How'd I do?",
-        "url": "https://reddit.com/r/Lottery/comments/1ufb8by/if_the_lottery_was_honest/",
-        "timestamp": "2026-06-25T14:13:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 1,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-48630318",
-        "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-        "summary": "190 pts · 92 comments",
-        "url": "https://www.monolisa.dev/",
-        "timestamp": "2026-06-22T14:05:23.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 190,
-        "comments": 92,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
         "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
         "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
@@ -637,14 +661,14 @@
       "totalSignals": 37,
       "meSignals": 6,
       "moodDist": {
-        "HOPEFUL": 27,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
         "ANXIOUS": 2,
-        "NEUTRAL": 8
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 27
+      "uncertaintyScore": 19
     }
   }
 }
