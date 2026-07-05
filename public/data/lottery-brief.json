@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T06:00:26.384Z",
+  "generated_at": "2026-07-05T06:25:18.996Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Winning Big Changes Lives",
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Skepticism"
+    "Gratitude"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with the brain's reward system responding to the possibility of sudden wealth. The hope of winning is fueled by stories of unexpected jackpots and scratch-off prizes, creating a sense of optimism and excitement among the public.",
+  "psychInsight": "The prospect of winning drives emotional investment, fueled by vivid imaginations of a better life. The psychology of variable rewards schedules also plays a significant role in sustaining engagement and hope.",
   "riskSignals": [
-    "Gaming addiction",
-    "Unrealistic expectations"
+    "Problem Gambling",
+    "Unrealistic Expectations"
   ],
   "opportunitySignals": [
-    "Increased engagement",
-    "Lotto marketing strategies"
+    "Responsible Gaming Promotion",
+    "Innovative Lottery Products"
   ]
 }

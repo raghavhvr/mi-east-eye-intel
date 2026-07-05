@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-04T06:00:25.015Z",
+  "generated_at": "2026-07-05T06:25:18.434Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Khamenei Funeral",
-  "summary": "The funeral of Iranian Supreme Leader Khamenei has drawn significant attention, with reports of thousands gathering in Tehran and claims of 20 million attendees expected. The event is seen as a show of support for the Iranian regime, amid reports of US pressure keeping some countries away from attending the funeral.",
+  "threatLevel": "LOW",
+  "topTheme": "MENA Regional Activity",
+  "summary": "The headlines indicate a mix of everyday life, regional development, and minor incidents in the MENA region, with no major security threats detected. Overall, the tone remains neutral with a focus on local interests and personal concerns.",
   "keyTrends": [
-    "Iranian Politics",
-    "US-Iran Relations",
-    "Regional Stability"
+    "Regional Development",
+    "Personal Finance",
+    "Social Media"
   ],
   "watchItems": [
-    "Iranian Regime Stability",
-    "US Middle East Policy"
+    "Iranian Leadership",
+    "Gulf Real Estate"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Khamenei Succession",
-    "US Pressure on Iran"
+    "Lack of Political Tension",
+    "Economic Optimism"
   ]
 }
