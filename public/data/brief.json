@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-05T06:25:18.434Z",
+  "generated_at": "2026-07-06T06:55:06.108Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "MENA Regional Activity",
-  "summary": "The headlines indicate a mix of everyday life, regional development, and minor incidents in the MENA region, with no major security threats detected. Overall, the tone remains neutral with a focus on local interests and personal concerns.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Gaza Conflict Escalates",
+  "summary": "The situation in the MENA region is becoming increasingly volatile due to escalating violence in Gaza, while Iran mourns its former Supreme Leader. Regional tensions are heightened, with potential implications for global stability and security",
   "keyTrends": [
-    "Regional Development",
-    "Personal Finance",
-    "Social Media"
+    "Gaza-Israel Conflict",
+    "Iranian Leadership Transition",
+    "Regional Security"
   ],
   "watchItems": [
-    "Iranian Leadership",
-    "Gulf Real Estate"
+    "US-Israel Relations",
+    "Iranian Funeral Protests"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Lack of Political Tension",
-    "Economic Optimism"
+    "Escalating Violence",
+    "Leadership Uncertainty"
   ]
 }

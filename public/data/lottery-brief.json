@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T06:25:18.996Z",
+  "generated_at": "2026-07-06T06:55:06.805Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Big Changes Lives",
+  "dominantNarrative": "Winning big changes lives",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Gratitude"
+    "excitement",
+    "optimism",
+    "frustration"
   ],
-  "psychInsight": "The prospect of winning drives emotional investment, fueled by vivid imaginations of a better life. The psychology of variable rewards schedules also plays a significant role in sustaining engagement and hope.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, with stories of unexpected victories fueling hope and excitement. However, tales of unclaimed prizes due to bureaucratic hurdles also evoke feelings of frustration and disappointment.",
   "riskSignals": [
-    "Problem Gambling",
-    "Unrealistic Expectations"
+    "unclaimed prizes",
+    "regional disparities"
   ],
   "opportunitySignals": [
-    "Responsible Gaming Promotion",
-    "Innovative Lottery Products"
+    "lottery funding",
+    "sports participation"
   ]
 }
