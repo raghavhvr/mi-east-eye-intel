@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-07-06T06:49:07.426Z",
+  "generated_at": "2026-07-07T06:26:45.190Z",
   "gdelt_tone": {
-    "UAE": 0.75,
-    "Saudi Arabia": -0.5,
-    "Qatar": -0.78,
-    "Kuwait": -0.96,
-    "Bahrain": -0.48,
-    "Oman": -0.11,
-    "Jordan": -2.04,
-    "Lebanon": -2.28,
+    "UAE": 0.95,
+    "Saudi Arabia": -0.32,
+    "Qatar": -0.51,
+    "Kuwait": 0.11,
+    "Bahrain": 0.46,
+    "Oman": 0.04,
+    "Jordan": -1.99,
+    "Lebanon": -2.31,
     "Iraq": -2.17,
-    "Egypt": 0.28,
-    "Yemen": -2.76,
-    "Iran": -2.42
+    "Egypt": 0.12,
+    "Yemen": -3.17,
+    "Iran": -2.43
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 43,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 41,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Bahrain": {
-      "temp_c": 40,
-      "wind_kmh": 12,
+      "temp_c": 38,
+      "wind_kmh": 20,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Oman": {
-      "temp_c": 45,
+    "Saudi Arabia": {
+      "temp_c": 37,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Qatar": {
+      "temp_c": 42,
       "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Jordan": {
+      "temp_c": 23,
+      "wind_kmh": 17,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Oman": {
+      "temp_c": 41,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Lebanon": {
+      "temp_c": 27,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Kuwait": {
+      "temp_c": 40,
+      "wind_kmh": 20,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "UAE": {
+      "temp_c": 38,
+      "wind_kmh": 19,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Iraq": {
+      "temp_c": 38,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
     "Egypt": {
-      "temp_c": 29,
+      "temp_c": 26,
       "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iran": {
       "temp_c": 34,
-      "wind_kmh": 8,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     },
-    "Lebanon": {
-      "temp_c": 28,
-      "wind_kmh": 23,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 26,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Iraq": {
-      "temp_c": 40,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Yemen": {
-      "temp_c": 28,
-      "wind_kmh": 2,
+      "temp_c": 27,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     }
@@ -92,15 +92,105 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308758,
+    "KWD": 0.310008,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.055246,
-    "IQD": 1309.050414
+    "EGP": 48.853923,
+    "IQD": 1309.005646
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1upksbw",
+        "title": "Powerball® launch set in the UK for July 21, first drawing to follow",
+        "summary": "“You bloody Americans always complain and don’t know how to have a smashing good time”    [https://www.powerball.com/powerball-launch-set-in-the-uk-for-july-21-first-drawing-to-follow](https://www.powerball.com/powerball-launch-set-in-the-u",
+        "url": "https://reddit.com/r/Lottery/comments/1upksbw/powerball_launch_set_in_the_uk_for_july_21_first/",
+        "timestamp": "2026-07-07T04:39:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1upgjps",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1upgjps/powerball_winning_numbers_monday/",
+        "timestamp": "2026-07-07T01:20:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1updt7f",
+        "title": "Diggi Games Ga Lottery $5.00 spin for a $500.00 win!",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1updt7f/diggi_games_ga_lottery_500_spin_for_a_50000_win/",
+        "timestamp": "2026-07-06T23:22:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uoidgk",
+        "title": "NY Powerball with Quick Pick",
+        "summary": "Hello Kind of an emergency. Does anyone have a picture of the NY Powerball with a quick pick for the 4th (yesterday)?  Long story.  Thank you.",
+        "url": "https://reddit.com/r/Lottery/comments/1uoidgk/ny_powerball_with_quick_pick/",
+        "timestamp": "2026-07-06T00:33:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1unpino",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1unpino/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-07-05T01:30:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1unkg1e",
+        "title": "Lottery & Eurojackpot Chat Space Discord",
+        "summary": "Are you interested to talk about Eurojackpot & lottery with others? Are you interested to share lotto numbers you play and discuss about Eurojackpot and other lotteries (and their jackpot size, hot and cold numbers etc.)?  If yes, you are w",
+        "url": "https://reddit.com/r/Lottery/comments/1unkg1e/lottery_eurojackpot_chat_space_discord/",
+        "timestamp": "2026-07-04T21:23:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Welcome to Mamdani's hot lottery summer in New York",
@@ -113,6 +203,21 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1un2dux",
+        "title": "What should I do!?!",
+        "summary": "The ticket I got form one of the Arizona lottery machines says I won 21,000 if reading the ticket. But when I had it scanned, it said I only won $10. Not sure what to do honestly",
+        "url": "https://reddit.com/r/Lottery/comments/1un2dux/what_should_i_do/",
+        "timestamp": "2026-07-04T07:12:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -130,6 +235,96 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
+      },
+      {
+        "id": "reddit-lot-1ultpvb",
+        "title": "My 3-Year Lottery Research Started with a Dream – Ask Me Anything",
+        "summary": "Hi everyone! Feel free to ask me questions, and I'll answer them one by one. A few years ago, I had a dream that inspired me to look at lottery draws from a completely different perspective. It led me to explore whether calendar dates could",
+        "url": "https://reddit.com/r/Lottery/comments/1ultpvb/my_3year_lottery_research_started_with_a_dream/",
+        "timestamp": "2026-07-02T20:33:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 4,
+        "comments": 19,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uln2zu",
+        "title": "Talk about crazy luck! The other day I bought a $10 777 scratch ticket at the grocery store lotto machine and won $200. Today I went to the same store and bought another $10 777, and won another $100!",
+        "summary": "↑29 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1uln2zu/talk_about_crazy_luck_the_other_day_i_bought_a_10/",
+        "timestamp": "2026-07-02T16:29:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 29,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ulloit",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1ulloit/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-07-02T15:38:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 4,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ulbs7q",
+        "title": "It's a Wonderful Life with the Game of Life scratcher",
+        "summary": "Found this scratcher from it's a wonderful life VHS, not sure if it counts as a lottery but a cool scratch off",
+        "url": "https://reddit.com/r/Lottery/comments/1ulbs7q/its_a_wonderful_life_with_the_game_of_life/",
+        "timestamp": "2026-07-02T07:53:54.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 9,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ul110x",
+        "title": "Has anyone ever won the Powerball or close to winning?",
+        "summary": "I also played a quick pick Powerball ticket. I’m ready yall!",
+        "url": "https://reddit.com/r/Lottery/comments/1ul110x/has_anyone_ever_won_the_powerball_or_close_to/",
+        "timestamp": "2026-07-01T23:03:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 4,
+        "comments": 11,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ul0v42",
+        "title": "30k Winner on Superlotto Scratcher?",
+        "summary": "I saw someone online who won 30k from the $5 superlotto scratcher, however there is no 30k prize listed on the website for this scratcher? Even on the website it doesn’t have this ‘Win up to $30,000 on it’?",
+        "url": "https://reddit.com/r/Lottery/comments/1ul0v42/30k_winner_on_superlotto_scratcher/",
+        "timestamp": "2026-07-01T22:56:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 57,
+        "comments": 14,
+        "mood": "HOPEFUL",
+        "isME": false
       },
       {
         "id": "guardian-lot-uk-news-2026-jul-01-uk-national-lottery-review-public-say-funds-spent",
@@ -159,6 +354,21 @@
         "score": 0,
         "comments": 0,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uk2dx9",
+        "title": "$500 win NY",
+        "summary": "Second time hitting $500 on this ticket . Bought from lottery machine at Stop & Shop ticket #12 . Still on the hunt for my first claimer !",
+        "url": "https://reddit.com/r/Lottery/comments/1uk2dx9/500_win_ny/",
+        "timestamp": "2026-06-30T21:35:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 53,
+        "comments": 3,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -192,6 +402,21 @@
         "isME": true
       },
       {
+        "id": "reddit-lot-1ujg70r",
+        "title": "Can Advance Play Still Work If You Win?",
+        "summary": "Lets say I buy a ticket and get 5 advance plays on it and it hits 1 or 2 out of the 5 times, but I don't check it/turn it in until the end of the 5 draws- if I don't bother turning the ticket in until the end and it hits again, do I get tho",
+        "url": "https://reddit.com/r/Lottery/comments/1ujg70r/can_advance_play_still_work_if_you_win/",
+        "timestamp": "2026-06-30T05:26:50.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "‘Obsession’ Arrives On Streaming This Week As Film Tops $370 Million At Box Office",
         "summary": "Curry Barker’s \"Obsession,\" starring Inde Navarrette and Michael Johnston, is new on digital streaming this week as the blockbuster horror thriller keeps racking up big ticket sales at the box office worldwide.",
@@ -207,18 +432,168 @@
         "isME": true
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Benvenuto Cellini comes good to land Irish Derby",
-        "summary": "Benvenuto Cellini put his Epsom disappointment behind him by leading home a one-two-three for Aidan O'Brien in the Dubai Duty Free Irish Derby.",
-        "url": "https://www.rte.ie/sport/racing/2026/0628/1580750-benvenuto-cellini-comes-good-to-landy-irish-derby/",
-        "timestamp": "2026-06-28T15:54:51Z",
-        "source": "RTE",
-        "sourceType": "NewsAPI",
+        "id": "reddit-lot-1ujb3i6",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1ujb3i6/powerball_winning_numbers_monday/",
+        "timestamp": "2026-06-30T01:20:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uiccgx",
+        "title": "NY lotto seems like winners are always from poorer places??? Is anyone skeptical?",
+        "summary": "I understand typicslly lower income poeple buy lottery tickets.  But it always seems off that its super rare rich places win. Like rarely Manhattan in NYC but often other places in NYC. Especially for scratch offs. Has there been any specul",
+        "url": "https://reddit.com/r/Lottery/comments/1uiccgx/ny_lotto_seems_like_winners_are_always_from/",
+        "timestamp": "2026-06-28T23:37:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uib657",
+        "title": "Need advice. Lol Am I crazy?",
+        "summary": "I either need advice or a mental health specialist … or both. Please read the instructions on this scratch off lottery very carefully, as I have done many times. Did I just win ALL the prizes on the ticket or am I f’ing crazy? Should I get ",
+        "url": "https://reddit.com/r/Lottery/comments/1uib657/need_advice_lol_am_i_crazy/",
+        "timestamp": "2026-06-28T22:45:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 62,
+        "comments": 38,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uiacjh",
+        "title": "What were the signs you got before you won the lottery?",
+        "summary": "If anyone can tell me what were the signs you got or saw before you won the lottery?",
+        "url": "https://reddit.com/r/Lottery/comments/1uiacjh/what_were_the_signs_you_got_before_you_won_the/",
+        "timestamp": "2026-06-28T22:09:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 4,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ui1v1q",
+        "title": "I Spent 3 Years Building an Advanced U.S. Lottery Analysis System",
+        "summary": "For the past 3 years, I've been analyzing U.S. lottery draws and developing an advanced Excel system based on historical data, statistics, and pattern analysis. I'm currently finishing my website, but until it's ready, Ask Me Anything about",
+        "url": "https://reddit.com/r/Lottery/comments/1ui1v1q/i_spent_3_years_building_an_advanced_us_lottery/",
+        "timestamp": "2026-06-28T16:34:41.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 6,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uhoedp",
+        "title": "$900 win at night hehe🤑🤑. Digital instant game nclottery",
+        "summary": "↑13 · 💬5",
+        "url": "https://reddit.com/r/Lottery/comments/1uhoedp/900_win_at_night_hehe_digital_instant_game/",
+        "timestamp": "2026-06-28T05:15:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 13,
+        "comments": 5,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uhjwx3",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑5 · 💬1",
+        "url": "https://reddit.com/r/Lottery/comments/1uhjwx3/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-06-28T01:30:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 5,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uhedyj",
+        "title": "Does anyone here play Washington's Match 4 lottery?",
+        "summary": "https://preview.redd.it/1brh7wg57w9h1.png?width=560&format=png&auto=webp&s=fa3efd76beb63bb3f69a0c47828c0d5ffe6cb217",
+        "url": "https://reddit.com/r/Lottery/comments/1uhedyj/does_anyone_here_play_washingtons_match_4_lottery/",
+        "timestamp": "2026-06-27T21:23:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 1,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uheayi",
+        "title": "Jackpot growth difference",
+        "summary": "Since the proliferation of gambling/trading technology sites (like draft kings, kalshi, polymarket) have you noticed any difference in lottery jackpot growth?",
+        "url": "https://reddit.com/r/Lottery/comments/1uheayi/jackpot_growth_difference/",
+        "timestamp": "2026-06-27T21:20:21.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uh9hwb",
+        "title": "Looking for honest feedback from real players.",
+        "summary": "I have been in the lottery industry for over 20 years. I put together a lottery data website as a side project and would love some honest feedback from daily/weekly players. The idea is to make official lottery data actually easy to explore",
+        "url": "https://reddit.com/r/Lottery/comments/1uh9hwb/looking_for_honest_feedback_from_real_players/",
+        "timestamp": "2026-06-27T18:04:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 0,
+        "score": 5,
+        "comments": 9,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1uh9fax",
+        "title": "I’ve worked in the lottery industry for 20+ years and built a data tool. Looking for honest feedback from real players.",
+        "summary": "I put together a lottery data website as a side project and would love some honest feedback from daily/weekly players. The idea is to make official lottery data actually easy to explore—scratch-off remaining prizes, weekly rankings, draw hi",
+        "url": "https://reddit.com/r/Lottery/comments/1uh9fax/ive_worked_in_the_lottery_industry_for_20_years/",
+        "timestamp": "2026-06-27T18:01:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
         "comments": 0,
-        "mood": "NEUTRAL",
+        "mood": "HOPEFUL",
         "isME": true
       },
       {
@@ -253,17 +628,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 10,
-      "meSignals": 4,
+      "totalSignals": 35,
+      "meSignals": 5,
       "moodDist": {
-        "HOPEFUL": 7,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
-        "ANXIOUS": 0,
-        "NEUTRAL": 3
+        "ANXIOUS": 1,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 30
+      "uncertaintyScore": 14
     }
   }
 }
