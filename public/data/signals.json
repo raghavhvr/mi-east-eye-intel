@@ -1,106 +1,166 @@
 {
-  "generated_at": "2026-07-07T06:26:45.190Z",
+  "generated_at": "2026-07-08T05:32:39.642Z",
   "gdelt_tone": {
-    "UAE": 0.95,
-    "Saudi Arabia": -0.32,
-    "Qatar": -0.51,
-    "Kuwait": 0.11,
-    "Bahrain": 0.46,
-    "Oman": 0.04,
-    "Jordan": -1.99,
-    "Lebanon": -2.31,
-    "Iraq": -2.17,
-    "Egypt": 0.12,
-    "Yemen": -3.17,
-    "Iran": -2.43
+    "UAE": 0.84,
+    "Saudi Arabia": -0.59,
+    "Qatar": -0.7,
+    "Kuwait": 0.71,
+    "Bahrain": 0.87,
+    "Oman": -0.48,
+    "Jordan": -1.66,
+    "Lebanon": -2.36,
+    "Iraq": -2.01,
+    "Egypt": -0.02,
+    "Yemen": -3.37,
+    "Iran": -2.62
   },
   "weather": {
-    "Bahrain": {
-      "temp_c": 38,
-      "wind_kmh": 20,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 10,
+      "temp_c": 36,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 42,
-      "wind_kmh": 18,
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 11,
       "condition": "Clear",
-      "city": "Doha"
-    },
-    "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Oman": {
-      "temp_c": 41,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Muscat"
+      "city": "Abu Dhabi"
     },
     "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 13,
+      "temp_c": 26,
+      "wind_kmh": 17,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Kuwait": {
-      "temp_c": 40,
-      "wind_kmh": 20,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "UAE": {
       "temp_c": 38,
       "wind_kmh": 19,
       "condition": "Clear",
-      "city": "Abu Dhabi"
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 23,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 41,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 24,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 21,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
     },
     "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 7,
+      "temp_c": 37,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
+      "temp_c": 25,
+      "wind_kmh": 4,
+      "condition": "Clear",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 34,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
     "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
+      "temp_c": 25,
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 32,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310008,
+    "KWD": 0.309392,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 48.853923,
-    "IQD": 1309.005646
+    "EGP": 48.801997,
+    "IQD": 1308.957938
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uqb14d",
+        "title": "Why do Americans have to pay taxes on the Lottery?!?!",
+        "summary": "Okay, I already know the answer- because the government is greedy AF, but com'on, what do you think about this?  The Lottery itself IS a tax.  Then, the federal, state, and city governments want a cut.  Isn't that a little ridiculous?",
+        "url": "https://reddit.com/r/Lottery/comments/1uqb14d/why_do_americans_have_to_pay_taxes_on_the_lottery/",
+        "timestamp": "2026-07-07T22:59:53.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uq3u96",
+        "title": "Lottery Books in or Around Chicago, Illinois.",
+        "summary": "Hi! I hope everyone is well! Furthermore, I was trying to see if anyone knew where to buy lottery books in or around Chicago, preferably by the Northside of Chicago or around Forest Park, IL? Any suggestions are greatly appreciated as I am ",
+        "url": "https://reddit.com/r/Lottery/comments/1uq3u96/lottery_books_in_or_around_chicago_illinois/",
+        "timestamp": "2026-07-07T18:38:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1upxz76",
+        "title": "Why is the Powerball multiplier stuck at 2X?",
+        "summary": "For the past 10 draws, the 2X multiplier has come up. I can't recall it going on this long like this. Is there any reason why it hasn't been another number, or what?",
+        "url": "https://reddit.com/r/Lottery/comments/1upxz76/why_is_the_powerball_multiplier_stuck_at_2x/",
+        "timestamp": "2026-07-07T15:12:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1upu6pp",
+        "title": "What is your honest opinion on the Powerball expanding to the UK 🇬🇧",
+        "summary": "Personally I think it’s an insult to Americans and American lotto players, because the PB is supposed to be an AMERICAN play, not an international play. This will cause hysteria and rage among Americans because many will have that mindset w",
+        "url": "https://reddit.com/r/Lottery/comments/1upu6pp/what_is_your_honest_opinion_on_the_powerball/",
+        "timestamp": "2026-07-07T12:51:39.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1upksbw",
         "title": "Powerball® launch set in the UK for July 21, first drawing to follow",
@@ -147,6 +207,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "No Winner in July 4 Powerball Drawing as $402 Million Jackpot Climbs to $416 Million for Monday's Drawing",
+        "summary": "The Powerball jackpot has increased to $416 million after no ticket matched all numbers in Saturday's drawing. Players have another chance to win on Monday night.",
+        "url": "https://www.ibtimes.com.au/powerball-jackpot-soars-416-million-1871884",
+        "timestamp": "2026-07-06T12:56:15Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1uoidgk",
         "title": "NY Powerball with Quick Pick",
         "summary": "Hello Kind of an emergency. Does anyone have a picture of the NY Powerball with a quick pick for the 4th (yesterday)?  Long story.  Thank you.",
@@ -156,7 +231,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
@@ -387,21 +462,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Win The Complete \"Twilight\" Saga Vinyl Soundtrack Collection from Warner Music Australia [Ex WA]",
-        "summary": "Enter your email & details to go in the draw below\n\nOur Prize Promotion Rules apply. No purchase necessary. To enter this prize draw, you must be resident in Australia and aged at least 16+. Maximum one entry per person. One (1x) winner.\n\nPrize\n\nThere will be…",
-        "url": "https://www.ozbargain.com.au/node/965803",
-        "timestamp": "2026-06-30T07:19:31Z",
-        "source": "Ozbargain.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1ujg70r",
         "title": "Can Advance Play Still Work If You Win?",
         "summary": "Lets say I buy a ticket and get 5 advance plays on it and it hits 1 or 2 out of the 5 times, but I don't check it/turn it in until the end of the 5 draws- if I don't bother turning the ticket in until the end and it hits again, do I get tho",
@@ -415,21 +475,6 @@
         "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "‘Obsession’ Arrives On Streaming This Week As Film Tops $370 Million At Box Office",
-        "summary": "Curry Barker’s \"Obsession,\" starring Inde Navarrette and Michael Johnston, is new on digital streaming this week as the blockbuster horror thriller keeps racking up big ticket sales at the box office worldwide.",
-        "url": "https://www.forbes.com/sites/timlammers/2026/06/30/obsession-arrives-on-streaming-this-week-as-film-tops-370-million-at-box-office/",
-        "timestamp": "2026-06-30T04:08:51Z",
-        "source": "Forbes",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       },
       {
         "id": "reddit-lot-1ujb3i6",
@@ -522,81 +567,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1uhjwx3",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑5 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1uhjwx3/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-06-28T01:30:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uhedyj",
-        "title": "Does anyone here play Washington's Match 4 lottery?",
-        "summary": "https://preview.redd.it/1brh7wg57w9h1.png?width=560&format=png&auto=webp&s=fa3efd76beb63bb3f69a0c47828c0d5ffe6cb217",
-        "url": "https://reddit.com/r/Lottery/comments/1uhedyj/does_anyone_here_play_washingtons_match_4_lottery/",
-        "timestamp": "2026-06-27T21:23:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uheayi",
-        "title": "Jackpot growth difference",
-        "summary": "Since the proliferation of gambling/trading technology sites (like draft kings, kalshi, polymarket) have you noticed any difference in lottery jackpot growth?",
-        "url": "https://reddit.com/r/Lottery/comments/1uheayi/jackpot_growth_difference/",
-        "timestamp": "2026-06-27T21:20:21.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uh9hwb",
-        "title": "Looking for honest feedback from real players.",
-        "summary": "I have been in the lottery industry for over 20 years. I put together a lottery data website as a side project and would love some honest feedback from daily/weekly players. The idea is to make official lottery data actually easy to explore",
-        "url": "https://reddit.com/r/Lottery/comments/1uh9hwb/looking_for_honest_feedback_from_real_players/",
-        "timestamp": "2026-06-27T18:04:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 5,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1uh9fax",
-        "title": "I’ve worked in the lottery industry for 20+ years and built a data tool. Looking for honest feedback from real players.",
-        "summary": "I put together a lottery data website as a side project and would love some honest feedback from daily/weekly players. The idea is to make official lottery data actually easy to explore—scratch-off remaining prizes, weekly rankings, draw hi",
-        "url": "https://reddit.com/r/Lottery/comments/1uh9fax/ive_worked_in_the_lottery_industry_for_20_years/",
-        "timestamp": "2026-06-27T18:01:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
         "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
         "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
@@ -628,17 +598,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 35,
-      "meSignals": 5,
+      "totalSignals": 33,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 28,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 14
+      "uncertaintyScore": 15
     }
   }
 }
