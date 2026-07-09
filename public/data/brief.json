@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-08T05:37:29.335Z",
+  "generated_at": "2026-07-09T06:28:11.025Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Regional Tensions",
-  "summary": "The region is experiencing increased tensions due to recent US strikes in Iran and heightened security measures in Bahrain. Ongoing geopolitical developments and potential flashpoints, such as the World Cup, may further exacerbate existing tensions.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran US Conflict",
+  "summary": "Recent US strikes across Iranian provinces have resulted in casualties and disrupted critical infrastructure, escalating tensions in the region. The situation is being closely monitored for potential further escalation and retaliatory actions",
   "keyTrends": [
-    "US-Iran Conflict",
-    "Regional Security",
-    "Geopolitical Tensions"
+    "Iran-US Relations",
+    "Regional Instability",
+    "Military Escalation"
   ],
   "watchItems": [
-    "Iran-US Relations",
-    "Bahrain Security"
+    "Iranian Response",
+    "US Military Presence"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "US Military Action"
+    "Casualty Reports",
+    "Infrastructure Disruption"
   ]
 }
