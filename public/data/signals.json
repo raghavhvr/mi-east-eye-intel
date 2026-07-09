@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-07-08T05:32:39.642Z",
+  "generated_at": "2026-07-09T06:17:08.156Z",
   "gdelt_tone": {
-    "UAE": 0.84,
-    "Saudi Arabia": -0.59,
-    "Qatar": -0.7,
-    "Kuwait": 0.71,
-    "Bahrain": 0.87,
-    "Oman": -0.48,
-    "Jordan": -1.66,
-    "Lebanon": -2.36,
-    "Iraq": -2.01,
-    "Egypt": -0.02,
-    "Yemen": -3.37,
-    "Iran": -2.62
+    "UAE": 0.4,
+    "Saudi Arabia": -0.62,
+    "Qatar": -1.07,
+    "Kuwait": -1.51,
+    "Bahrain": -0.64,
+    "Oman": -0.8,
+    "Jordan": -1.14,
+    "Lebanon": -2.33,
+    "Iraq": -2.09,
+    "Egypt": -0.07,
+    "Yemen": -3.38,
+    "Iran": -3
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 36,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 11,
+      "temp_c": 38,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+    "Saudi Arabia": {
+      "temp_c": 37,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Riyadh"
     },
     "Kuwait": {
       "temp_c": 38,
-      "wind_kmh": 19,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 23,
+      "temp_c": 41,
+      "wind_kmh": 21,
       "condition": "Clear",
       "city": "Doha"
     },
     "Oman": {
-      "temp_c": 41,
-      "wind_kmh": 11,
-      "condition": "Clear",
+      "temp_c": 44,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 37,
+      "temp_c": 36,
       "wind_kmh": 24,
       "condition": "Clear",
       "city": "Manama"
     },
     "Jordan": {
-      "temp_c": 21,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
+      "temp_c": 22,
+      "wind_kmh": 13,
+      "condition": "Clear",
       "city": "Amman"
     },
+    "Lebanon": {
+      "temp_c": 27,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 11,
+      "temp_c": 36,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 25,
+      "temp_c": 26,
       "wind_kmh": 4,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 25,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
     "Iran": {
-      "temp_c": 32,
-      "wind_kmh": 7,
-      "condition": "Clear",
+      "temp_c": 35,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 26,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309392,
+    "KWD": 0.309366,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 48.801997,
-    "IQD": 1308.957938
+    "EGP": 49.622519,
+    "IQD": 1310.528859
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1urc3ir",
+        "title": "Powerball Winning Numbers (Wednesday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1urc3ir/powerball_winning_numbers_wednesday/",
+        "timestamp": "2026-07-09T01:30:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ur4gv0",
+        "title": "Community shared play",
+        "summary": "Hi everyone, I want to play two single-ticket entries in an Italian lottery game. In this game, we have to choose 6 numbers between 1 and 90. Instead of picking the numbers myself, I thought it might be fun to let you choose. Write down a n",
+        "url": "https://reddit.com/r/Lottery/comments/1ur4gv0/community_shared_play/",
+        "timestamp": "2026-07-08T20:22:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1uqb14d",
         "title": "Why do Americans have to pay taxes on the Lottery?!?!",
@@ -114,6 +144,21 @@
         "score": 1,
         "comments": 0,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9u",
+        "title": "Winners and losers of Mamdani’s disastrous rent freeze — and they’re not who you think",
+        "summary": "While some rent-stabilized tenants are treating the news like a citywide lottery win, others fear the deterioration of their building.",
+        "url": "https://nypost.com/2026/07/07/real-estate/these-are-the-winners-and-losers-of-nycs-rent-freeze/",
+        "timestamp": "2026-07-07T21:54:03Z",
+        "source": "New York Post",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -141,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 40,
+        "comments": 44,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -194,15 +239,15 @@
       {
         "id": "reddit-lot-1updt7f",
         "title": "Diggi Games Ga Lottery $5.00 spin for a $500.00 win!",
-        "summary": "↑1 · 💬0",
+        "summary": "↑8 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1updt7f/diggi_games_ga_lottery_500_spin_for_a_50000_win/",
         "timestamp": "2026-07-06T23:22:10.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -552,21 +597,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1uhoedp",
-        "title": "$900 win at night hehe🤑🤑. Digital instant game nclottery",
-        "summary": "↑13 · 💬5",
-        "url": "https://reddit.com/r/Lottery/comments/1uhoedp/900_win_at_night_hehe_digital_instant_game/",
-        "timestamp": "2026-06-28T05:15:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 13,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
         "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
         "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
@@ -598,17 +628,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 33,
+      "totalSignals": 35,
       "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 15
+      "uncertaintyScore": 14
     }
   }
 }
