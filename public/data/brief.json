@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-09T06:28:11.025Z",
+  "generated_at": "2026-07-10T06:27:40.182Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran US Conflict",
-  "summary": "Recent US strikes across Iranian provinces have resulted in casualties and disrupted critical infrastructure, escalating tensions in the region. The situation is being closely monitored for potential further escalation and retaliatory actions",
+  "threatLevel": "LOW",
+  "topTheme": "World Cup",
+  "summary": "The region's attention is focused on the World Cup, with Morocco's performance garnering praise from Sheikh Mohammed. Meanwhile, other news includes a police case in Jebel Ali Station and an alleged Iranian plot to kill Trump, but overall the tone remains relatively calm.",
   "keyTrends": [
-    "Iran-US Relations",
-    "Regional Instability",
-    "Military Escalation"
+    "World Cup updates",
+    "Regional sports praise",
+    "Alleged Iranian plot"
   ],
   "watchItems": [
-    "Iranian Response",
-    "US Military Presence"
+    "Iranian plot developments",
+    "Morocco's football performance"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Casualty Reports",
-    "Infrastructure Disruption"
+    "Lack of major regional incidents",
+    "Sports dominating public discourse"
   ]
 }

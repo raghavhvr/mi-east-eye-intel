@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T06:28:11.739Z",
+  "generated_at": "2026-07-10T06:27:40.969Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Big wins ahead",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "anticipation"
+    "Excitement",
+    "Optimism",
+    "Envy"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, and the expansion of Powerball to the UK has heightened expectations. The community aspect of shared play and discussion forums fuels social bonding and reinforces hopeful sentiments.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals experiencing envy towards past winners. The expansion of lottery games to new regions, such as the UK, is fueling hope and excitement among potential players.",
   "riskSignals": [
-    "gambler's fallacy",
-    "taxation concerns"
+    "Taxation concerns",
+    "Problem gambling"
   ],
   "opportunitySignals": [
-    "expansion to new markets",
-    "community engagement"
+    "Expanding market reach",
+    "Increased player engagement"
   ]
 }
