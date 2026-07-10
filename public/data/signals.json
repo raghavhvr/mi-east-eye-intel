@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-07-09T06:17:08.156Z",
+  "generated_at": "2026-07-10T06:16:28.869Z",
   "gdelt_tone": {
-    "UAE": 0.4,
-    "Saudi Arabia": -0.62,
-    "Qatar": -1.07,
-    "Kuwait": -1.51,
-    "Bahrain": -0.64,
-    "Oman": -0.8,
-    "Jordan": -1.14,
-    "Lebanon": -2.33,
-    "Iraq": -2.09,
-    "Egypt": -0.07,
-    "Yemen": -3.38,
-    "Iran": -3
+    "UAE": 0.35,
+    "Saudi Arabia": -0.6,
+    "Qatar": -1.34,
+    "Kuwait": -1.95,
+    "Bahrain": -1.2,
+    "Oman": -0.95,
+    "Jordan": -1.45,
+    "Lebanon": -2.35,
+    "Iraq": -2.25,
+    "Egypt": -0.05,
+    "Yemen": -4.32,
+    "Iran": -3.23
   },
   "weather": {
+    "Saudi Arabia": {
+      "temp_c": 36,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
     "UAE": {
       "temp_c": 38,
-      "wind_kmh": 10,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 10,
+    "Oman": {
+      "temp_c": 45,
+      "wind_kmh": 16,
       "condition": "Clear",
-      "city": "Riyadh"
+      "city": "Muscat"
     },
     "Kuwait": {
       "temp_c": 38,
-      "wind_kmh": 13,
+      "wind_kmh": 18,
       "condition": "Clear",
       "city": "Kuwait City"
     },
+    "Lebanon": {
+      "temp_c": 26,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 21,
+      "temp_c": 40,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Oman": {
-      "temp_c": 44,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
     "Bahrain": {
       "temp_c": 36,
-      "wind_kmh": 24,
+      "wind_kmh": 22,
       "condition": "Clear",
       "city": "Manama"
     },
     "Jordan": {
-      "temp_c": 22,
-      "wind_kmh": 13,
+      "temp_c": 24,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+    "Egypt": {
+      "temp_c": 26,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 36,
+      "temp_c": 37,
       "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 35,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
     "Yemen": {
       "temp_c": 26,
-      "wind_kmh": 4,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 36,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309366,
+    "KWD": 0.309294,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.622519,
-    "IQD": 1310.528859
+    "EGP": 49.646687,
+    "IQD": 1310.211583
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1us3pho",
+        "title": "Need some lucky numbers",
+        "summary": "I need some numbers for tomorrow at Euro Jackpot . I splitt the win with the lucky one . Thanks",
+        "url": "https://reddit.com/r/Lottery/comments/1us3pho/need_some_lucky_numbers/",
+        "timestamp": "2026-07-09T21:30:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1us0c76",
+        "title": "State-by-state ranking of the best and worst places for winning the lottery",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1us0c76/statebystate_ranking_of_the_best_and_worst_places/",
+        "timestamp": "2026-07-09T19:25:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1urtu52",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1urtu52/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-07-09T15:38:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9w",
+        "title": "Buy VARTA batteries and enjoy German tech trusted by top OEMs, plus win Apple products in lucky draw!",
+        "summary": "What’s better than a win? Double win, of course! Choosing VARTA batteries for your car is already a win, as this German company makes some of the best automotive batteries in the market. And if you purchase a Varta battery from now till September 30, you coul…",
+        "url": "https://paultan.org/2026/07/09/buy-varta-batteries-and-enjoy-german-tech-trusted-by-top-oems-plus-win-apple-products-in-lucky-draw/",
+        "timestamp": "2026-07-09T05:34:42Z",
+        "source": "Paul Tan's Automotive News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9w",
+        "title": "UiTM student wins new Myvi in Perodua’s P-Circle Lucky Draw event, held at P2’s KLIMS 2026 booth",
+        "summary": "We have a winner of the P-Circle Lucky Draw event, held at Perodua’s Kuala Lumpur International Mobility Show (KLIMS) 2026 booth. Nik Akmal Afifah binti Nik Mohd Fuad, a student from Universiti Teknologi Mara (UiTM), […]\nThe post UiTM student wins new Myvi in…",
+        "url": "https://paultan.org/2026/07/09/uitm-student-wins-new-myvi-in-peroduas-p-circle-lucky-draw-event-held-at-p2s-klims-2026-booth/",
+        "timestamp": "2026-07-09T04:34:49Z",
+        "source": "Paul Tan's Automotive News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1urc3ir",
         "title": "Powerball Winning Numbers (Wednesday)",
@@ -141,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 18,
+        "comments": 15,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -552,51 +627,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1uib657",
-        "title": "Need advice. Lol Am I crazy?",
-        "summary": "I either need advice or a mental health specialist … or both. Please read the instructions on this scratch off lottery very carefully, as I have done many times. Did I just win ALL the prizes on the ticket or am I f’ing crazy? Should I get ",
-        "url": "https://reddit.com/r/Lottery/comments/1uib657/need_advice_lol_am_i_crazy/",
-        "timestamp": "2026-06-28T22:45:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 62,
-        "comments": 38,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uiacjh",
-        "title": "What were the signs you got before you won the lottery?",
-        "summary": "If anyone can tell me what were the signs you got or saw before you won the lottery?",
-        "url": "https://reddit.com/r/Lottery/comments/1uiacjh/what_were_the_signs_you_got_before_you_won_the/",
-        "timestamp": "2026-06-28T22:09:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ui1v1q",
-        "title": "I Spent 3 Years Building an Advanced U.S. Lottery Analysis System",
-        "summary": "For the past 3 years, I've been analyzing U.S. lottery draws and developing an advanced Excel system based on historical data, statistics, and pattern analysis. I'm currently finishing my website, but until it's ready, Ask Me Anything about",
-        "url": "https://reddit.com/r/Lottery/comments/1ui1v1q/i_spent_3_years_building_an_advanced_us_lottery/",
-        "timestamp": "2026-06-28T16:34:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
         "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
         "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
@@ -628,17 +658,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 35,
+      "totalSignals": 37,
       "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 33,
         "CYNICAL": 0,
-        "ANXIOUS": 1,
+        "ANXIOUS": 0,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 14
+      "uncertaintyScore": 11
     }
   }
 }
