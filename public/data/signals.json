@@ -1,106 +1,151 @@
 {
-  "generated_at": "2026-07-10T06:16:28.869Z",
+  "generated_at": "2026-07-11T05:23:43.661Z",
   "gdelt_tone": {
-    "UAE": 0.35,
-    "Saudi Arabia": -0.6,
-    "Qatar": -1.34,
-    "Kuwait": -1.95,
-    "Bahrain": -1.2,
-    "Oman": -0.95,
-    "Jordan": -1.45,
-    "Lebanon": -2.35,
-    "Iraq": -2.25,
-    "Egypt": -0.05,
-    "Yemen": -4.32,
-    "Iran": -3.23
+    "UAE": 0.21,
+    "Saudi Arabia": -0.48,
+    "Qatar": -1.37,
+    "Kuwait": -2.02,
+    "Bahrain": -1.3,
+    "Oman": -1.17,
+    "Jordan": -1.51,
+    "Lebanon": -2.29,
+    "Iraq": -2.29,
+    "Egypt": -0.15,
+    "Yemen": -4.82,
+    "Iran": -3.35
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 36,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "temp_c": 34,
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Riyadh"
     },
     "UAE": {
-      "temp_c": 38,
+      "temp_c": 36,
       "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Oman": {
-      "temp_c": 45,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 18,
+      "temp_c": 36,
+      "wind_kmh": 21,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 15,
+      "temp_c": 38,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Oman": {
+      "temp_c": 42,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
     "Bahrain": {
       "temp_c": 36,
-      "wind_kmh": 22,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Manama"
     },
+    "Lebanon": {
+      "temp_c": 26,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 10,
+      "temp_c": 23,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 37,
+      "temp_c": 35,
       "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 5,
+    "Egypt": {
+      "temp_c": 24,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Cairo"
     },
     "Iran": {
-      "temp_c": 36,
-      "wind_kmh": 11,
+      "temp_c": 38,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309294,
+    "KWD": 0.30938,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.646687,
-    "IQD": 1310.211583
+    "EGP": 49.617143,
+    "IQD": 1310.201374
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1ut0yx6",
+        "title": "Powerball growing much slower even with the expanssion",
+        "summary": "I feel like something isn't adding up. The Powerball jackpot has been growing unusually slowly, even after the game expanded. And the explanation for Mega Millions raising ticket prices doesn't make sense either—it seems to have had the opp",
+        "url": "https://reddit.com/r/Lottery/comments/1ut0yx6/powerball_growing_much_slower_even_with_the/",
+        "timestamp": "2026-07-10T21:35:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1ustwig",
+        "title": "Another Texas Lottery $20 million dollar scratch off ticket in the future?",
+        "summary": "Since someone recently won the last $20 million dollar scratch off ticket & now they will be closing out that ticket. Do you think that Texas Lottery will ever release another $20 million dollar scratch off ticket in the future?",
+        "url": "https://reddit.com/r/Lottery/comments/1ustwig/another_texas_lottery_20_million_dollar_scratch/",
+        "timestamp": "2026-07-10T17:16:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1usi3q0",
+        "title": "EuroJackpot: why random number selection puts you in the wrong 90% of combinations",
+        "summary": "Most players pick randomly. The data suggests this is      a mistake — not because any numbers are \"luckier,\"      but because the distribution of drawn combinations      follows a consistent statistical pattern.          2/2 draws this mon",
+        "url": "https://reddit.com/r/Lottery/comments/1usi3q0/eurojackpot_why_random_number_selection_puts_you/",
+        "timestamp": "2026-07-10T08:56:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1us3pho",
         "title": "Need some lucky numbers",
@@ -141,10 +186,25 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "The top-rated gadgets and big ticket items to snap up in Amazon Australia's massive Prime Day sale",
+        "summary": "The epic annual shopping event is running now until July 13, with some of the most generous discounts we've seen this year.",
+        "url": "https://www.dailymail.com/buyline/article-15943553/The-rated-gadgets-big-ticket-items-snap-Amazon-Australias-massive-Prime-Day-sale.html",
+        "timestamp": "2026-07-09T08:45:28Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9w",
@@ -201,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -582,48 +642,18 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1ujg70r",
-        "title": "Can Advance Play Still Work If You Win?",
-        "summary": "Lets say I buy a ticket and get 5 advance plays on it and it hits 1 or 2 out of the 5 times, but I don't check it/turn it in until the end of the 5 draws- if I don't bother turning the ticket in until the end and it hits again, do I get tho",
-        "url": "https://reddit.com/r/Lottery/comments/1ujg70r/can_advance_play_still_work_if_you_win/",
-        "timestamp": "2026-06-30T05:26:50.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
+        "id": "hn-lot-48630318",
+        "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+        "summary": "190 pts · 93 comments",
+        "url": "https://www.monolisa.dev/",
+        "timestamp": "2026-06-22T14:05:23.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ujb3i6",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1ujb3i6/powerball_winning_numbers_monday/",
-        "timestamp": "2026-06-30T01:20:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uiccgx",
-        "title": "NY lotto seems like winners are always from poorer places??? Is anyone skeptical?",
-        "summary": "I understand typicslly lower income poeple buy lottery tickets.  But it always seems off that its super rare rich places win. Like rarely Manhattan in NYC but often other places in NYC. Especially for scratch offs. Has there been any specul",
-        "url": "https://reddit.com/r/Lottery/comments/1uiccgx/ny_lotto_seems_like_winners_are_always_from/",
-        "timestamp": "2026-06-28T23:37:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
+        "score": 190,
+        "comments": 93,
+        "mood": "NEUTRAL",
         "isME": false
       },
       {
@@ -658,17 +688,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 37,
-      "meSignals": 1,
+      "totalSignals": 39,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 33,
+        "HOPEFUL": 34,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 4
+        "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 11
+      "uncertaintyScore": 13
     }
   }
 }
