@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T06:27:40.969Z",
+  "generated_at": "2026-07-11T05:27:56.856Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -11,15 +11,15 @@
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Envy"
+    "Frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals experiencing envy towards past winners. The expansion of lottery games to new regions, such as the UK, is fueling hope and excitement among potential players.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, which can create a sense of euphoria and optimism. However, the awareness of low winning probabilities and taxes on winnings can also lead to frustration and disappointment.",
   "riskSignals": [
-    "Taxation concerns",
-    "Problem gambling"
+    "Tax implications",
+    "Low winning odds"
   ],
   "opportunitySignals": [
-    "Expanding market reach",
-    "Increased player engagement"
+    "Lucky draws",
+    "New lottery games"
   ]
 }

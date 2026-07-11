@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-10T06:27:40.182Z",
+  "generated_at": "2026-07-11T05:27:56.270Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "World Cup",
-  "summary": "The region's attention is focused on the World Cup, with Morocco's performance garnering praise from Sheikh Mohammed. Meanwhile, other news includes a police case in Jebel Ali Station and an alleged Iranian plot to kill Trump, but overall the tone remains relatively calm.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "US Iran Tensions",
+  "summary": "The region is experiencing increased tensions due to recent statements from the US and Iran, with potential for escalation. Ongoing conflicts and instability in countries such as Sudan and Israel are also contributing to the elevated threat level.",
   "keyTrends": [
-    "World Cup updates",
-    "Regional sports praise",
-    "Alleged Iranian plot"
+    "US-Iran relations",
+    "Middle East conflicts",
+    "Regional instability"
   ],
   "watchItems": [
-    "Iranian plot developments",
-    "Morocco's football performance"
+    "Iran-US conflict escalation",
+    "Israeli-Palestinian tensions"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Lack of major regional incidents",
-    "Sports dominating public discourse"
+    "Trump's statements on Iran",
+    "Israeli settler attacks"
   ]
 }
