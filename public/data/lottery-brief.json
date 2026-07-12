@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T05:27:56.856Z",
+  "generated_at": "2026-07-12T05:43:30.825Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -11,15 +11,15 @@
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Frustration"
+    "Anticipation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, which can create a sense of euphoria and optimism. However, the awareness of low winning probabilities and taxes on winnings can also lead to frustration and disappointment.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with the prospect of winning big amounts fueling their optimism. The discussion around lottery and gambling also reveals a sense of community and shared experience among participants.",
   "riskSignals": [
-    "Tax implications",
-    "Low winning odds"
+    "Gaming addiction",
+    "Financial strain"
   ],
   "opportunitySignals": [
-    "Lucky draws",
-    "New lottery games"
+    "Increased engagement",
+    "Loyalty programs"
   ]
 }
