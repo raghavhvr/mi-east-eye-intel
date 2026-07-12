@@ -1,106 +1,196 @@
 {
-  "generated_at": "2026-07-11T05:23:43.661Z",
+  "generated_at": "2026-07-12T05:40:01.596Z",
   "gdelt_tone": {
-    "UAE": 0.21,
-    "Saudi Arabia": -0.48,
-    "Qatar": -1.37,
-    "Kuwait": -2.02,
-    "Bahrain": -1.3,
-    "Oman": -1.17,
-    "Jordan": -1.51,
-    "Lebanon": -2.29,
-    "Iraq": -2.29,
+    "UAE": 0.13,
+    "Saudi Arabia": -0.38,
+    "Qatar": -1.63,
+    "Kuwait": -1.98,
+    "Bahrain": -1.52,
+    "Oman": -1.69,
+    "Jordan": -1.49,
+    "Lebanon": -2.27,
+    "Iraq": -2.24,
     "Egypt": -0.15,
-    "Yemen": -4.82,
-    "Iran": -3.35
+    "Yemen": -4.75,
+    "Iran": -3.47
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 34,
-      "wind_kmh": 6,
+      "temp_c": 35,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Kuwait": {
-      "temp_c": 36,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
       "temp_c": 38,
       "wind_kmh": 10,
       "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 14,
+      "condition": "Clear",
       "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 20,
+      "condition": "Clear",
+      "city": "Kuwait City"
     },
     "Oman": {
       "temp_c": 42,
       "wind_kmh": 12,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Muscat"
     },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 4,
+      "temp_c": 24,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 35,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Baghdad"
+    "Lebanon": {
+      "temp_c": 27,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 24,
+      "temp_c": 25,
       "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 38,
-      "wind_kmh": 10,
+    "Iraq": {
+      "temp_c": 35,
+      "wind_kmh": 9,
       "condition": "Clear",
-      "city": "Tehran"
+      "city": "Baghdad"
     },
     "Yemen": {
-      "temp_c": 23,
+      "temp_c": 24,
       "wind_kmh": 7,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 33,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30938,
+    "KWD": 0.309318,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.617143,
-    "IQD": 1310.201374
+    "EGP": 49.624024,
+    "IQD": 1310.185872
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uu2wmp",
+        "title": "Another day, the 4th in a row for claimers.",
+        "summary": "I spent some of the money I got from the past few days and got 6 more Loteria $100 tickets from different stores. I found another $500 ticket and these two $1000 claimers! Lottery Headquarters hates me now i bet 😆",
+        "url": "https://reddit.com/r/Lottery/comments/1uu2wmp/another_day_the_4th_in_a_row_for_claimers/",
+        "timestamp": "2026-07-12T02:28:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uu1p9a",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1uu1p9a/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-07-12T01:30:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uty08q",
+        "title": "Royal Jackpot Good Win",
+        "summary": "Finally found a 1,000$ win🙏. Just one ticket is all it takes guys 🍀",
+        "url": "https://reddit.com/r/Lottery/comments/1uty08q/royal_jackpot_good_win/",
+        "timestamp": "2026-07-11T22:45:00.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1utvof5",
+        "title": "Does anyone still play Mega Millions after $5 dollar prince increase?",
+        "summary": "I never play Mega Millions anymore due to the high ticket price and only play Powerball but I was wondering if anyone else still plays Mega Millions?",
+        "url": "https://reddit.com/r/Lottery/comments/1utvof5/does_anyone_still_play_mega_millions_after_5/",
+        "timestamp": "2026-07-11T21:04:25.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1utqry1",
+        "title": "Show me ur lottery offices!",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1utqry1/show_me_ur_lottery_offices/",
+        "timestamp": "2026-07-11T17:51:33.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1utpird",
+        "title": "ISO Lottery Tickets",
+        "summary": "Hello there! I’m looking for people who would mail me lottery tickets. The more you can send me the better. Please DM me if you’re interested, I’d be very grateful. I am willing to reimburse for shipping or negotiate additional payment for ",
+        "url": "https://reddit.com/r/Lottery/comments/1utpird/iso_lottery_tickets/",
+        "timestamp": "2026-07-11T17:04:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1ut0yx6",
         "title": "Powerball growing much slower even with the expanssion",
@@ -126,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 7,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,7 +231,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -156,23 +246,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1us0c76",
         "title": "State-by-state ranking of the best and worst places for winning the lottery",
-        "summary": "↑1 · 💬0",
+        "summary": "↑6 · 💬4",
         "url": "https://reddit.com/r/Lottery/comments/1us0c76/statebystate_ranking_of_the_best_and_worst_places/",
         "timestamp": "2026-07-09T19:25:47.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -198,6 +288,21 @@
         "url": "https://www.dailymail.com/buyline/article-15943553/The-rated-gadgets-big-ticket-items-snap-Amazon-Australias-massive-Prime-Day-sale.html",
         "timestamp": "2026-07-09T08:45:28Z",
         "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Win a $2,000 Flight Centre Voucher or 1 of 5 $100 Warner Music Australia Vouchers from Warner Music Australia [Ex WA - Spotify]",
+        "summary": "Our Prize Promotion Rules apply. No purchase necessary.\n\nTo enter this prize draw, you must be an Australian resident and aged at least the older of 18. Maximum one entry per person. One (1) Major Prize Winner. Five (5) Minor Prize Winners.\n\nPromotion ends Th…",
+        "url": "https://www.ozbargain.com.au/node/967203",
+        "timestamp": "2026-07-09T06:39:26Z",
+        "source": "Ozbargain.com.au",
         "sourceType": "NewsAPI",
         "tag": "ME-LOT",
         "country": "Regional",
@@ -477,21 +582,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "A scratch card participant, begging for change, wins half a million in Pesaro but can't claim it due to a lack of residency permits",
-        "summary": "A Nigerian man in Italy, Imagbe Ehizomwengie, won €500,000 on a scratchcard but couldn't claim it due to lacking a residency permit. His journey, marked by hardship and a rejected asylum claim, highlights bureaucratic hurdles for migrants. After a community e…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/a-scratch-card-participant-begging-for-change-wins-half-a-million-in-pesaro-but-cant-claim-it-due-to-a-lack-of-residency-permits/articleshow/132160234.cms",
-        "timestamp": "2026-07-03T11:44:47Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1ultpvb",
         "title": "My 3-Year Lottery Research Started with a Dream – Ask Me Anything",
         "summary": "Hi everyone! Feel free to ask me questions, and I'll answer them one by one. A few years ago, I had a dream that inspired me to look at lottery draws from a completely different perspective. It led me to explore whether calendar dates could",
@@ -550,155 +640,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1ul110x",
-        "title": "Has anyone ever won the Powerball or close to winning?",
-        "summary": "I also played a quick pick Powerball ticket. I’m ready yall!",
-        "url": "https://reddit.com/r/Lottery/comments/1ul110x/has_anyone_ever_won_the_powerball_or_close_to/",
-        "timestamp": "2026-07-01T23:03:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 11,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ul0v42",
-        "title": "30k Winner on Superlotto Scratcher?",
-        "summary": "I saw someone online who won 30k from the $5 superlotto scratcher, however there is no 30k prize listed on the website for this scratcher? Even on the website it doesn’t have this ‘Win up to $30,000 on it’?",
-        "url": "https://reddit.com/r/Lottery/comments/1ul0v42/30k_winner_on_superlotto_scratcher/",
-        "timestamp": "2026-07-01T22:56:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 57,
-        "comments": 14,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "guardian-lot-uk-news-2026-jul-01-uk-national-lottery-review-public-say-funds-spent",
-        "title": "UK national lottery funding too concentrated in south, Nandy says",
-        "summary": "Culture secretary launches first review of how money is spent in more than two decades",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/01/uk-national-lottery-review-public-say-funds-spent",
-        "timestamp": "2026-07-01T16:31:33Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "guardian-lot-sport-2026-jul-01-new-research-gap-girls-boys-sport-participation",
-        "title": "‘Too many girls miss out’: new research shows size of gap to boys in UK sport participation",
-        "summary": "Teenage girls are facing a postcode lottery regarding access to sport, with those in urban areas missing out on 100 minutes of exercise each week compared with boys",
-        "url": "https://www.theguardian.com/sport/2026/jul/01/new-research-gap-girls-boys-sport-participation",
-        "timestamp": "2026-07-01T08:30:58Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uk2dx9",
-        "title": "$500 win NY",
-        "summary": "Second time hitting $500 on this ticket . Bought from lottery machine at Stop & Shop ticket #12 . Still on the hunt for my first claimer !",
-        "url": "https://reddit.com/r/Lottery/comments/1uk2dx9/500_win_ny/",
-        "timestamp": "2026-06-30T21:35:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 53,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "guardian-lot-us-news-2026-jun-30-las-vegas-airport-jackpot-slot-machine",
-        "title": "Jetway jackpot: man wins $3.3m on slot machine at Las Vegas airport",
-        "summary": "‘That’s one way to spend a layover,’ says gambling company after lucky traveler wins big on $10 stake",
-        "url": "https://www.theguardian.com/us-news/2026/jun/30/las-vegas-airport-jackpot-slot-machine",
-        "timestamp": "2026-06-30T17:58:02Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-48630318",
-        "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-        "summary": "190 pts · 93 comments",
-        "url": "https://www.monolisa.dev/",
-        "timestamp": "2026-06-22T14:05:23.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 190,
-        "comments": 93,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "guardian-lot-commentisfree-2026-jun-17-the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
-        "title": "The Guardian view on the future of social clubs: working-class assets that deserve to be nurtured | Editorial",
-        "summary": "<strong>Editorial:</strong> Member-run institutions offer a communal infrastructure to build upon. Using national lottery money to boost their fortunes is money well spent",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/17/the-guardian-view-on-the-future-of-social-clubs-working-class-assets-that-deserve-to-be-nurtured",
-        "timestamp": "2026-06-17T17:50:17Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "guardian-lot-world-2026-jun-12-nigerian-man-unable-to-claim-italian-lottery-win-gains-residency-permit",
-        "title": "Nigerian man unable to claim Italian lottery win gains residency permit",
-        "summary": "Former street seller celebrates newfound rights after debacle in claiming €500,000 scratchcard prize while undocumented",
-        "url": "https://www.theguardian.com/world/2026/jun/12/nigerian-man-unable-to-claim-italian-lottery-win-gains-residency-permit",
-        "timestamp": "2026-06-12T06:59:40Z",
-        "source": "The Guardian",
-        "sourceType": "News",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 39,
+      "totalSignals": 36,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 34,
+        "HOPEFUL": 33,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 5
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 13
+      "uncertaintyScore": 8
     }
   }
 }
