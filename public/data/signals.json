@@ -1,89 +1,83 @@
 {
-  "generated_at": "2026-07-12T05:40:01.596Z",
+  "generated_at": "2026-07-13T05:49:44.710Z",
   "gdelt_tone": {
-    "UAE": 0.13,
-    "Saudi Arabia": -0.38,
-    "Qatar": -1.63,
-    "Kuwait": -1.98,
-    "Bahrain": -1.52,
-    "Oman": -1.69,
-    "Jordan": -1.49,
-    "Lebanon": -2.27,
-    "Iraq": -2.24,
-    "Egypt": -0.15,
-    "Yemen": -4.75,
-    "Iran": -3.47
+    "UAE": -0.12,
+    "Saudi Arabia": -0.32,
+    "Qatar": -1.82,
+    "Kuwait": -2.5,
+    "Bahrain": -1.94,
+    "Oman": -2.33,
+    "Jordan": -1.74,
+    "Lebanon": -2.22,
+    "Iraq": -2.12,
+    "Egypt": -0.32,
+    "Yemen": -4.46,
+    "Iran": -3.62
   },
   "weather": {
+    "UAE": {
+      "temp_c": 37,
+      "wind_kmh": 16,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Saudi Arabia": {
-      "temp_c": 35,
+      "temp_c": 37,
       "wind_kmh": 8,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 14,
+      "temp_c": 41,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 20,
+      "temp_c": 39,
+      "wind_kmh": 19,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Oman": {
       "temp_c": 42,
-      "wind_kmh": 12,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Bahrain": {
+      "temp_c": 38,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Manama"
+    },
     "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 8,
+      "temp_c": 25,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Amman"
     },
     "Lebanon": {
       "temp_c": 27,
-      "wind_kmh": 11,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 35,
-      "wind_kmh": 9,
+      "temp_c": 38,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Sanaa"
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
     },
     "Iran": {
-      "temp_c": 33,
-      "wind_kmh": 8,
+      "temp_c": 32,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Tehran"
     }
@@ -92,15 +86,60 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309318,
+    "KWD": 0.308938,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.624024,
-    "IQD": 1310.185872
+    "EGP": 49.812111,
+    "IQD": 1309.688551
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uukf90",
+        "title": "Take a look at this, How much did I win? I caused a stir at the Richmond CA Lottery office..",
+        "summary": "So.. Cashed this ticket in on Friday.. tell me the amount the tickets says I won. And why it's an error..",
+        "url": "https://reddit.com/r/Lottery/comments/1uukf90/take_a_look_at_this_how_much_did_i_win_i_caused_a/",
+        "timestamp": "2026-07-12T16:39:50.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uub9ni",
+        "title": "Theory, No one is going to win the powerball before the expansion with the UK",
+        "summary": "Yes that’s it, they want to start in the Uk on a high, not some $20 million",
+        "url": "https://reddit.com/r/Lottery/comments/1uub9ni/theory_no_one_is_going_to_win_the_powerball/",
+        "timestamp": "2026-07-12T10:01:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uu8ydj",
+        "title": "A Royal Win...",
+        "summary": "Took [the winnings](https://www.reddit.com/r/Lottery/comments/1upbzdr/finallya_win/) from a couple days ago, and decided to splurge on a more expensive ticket.  I'll take the win. 😅",
+        "url": "https://reddit.com/r/Lottery/comments/1uu8ydj/a_royal_win/",
+        "timestamp": "2026-07-12T07:45:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1uu2wmp",
         "title": "Another day, the 4th in a row for claimers.",
@@ -186,7 +225,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Former milkman wins £4m mansion in prize draw",
+        "summary": "David Roper, from Rotherham, says the win has \"changed everything\" for him and his family.",
+        "url": "https://www.bbc.co.uk/news/articles/cvgmdr4388eo",
+        "timestamp": "2026-07-11T13:47:02Z",
+        "source": "BBC News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -201,8 +255,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 28,
+        "comments": 19,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -552,21 +606,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Welcome to Mamdani's hot lottery summer in New York",
-        "summary": "New York City has been offering lotteries for everything from cheap World Cup tickets to Knicks-themed litter baskets.",
-        "url": "https://www.businessinsider.com/zohran-mamdani-opens-nyc-events-with-lotteries-draws-excitement-2026-7#article",
-        "timestamp": "2026-07-04T08:47:01Z",
-        "source": "Business Insider",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1un2dux",
         "title": "What should I do!?!",
         "summary": "The ticket I got form one of the Arizona lottery machines says I won 21,000 if reading the ticket. But when I had it scanned, it said I only won $10. Not sure what to do honestly",
@@ -593,51 +632,6 @@
         "country": "Global",
         "score": 4,
         "comments": 19,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uln2zu",
-        "title": "Talk about crazy luck! The other day I bought a $10 777 scratch ticket at the grocery store lotto machine and won $200. Today I went to the same store and bought another $10 777, and won another $100!",
-        "summary": "↑29 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1uln2zu/talk_about_crazy_luck_the_other_day_i_bought_a_10/",
-        "timestamp": "2026-07-02T16:29:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ulloit",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1ulloit/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-07-02T15:38:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ulbs7q",
-        "title": "It's a Wonderful Life with the Game of Life scratcher",
-        "summary": "Found this scratcher from it's a wonderful life VHS, not sure if it counts as a lottery but a cool scratch off",
-        "url": "https://reddit.com/r/Lottery/comments/1ulbs7q/its_a_wonderful_life_with_the_game_of_life/",
-        "timestamp": "2026-07-02T07:53:54.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 9,
-        "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
       }
