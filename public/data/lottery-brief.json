@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T05:43:30.825Z",
+  "generated_at": "2026-07-13T05:54:18.825Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Big Wins Inspire Hope",
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Anticipation"
+    "Envy"
   ],
-  "psychInsight": "The public is driven by the desire for a life-changing win, with the prospect of winning big amounts fueling their optimism. The discussion around lottery and gambling also reveals a sense of community and shared experience among participants.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, with big jackpot announcements fueling optimism and excitement. The pursuit of luck and fortune is a strong motivator, with many seeking inspiration and lucky numbers to improve their chances.",
   "riskSignals": [
-    "Gaming addiction",
-    "Financial strain"
+    "Expansion skepticism",
+    "Price increase dissatisfaction"
   ],
   "opportunitySignals": [
-    "Increased engagement",
-    "Loyalty programs"
+    "Growing interest in lottery offices",
+    "Increased engagement with jackpot announcements"
   ]
 }

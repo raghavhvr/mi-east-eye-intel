@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-12T05:43:29.794Z",
+  "generated_at": "2026-07-13T05:54:18.030Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Qatar Emir Death",
-  "summary": "The death of Qatar's former emir Sheikh Hamad bin Khalifa Al Thani has sparked regional attention, while US strikes on Iran have escalated tensions in the region. These developments may impact regional stability and require close monitoring",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "The region is experiencing increased tensions due to Israeli-Palestinian conflicts and Iranian missile activity, while everyday life and social issues also dominate online discussions. Ongoing legal battles over EU trade with Israeli settlements may further escalate regional instability.",
   "keyTrends": [
-    "Qatar Succession",
-    "US-Iran Conflict",
-    "Regional Tensions"
+    "Israeli-Palestinian Conflict",
+    "Iranian Missile Activity",
+    "Social Issues"
   ],
   "watchItems": [
-    "Strait of Hormuz",
-    "Qatari Royal Family"
+    "Israeli Settlements",
+    "Iranian Military Movements"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Escalating Conflict"
+    "Conflict Reports",
+    "Regional Instability"
   ]
 }
