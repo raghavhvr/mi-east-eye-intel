@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-13T05:54:18.030Z",
+  "generated_at": "2026-07-14T05:15:44.079Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "The region is experiencing increased tensions due to Israeli-Palestinian conflicts and Iranian missile activity, while everyday life and social issues also dominate online discussions. Ongoing legal battles over EU trade with Israeli settlements may further escalate regional instability.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Middle East tensions",
+  "summary": "The region is experiencing increased military activity and retaliatory strikes, with multiple countries involved in the conflicts. The situation is volatile, with potential for further escalation and disruption to global trade and security",
   "keyTrends": [
-    "Israeli-Palestinian Conflict",
-    "Iranian Missile Activity",
-    "Social Issues"
+    "Iran-US conflict",
+    "Gaza violence",
+    "Houthi attacks"
   ],
   "watchItems": [
-    "Israeli Settlements",
-    "Iranian Military Movements"
+    "Strait of Hormuz security",
+    "US Fifth Fleet safety"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Conflict Reports",
-    "Regional Instability"
+    "Iran's aggressive actions",
+    "US military responses"
   ]
 }
