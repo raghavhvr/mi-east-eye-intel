@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-14T05:15:44.079Z",
+  "generated_at": "2026-07-15T05:16:45.841Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "ELEVATED",
-  "topTheme": "Middle East tensions",
-  "summary": "The region is experiencing increased military activity and retaliatory strikes, with multiple countries involved in the conflicts. The situation is volatile, with potential for further escalation and disruption to global trade and security",
+  "topTheme": "Iran US Conflict",
+  "summary": "The US has conducted new strikes against Iran and reimposed a blockade, while Iran has accused the US of violating a memorandum of understanding. Regional tensions are escalating, with Jordan intercepting ballistic missiles and Iran responding to US actions",
   "keyTrends": [
-    "Iran-US conflict",
-    "Gaza violence",
-    "Houthi attacks"
+    "US Iran Conflict",
+    "Regional Security",
+    "Middle East Tensions"
   ],
   "watchItems": [
-    "Strait of Hormuz security",
-    "US Fifth Fleet safety"
+    "Iranian Retaliation",
+    "US Military Deployments"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Iran's aggressive actions",
-    "US military responses"
+    "Escalating Conflict",
+    "Regional Instability"
   ]
 }
