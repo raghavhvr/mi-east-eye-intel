@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-15T05:16:45.841Z",
+  "generated_at": "2026-07-16T05:27:02.745Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran US Conflict",
-  "summary": "The US has conducted new strikes against Iran and reimposed a blockade, while Iran has accused the US of violating a memorandum of understanding. Regional tensions are escalating, with Jordan intercepting ballistic missiles and Iran responding to US actions",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "Regional security concerns persist due to missile interceptions and drone attacks, while economic and social issues also dominate the discourse. Ongoing geopolitical developments and tariffs imposition may further exacerbate regional instability.",
   "keyTrends": [
-    "US Iran Conflict",
-    "Regional Security",
-    "Middle East Tensions"
+    "Iranian Missile Interceptions",
+    "US Tariffs",
+    "Regional Job Market"
   ],
   "watchItems": [
-    "Iranian Retaliation",
-    "US Military Deployments"
+    "Jordan-Iran Relations",
+    "US-MENA Trade Policies"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating Conflict",
-    "Regional Instability"
+    "Regional Security Concerns",
+    "Economic Uncertainty"
   ]
 }
