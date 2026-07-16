@@ -1,106 +1,166 @@
 {
-  "generated_at": "2026-07-15T05:11:17.186Z",
+  "generated_at": "2026-07-16T05:21:48.961Z",
   "gdelt_tone": {
-    "UAE": -0.7,
-    "Saudi Arabia": -1.15,
-    "Qatar": -1.69,
-    "Kuwait": -3.3,
-    "Bahrain": -2.91,
-    "Oman": -2.8,
-    "Jordan": -2.47,
-    "Lebanon": -2.18,
-    "Iraq": -2.08,
-    "Egypt": -0.29,
-    "Yemen": -4.77,
-    "Iran": -3.81
+    "UAE": -0.76,
+    "Saudi Arabia": -1.09,
+    "Qatar": -1.43,
+    "Kuwait": -3.54,
+    "Bahrain": -2.95,
+    "Oman": -2.78,
+    "Jordan": -2.89,
+    "Lebanon": -2.16,
+    "Iraq": -2.05,
+    "Egypt": -0.25,
+    "Yemen": -4.72,
+    "Iran": -3.87
   },
   "weather": {
     "UAE": {
       "temp_c": 38,
-      "wind_kmh": 12,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 21,
+    "Saudi Arabia": {
+      "temp_c": 38,
+      "wind_kmh": 2,
       "condition": "Clear",
-      "city": "Manama"
-    },
-    "Iran": {
-      "temp_c": 35,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Tehran"
+      "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 36,
-      "wind_kmh": 5,
+      "temp_c": 39,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 14,
+      "temp_c": 39,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Kuwait City"
     },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 31,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Lebanon": {
+      "temp_c": 26,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Jordan": {
       "temp_c": 24,
-      "wind_kmh": 7,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Amman"
     },
     "Iraq": {
       "temp_c": 36,
-      "wind_kmh": 7,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Oman": {
-      "temp_c": 33,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
     "Egypt": {
-      "temp_c": 24,
+      "temp_c": 25,
       "wind_kmh": 4,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 6,
-      "condition": "Clear",
+      "temp_c": 24,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 34,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309462,
+    "KWD": 0.30905,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.723633,
-    "IQD": 1309.596197
+    "EGP": 50.545134,
+    "IQD": 1310.031995
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uxpypy",
+        "title": "Thank you to the person who left $3 in a lottery vending machine",
+        "summary": "It might not be much, but this is one of my more enjoyable wins. Even though I have had larger wins on $10 scratchers.  But to put my last dollar in (for what I had in cash), this was a nice win for a free $3 scratcher.  I'm a bit surprised",
+        "url": "https://reddit.com/r/Lottery/comments/1uxpypy/thank_you_to_the_person_who_left_3_in_a_lottery/",
+        "timestamp": "2026-07-16T02:22:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uxlzo3",
+        "title": "The Philippines' War on the Young",
+        "summary": "Let’s look at the numbers minus the romanticism of Filipino resilience. For the first time in our economic history a 25yo entering the workforce is fundamentally poorer than their parents were at the same age. In the late 90s and early 2000",
+        "url": "https://reddit.com/r/Philippines/comments/1uxlzo3/the_philippines_war_on_the_young/",
+        "timestamp": "2026-07-15T23:25:39.000Z",
+        "source": "r/Philippines",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Mega Millions jackpot reaches $637M: July 14 drawing details",
+        "summary": "Do you have the winning numbers? The Mega Millions prize has grown to more than half a billion dollars. See the latest details.",
+        "url": "https://www.usatoday.com/story/money/lottery/2026/07/14/mega-millions-july-14-2026-winning-numbers/90923333007/",
+        "timestamp": "2026-07-15T01:15:27Z",
+        "source": "USA Today",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Haiku gets NetBSD’s NVMM, beta 6 release planned for August",
+        "summary": "Haiku has another buy month of development activity to detail, and there’s a big ticket item this time, even if the developers themselves don’t consider it so. The thing that should be the biggest news item this month is that the GSoC 2024 work to port “NVMM”…",
+        "url": "https://www.osnews.com/story/145519/haiku-gets-netbsds-nvmm-beta-6-release-planned-for-august/",
+        "timestamp": "2026-07-14T23:09:55Z",
+        "source": "Osnews.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1uwn1qs",
         "title": "How Did Draw #83 Have a Jackpot Winner?",
@@ -157,23 +217,8 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-48906844",
-        "title": "Show HN: I can't seem to text properly on an iPhone, so I built my own keyboard",
-        "summary": "2 pts · 1 comments",
-        "url": "https://news.ycombinator.com/item?id=48906844",
-        "timestamp": "2026-07-14T13:49:24.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
         "comments": 1,
-        "mood": "NEUTRAL",
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -187,7 +232,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 20,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,7 +246,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 8,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -216,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
-        "comments": 4,
+        "score": 7,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,22 +276,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 16,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1uvufag",
         "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1uvufag/powerball_winning_numbers_monday/",
         "timestamp": "2026-07-14T01:20:06.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -261,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 28,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -276,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -732,21 +777,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "No Winner in July 4 Powerball Drawing as $402 Million Jackpot Climbs to $416 Million for Monday's Drawing",
-        "summary": "The Powerball jackpot has increased to $416 million after no ticket matched all numbers in Saturday's drawing. Players have another chance to win on Monday night.",
-        "url": "https://www.ibtimes.com.au/powerball-jackpot-soars-416-million-1871884",
-        "timestamp": "2026-07-06T12:56:15Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1uoidgk",
         "title": "NY Powerball with Quick Pick",
         "summary": "Hello Kind of an emergency. Does anyone have a picture of the NY Powerball with a quick pick for the 4th (yesterday)?  Long story.  Thank you.",
@@ -775,50 +805,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1unkg1e",
-        "title": "Lottery & Eurojackpot Chat Space Discord",
-        "summary": "Are you interested to talk about Eurojackpot & lottery with others? Are you interested to share lotto numbers you play and discuss about Eurojackpot and other lotteries (and their jackpot size, hot and cold numbers etc.)?  If yes, you are w",
-        "url": "https://reddit.com/r/Lottery/comments/1unkg1e/lottery_eurojackpot_chat_space_discord/",
-        "timestamp": "2026-07-04T21:23:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-48630318",
-        "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
-        "summary": "190 pts · 93 comments",
-        "url": "https://www.monolisa.dev/",
-        "timestamp": "2026-06-22T14:05:23.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 190,
-        "comments": 93,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
       "totalSignals": 47,
-      "meSignals": 2,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 42,
+        "HOPEFUL": 43,
         "CYNICAL": 0,
-        "ANXIOUS": 0,
-        "NEUTRAL": 5
+        "ANXIOUS": 1,
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 11
+      "uncertaintyScore": 9
     }
   }
 }
