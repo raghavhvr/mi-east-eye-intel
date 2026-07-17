@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-16T05:27:02.745Z",
+  "generated_at": "2026-07-17T05:28:56.565Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "Regional security concerns persist due to missile interceptions and drone attacks, while economic and social issues also dominate the discourse. Ongoing geopolitical developments and tariffs imposition may further exacerbate regional instability.",
+  "topTheme": "MENA Conflict",
+  "summary": "The region is experiencing increased tensions due to ongoing conflicts and attacks. The US bombardment of Iran and Israeli settler attacks in the West Bank are key concerns",
   "keyTrends": [
-    "Iranian Missile Interceptions",
-    "US Tariffs",
-    "Regional Job Market"
+    "US-Iran Conflict",
+    "Israeli-Palestinian Tensions",
+    "Regional Instability"
   ],
   "watchItems": [
-    "Jordan-Iran Relations",
-    "US-MENA Trade Policies"
+    "US-Iran Relations",
+    "Israeli Settlement Activity"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Security Concerns",
-    "Economic Uncertainty"
+    "Escalating Violence",
+    "Regional Uncertainty"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T05:27:03.284Z",
+  "generated_at": "2026-07-17T05:28:57.218Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big jackpot",
+  "dominantNarrative": "Winning Big Jackpots",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "frustration"
+    "Excitement",
+    "Optimism",
+    "Curiosity"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial windfalls and the thrill of possibly winning, with some individuals experiencing frustration due to repeated losses. The lottery's unpredictable nature fuels hope and excitement, keeping people engaged and invested in the outcome.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with many individuals exhibiting a strong sense of optimism and hope. The discussions around lottery strategies and winners also reveal a psychological need for control and a desire to make sense of random events.",
   "riskSignals": [
-    "problem gambling",
-    "financial stress"
+    "Gambler's Fallacy",
+    "Overconfidence"
   ],
   "opportunitySignals": [
-    "innovative lottery products",
-    "customer engagement"
+    "Innovative Lottery Models",
+    "Community Engagement"
   ]
 }
