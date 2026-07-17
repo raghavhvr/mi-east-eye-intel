@@ -1,106 +1,166 @@
 {
-  "generated_at": "2026-07-16T05:21:48.961Z",
+  "generated_at": "2026-07-17T05:24:13.003Z",
   "gdelt_tone": {
-    "UAE": -0.76,
-    "Saudi Arabia": -1.09,
-    "Qatar": -1.43,
-    "Kuwait": -3.54,
-    "Bahrain": -2.95,
-    "Oman": -2.78,
-    "Jordan": -2.89,
-    "Lebanon": -2.16,
-    "Iraq": -2.05,
+    "UAE": -1.14,
+    "Saudi Arabia": -1.36,
+    "Qatar": -1.31,
+    "Kuwait": -3.75,
+    "Bahrain": -2.75,
+    "Oman": -2.73,
+    "Jordan": -3.22,
+    "Lebanon": -2.23,
+    "Iraq": -2.1,
     "Egypt": -0.25,
-    "Yemen": -4.72,
-    "Iran": -3.87
+    "Yemen": -4.74,
+    "Iran": -3.9
   },
   "weather": {
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Oman": {
-      "temp_c": 31,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
+      "temp_c": 30,
+      "wind_kmh": 12,
+      "condition": "Clear",
       "city": "Muscat"
     },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 11,
+      "temp_c": 25,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Amman"
     },
+    "Qatar": {
+      "temp_c": 34,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 36,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Kuwait": {
+      "temp_c": 39,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Saudi Arabia": {
+      "temp_c": 38,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Lebanon": {
+      "temp_c": 27,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Iraq": {
       "temp_c": 36,
-      "wind_kmh": 6,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Baghdad"
     },
+    "Iran": {
+      "temp_c": 33,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Tehran"
+    },
     "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 4,
+      "temp_c": 24,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Yemen": {
       "temp_c": 24,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 34,
-      "wind_kmh": 8,
+      "wind_kmh": 2,
       "condition": "Clear",
-      "city": "Tehran"
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30905,
+    "KWD": 0.30875,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.545134,
-    "IQD": 1310.031995
+    "EGP": 50.537457,
+    "IQD": 1309.364555
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uymwq5",
+        "title": "At what point is it announced if there was a winner on Powerball?",
+        "summary": "I’ve asked AI the night of and it said “no” and the next morning it changes its answer and it says “yes there was a winner” so my question is, what is the official time it is announced if there is a winner or not, and what website do you ch",
+        "url": "https://reddit.com/r/Lottery/comments/1uymwq5/at_what_point_is_it_announced_if_there_was_a/",
+        "timestamp": "2026-07-17T02:25:34.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uybvvm",
+        "title": "Would you hire a lawyer?",
+        "summary": "If you won the lottery, what amount would make you hire a lawyer? Is it a safer option to hire a lawyer if your win is in the millions?",
+        "url": "https://reddit.com/r/Lottery/comments/1uybvvm/would_you_hire_a_lawyer/",
+        "timestamp": "2026-07-16T18:56:57.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uy6csp",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1uy6csp/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-07-16T15:38:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Opinion: After Conor McGregor’s fall, Paddy Pimblett’s UFC rise begins",
+        "summary": "One star rises, another falls. Paddy Pimblett is officially the Ultimate Fighting Championship's big ticket, writes Dayne Fox.",
+        "url": "https://www.sherdog.com/news/articles/Opinion-After-Conor-McGregors-fall-Paddy-Pimbletts-UFC-rise-begins-201925",
+        "timestamp": "2026-07-16T04:33:57Z",
+        "source": "Sherdog.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1uxpypy",
         "title": "Thank you to the person who left $3 in a lottery vending machine",
@@ -115,21 +175,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1uxlzo3",
-        "title": "The Philippines' War on the Young",
-        "summary": "Let’s look at the numbers minus the romanticism of Filipino resilience. For the first time in our economic history a 25yo entering the workforce is fundamentally poorer than their parents were at the same age. In the late 90s and early 2000",
-        "url": "https://reddit.com/r/Philippines/comments/1uxlzo3/the_philippines_war_on_the_young/",
-        "timestamp": "2026-07-15T23:25:39.000Z",
-        "source": "r/Philippines",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": true
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
@@ -171,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 44,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -672,21 +717,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9u",
-        "title": "Winners and losers of Mamdani’s disastrous rent freeze — and they’re not who you think",
-        "summary": "While some rent-stabilized tenants are treating the news like a citywide lottery win, others fear the deterioration of their building.",
-        "url": "https://nypost.com/2026/07/07/real-estate/these-are-the-winners-and-losers-of-nycs-rent-freeze/",
-        "timestamp": "2026-07-07T21:54:03Z",
-        "source": "New York Post",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1uq3u96",
         "title": "Lottery Books in or Around Chicago, Illinois.",
         "summary": "Hi! I hope everyone is well! Furthermore, I was trying to see if anyone knew where to buy lottery books in or around Chicago, preferably by the Northside of Chicago or around Forest Park, IL? Any suggestions are greatly appreciated as I am ",
@@ -790,35 +820,20 @@
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1unpino",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1unpino/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-07-05T01:30:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 47,
+      "totalSignals": 48,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 43,
+        "HOPEFUL": 45,
         "CYNICAL": 0,
-        "ANXIOUS": 1,
+        "ANXIOUS": 0,
         "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 9
+      "uncertaintyScore": 6
     }
   }
 }
