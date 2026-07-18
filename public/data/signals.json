@@ -1,106 +1,136 @@
 {
-  "generated_at": "2026-07-17T05:24:13.003Z",
+  "generated_at": "2026-07-18T05:06:31.581Z",
   "gdelt_tone": {
-    "UAE": -1.14,
-    "Saudi Arabia": -1.36,
-    "Qatar": -1.31,
-    "Kuwait": -3.75,
-    "Bahrain": -2.75,
-    "Oman": -2.73,
-    "Jordan": -3.22,
-    "Lebanon": -2.23,
-    "Iraq": -2.1,
-    "Egypt": -0.25,
-    "Yemen": -4.74,
-    "Iran": -3.9
+    "UAE": -1.3,
+    "Saudi Arabia": -1.57,
+    "Qatar": -1.46,
+    "Kuwait": -4.05,
+    "Bahrain": -2.86,
+    "Oman": -2.88,
+    "Jordan": -3.23,
+    "Lebanon": -2.34,
+    "Iraq": -2.08,
+    "Egypt": -0.19,
+    "Yemen": -4.72,
+    "Iran": -4.02
   },
   "weather": {
-    "Oman": {
-      "temp_c": 30,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Qatar": {
-      "temp_c": 34,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
       "temp_c": 36,
-      "wind_kmh": 14,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Saudi Arabia": {
+      "temp_c": 37,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "Qatar": {
+      "temp_c": 34,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Jordan": {
+      "temp_c": 25,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Oman": {
+      "temp_c": 31,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
     "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
+      "temp_c": 28,
+      "wind_kmh": 13,
+      "condition": "Clear",
       "city": "Beirut"
     },
+    "Bahrain": {
+      "temp_c": 34,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Manama"
+    },
     "Iraq": {
-      "temp_c": 36,
-      "wind_kmh": 8,
+      "temp_c": 35,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Iran": {
-      "temp_c": 33,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Egypt": {
-      "temp_c": 24,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
     "Yemen": {
-      "temp_c": 24,
+      "temp_c": 23,
       "wind_kmh": 2,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 35,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30875,
+    "KWD": 0.308905,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.537457,
-    "IQD": 1309.364555
+    "EGP": 50.543868,
+    "IQD": 1309.350203
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1uz27af",
+        "title": "$167M Kentucky Powerball lottery winner indicted for 2025 hit-and-run",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1uz27af/167m_kentucky_powerball_lottery_winner_indicted/",
+        "timestamp": "2026-07-17T14:59:46.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uyr7nd",
+        "title": "Title: My $1,000 scratcher win disappeared because I let my brother redeem it. Am I completely screwed?",
+        "summary": "I bought a California scratcher today and somehow hit for $1,000. I was absolutely pumped. Still riding the adrenaline, I called my brother to tell him. He plays scratchers all the time, so I knew he'd appreciate the news. We started talkin",
+        "url": "https://reddit.com/r/Lottery/comments/1uyr7nd/title_my_1000_scratcher_win_disappeared_because_i/",
+        "timestamp": "2026-07-17T06:02:20.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1uymwq5",
         "title": "At what point is it announced if there was a winner on Powerball?",
@@ -132,6 +162,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Boost for players as National Lottery reduces number of balls in draw",
+        "summary": "A new Lotto draw will also take place on Mondays, as well as Wednesdays and Saturdays",
+        "url": "https://www.irishtimes.com/ireland/2026/07/16/boost-for-players-as-national-lottery-reduces-number-of-balls-in-draw/",
+        "timestamp": "2026-07-16T17:41:27Z",
+        "source": "The Irish Times",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1uy6csp",
         "title": "What Would You Do If You Won? (Weekly Discussion)",
         "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
@@ -141,7 +186,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "'Who came up with this idea?' ExpressVPN continues to drop its 30-day money-back guarantee in favour of raffles — and users aren't happy about it",
+        "summary": "ExpressVPN has done away with its standard 30-day money back guarantee for a new iPhone 17 Pro giveaway, right after ditching the same pledge for its World Cup promotion",
+        "url": "https://www.techradar.com/vpn/who-came-up-with-this-idea-expressvpn-continues-to-drop-its-30-day-money-back-guarantee-in-favour-of-raffles-and-users-arent-happy-about-it",
+        "timestamp": "2026-07-16T09:10:36Z",
+        "source": "TechRadar",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -171,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 43,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -612,66 +672,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "The top-rated gadgets and big ticket items to snap up in Amazon Australia's massive Prime Day sale",
-        "summary": "The epic annual shopping event is running now until July 13, with some of the most generous discounts we've seen this year.",
-        "url": "https://www.dailymail.com/buyline/article-15943553/The-rated-gadgets-big-ticket-items-snap-Amazon-Australias-massive-Prime-Day-sale.html",
-        "timestamp": "2026-07-09T08:45:28Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Win a $2,000 Flight Centre Voucher or 1 of 5 $100 Warner Music Australia Vouchers from Warner Music Australia [Ex WA - Spotify]",
-        "summary": "Our Prize Promotion Rules apply. No purchase necessary.\n\nTo enter this prize draw, you must be an Australian resident and aged at least the older of 18. Maximum one entry per person. One (1) Major Prize Winner. Five (5) Minor Prize Winners.\n\nPromotion ends Th…",
-        "url": "https://www.ozbargain.com.au/node/967203",
-        "timestamp": "2026-07-09T06:39:26Z",
-        "source": "Ozbargain.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9w",
-        "title": "Buy VARTA batteries and enjoy German tech trusted by top OEMs, plus win Apple products in lucky draw!",
-        "summary": "What’s better than a win? Double win, of course! Choosing VARTA batteries for your car is already a win, as this German company makes some of the best automotive batteries in the market. And if you purchase a Varta battery from now till September 30, you coul…",
-        "url": "https://paultan.org/2026/07/09/buy-varta-batteries-and-enjoy-german-tech-trusted-by-top-oems-plus-win-apple-products-in-lucky-draw/",
-        "timestamp": "2026-07-09T05:34:42Z",
-        "source": "Paul Tan's Automotive News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9w",
-        "title": "UiTM student wins new Myvi in Perodua’s P-Circle Lucky Draw event, held at P2’s KLIMS 2026 booth",
-        "summary": "We have a winner of the P-Circle Lucky Draw event, held at Perodua’s Kuala Lumpur International Mobility Show (KLIMS) 2026 booth. Nik Akmal Afifah binti Nik Mohd Fuad, a student from Universiti Teknologi Mara (UiTM), […]\nThe post UiTM student wins new Myvi in…",
-        "url": "https://paultan.org/2026/07/09/uitm-student-wins-new-myvi-in-peroduas-p-circle-lucky-draw-event-held-at-p2s-klims-2026-booth/",
-        "timestamp": "2026-07-09T04:34:49Z",
-        "source": "Paul Tan's Automotive News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1urc3ir",
         "title": "Powerball Winning Numbers (Wednesday)",
         "summary": "↑1 · 💬0",
@@ -777,63 +777,33 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1upgjps",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1upgjps/powerball_winning_numbers_monday/",
-        "timestamp": "2026-07-07T01:20:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
+        "id": "hn-lot-48630318",
+        "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
+        "summary": "190 pts · 93 comments",
+        "url": "https://www.monolisa.dev/",
+        "timestamp": "2026-06-22T14:05:23.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1updt7f",
-        "title": "Diggi Games Ga Lottery $5.00 spin for a $500.00 win!",
-        "summary": "↑8 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1updt7f/diggi_games_ga_lottery_500_spin_for_a_50000_win/",
-        "timestamp": "2026-07-06T23:22:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uoidgk",
-        "title": "NY Powerball with Quick Pick",
-        "summary": "Hello Kind of an emergency. Does anyone have a picture of the NY Powerball with a quick pick for the 4th (yesterday)?  Long story.  Thank you.",
-        "url": "https://reddit.com/r/Lottery/comments/1uoidgk/ny_powerball_with_quick_pick/",
-        "timestamp": "2026-07-06T00:33:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
+        "score": 190,
+        "comments": 93,
         "mood": "NEUTRAL",
         "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 48,
-      "meSignals": 4,
+      "totalSignals": 46,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 45,
+        "HOPEFUL": 43,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 6
+      "uncertaintyScore": 7
     }
   }
 }
