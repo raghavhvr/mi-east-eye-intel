@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-17T05:28:56.565Z",
+  "generated_at": "2026-07-18T05:11:33.179Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Conflict",
-  "summary": "The region is experiencing increased tensions due to ongoing conflicts and attacks. The US bombardment of Iran and Israeli settler attacks in the West Bank are key concerns",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran Israel Conflict",
+  "summary": "The situation between Iran and Israel is escalating with US involvement, and Tehran has warned of a potential full-scale offensive. The conflict may spread and involve other regional actors, posing a significant threat to regional stability.",
   "keyTrends": [
-    "US-Iran Conflict",
-    "Israeli-Palestinian Tensions",
-    "Regional Instability"
+    "Iranian Military Strategy",
+    "US Involvement",
+    "Regional Escalation"
   ],
   "watchItems": [
     "US-Iran Relations",
-    "Israeli Settlement Activity"
+    "Israeli Military Operations"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Escalating Violence",
-    "Regional Uncertainty"
+    "Escalating Conflict",
+    "US Strikes on Iran"
   ]
 }

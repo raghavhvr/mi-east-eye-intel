@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-17T05:28:57.218Z",
+  "generated_at": "2026-07-18T05:11:33.840Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
-  "dominantNarrative": "Winning Big Jackpots",
+  "dominantNarrative": "Big Wins Ahead",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Curiosity"
+    "excitement",
+    "optimism",
+    "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with many individuals exhibiting a strong sense of optimism and hope. The discussions around lottery strategies and winners also reveal a psychological need for control and a desire to make sense of random events.",
+  "psychInsight": "The public's reactions are driven by the desire for life-changing wins and the thrill of taking risks, while also being influenced by concerns about fairness and trust in the lottery system. The hope of winning big is a powerful motivator, but it can also lead to disappointment and frustration when expectations are not met.",
   "riskSignals": [
-    "Gambler's Fallacy",
-    "Overconfidence"
+    "disputes over winnings",
+    "unfair practices"
   ],
   "opportunitySignals": [
-    "Innovative Lottery Models",
-    "Community Engagement"
+    "innovative lottery formats",
+    "player-centric initiatives"
   ]
 }
