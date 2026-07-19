@@ -1,88 +1,88 @@
 {
-  "generated_at": "2026-07-18T05:06:31.581Z",
+  "generated_at": "2026-07-19T05:32:47.087Z",
   "gdelt_tone": {
-    "UAE": -1.3,
-    "Saudi Arabia": -1.57,
+    "UAE": -1.29,
+    "Saudi Arabia": -1.8,
     "Qatar": -1.46,
-    "Kuwait": -4.05,
-    "Bahrain": -2.86,
-    "Oman": -2.88,
-    "Jordan": -3.23,
-    "Lebanon": -2.34,
-    "Iraq": -2.08,
-    "Egypt": -0.19,
+    "Kuwait": -4.39,
+    "Bahrain": -3.16,
+    "Oman": -2.94,
+    "Jordan": -3.82,
+    "Lebanon": -2.51,
+    "Iraq": -2.07,
+    "Egypt": -0.08,
     "Yemen": -4.72,
-    "Iran": -4.02
+    "Iran": -4.26
   },
   "weather": {
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 12,
+    "Qatar": {
+      "temp_c": 37,
+      "wind_kmh": 1,
       "condition": "Clear",
-      "city": "Abu Dhabi"
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 40,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Oman": {
+      "temp_c": 34,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 38,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 26,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Lebanon": {
+      "temp_c": 27,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Saudi Arabia": {
-      "temp_c": 37,
+      "temp_c": 38,
       "wind_kmh": 2,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
+    "UAE": {
       "temp_c": 37,
-      "wind_kmh": 3,
+      "wind_kmh": 7,
       "condition": "Clear",
-      "city": "Kuwait City"
+      "city": "Abu Dhabi"
     },
     "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 3,
+      "temp_c": 26,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Cairo"
     },
-    "Qatar": {
-      "temp_c": 34,
-      "wind_kmh": 3,
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 9,
       "condition": "Clear",
-      "city": "Doha"
-    },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Oman": {
-      "temp_c": 31,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Lebanon": {
-      "temp_c": 28,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
-    "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Manama"
+      "city": "Sanaa"
     },
     "Iraq": {
-      "temp_c": 35,
-      "wind_kmh": 3,
+      "temp_c": 36,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
     "Iran": {
-      "temp_c": 35,
+      "temp_c": 34,
       "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Tehran"
@@ -92,27 +92,192 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308905,
+    "KWD": 0.308852,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.543868,
-    "IQD": 1309.350203
+    "EGP": 50.546749,
+    "IQD": 1309.328454
   },
   "lottery": {
     "items": [
       {
-        "id": "reddit-lot-1uz27af",
-        "title": "$167M Kentucky Powerball lottery winner indicted for 2025 hit-and-run",
+        "id": "reddit-lot-1v0ehht",
+        "title": "I love this ticket…hoping to win a jackpot soon!! 🤞🙏🏼",
         "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1uz27af/167m_kentucky_powerball_lottery_winner_indicted/",
-        "timestamp": "2026-07-17T14:59:46.000Z",
+        "url": "https://reddit.com/r/Lottery/comments/1v0ehht/i_love_this_tickethoping_to_win_a_jackpot_soon/",
+        "timestamp": "2026-07-19T02:30:31.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
         "score": 1,
         "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v0ea3e",
+        "title": "Royal Jackpot: 🎰 400$",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1v0ea3e/royal_jackpot_400/",
+        "timestamp": "2026-07-19T02:20:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v0e8tm",
+        "title": "Royal Jackpot 🎰 Win all",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1v0e8tm/royal_jackpot_win_all/",
+        "timestamp": "2026-07-19T02:18:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v0dvz3",
+        "title": "$40 from a $1 Lucky 7 ticket",
+        "summary": "[Lucky 7 from New York Lottery](https://preview.redd.it/flcuwoiuf3eh1.jpg?width=4032&format=pjpg&auto=webp&s=bfe4456b1ce53ca36446d6b6093c84e0cfc65a7b)",
+        "url": "https://reddit.com/r/Lottery/comments/1v0dvz3/40_from_a_1_lucky_7_ticket/",
+        "timestamp": "2026-07-19T02:00:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v0da5t",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1v0da5t/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-07-19T01:30:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v08rqe",
+        "title": "Illinois lotto app shenanigans",
+        "summary": "So I’m one to think lotto is a waste of money. A scratcher every now and then is fun but don’t expect to win. Not necessarily a “scam” I believe the odds are legit, in the sense that when it says 1 in 3 fast play games online win… 1 in the ",
+        "url": "https://reddit.com/r/Lottery/comments/1v08rqe/illinois_lotto_app_shenanigans/",
+        "timestamp": "2026-07-18T22:04:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1v072gk",
+        "title": "Omg! I won! I won the Powerball!",
+        "summary": "Just practicing lol I’m honestly going to cry when I win.",
+        "url": "https://reddit.com/r/Lottery/comments/1v072gk/omg_i_won_i_won_the_powerball/",
+        "timestamp": "2026-07-18T20:52:43.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uzwldw",
+        "title": "Winner of historic $1.82B Powerball jackpot revealed as Arkansas mayor's little brother",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1uzwldw/winner_of_historic_182b_powerball_jackpot/",
+        "timestamp": "2026-07-18T13:56:46.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uzwhmo",
+        "title": "Mega set up perfectly for explosion?",
+        "summary": "It seems like this setup could finally be the perfect storm for Mega. If both continue to grow while Powerball grows faster and gets more sales allowing Mega to grow-- and someone wins Powerball first -- that could divert players into Mega ",
+        "url": "https://reddit.com/r/Lottery/comments/1uzwhmo/mega_set_up_perfectly_for_explosion/",
+        "timestamp": "2026-07-18T13:52:20.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uzptmk",
+        "title": "Football Squares pool...kinda like lotto",
+        "summary": "Hello  Newbie to Reddit, fumbling my way around. I'm very surprised and disappointed that I have been really unable to find a subreddit that fit what I'm here for my mind this one pretty close so I hope you won't forget me in advance suppos",
+        "url": "https://reddit.com/r/Lottery/comments/1uzptmk/football_squares_poolkinda_like_lotto/",
+        "timestamp": "2026-07-18T08:00:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "Dating club VIP membership, SUV lure cost salesman Rs 9.5L in cyber fraud",
+        "summary": "Bhopal salesman lost Rs 9.55 lakh to cyber fraudsters posing as a Delhi dating club, promising VIP membership and an SUV lucky draw; police probe underway.",
+        "url": "https://timesofindia.indiatimes.com/city/bhopal/dating-club-vip-membership-suv-lure-cost-salesman-rs-9-5l-in-cyber-fraud/articleshow/132468791.cms",
+        "timestamp": "2026-07-17T18:56:35Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1uz27af",
+        "title": "$167M Kentucky Powerball lottery winner indicted for 2025 hit-and-run",
+        "summary": "↑38 · 💬10",
+        "url": "https://reddit.com/r/Lottery/comments/1uz27af/167m_kentucky_powerball_lottery_winner_indicted/",
+        "timestamp": "2026-07-17T14:59:46.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 38,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -126,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 63,
+        "comments": 44,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 14,
+        "comments": 13,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -702,81 +867,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1uqb14d",
-        "title": "Why do Americans have to pay taxes on the Lottery?!?!",
-        "summary": "Okay, I already know the answer- because the government is greedy AF, but com'on, what do you think about this?  The Lottery itself IS a tax.  Then, the federal, state, and city governments want a cut.  Isn't that a little ridiculous?",
-        "url": "https://reddit.com/r/Lottery/comments/1uqb14d/why_do_americans_have_to_pay_taxes_on_the_lottery/",
-        "timestamp": "2026-07-07T22:59:53.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 18,
-        "comments": 15,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uq3u96",
-        "title": "Lottery Books in or Around Chicago, Illinois.",
-        "summary": "Hi! I hope everyone is well! Furthermore, I was trying to see if anyone knew where to buy lottery books in or around Chicago, preferably by the Northside of Chicago or around Forest Park, IL? Any suggestions are greatly appreciated as I am ",
-        "url": "https://reddit.com/r/Lottery/comments/1uq3u96/lottery_books_in_or_around_chicago_illinois/",
-        "timestamp": "2026-07-07T18:38:12.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1upxz76",
-        "title": "Why is the Powerball multiplier stuck at 2X?",
-        "summary": "For the past 10 draws, the 2X multiplier has come up. I can't recall it going on this long like this. Is there any reason why it hasn't been another number, or what?",
-        "url": "https://reddit.com/r/Lottery/comments/1upxz76/why_is_the_powerball_multiplier_stuck_at_2x/",
-        "timestamp": "2026-07-07T15:12:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1upu6pp",
-        "title": "What is your honest opinion on the Powerball expanding to the UK 🇬🇧",
-        "summary": "Personally I think it’s an insult to Americans and American lotto players, because the PB is supposed to be an AMERICAN play, not an international play. This will cause hysteria and rage among Americans because many will have that mindset w",
-        "url": "https://reddit.com/r/Lottery/comments/1upu6pp/what_is_your_honest_opinion_on_the_powerball/",
-        "timestamp": "2026-07-07T12:51:39.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 40,
-        "comments": 44,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1upksbw",
-        "title": "Powerball® launch set in the UK for July 21, first drawing to follow",
-        "summary": "“You bloody Americans always complain and don’t know how to have a smashing good time”    [https://www.powerball.com/powerball-launch-set-in-the-uk-for-july-21-first-drawing-to-follow](https://www.powerball.com/powerball-launch-set-in-the-u",
-        "url": "https://reddit.com/r/Lottery/comments/1upksbw/powerball_launch_set_in_the_uk_for_july_21_first/",
-        "timestamp": "2026-07-07T04:39:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "hn-lot-48630318",
         "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
         "summary": "190 pts · 93 comments",
@@ -793,17 +883,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 46,
-      "meSignals": 2,
+      "totalSignals": 52,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 43,
+        "HOPEFUL": 50,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 3
+        "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 7
+      "uncertaintyScore": 4
     }
   }
 }
