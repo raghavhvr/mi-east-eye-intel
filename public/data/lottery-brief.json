@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T05:11:33.840Z",
+  "generated_at": "2026-07-19T05:37:49.422Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Big Wins Ahead",
+  "dominantNarrative": "Winning big money",
   "keyEmotions": [
     "excitement",
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for life-changing wins and the thrill of taking risks, while also being influenced by concerns about fairness and trust in the lottery system. The hope of winning big is a powerful motivator, but it can also lead to disappointment and frustration when expectations are not met.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, which can create a sense of euphoria and hope. However, the presence of negative emotions such as frustration also suggests that some individuals may be experiencing disappointment or disillusionment with their own experiences with gambling.",
   "riskSignals": [
-    "disputes over winnings",
-    "unfair practices"
+    "cyber fraud",
+    "gambling addiction"
   ],
   "opportunitySignals": [
-    "innovative lottery formats",
-    "player-centric initiatives"
+    "lottery engagement",
+    "gaming entertainment"
   ]
 }

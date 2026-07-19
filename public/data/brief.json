@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-18T05:11:33.179Z",
+  "generated_at": "2026-07-19T05:37:48.844Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "Iran Israel Conflict",
-  "summary": "The situation between Iran and Israel is escalating with US involvement, and Tehran has warned of a potential full-scale offensive. The conflict may spread and involve other regional actors, posing a significant threat to regional stability.",
+  "threatLevel": "CRITICAL",
+  "topTheme": "US Iran Conflict",
+  "summary": "The US and Iran have exchanged strikes following an attack in Jordan, resulting in US troop casualties. The situation remains volatile with ongoing airstrikes and potential for further escalation.",
   "keyTrends": [
-    "Iranian Military Strategy",
-    "US Involvement",
-    "Regional Escalation"
+    "US Iran Tensions",
+    "Middle East Unrest",
+    "Global Security Implications"
   ],
   "watchItems": [
-    "US-Iran Relations",
-    "Israeli Military Operations"
+    "Jordan Security Situation",
+    "Iranian Missile Capabilities"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Escalating Conflict",
-    "US Strikes on Iran"
+    "Escalating Violence",
+    "Regional Instability"
   ]
 }
