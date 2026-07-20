@@ -1,106 +1,151 @@
 {
-  "generated_at": "2026-07-19T05:32:47.087Z",
+  "generated_at": "2026-07-20T05:50:47.927Z",
   "gdelt_tone": {
-    "UAE": -1.29,
-    "Saudi Arabia": -1.8,
-    "Qatar": -1.46,
-    "Kuwait": -4.39,
-    "Bahrain": -3.16,
-    "Oman": -2.94,
-    "Jordan": -3.82,
-    "Lebanon": -2.51,
-    "Iraq": -2.07,
-    "Egypt": -0.08,
-    "Yemen": -4.72,
-    "Iran": -4.26
+    "UAE": -1.23,
+    "Saudi Arabia": -1.81,
+    "Qatar": -1.31,
+    "Kuwait": -4.47,
+    "Bahrain": -3.11,
+    "Oman": -2.62,
+    "Jordan": -4.25,
+    "Lebanon": -2.5,
+    "Iraq": -2.16,
+    "Egypt": 0.04,
+    "Yemen": -4.68,
+    "Iran": -4.4
   },
   "weather": {
     "Qatar": {
-      "temp_c": 37,
-      "wind_kmh": 1,
+      "temp_c": 40,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Kuwait": {
-      "temp_c": 40,
-      "wind_kmh": 17,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Oman": {
-      "temp_c": 34,
-      "wind_kmh": 9,
-      "condition": "Clear",
+      "temp_c": 41,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
       "city": "Muscat"
+    },
+    "Saudi Arabia": {
+      "temp_c": 39,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Riyadh"
     },
     "Bahrain": {
       "temp_c": 38,
-      "wind_kmh": 4,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Manama"
     },
     "Jordan": {
-      "temp_c": 26,
-      "wind_kmh": 5,
+      "temp_c": 28,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Amman"
     },
+    "Iran": {
+      "temp_c": 34,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Kuwait": {
+      "temp_c": 40,
+      "wind_kmh": 25,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "UAE": {
+      "temp_c": 40,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
     "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 11,
+      "temp_c": 28,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "UAE": {
+    "Iraq": {
       "temp_c": 37,
       "wind_kmh": 7,
       "condition": "Clear",
-      "city": "Abu Dhabi"
+      "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 6,
-      "condition": "Clear",
+      "temp_c": 27,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 9,
+      "temp_c": 25,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Sanaa"
-    },
-    "Iraq": {
-      "temp_c": 36,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Iran": {
-      "temp_c": 34,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308852,
+    "KWD": 0.308639,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.546749,
-    "IQD": 1309.328454
+    "EGP": 50.773573,
+    "IQD": 1309.057533
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1v0yo86",
+        "title": "Count the small wins - Part 5",
+        "summary": "July 17th 2026. $5 turned into $30. Stay tuned for my journey to the jackpot. Remember 🔔, you can’t win if you don’t play. 🍀",
+        "url": "https://reddit.com/r/Lottery/comments/1v0yo86/count_the_small_wins_part_5/",
+        "timestamp": "2026-07-19T18:50:38.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v0us08",
+        "title": "Does anyone know about this platform?",
+        "summary": "Does anyone know about this platform? \\#Lottox#",
+        "url": "https://reddit.com/r/Lottery/comments/1v0us08/does_anyone_know_about_this_platform/",
+        "timestamp": "2026-07-19T16:18:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v0o17d",
+        "title": "Lotto America Jackpot Winner",
+        "summary": "Somebody in MN won.  I was going to stop in WV on my way to Columbus, OH, this coming Saturday for a chance.  $1 per chance and far better odds than PB and MM.  Darn.",
+        "url": "https://reddit.com/r/Lottery/comments/1v0o17d/lotto_america_jackpot_winner/",
+        "timestamp": "2026-07-19T11:25:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1v0ehht",
         "title": "I love this ticket…hoping to win a jackpot soon!! 🤞🙏🏼",
@@ -209,15 +254,15 @@
       {
         "id": "reddit-lot-1uzwldw",
         "title": "Winner of historic $1.82B Powerball jackpot revealed as Arkansas mayor's little brother",
-        "summary": "↑1 · 💬0",
+        "summary": "↑24 · 💬8",
         "url": "https://reddit.com/r/Lottery/comments/1uzwldw/winner_of_historic_182b_powerball_jackpot/",
         "timestamp": "2026-07-18T13:56:46.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 24,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 24,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,7 +291,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9u",
+        "title": "Winner of historic $1.82B Powerball jackpot revealed as Arkansas mayor’s little brother",
+        "summary": "The mystery winner of the historic $1.82 billion Powerball jackpot drawing on Christmas Eve has been unmasked as the younger brother of a Democrat mayor in Arkansas.",
+        "url": "https://nypost.com/2026/07/18/us-news/powerball-1-82-billion-jackpot-winner-revealed-as-arkansas-mayor-terry-hartwicks-brother/",
+        "timestamp": "2026-07-18T05:57:37Z",
+        "source": "New York Post",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -489,6 +549,21 @@
         "score": 1,
         "comments": 1,
         "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "hn-lot-48906844",
+        "title": "Show HN: I can't seem to text properly on an iPhone, so I built my own keyboard",
+        "summary": "3 pts · 1 comments",
+        "url": "https://news.ycombinator.com/item?id=48906844",
+        "timestamp": "2026-07-14T13:49:24.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 1,
+        "mood": "NEUTRAL",
         "isME": false
       },
       {
@@ -792,81 +867,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1us3pho",
-        "title": "Need some lucky numbers",
-        "summary": "I need some numbers for tomorrow at Euro Jackpot . I splitt the win with the lucky one . Thanks",
-        "url": "https://reddit.com/r/Lottery/comments/1us3pho/need_some_lucky_numbers/",
-        "timestamp": "2026-07-09T21:30:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1us0c76",
-        "title": "State-by-state ranking of the best and worst places for winning the lottery",
-        "summary": "↑6 · 💬4",
-        "url": "https://reddit.com/r/Lottery/comments/1us0c76/statebystate_ranking_of_the_best_and_worst_places/",
-        "timestamp": "2026-07-09T19:25:47.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1urtu52",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1urtu52/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-07-09T15:38:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1urc3ir",
-        "title": "Powerball Winning Numbers (Wednesday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1urc3ir/powerball_winning_numbers_wednesday/",
-        "timestamp": "2026-07-09T01:30:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ur4gv0",
-        "title": "Community shared play",
-        "summary": "Hi everyone, I want to play two single-ticket entries in an Italian lottery game. In this game, we have to choose 6 numbers between 1 and 90. Instead of picking the numbers myself, I thought it might be fun to let you choose. Write down a n",
-        "url": "https://reddit.com/r/Lottery/comments/1ur4gv0/community_shared_play/",
-        "timestamp": "2026-07-08T20:22:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "hn-lot-48630318",
         "title": "Show HN: Monolisa v3 – a typeface for developers and creatives",
         "summary": "190 pts · 93 comments",
@@ -886,14 +886,14 @@
       "totalSignals": 52,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 50,
+        "HOPEFUL": 48,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 2
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 4
+      "uncertaintyScore": 8
     }
   }
 }
