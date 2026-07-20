@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-19T05:37:48.844Z",
+  "generated_at": "2026-07-20T05:56:18.173Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "CRITICAL",
-  "topTheme": "US Iran Conflict",
-  "summary": "The US and Iran have exchanged strikes following an attack in Jordan, resulting in US troop casualties. The situation remains volatile with ongoing airstrikes and potential for further escalation.",
+  "threatLevel": "MODERATE",
+  "topTheme": "Middle East Conflict",
+  "summary": "The Middle East region is experiencing increased tensions due to conflict, which is affecting oil markets and causing travel disruptions. Regional instability is a concern, with protests and violence reported in various countries, including the US and South America, although some areas like Dubai are experiencing normalcy with World Cup events.",
   "keyTrends": [
-    "US Iran Tensions",
-    "Middle East Unrest",
-    "Global Security Implications"
+    "Oil Market Volatility",
+    "Regional Instability",
+    "Economic Investment"
   ],
   "watchItems": [
-    "Jordan Security Situation",
-    "Iranian Missile Capabilities"
+    "Kuwait and Bahrain flights",
+    "ICE killing protests"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating Violence",
-    "Regional Instability"
+    "Conflict escalation",
+    "Economic uncertainty"
   ]
 }

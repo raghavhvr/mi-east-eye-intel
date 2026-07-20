@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-19T05:37:49.422Z",
+  "generated_at": "2026-07-20T05:56:18.843Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning big money",
+  "dominantNarrative": "Winning big jackpot",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "frustration"
+    "greed"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, which can create a sense of euphoria and hope. However, the presence of negative emotions such as frustration also suggests that some individuals may be experiencing disappointment or disillusionment with their own experiences with gambling.",
+  "psychInsight": "The posts reveal a strong desire for financial windfalls, driven by the psychological appeal of easy money and the thrill of taking risks. The prevalence of winning announcements and jackpot discussions suggests a cultural fascination with luck and fortune.",
   "riskSignals": [
     "cyber fraud",
     "gambling addiction"
   ],
   "opportunitySignals": [
     "lottery engagement",
-    "gaming entertainment"
+    "gaming platform growth"
   ]
 }
