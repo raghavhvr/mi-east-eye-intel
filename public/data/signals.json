@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-07-20T05:50:47.927Z",
+  "generated_at": "2026-07-21T05:31:22.911Z",
   "gdelt_tone": {
-    "UAE": -1.23,
-    "Saudi Arabia": -1.81,
-    "Qatar": -1.31,
-    "Kuwait": -4.47,
-    "Bahrain": -3.11,
-    "Oman": -2.62,
-    "Jordan": -4.25,
-    "Lebanon": -2.5,
-    "Iraq": -2.16,
-    "Egypt": 0.04,
-    "Yemen": -4.68,
-    "Iran": -4.4
+    "UAE": -1.41,
+    "Saudi Arabia": -1.97,
+    "Qatar": -1.57,
+    "Kuwait": -4.4,
+    "Bahrain": -3.37,
+    "Oman": -2.37,
+    "Jordan": -4.45,
+    "Lebanon": -2.35,
+    "Iraq": -2.19,
+    "Egypt": 0.13,
+    "Yemen": -4.54,
+    "Iran": -4.51
   },
   "weather": {
-    "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Oman": {
-      "temp_c": 41,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Saudi Arabia": {
-      "temp_c": 39,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Bahrain": {
-      "temp_c": 38,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 28,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Iran": {
-      "temp_c": 34,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Kuwait": {
-      "temp_c": 40,
-      "wind_kmh": 25,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "UAE": {
-      "temp_c": 40,
-      "wind_kmh": 6,
+      "temp_c": 37,
+      "wind_kmh": 17,
       "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
-    "Lebanon": {
-      "temp_c": 28,
+    "Kuwait": {
+      "temp_c": 39,
+      "wind_kmh": 21,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Saudi Arabia": {
+      "temp_c": 37,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 20,
+      "condition": "Partly Cloudy",
+      "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 38,
+      "wind_kmh": 21,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 43,
       "wind_kmh": 7,
       "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Muscat"
     },
     "Iraq": {
       "temp_c": 37,
-      "wind_kmh": 7,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Egypt": {
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
       "temp_c": 27,
-      "wind_kmh": 9,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
+    "Iran": {
+      "temp_c": 30,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
     "Yemen": {
       "temp_c": 25,
-      "wind_kmh": 5,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Sanaa"
     }
@@ -92,15 +92,75 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308639,
+    "KWD": 0.309203,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.773573,
-    "IQD": 1309.057533
+    "EGP": 51.091837,
+    "IQD": 1309.009979
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1v242zt",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1v242zt/powerball_winning_numbers_monday/",
+        "timestamp": "2026-07-21T01:20:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v1yzhn",
+        "title": "Powerball and mega millions",
+        "summary": "No one in Illinois ever wins the Powerball, I wonder if that'll change. People in California are always winning both the Powerball and the mega millions",
+        "url": "https://reddit.com/r/Lottery/comments/1v1yzhn/powerball_and_mega_millions/",
+        "timestamp": "2026-07-20T21:42:43.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v1tmww",
+        "title": "Something to think about with Powerball numbers",
+        "summary": "**It would cost over $584 million to buy every possible Powerball combination. That's simply not practical.** **What if your goal was simply to cover all 69 white-ball numbers in a structured set of 14 tickets—and then use analytics to comp",
+        "url": "https://reddit.com/r/Lottery/comments/1v1tmww/something_to_think_about_with_powerball_numbers/",
+        "timestamp": "2026-07-20T18:25:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Winner of nearly $2 BILLION lottery jackpot is embattled Arkansas mayor's brother",
+        "summary": "North Little Rock Mayor Terry Hartwick was investigated earlier this year after he was accused of inappropriate behavior at a high school choir concert.",
+        "url": "https://www.dailymail.com/news/article-15987163/lottery-jackpot-arkansas-mayor-brother-terry-hartwick.html",
+        "timestamp": "2026-07-20T00:36:56Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1v0yo86",
         "title": "Count the small wins - Part 5",
@@ -141,37 +201,37 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 29,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1v0ehht",
         "title": "I love this ticket…hoping to win a jackpot soon!! 🤞🙏🏼",
-        "summary": "↑1 · 💬0",
+        "summary": "↑16 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1v0ehht/i_love_this_tickethoping_to_win_a_jackpot_soon/",
         "timestamp": "2026-07-19T02:30:31.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 16,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1v0ea3e",
         "title": "Royal Jackpot: 🎰 400$",
-        "summary": "↑1 · 💬0",
+        "summary": "↑20 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1v0ea3e/royal_jackpot_400/",
         "timestamp": "2026-07-19T02:20:05.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 20,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -179,15 +239,15 @@
       {
         "id": "reddit-lot-1v0e8tm",
         "title": "Royal Jackpot 🎰 Win all",
-        "summary": "↑1 · 💬0",
+        "summary": "↑30 · 💬3",
         "url": "https://reddit.com/r/Lottery/comments/1v0e8tm/royal_jackpot_win_all/",
         "timestamp": "2026-07-19T02:18:17.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 30,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,7 +261,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 6,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -209,14 +269,14 @@
       {
         "id": "reddit-lot-1v0da5t",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑3 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1v0da5t/powerball_winning_numbers_saturday/",
         "timestamp": "2026-07-19T01:30:11.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 3,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -231,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": true
       },
@@ -246,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -797,66 +857,6 @@
         "summary": "Hello there! I’m looking for people who would mail me lottery tickets. The more you can send me the better. Please DM me if you’re interested, I’d be very grateful. I am willing to reimburse for shipping or negotiate additional payment for ",
         "url": "https://reddit.com/r/Lottery/comments/1utpird/iso_lottery_tickets/",
         "timestamp": "2026-07-11T17:04:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Former milkman wins £4m mansion in prize draw",
-        "summary": "David Roper, from Rotherham, says the win has \"changed everything\" for him and his family.",
-        "url": "https://www.bbc.co.uk/news/articles/cvgmdr4388eo",
-        "timestamp": "2026-07-11T13:47:02Z",
-        "source": "BBC News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ut0yx6",
-        "title": "Powerball growing much slower even with the expanssion",
-        "summary": "I feel like something isn't adding up. The Powerball jackpot has been growing unusually slowly, even after the game expanded. And the explanation for Mega Millions raising ticket prices doesn't make sense either—it seems to have had the opp",
-        "url": "https://reddit.com/r/Lottery/comments/1ut0yx6/powerball_growing_much_slower_even_with_the/",
-        "timestamp": "2026-07-10T21:35:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 28,
-        "comments": 19,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1ustwig",
-        "title": "Another Texas Lottery $20 million dollar scratch off ticket in the future?",
-        "summary": "Since someone recently won the last $20 million dollar scratch off ticket & now they will be closing out that ticket. Do you think that Texas Lottery will ever release another $20 million dollar scratch off ticket in the future?",
-        "url": "https://reddit.com/r/Lottery/comments/1ustwig/another_texas_lottery_20_million_dollar_scratch/",
-        "timestamp": "2026-07-10T17:16:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1usi3q0",
-        "title": "EuroJackpot: why random number selection puts you in the wrong 90% of combinations",
-        "summary": "Most players pick randomly. The data suggests this is      a mistake — not because any numbers are \"luckier,\"      but because the distribution of drawn combinations      follows a consistent statistical pattern.          2/2 draws this mon",
-        "url": "https://reddit.com/r/Lottery/comments/1usi3q0/eurojackpot_why_random_number_selection_puts_you/",
-        "timestamp": "2026-07-10T08:56:17.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
