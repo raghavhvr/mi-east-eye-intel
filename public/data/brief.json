@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-21T05:36:51.168Z",
+  "generated_at": "2026-07-22T05:35:26.080Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Travel Disruptions",
-  "summary": "The region is experiencing minor travel disruptions due to flight cancellations, but overall stability remains unchanged. Ongoing discussions about cultural and historical topics dominate online forums, with no significant security concerns emerging.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "Recent blasts in Iran's Bushehr province and US attacks in Hormozgan have raised concerns, while other regional news remains relatively calm. The situation is being closely monitored for potential escalation or impact on regional stability",
   "keyTrends": [
-    "Flight Cancellations",
-    "Cultural Discussions",
-    "Regional Sports News"
+    "Iran-US Tensions",
+    "Regional Security",
+    "Social Media Restrictions"
   ],
   "watchItems": [
-    "UAE-Kuwait Flight Disruptions",
-    "Regional Security Developments"
+    "Iran-US Conflict",
+    "Lebanon Situation"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Lack of Significant Security Threats",
-    "Regional Sports News"
+    "Regional Instability",
+    "Global Politics"
   ]
 }

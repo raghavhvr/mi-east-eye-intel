@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-21T05:36:51.645Z",
+  "generated_at": "2026-07-22T05:35:26.811Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 70,
-    "neutral": 20,
+    "positive": 60,
+    "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Winning big jackpot",
+  "dominantNarrative": "Winning Big",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "euphoria"
+    "greed"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts. The posts also reveal a sense of community and shared experience among individuals participating in lottery games.",
+  "psychInsight": "The public is driven by the desire for instant wealth and the thrill of taking risks, with the lottery serving as a means to escape financial struggles and achieve a better life. The psychology of social proof also plays a role, as people are influenced by stories of others winning and feel more inclined to participate.",
   "riskSignals": [
-    "gambling addiction",
-    "financial loss"
+    "over-spending",
+    "addiction"
   ],
   "opportunitySignals": [
-    "entertainment value",
-    "social engagement"
+    "new markets",
+    "innovative games"
   ]
 }
