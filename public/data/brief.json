@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-22T05:35:26.080Z",
+  "generated_at": "2026-07-23T05:40:09.962Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "Recent blasts in Iran's Bushehr province and US attacks in Hormozgan have raised concerns, while other regional news remains relatively calm. The situation is being closely monitored for potential escalation or impact on regional stability",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Security",
+  "summary": "The majority of headlines are unrelated to regional security, but an IRGC claim of attacks on US army facilities in Kuwait is notable. Overall, the situation remains stable with no indication of imminent escalation",
   "keyTrends": [
-    "Iran-US Tensions",
-    "Regional Security",
-    "Social Media Restrictions"
+    "IRGC claims",
+    "Regional stability",
+    "Vaping concerns"
   ],
   "watchItems": [
-    "Iran-US Conflict",
-    "Lebanon Situation"
+    "IRGC activities",
+    "Kuwait-US relations"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Global Politics"
+    "Regional tensions",
+    "IRGC claims"
   ]
 }

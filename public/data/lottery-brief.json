@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-22T05:35:26.811Z",
+  "generated_at": "2026-07-23T05:40:10.908Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Winning big someday",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "greed"
+    "frustration"
   ],
-  "psychInsight": "The public is driven by the desire for instant wealth and the thrill of taking risks, with the lottery serving as a means to escape financial struggles and achieve a better life. The psychology of social proof also plays a role, as people are influenced by stories of others winning and feel more inclined to participate.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, which can lead to impulsive decisions and a lack of financial planning. The lottery's unpredictable nature fuels a mix of emotions, from hope to frustration, as individuals experience near-misses and unfulfilled expectations.",
   "riskSignals": [
-    "over-spending",
-    "addiction"
+    "financial recklessness",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "new markets",
-    "innovative games"
+    "innovative lottery products",
+    "financial literacy programs"
   ]
 }
