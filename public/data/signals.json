@@ -1,106 +1,166 @@
 {
-  "generated_at": "2026-07-23T05:36:16.276Z",
+  "generated_at": "2026-07-24T05:31:15.553Z",
   "gdelt_tone": {
-    "UAE": -0.69,
-    "Saudi Arabia": -1.64,
-    "Qatar": -1.96,
-    "Kuwait": -4.55,
-    "Bahrain": -3.44,
-    "Oman": -1.79,
-    "Jordan": -4.39,
-    "Lebanon": -2.04,
-    "Iraq": -2.53,
-    "Egypt": 0.41,
-    "Yemen": -4.44,
-    "Iran": -4.51
+    "UAE": -0.36,
+    "Saudi Arabia": -1.53,
+    "Qatar": -2,
+    "Kuwait": -4.46,
+    "Bahrain": -3.22,
+    "Oman": -1.41,
+    "Jordan": -4.14,
+    "Lebanon": -2.08,
+    "Iraq": -2.46,
+    "Egypt": 0.35,
+    "Yemen": -4.45,
+    "Iran": -4.44
   },
   "weather": {
+    "Saudi Arabia": {
+      "temp_c": 37,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 39,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Kuwait": {
       "temp_c": 39,
-      "wind_kmh": 15,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Bahrain": {
-      "temp_c": 39,
-      "wind_kmh": 13,
+      "temp_c": 38,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Manama"
     },
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 12,
+      "temp_c": 36,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
-      "temp_c": 28,
-      "wind_kmh": 15,
+      "temp_c": 29,
+      "wind_kmh": 23,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 27,
-      "wind_kmh": 12,
+      "temp_c": 25,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Amman"
-    },
-    "Iran": {
-      "temp_c": 28,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 21,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Sanaa"
     },
     "Iraq": {
       "temp_c": 37,
       "wind_kmh": 9,
       "condition": "Clear",
       "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 31,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309371,
+    "KWD": 0.309508,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.31416,
-    "IQD": 1310.110766
+    "EGP": 51.308541,
+    "IQD": 1310.00185
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1v4p297",
+        "title": "I tracked 18,086 scratch-off top-prize claims across 3,871 games. 72% of top prizes are gone before a game is halfway through its life — and 24% are never won at all.",
+        "summary": "I've been collecting scratch-off prize data daily from official state lottery sites since 2011 (40+ states). For this analysis I took the 3,871 games where I could observe the complete lifecycle — launch to final day, weekly resolution — an",
+        "url": "https://reddit.com/r/Lottery/comments/1v4p297/i_tracked_18086_scratchoff_topprize_claims_across/",
+        "timestamp": "2026-07-23T20:04:57.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v4hfuj",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1v4hfuj/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-07-23T15:38:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v4fnfw",
+        "title": "Eurodreams Jackpot",
+        "summary": "Has anyone ever won a jackpot in this on the app ? If so do you have a screenshot of what it looks like when you win it ?",
+        "url": "https://reddit.com/r/Lottery/comments/1v4fnfw/eurodreams_jackpot/",
+        "timestamp": "2026-07-23T14:32:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v4fmb4",
+        "title": "Has anyone ever won a jackpot in this on the app ? If so do you have a screenshot of what it looks like when you win it ?",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1v4fmb4/has_anyone_ever_won_a_jackpot_in_this_on_the_app/",
+        "timestamp": "2026-07-23T14:31:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1v43yl8",
         "title": "Powerball UK Results",
@@ -231,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 48,
+        "comments": 18,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 69,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -269,15 +329,15 @@
       {
         "id": "reddit-lot-1v33czx",
         "title": "Do you know. New York is worst states for winners. Has sold 42 jackpot winning mega millions tickets since 2022.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬5",
         "url": "https://reddit.com/r/Lottery/comments/1v33czx/do_you_know_new_york_is_worst_states_for_winners/",
         "timestamp": "2026-07-22T02:41:55.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -306,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 17,
+        "comments": 27,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -321,8 +381,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 12,
+        "comments": 16,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -336,23 +396,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 227,
+        "comments": 17,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1v2s2cy",
         "title": "A UK winner of Powerball will be taxed",
-        "summary": "↑1 · 💬0",
+        "summary": "↑18 · 💬12",
         "url": "https://reddit.com/r/Lottery/comments/1v2s2cy/a_uk_winner_of_powerball_will_be_taxed/",
         "timestamp": "2026-07-21T19:09:26.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 18,
+        "comments": 12,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -852,21 +912,6 @@
         "isME": true
       },
       {
-        "id": "reddit-lot-1uxpypy",
-        "title": "Thank you to the person who left $3 in a lottery vending machine",
-        "summary": "It might not be much, but this is one of my more enjoyable wins. Even though I have had larger wins on $10 scratchers.  But to put my last dollar in (for what I had in cash), this was a nice win for a free $3 scratcher.  I'm a bit surprised",
-        "url": "https://reddit.com/r/Lottery/comments/1uxpypy/thank_you_to_the_person_who_left_3_in_a_lottery/",
-        "timestamp": "2026-07-16T02:22:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 43,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Mega Millions jackpot reaches $637M: July 14 drawing details",
         "summary": "Do you have the winning numbers? The Mega Millions prize has grown to more than half a billion dollars. See the latest details.",
@@ -895,80 +940,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1uwn1qs",
-        "title": "How Did Draw #83 Have a Jackpot Winner?",
-        "summary": "Hi everyone. I have one question. Draw #83 had 1 jackpot winner. The winning numbers were: 6 - 10 - 39 - 44 - 34 - 23 The previous draws were: \\#82: 46 - 2 - 33 - 29 - 35 - 14 \\#81: 46 - 36 - 38 - 31 - 4 - 11 \\#80: 14 - 44 - 5 - 46 - 30 - 1",
-        "url": "https://reddit.com/r/Lottery/comments/1uwn1qs/how_did_draw_83_have_a_jackpot_winner/",
-        "timestamp": "2026-07-14T22:11:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uwmsqv",
-        "title": "Another Royal Win…",
-        "summary": "Taking the winnings from my last [Royal Win](https://www.reddit.com/r/Lottery/s/v21EuzAHJ7) and get another shot.  (Yes, Yes, I scratch the whole thing 🥴)",
-        "url": "https://reddit.com/r/Lottery/comments/1uwmsqv/another_royal_win/",
-        "timestamp": "2026-07-14T22:01:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 44,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uwiq7b",
-        "title": "What do you think of a  lottery where you buy once and stay eligible for every future jackpot? 🤔\nLottery Token (LOT) -Worth checking out?\n-Lottery Token",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1uwiq7b/what_do_you_think_of_a_lottery_where_you_buy_once/",
-        "timestamp": "2026-07-14T19:29:33.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-48906844",
-        "title": "Show HN: I can't seem to text properly on an iPhone, so I built my own keyboard",
-        "summary": "3 pts · 1 comments",
-        "url": "https://news.ycombinator.com/item?id=48906844",
-        "timestamp": "2026-07-14T13:49:24.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 1,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 57,
+      "totalSignals": 56,
       "meSignals": 3,
       "moodDist": {
         "HOPEFUL": 50,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 4
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 12
+      "uncertaintyScore": 11
     }
   }
 }
