@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-23T05:40:09.962Z",
+  "generated_at": "2026-07-24T05:36:36.054Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Security",
-  "summary": "The majority of headlines are unrelated to regional security, but an IRGC claim of attacks on US army facilities in Kuwait is notable. Overall, the situation remains stable with no indication of imminent escalation",
+  "threatLevel": "ELEVATED",
+  "topTheme": "Iran US Conflict",
+  "summary": "Iran's attacks on US army facilities in Bahrain and Jordan have escalated tensions in the region, with potential implications for global security. The situation is being closely monitored, with the US defence bill and Malaysia's stance on Israel adding to the complexity of the issue.",
   "keyTrends": [
-    "IRGC claims",
-    "Regional stability",
-    "Vaping concerns"
+    "US Iran Relations",
+    "Middle East Security",
+    "Israel Diplomacy"
   ],
   "watchItems": [
-    "IRGC activities",
-    "Kuwait-US relations"
+    "Iran's military movements",
+    "US Israel relations"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional tensions",
-    "IRGC claims"
+    "Regional instability",
+    "Escalating conflicts"
   ]
 }
