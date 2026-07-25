@@ -1,106 +1,181 @@
 {
-  "generated_at": "2026-07-24T05:31:15.553Z",
+  "generated_at": "2026-07-25T05:25:29.859Z",
   "gdelt_tone": {
-    "UAE": -0.36,
-    "Saudi Arabia": -1.53,
-    "Qatar": -2,
-    "Kuwait": -4.46,
-    "Bahrain": -3.22,
-    "Oman": -1.41,
+    "UAE": -0.34,
+    "Saudi Arabia": -1.6,
+    "Qatar": -1.75,
+    "Kuwait": -4.42,
+    "Bahrain": -3.43,
+    "Oman": -1.25,
     "Jordan": -4.14,
-    "Lebanon": -2.08,
-    "Iraq": -2.46,
-    "Egypt": 0.35,
-    "Yemen": -4.45,
-    "Iran": -4.44
+    "Lebanon": -2.04,
+    "Iraq": -2.58,
+    "Egypt": 0.29,
+    "Yemen": -4.54,
+    "Iran": -4.36
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 3,
+      "temp_c": 36,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
-      "temp_c": 38,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Oman": {
-      "temp_c": 36,
+      "temp_c": 34,
       "wind_kmh": 11,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Lebanon": {
-      "temp_c": 29,
-      "wind_kmh": 23,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Iraq": {
+    "Bahrain": {
       "temp_c": 37,
       "wind_kmh": 9,
       "condition": "Clear",
+      "city": "Manama"
+    },
+    "Kuwait": {
+      "temp_c": 38,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 37,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Jordan": {
+      "temp_c": 21,
+      "wind_kmh": 18,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 35,
+      "wind_kmh": 5,
+      "condition": "Clear",
       "city": "Baghdad"
+    },
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 21,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Egypt": {
       "temp_c": 27,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Cairo"
+    },
+    "Iran": {
+      "temp_c": 33,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Tehran"
     },
     "Yemen": {
       "temp_c": 23,
-      "wind_kmh": 7,
+      "wind_kmh": 2,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 31,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309508,
+    "KWD": 0.309852,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.308541,
-    "IQD": 1310.00185
+    "EGP": 51.32571,
+    "IQD": 1309.998243
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1v5wo2h",
+        "title": "A $1 Lotto America ticket from a Holiday gas station in Coon Rapids hit all six numbers on July 18. The anonymous winner’s 20-year winning strategy? He buys it, his wife touches it for luck. It finally worked.",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1v5wo2h/a_1_lotto_america_ticket_from_a_holiday_gas/",
+        "timestamp": "2026-07-25T03:17:14.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v5uknl",
+        "title": "Same Kroger Machine",
+        "summary": "I went to the Kroger by my house and saw that they had restocked the lottery machine that I won $1000 on last night. So I proceeded to buy 2 more of the $100 tickets. I hit on both, $100 and $1000 omgggg!  I turned $200 into $1100.",
+        "url": "https://reddit.com/r/Lottery/comments/1v5uknl/same_kroger_machine/",
+        "timestamp": "2026-07-25T01:38:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v5p4fk",
+        "title": "Neon jackpot",
+        "summary": "Grabbed one of these for my fist time two weeks ago . Lost the whole $10 . Got another today, finally got something exciting!",
+        "url": "https://reddit.com/r/Lottery/comments/1v5p4fk/neon_jackpot/",
+        "timestamp": "2026-07-24T21:46:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v5p10o",
+        "title": "I love to see other people’s winner stories. It honestly motivates me to keep playing.",
+        "summary": "I won just by waking up this morning to have another chance at life. It gets even better. I won the Powerball Ga Lottery Jackpot. I speak into past tense because I know it’s coming. It’s not a matter of if but when. Action steps are taken t",
+        "url": "https://reddit.com/r/Lottery/comments/1v5p10o/i_love_to_see_other_peoples_winner_stories_it/",
+        "timestamp": "2026-07-24T21:42:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 8,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v52pae",
+        "title": "Leave it to California Lottery to make you feel like you lost when you win.",
+        "summary": "This is a new low for CA Scratchers. Is this how they are able to claim 1 in 3.72 is a winner? Because we all know the odds they give are a lie.",
+        "url": "https://reddit.com/r/Lottery/comments/1v52pae/leave_it_to_california_lottery_to_make_you_feel/",
+        "timestamp": "2026-07-24T05:59:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1v4p297",
         "title": "I tracked 18,086 scratch-off top-prize claims across 3,871 games. 72% of top prizes are gone before a game is halfway through its life — and 24% are never won at all.",
@@ -126,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 10,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -149,7 +224,7 @@
       {
         "id": "reddit-lot-1v4fmb4",
         "title": "Has anyone ever won a jackpot in this on the app ? If so do you have a screenshot of what it looks like when you win it ?",
-        "summary": "↑1 · 💬0",
+        "summary": "↑1 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1v4fmb4/has_anyone_ever_won_a_jackpot_in_this_on_the_app/",
         "timestamp": "2026-07-23T14:31:30.000Z",
         "source": "r/lottery",
@@ -157,7 +232,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,7 +291,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -231,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 46,
+        "comments": 7,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -246,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
-        "comments": 0,
+        "score": 90,
+        "comments": 33,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -261,22 +336,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 13,
         "mood": "ANXIOUS",
         "isME": false
       },
       {
         "id": "reddit-lot-1v3q84y",
         "title": "Urge Governor Abbott to recover stolen Texas lottery funds",
-        "summary": "↑1 · 💬0",
+        "summary": "↑7 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1v3q84y/urge_governor_abbott_to_recover_stolen_texas/",
         "timestamp": "2026-07-22T19:22:53.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 7,
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
@@ -747,21 +822,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1uzptmk",
-        "title": "Football Squares pool...kinda like lotto",
-        "summary": "Hello  Newbie to Reddit, fumbling my way around. I'm very surprised and disappointed that I have been really unable to find a subreddit that fit what I'm here for my mind this one pretty close so I hope you won't forget me in advance suppos",
-        "url": "https://reddit.com/r/Lottery/comments/1uzptmk/football_squares_poolkinda_like_lotto/",
-        "timestamp": "2026-07-18T08:00:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9u",
         "title": "Winner of historic $1.82B Powerball jackpot revealed as Arkansas mayor’s little brother",
         "summary": "The mystery winner of the historic $1.82 billion Powerball jackpot drawing on Christmas Eve has been unmasked as the younger brother of a Democrat mayor in Arkansas.",
@@ -792,66 +852,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1uz27af",
-        "title": "$167M Kentucky Powerball lottery winner indicted for 2025 hit-and-run",
-        "summary": "↑38 · 💬10",
-        "url": "https://reddit.com/r/Lottery/comments/1uz27af/167m_kentucky_powerball_lottery_winner_indicted/",
-        "timestamp": "2026-07-17T14:59:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 38,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uyr7nd",
-        "title": "Title: My $1,000 scratcher win disappeared because I let my brother redeem it. Am I completely screwed?",
-        "summary": "I bought a California scratcher today and somehow hit for $1,000. I was absolutely pumped. Still riding the adrenaline, I called my brother to tell him. He plays scratchers all the time, so I knew he'd appreciate the news. We started talkin",
-        "url": "https://reddit.com/r/Lottery/comments/1uyr7nd/title_my_1000_scratcher_win_disappeared_because_i/",
-        "timestamp": "2026-07-17T06:02:20.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 63,
-        "comments": 44,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uymwq5",
-        "title": "At what point is it announced if there was a winner on Powerball?",
-        "summary": "I’ve asked AI the night of and it said “no” and the next morning it changes its answer and it says “yes there was a winner” so my question is, what is the official time it is announced if there is a winner or not, and what website do you ch",
-        "url": "https://reddit.com/r/Lottery/comments/1uymwq5/at_what_point_is_it_announced_if_there_was_a/",
-        "timestamp": "2026-07-17T02:25:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uybvvm",
-        "title": "Would you hire a lawyer?",
-        "summary": "If you won the lottery, what amount would make you hire a lawyer? Is it a safer option to hire a lawyer if your win is in the millions?",
-        "url": "https://reddit.com/r/Lottery/comments/1uybvvm/would_you_hire_a_lawyer/",
-        "timestamp": "2026-07-16T18:56:57.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 13,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Boost for players as National Lottery reduces number of balls in draw",
         "summary": "A new Lotto draw will also take place on Mondays, as well as Wednesdays and Saturdays",
@@ -863,21 +863,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uy6csp",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1uy6csp/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-07-16T15:38:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -910,43 +895,13 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Mega Millions jackpot reaches $637M: July 14 drawing details",
-        "summary": "Do you have the winning numbers? The Mega Millions prize has grown to more than half a billion dollars. See the latest details.",
-        "url": "https://www.usatoday.com/story/money/lottery/2026/07/14/mega-millions-july-14-2026-winning-numbers/90923333007/",
-        "timestamp": "2026-07-15T01:15:27Z",
-        "source": "USA Today",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Haiku gets NetBSD’s NVMM, beta 6 release planned for August",
-        "summary": "Haiku has another buy month of development activity to detail, and there’s a big ticket item this time, even if the developers themselves don’t consider it so. The thing that should be the biggest news item this month is that the GSoC 2024 work to port “NVMM”…",
-        "url": "https://www.osnews.com/story/145519/haiku-gets-netbsds-nvmm-beta-6-release-planned-for-august/",
-        "timestamp": "2026-07-14T23:09:55Z",
-        "source": "Osnews.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       }
     ],
     "meta": {
-      "totalSignals": 56,
-      "meSignals": 3,
+      "totalSignals": 53,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 50,
+        "HOPEFUL": 47,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 3
