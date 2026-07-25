@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T05:36:36.607Z",
+  "generated_at": "2026-07-25T05:30:34.835Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Winning big changes lives",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Frustration"
+    "excitement",
+    "optimism",
+    "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with optimism and excitement fueling their hopes. However, frustration and skepticism also emerge due to the low odds of winning and concerns about the lottery system's integrity.",
+  "psychInsight": "The public's reactions are driven by a mix of optimism and frustration, with the desire for a life-changing win fueling their engagement with lottery games. The anonymity of winners and the perceived luck involved also contribute to the allure and mystique of these games.",
   "riskSignals": [
-    "Unrealistic expectations",
-    "Financial desperation"
+    "unrealistic expectations",
+    "financial strain"
   ],
   "opportunitySignals": [
-    "Engagement with lottery games",
-    "Growing interest in jackpot wins"
+    "increased engagement",
+    "loyal customer base"
   ]
 }

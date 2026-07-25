@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-24T05:36:36.054Z",
-  "model": "groq/llama-3.3-70b-versatile",
+  "generated_at": "2026-07-25T05:30:34.092Z",
+  "model": "keyword-fallback",
   "threatLevel": "ELEVATED",
-  "topTheme": "Iran US Conflict",
-  "summary": "Iran's attacks on US army facilities in Bahrain and Jordan have escalated tensions in the region, with potential implications for global security. The situation is being closely monitored, with the US defence bill and Malaysia's stance on Israel adding to the complexity of the issue.",
+  "topTheme": "Regional Security",
+  "summary": "Regional signals indicate elevated activity with focus on regional security. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "US Iran Relations",
-    "Middle East Security",
-    "Israel Diplomacy"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Iran's military movements",
-    "US Israel relations"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional instability",
-    "Escalating conflicts"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }
