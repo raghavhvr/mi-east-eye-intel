@@ -1,89 +1,71 @@
 {
-  "generated_at": "2026-07-25T05:25:29.859Z",
+  "generated_at": "2026-07-26T05:42:58.986Z",
   "gdelt_tone": {
-    "UAE": -0.34,
-    "Saudi Arabia": -1.6,
-    "Qatar": -1.75,
-    "Kuwait": -4.42,
-    "Bahrain": -3.43,
-    "Oman": -1.25,
-    "Jordan": -4.14,
-    "Lebanon": -2.04,
-    "Iraq": -2.58,
-    "Egypt": 0.29,
-    "Yemen": -4.54,
-    "Iran": -4.36
+    "UAE": -0.13,
+    "Saudi Arabia": -1.8,
+    "Qatar": -1.61,
+    "Kuwait": -4.04,
+    "Bahrain": -3.13,
+    "Oman": -1.26,
+    "Jordan": -3.93,
+    "Lebanon": -1.98,
+    "Iraq": -2.69,
+    "Egypt": 0.23,
+    "Yemen": -4.68,
+    "Iran": -4.2
   },
   "weather": {
-    "Saudi Arabia": {
+    "UAE": {
       "temp_c": 36,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Oman": {
-      "temp_c": 34,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Manama"
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
     },
     "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 12,
+      "temp_c": 37,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Kuwait City"
     },
+    "Saudi Arabia": {
+      "temp_c": 36,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "Qatar": {
       "temp_c": 37,
-      "wind_kmh": 6,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Doha"
     },
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Jordan": {
-      "temp_c": 21,
-      "wind_kmh": 18,
+    "Oman": {
+      "temp_c": 33,
+      "wind_kmh": 12,
       "condition": "Partly Cloudy",
-      "city": "Amman"
+      "city": "Muscat"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Manama"
     },
     "Iraq": {
       "temp_c": 35,
-      "wind_kmh": 5,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Lebanon": {
-      "temp_c": 28,
-      "wind_kmh": 21,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 33,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
     "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 2,
+      "temp_c": 22,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     }
@@ -92,15 +74,120 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309852,
+    "KWD": 0.309777,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.32571,
-    "IQD": 1309.998243
+    "EGP": 51.331955,
+    "IQD": 1309.992778
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1v6t9ua",
+        "title": "Why always me? Looks like i am doomed to never win even Match 5",
+        "summary": "So I buy WA Powerball every draw, today I was caught up in some work and missed the draw. Guess what, boom, somebody matched 5!!",
+        "url": "https://reddit.com/r/Lottery/comments/1v6t9ua/why_always_me_looks_like_i_am_doomed_to_never_win/",
+        "timestamp": "2026-07-26T04:14:00.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v6pxx1",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1v6pxx1/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-07-26T01:30:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "hn-lot-49049693",
+        "title": "Show HN: Brolly, a plain-text weather forecast site",
+        "summary": "161 pts · 48 comments",
+        "url": "https://brolly.sh/forecast/RWFP2qW8",
+        "timestamp": "2026-07-25T17:34:34.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 161,
+        "comments": 48,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v6bfrp",
+        "title": "Activating books and jackpots",
+        "summary": "I was just wondering on the lottery website when I switches from let's say 5 of 6 jackpots remaining to 4 of 6 jackpots remaining does this stat change on the website when someone physically claims the prize from the lottery office? Or does",
+        "url": "https://reddit.com/r/Lottery/comments/1v6bfrp/activating_books_and_jackpots/",
+        "timestamp": "2026-07-25T15:33:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v69yor",
+        "title": "Nice little Florida Lottery BOOM 🤑",
+        "summary": "$100 on $50 and $100 $20",
+        "url": "https://reddit.com/r/Lottery/comments/1v69yor/nice_little_florida_lottery_boom/",
+        "timestamp": "2026-07-25T14:31:51.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v68t3x",
+        "title": "Millionaire for Life",
+        "summary": "It's now been 152 drawings of the Millionaire for Life game, and there has been 2 grand prize winners, and 5 second place winners. Does anyone else find this odd? Must not be as many people playing this game. I give to the end of the year b",
+        "url": "https://reddit.com/r/Lottery/comments/1v68t3x/millionaire_for_life/",
+        "timestamp": "2026-07-25T13:44:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1v62oqp",
+        "title": "Four big Jackpots in Texas at the same time!",
+        "summary": "This is the first time that I can remember seeing all four of these Jackpots being big at the same time! 💵",
+        "url": "https://reddit.com/r/Lottery/comments/1v62oqp/four_big_jackpots_in_texas_at_the_same_time/",
+        "timestamp": "2026-07-25T08:34:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1v5wo2h",
         "title": "A $1 Lotto America ticket from a Holiday gas station in Coon Rapids hit all six numbers on July 18. The anonymous winner’s 20-year winning strategy? He buys it, his wife touches it for luck. It finally worked.",
@@ -162,6 +249,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "UK Powerball Jackpots Look Smaller—Here Is The Tax Reason Why",
+        "summary": "UK Powerball's £300M jackpot looks smaller than the US's $567M, but it's not the exchange rate. The UK figure is after tax—and the US number never has been.",
+        "url": "https://www.forbes.com/sites/nathangoldman/2026/07/24/uk-powerball-jackpots-look-smaller-here-is-the-tax-reason-why/",
+        "timestamp": "2026-07-24T13:53:47Z",
+        "source": "Forbes",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1v52pae",
         "title": "Leave it to California Lottery to make you feel like you lost when you win.",
         "summary": "This is a new low for CA Scratchers. Is this how they are able to claim 1 in 3.72 is a winner? Because we all know the odds they give are a lie.",
@@ -186,8 +288,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 19,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -657,171 +759,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1v0us08",
-        "title": "Does anyone know about this platform?",
-        "summary": "Does anyone know about this platform? \\#Lottox#",
-        "url": "https://reddit.com/r/Lottery/comments/1v0us08/does_anyone_know_about_this_platform/",
-        "timestamp": "2026-07-19T16:18:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v0o17d",
-        "title": "Lotto America Jackpot Winner",
-        "summary": "Somebody in MN won.  I was going to stop in WV on my way to Columbus, OH, this coming Saturday for a chance.  $1 per chance and far better odds than PB and MM.  Darn.",
-        "url": "https://reddit.com/r/Lottery/comments/1v0o17d/lotto_america_jackpot_winner/",
-        "timestamp": "2026-07-19T11:25:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v0ehht",
-        "title": "I love this ticket…hoping to win a jackpot soon!! 🤞🙏🏼",
-        "summary": "↑16 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1v0ehht/i_love_this_tickethoping_to_win_a_jackpot_soon/",
-        "timestamp": "2026-07-19T02:30:31.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 16,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v0ea3e",
-        "title": "Royal Jackpot: 🎰 400$",
-        "summary": "↑20 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1v0ea3e/royal_jackpot_400/",
-        "timestamp": "2026-07-19T02:20:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 20,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v0e8tm",
-        "title": "Royal Jackpot 🎰 Win all",
-        "summary": "↑30 · 💬3",
-        "url": "https://reddit.com/r/Lottery/comments/1v0e8tm/royal_jackpot_win_all/",
-        "timestamp": "2026-07-19T02:18:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 30,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v0dvz3",
-        "title": "$40 from a $1 Lucky 7 ticket",
-        "summary": "[Lucky 7 from New York Lottery](https://preview.redd.it/flcuwoiuf3eh1.jpg?width=4032&format=pjpg&auto=webp&s=bfe4456b1ce53ca36446d6b6093c84e0cfc65a7b)",
-        "url": "https://reddit.com/r/Lottery/comments/1v0dvz3/40_from_a_1_lucky_7_ticket/",
-        "timestamp": "2026-07-19T02:00:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v0da5t",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑3 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1v0da5t/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-07-19T01:30:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v08rqe",
-        "title": "Illinois lotto app shenanigans",
-        "summary": "So I’m one to think lotto is a waste of money. A scratcher every now and then is fun but don’t expect to win. Not necessarily a “scam” I believe the odds are legit, in the sense that when it says 1 in 3 fast play games online win… 1 in the ",
-        "url": "https://reddit.com/r/Lottery/comments/1v08rqe/illinois_lotto_app_shenanigans/",
-        "timestamp": "2026-07-18T22:04:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1v072gk",
-        "title": "Omg! I won! I won the Powerball!",
-        "summary": "Just practicing lol I’m honestly going to cry when I win.",
-        "url": "https://reddit.com/r/Lottery/comments/1v072gk/omg_i_won_i_won_the_powerball/",
-        "timestamp": "2026-07-18T20:52:43.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uzwldw",
-        "title": "Winner of historic $1.82B Powerball jackpot revealed as Arkansas mayor's little brother",
-        "summary": "↑24 · 💬8",
-        "url": "https://reddit.com/r/Lottery/comments/1uzwldw/winner_of_historic_182b_powerball_jackpot/",
-        "timestamp": "2026-07-18T13:56:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 24,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1uzwhmo",
-        "title": "Mega set up perfectly for explosion?",
-        "summary": "It seems like this setup could finally be the perfect storm for Mega. If both continue to grow while Powerball grows faster and gets more sales allowing Mega to grow-- and someone wins Powerball first -- that could divert players into Mega ",
-        "url": "https://reddit.com/r/Lottery/comments/1uzwhmo/mega_set_up_perfectly_for_explosion/",
-        "timestamp": "2026-07-18T13:52:20.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 24,
-        "comments": 11,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9u",
         "title": "Winner of historic $1.82B Powerball jackpot revealed as Arkansas mayor’s little brother",
         "summary": "The mystery winner of the historic $1.82 billion Powerball jackpot drawing on Christmas Eve has been unmasked as the younger brother of a Democrat mayor in Arkansas.",
@@ -865,50 +802,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "'Who came up with this idea?' ExpressVPN continues to drop its 30-day money-back guarantee in favour of raffles — and users aren't happy about it",
-        "summary": "ExpressVPN has done away with its standard 30-day money back guarantee for a new iPhone 17 Pro giveaway, right after ditching the same pledge for its World Cup promotion",
-        "url": "https://www.techradar.com/vpn/who-came-up-with-this-idea-expressvpn-continues-to-drop-its-30-day-money-back-guarantee-in-favour-of-raffles-and-users-arent-happy-about-it",
-        "timestamp": "2026-07-16T09:10:36Z",
-        "source": "TechRadar",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Opinion: After Conor McGregor’s fall, Paddy Pimblett’s UFC rise begins",
-        "summary": "One star rises, another falls. Paddy Pimblett is officially the Ultimate Fighting Championship's big ticket, writes Dayne Fox.",
-        "url": "https://www.sherdog.com/news/articles/Opinion-After-Conor-McGregors-fall-Paddy-Pimbletts-UFC-rise-begins-201925",
-        "timestamp": "2026-07-16T04:33:57Z",
-        "source": "Sherdog.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       }
     ],
     "meta": {
-      "totalSignals": 53,
-      "meSignals": 2,
+      "totalSignals": 48,
+      "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 47,
+        "HOPEFUL": 41,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 3
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 11
+      "uncertaintyScore": 15
     }
   }
 }
