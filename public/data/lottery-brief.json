@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T05:30:34.835Z",
+  "generated_at": "2026-07-26T05:46:49.628Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -13,13 +13,13 @@
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by a mix of optimism and frustration, with the desire for a life-changing win fueling their engagement with lottery games. The anonymity of winners and the perceived luck involved also contribute to the allure and mystique of these games.",
+  "psychInsight": "The public's reactions are driven by the desire for life-changing wins and the emotional highs of witnessing others' successes, which motivates continued participation. However, frustration and cynicism also emerge from the perceived lack of personal winning experiences and the awareness of low winning odds.",
   "riskSignals": [
-    "unrealistic expectations",
-    "financial strain"
+    "problem gambling",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "loyal customer base"
+    "engagement through winner stories",
+    "lottery market growth"
   ]
 }
