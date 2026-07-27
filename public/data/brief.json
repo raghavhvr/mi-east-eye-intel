@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-26T05:46:48.903Z",
-  "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "MENA Conflict Escalation",
-  "summary": "The region is experiencing increased tensions due to Houthi attacks and Israeli-Palestinian conflict, with potential for further escalation. Ongoing violence and geopolitical instability pose significant risks to regional security and stability.",
+  "generated_at": "2026-07-27T06:05:26.767Z",
+  "model": "keyword-fallback",
+  "threatLevel": "LOW",
+  "topTheme": "Economic Activity",
+  "summary": "Regional signals indicate low activity with focus on economic activity. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "Houthi Attacks",
-    "Israeli-Palestinian Conflict",
-    "US-Iran Tensions"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Saudi Oil Facilities",
-    "Palestinian Homes Demolition"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating Violence",
-    "Geopolitical Instability"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }

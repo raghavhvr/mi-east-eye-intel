@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T05:46:49.628Z",
+  "generated_at": "2026-07-27T06:05:27.489Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Winning the lottery",
   "keyEmotions": [
     "excitement",
     "optimism",
     "frustration"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for life-changing wins and the emotional highs of witnessing others' successes, which motivates continued participation. However, frustration and cynicism also emerge from the perceived lack of personal winning experiences and the awareness of low winning odds.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount, with some individuals experiencing frustration due to repeated losses. The use of lottery games as a means to achieve financial goals highlights the psychological appeal of gambling as a way to escape financial difficulties.",
   "riskSignals": [
     "problem gambling",
     "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "engagement through winner stories",
-    "lottery market growth"
+    "innovative payment methods",
+    "player engagement strategies"
   ]
 }
