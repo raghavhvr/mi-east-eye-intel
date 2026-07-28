@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-07-27T06:05:27.489Z",
+  "generated_at": "2026-07-28T05:32:56.471Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Winning the lottery",
+  "dominantNarrative": "Big Jackpot Wins",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "frustration"
+    "Excitement",
+    "Optimism",
+    "Greed"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount, with some individuals experiencing frustration due to repeated losses. The use of lottery games as a means to achieve financial goals highlights the psychological appeal of gambling as a way to escape financial difficulties.",
+  "psychInsight": "The large jackpots and recent wins are driving a sense of hope and optimism among the public, with many individuals fantasizing about winning and improving their financial situation. However, the presence of scam-related news also highlights the importance of caution and skepticism in the face of enticing offers.",
   "riskSignals": [
-    "problem gambling",
-    "unrealistic expectations"
+    "Scams",
+    "Financial Ruin"
   ],
   "opportunitySignals": [
-    "innovative payment methods",
-    "player engagement strategies"
+    "Jackpot Wins",
+    "Financial Freedom"
   ]
 }

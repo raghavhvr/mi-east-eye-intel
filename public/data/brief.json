@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-27T06:05:26.767Z",
-  "model": "keyword-fallback",
+  "generated_at": "2026-07-28T05:32:55.723Z",
+  "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "LOW",
-  "topTheme": "Economic Activity",
-  "summary": "Regional signals indicate low activity with focus on economic activity. Monitoring 12 open-source data points.",
+  "topTheme": "Middle East",
+  "summary": "Regional discussions focus on daily life and personal concerns, with some geopolitical undertones. Ongoing conflicts and wildfires are noted, but not dominant in the discourse.",
   "keyTrends": [
-    "Ongoing monitoring",
-    "Signal analysis active",
-    "Data refresh scheduled"
+    "UAE opportunities",
+    "Middle East culture",
+    "regional conflicts"
   ],
   "watchItems": [
-    "Regional escalation indicators",
-    "Economic sentiment shifts"
+    "Israeli attacks in Lebanon",
+    "UAE equivalency processes"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Geopolitical uncertainty",
-    "Economic signals"
+    "economic uncertainty",
+    "regional instability"
   ]
 }
