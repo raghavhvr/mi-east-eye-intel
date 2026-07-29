@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-28T05:32:55.723Z",
+  "generated_at": "2026-07-29T05:37:47.353Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Middle East",
-  "summary": "Regional discussions focus on daily life and personal concerns, with some geopolitical undertones. Ongoing conflicts and wildfires are noted, but not dominant in the discourse.",
+  "threatLevel": "MODERATE",
+  "topTheme": "Middle East Tensions",
+  "summary": "Regional tensions persist with reports of Saudi drone downing in Yemen and protests against Netanyahu, while economic indicators show growth in UAE. Ongoing conflicts and geopolitical maneuvers continue to shape the MENA region's landscape.",
   "keyTrends": [
-    "UAE opportunities",
-    "Middle East culture",
-    "regional conflicts"
+    "Yemen Conflict",
+    "Saudi Influence",
+    "Economic Growth"
   ],
   "watchItems": [
-    "Israeli attacks in Lebanon",
-    "UAE equivalency processes"
+    "Hormuz Strait Management",
+    "Fifa World Cup Controversy"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "economic uncertainty",
-    "regional instability"
+    "Regional Instability",
+    "Geopolitical Uncertainty"
   ]
 }

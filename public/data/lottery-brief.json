@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T05:32:56.471Z",
+  "generated_at": "2026-07-29T05:37:48.026Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Big Jackpot Wins",
+  "dominantNarrative": "Winning the lottery",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Greed"
+    "excitement",
+    "optimism",
+    "anticipation"
   ],
-  "psychInsight": "The large jackpots and recent wins are driving a sense of hope and optimism among the public, with many individuals fantasizing about winning and improving their financial situation. However, the presence of scam-related news also highlights the importance of caution and skepticism in the face of enticing offers.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning a life-changing amount. The hopeful mood is also fueled by the belief that winning is possible, as evident from the posts about small wins and near-misses.",
   "riskSignals": [
-    "Scams",
-    "Financial Ruin"
+    "addiction",
+    "financial recklessness"
   ],
   "opportunitySignals": [
-    "Jackpot Wins",
-    "Financial Freedom"
+    "financial freedom",
+    "dream fulfillment"
   ]
 }
