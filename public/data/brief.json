@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-29T05:37:47.353Z",
+  "generated_at": "2026-07-30T05:26:30.714Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Middle East Tensions",
-  "summary": "Regional tensions persist with reports of Saudi drone downing in Yemen and protests against Netanyahu, while economic indicators show growth in UAE. Ongoing conflicts and geopolitical maneuvers continue to shape the MENA region's landscape.",
+  "threatLevel": "ELEVATED",
+  "topTheme": "US Iran Conflict",
+  "summary": "The US has launched strikes on Iran following an attack on Jordan, and concerns over munition stockpiles may impact operations. Regional tensions are escalating, with Israeli attacks in Gaza and other global events contributing to instability.",
   "keyTrends": [
-    "Yemen Conflict",
-    "Saudi Influence",
-    "Economic Growth"
+    "US Iran relations",
+    "Middle East conflict",
+    "Global security"
   ],
   "watchItems": [
-    "Hormuz Strait Management",
-    "Fifa World Cup Controversy"
+    "Iranian retaliation",
+    "Gaza conflict escalation"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional Instability",
-    "Geopolitical Uncertainty"
+    "Regional conflict escalation",
+    "Global instability"
   ]
 }
