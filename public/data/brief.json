@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-07-30T05:26:30.714Z",
+  "generated_at": "2026-07-31T05:51:48.726Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "ELEVATED",
-  "topTheme": "US Iran Conflict",
-  "summary": "The US has launched strikes on Iran following an attack on Jordan, and concerns over munition stockpiles may impact operations. Regional tensions are escalating, with Israeli attacks in Gaza and other global events contributing to instability.",
+  "threatLevel": "LOW",
+  "topTheme": "General Information",
+  "summary": "The open-source headlines indicate a mix of mundane and international topics with no specific security threats. The overall tone suggests a lack of urgency or alarm, with most headlines focusing on everyday life, culture, and current events.",
   "keyTrends": [
-    "US Iran relations",
-    "Middle East conflict",
-    "Global security"
+    "International News",
+    "Cultural Exchange",
+    "Travel Information"
   ],
   "watchItems": [
-    "Iranian retaliation",
-    "Gaza conflict escalation"
+    "Palestine Action",
+    "Japan Earthquake"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Regional conflict escalation",
-    "Global instability"
+    "Lack of Emotional Language",
+    "Diverse Range of Topics"
   ]
 }
