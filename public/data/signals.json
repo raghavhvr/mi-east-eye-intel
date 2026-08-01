@@ -1,106 +1,196 @@
 {
-  "generated_at": "2026-07-31T05:46:50.445Z",
+  "generated_at": "2026-08-01T05:37:52.413Z",
   "gdelt_tone": {
-    "UAE": -0.5,
-    "Saudi Arabia": -2.77,
-    "Qatar": -1.17,
-    "Kuwait": -1.3,
-    "Bahrain": -1.41,
-    "Oman": -1.47,
-    "Jordan": -3.26,
-    "Lebanon": -2.77,
-    "Iraq": -3.45,
-    "Egypt": -0.4,
-    "Yemen": -4.6,
-    "Iran": -3.78
+    "UAE": null,
+    "Saudi Arabia": null,
+    "Qatar": null,
+    "Kuwait": null,
+    "Bahrain": null,
+    "Oman": null,
+    "Jordan": null,
+    "Lebanon": null,
+    "Iraq": null,
+    "Egypt": null,
+    "Yemen": null,
+    "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 40,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
+      "temp_c": 38,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Riyadh"
     },
+    "UAE": {
+      "temp_c": 40,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Oman": {
-      "temp_c": 44,
-      "wind_kmh": 10,
+      "temp_c": 42,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
       "temp_c": 38,
-      "wind_kmh": 3,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Lebanon": {
-      "temp_c": 29,
-      "wind_kmh": 8,
+    "Kuwait": {
+      "temp_c": 36,
+      "wind_kmh": 3,
       "condition": "Clear",
-      "city": "Beirut"
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 41,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Doha"
     },
     "Jordan": {
-      "temp_c": 28,
+      "temp_c": 29,
       "wind_kmh": 5,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 39,
-      "wind_kmh": 7,
+    "Lebanon": {
+      "temp_c": 29,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 5,
+      "temp_c": 26,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+    "Iraq": {
+      "temp_c": 38,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Iran": {
       "temp_c": 30,
-      "wind_kmh": 6,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309721,
+    "KWD": 0.309495,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.106739,
-    "IQD": 1310.203012
+    "EGP": 51.109225,
+    "IQD": 1310.189532
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vc8ubx",
+        "title": "Redeeming small wins at the lotto machines instead of interacting with surly cashier Would be so nice.",
+        "summary": "Lotto is the only reason i go into any of those liquor store/smokeshop type of establishments. I don't do the ones at grocery stores because they smack dab in front of the store checkout where everyone will watch you and judge. lol.",
+        "url": "https://reddit.com/r/Lottery/comments/1vc8ubx/redeeming_small_wins_at_the_lotto_machines/",
+        "timestamp": "2026-08-01T00:54:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vc5cih",
+        "title": "NJ LOTTERY WHEEL",
+        "summary": "Has anybody ever won any money from this collect and win wheel bonus? I have been entering tickets and spinning this stupid wheel for over a year now and have never won any money, it always just lands on the entries. And on the same note ha",
+        "url": "https://reddit.com/r/Lottery/comments/1vc5cih/nj_lottery_wheel/",
+        "timestamp": "2026-07-31T22:26:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vc30ci",
+        "title": "I won the Powerball Ga Lottery.",
+        "summary": "AMA",
+        "url": "https://reddit.com/r/Lottery/comments/1vc30ci/i_won_the_powerball_ga_lottery/",
+        "timestamp": "2026-07-31T20:53:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vc1na1",
+        "title": "Winning Florida lottery ticket allegedly stolen, redeemed by US Postal Service worker",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vc1na1/winning_florida_lottery_ticket_allegedly_stolen/",
+        "timestamp": "2026-07-31T20:02:34.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vc1aap",
+        "title": "Having difficulty hitting big wins",
+        "summary": "Hello, I have been manifesting winning the lottery and the most i have won is 80 American dollars converted in my country. I miss the 6 number jackpot numbers by one or two numbers like say for instance the jackpot is 5 16 27 45 48 50 my nu",
+        "url": "https://reddit.com/r/Lottery/comments/1vc1aap/having_difficulty_hitting_big_wins/",
+        "timestamp": "2026-07-31T19:49:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1vbwg1q",
+        "title": "I’m gonna be honest",
+        "summary": "If I were to the win the jackpot. There be a high chance I be one of those people who goes bankrupt in 5 years.",
+        "url": "https://reddit.com/r/Lottery/comments/1vbwg1q/im_gonna_be_honest/",
+        "timestamp": "2026-07-31T16:51:21.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vb5lym",
         "title": "Let’s all go get the Mega Millions today or PowerBall, And play the same number🫣",
@@ -117,6 +207,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Rob Gronkowski Explains How Raffles Worked at Taylor and Travis' Wedding",
+        "summary": "Former NFL star Rob Gronkowski spilled all the tea on the raffle system at Taylor Swift and Travis Kelce’s star-studded wedding. “I did [participate in the raffle],” Gronkowski, 37, told People in a new interview published on Thursday, July 30. “I was trying …",
+        "url": "https://www.usmagazine.com/celebrity-news/news/rob-gronkowski-explains-raffles-at-taylor-and-travis-wedding/",
+        "timestamp": "2026-07-30T19:29:28Z",
+        "source": "Us Weekly",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1vax3yk",
         "title": "What Would You Do If You Won? (Weekly Discussion)",
         "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
@@ -126,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,7 +246,37 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 12,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Jackpot Rises to $707 Million, Second Biggest of the Year: What the Winner Would Take Home",
+        "summary": "The Powerball jackpot has reached $707 million, with no winner from the latest draw. Winners face significant tax implications and must choose between a lump-sum payout or annual installments.",
+        "url": "https://www.ibtimes.com.au/powerball-jackpot-707-million-tax-payout-options-1873265",
+        "timestamp": "2026-07-30T13:34:08Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Step inside Stonehenge! Visitors offered rare chance to enter ancient stone circle usually reserved for VIPs",
+        "summary": "Normally viewed only from behind a barrier, Stonehenge's ancient stone circle will be opened to one lucky booking each day throughout August as part of a new prize draw.",
+        "url": "https://www.dailymail.com/travel/article-16015927/stonehenge-visit-vip-experience-english-heritage.html",
+        "timestamp": "2026-07-30T10:00:23Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -156,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 29,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,23 +306,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 80,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1vacrxo",
         "title": "There's a new 200X $30 Scatcher from California Lottery and I haven't won anything yet from it. Not even a free ticket. The cash odds aren't bad ...1:2.71...disheartening",
-        "summary": "↑1 · 💬0",
+        "summary": "↑8 · 💬8",
         "url": "https://reddit.com/r/Lottery/comments/1vacrxo/theres_a_new_200x_30_scatcher_from_california/",
         "timestamp": "2026-07-29T23:31:25.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 14,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -627,36 +762,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1v6t9ua",
-        "title": "Why always me? Looks like i am doomed to never win even Match 5",
-        "summary": "So I buy WA Powerball every draw, today I was caught up in some work and missed the draw. Guess what, boom, somebody matched 5!!",
-        "url": "https://reddit.com/r/Lottery/comments/1v6t9ua/why_always_me_looks_like_i_am_doomed_to_never_win/",
-        "timestamp": "2026-07-26T04:14:00.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 22,
-        "comments": 15,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v6pxx1",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1v6pxx1/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-07-26T01:30:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "hn-lot-49049693",
         "title": "Show HN: Brolly, a plain-text weather forecast site",
         "summary": "227 pts · 84 comments",
@@ -669,51 +774,6 @@
         "score": 227,
         "comments": 84,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v6bfrp",
-        "title": "Activating books and jackpots",
-        "summary": "I was just wondering on the lottery website when I switches from let's say 5 of 6 jackpots remaining to 4 of 6 jackpots remaining does this stat change on the website when someone physically claims the prize from the lottery office? Or does",
-        "url": "https://reddit.com/r/Lottery/comments/1v6bfrp/activating_books_and_jackpots/",
-        "timestamp": "2026-07-25T15:33:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v69yor",
-        "title": "Nice little Florida Lottery BOOM 🤑",
-        "summary": "$100 on $50 and $100 $20",
-        "url": "https://reddit.com/r/Lottery/comments/1v69yor/nice_little_florida_lottery_boom/",
-        "timestamp": "2026-07-25T14:31:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 30,
-        "comments": 3,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v68t3x",
-        "title": "Millionaire for Life",
-        "summary": "It's now been 152 drawings of the Millionaire for Life game, and there has been 2 grand prize winners, and 5 second place winners. Does anyone else find this odd? Must not be as many people playing this game. I give to the end of the year b",
-        "url": "https://reddit.com/r/Lottery/comments/1v68t3x/millionaire_for_life/",
-        "timestamp": "2026-07-25T13:44:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 10,
-        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -747,21 +807,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1v62oqp",
-        "title": "Four big Jackpots in Texas at the same time!",
-        "summary": "This is the first time that I can remember seeing all four of these Jackpots being big at the same time! 💵",
-        "url": "https://reddit.com/r/Lottery/comments/1v62oqp/four_big_jackpots_in_texas_at_the_same_time/",
-        "timestamp": "2026-07-25T08:34:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 18,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "UK Powerball Jackpots Look Smaller—Here Is The Tax Reason Why",
         "summary": "UK Powerball's £300M jackpot looks smaller than the US's $567M, but it's not the exchange rate. The UK figure is after tax—and the US number never has been.",
@@ -790,50 +835,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9j",
-        "title": "Politician's brother revealed as $1.8B Powerball jackpot winner",
-        "summary": "",
-        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6f4de884-98c4-4a82-a603-87b4d69f7a9b",
-        "timestamp": "2026-07-21T17:20:04Z",
-        "source": "Yahoo Entertainment",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "No One Wins $545 Million Powerball Jackpot Monday Night, Prize Now Grows to $567 Million by Wednesday",
-        "summary": "The Powerball jackpot has increased to $567 million after no ticket matched all numbers in the latest draw. Players have another chance to win big in the upcoming Wednesday drawing.",
-        "url": "https://www.ibtimes.com.au/powerball-jackpot-soars-567-million-1872701",
-        "timestamp": "2026-07-21T11:18:39Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 48,
-      "meSignals": 2,
+      "totalSignals": 49,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 43,
+        "HOPEFUL": 45,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 5
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 10
+      "uncertaintyScore": 8
     }
   }
 }
