@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T05:51:49.527Z",
+  "generated_at": "2026-08-01T05:41:53.899Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning Big Jackpots",
+  "dominantNarrative": "Big wins inspire hope",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Frustration"
+    "excitement",
+    "frustration",
+    "optimism"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals experiencing frustration due to repeated losses. The lottery's unpredictable nature fuels a mix of emotions, from hope to disappointment, as people weigh the odds of winning against the potential rewards.",
+  "psychInsight": "The prospect of winning large jackpots drives consumer engagement, while difficulties in achieving big wins fuel frustration. The social aspect of playing the lottery, such as shared experiences and discussions, also influences public sentiment.",
   "riskSignals": [
-    "Problem Gambling",
-    "Financial Loss"
+    "problem gambling",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "Increased Engagement",
-    "New Market Entrants"
+    "increased engagement",
+    "social lottery play"
   ]
 }
