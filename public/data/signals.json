@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T05:37:52.413Z",
+  "generated_at": "2026-08-02T05:38:32.909Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -17,74 +17,74 @@
   "weather": {
     "Saudi Arabia": {
       "temp_c": 38,
-      "wind_kmh": 8,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "UAE": {
-      "temp_c": 40,
-      "wind_kmh": 8,
-      "condition": "Clear",
+      "temp_c": 38,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
       "city": "Abu Dhabi"
     },
+    "Qatar": {
+      "temp_c": 39,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 39,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
     "Oman": {
-      "temp_c": 42,
-      "wind_kmh": 13,
+      "temp_c": 40,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
       "temp_c": 38,
-      "wind_kmh": 5,
-      "condition": "Clear",
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Manama"
     },
-    "Kuwait": {
-      "temp_c": 36,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Jordan": {
-      "temp_c": 29,
-      "wind_kmh": 5,
+      "temp_c": 30,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Amman"
     },
     "Lebanon": {
       "temp_c": 29,
-      "wind_kmh": 3,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Egypt": {
-      "temp_c": 26,
+    "Iran": {
+      "temp_c": 31,
       "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 6,
+      "temp_c": 40,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Iran": {
-      "temp_c": 30,
+    "Yemen": {
+      "temp_c": 23,
       "wind_kmh": 7,
       "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 12,
-      "condition": "Clear",
       "city": "Sanaa"
     }
   },
@@ -92,15 +92,90 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309495,
+    "KWD": 0.309438,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.109225,
-    "IQD": 1310.189532
+    "EGP": 51.123173,
+    "IQD": 1310.169064
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vd8zai",
+        "title": "Where can I see a list of all the superlotto (ca) jackpot winners?",
+        "summary": "Since ca is a non-anonymous state",
+        "url": "https://reddit.com/r/Lottery/comments/1vd8zai/where_can_i_see_a_list_of_all_the_superlotto_ca/",
+        "timestamp": "2026-08-02T05:06:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vd862c",
+        "title": "When you play the lottery, do you prefer Quick Pick or you pick your own numbers?",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vd862c/when_you_play_the_lottery_do_you_prefer_quick/",
+        "timestamp": "2026-08-02T04:24:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vd4nbw",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vd4nbw/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-08-02T01:30:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vd4ewm",
+        "title": "First play BIG pay!",
+        "summary": "I went to Hannafords to go shop for someone which I never do... the store had a lottery machine and their only $50 ticket is what I grabbed.  Happened to grab the $500 winner!",
+        "url": "https://reddit.com/r/Lottery/comments/1vd4ewm/first_play_big_pay/",
+        "timestamp": "2026-08-02T01:18:57.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vd0cto",
+        "title": "But why?",
+        "summary": "I purchased several scratch offs for Texas Monaco Cash lottery all were not winners, but there was a second chance entry for all non winners, why when I go to enter does the Texas lottery already need my social security number? I can see gi",
+        "url": "https://reddit.com/r/Lottery/comments/1vd0cto/but_why/",
+        "timestamp": "2026-08-01T22:12:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vc8ubx",
         "title": "Redeeming small wins at the lotto machines instead of interacting with surly cashier Would be so nice.",
@@ -186,23 +261,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 20,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1vb5lym",
         "title": "Let’s all go get the Mega Millions today or PowerBall, And play the same number🫣",
-        "summary": "↑1 · 💬0",
+        "summary": "↑7 · 💬6",
         "url": "https://reddit.com/r/Lottery/comments/1vb5lym/lets_all_go_get_the_mega_millions_today_or/",
         "timestamp": "2026-07-30T20:41:15.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 7,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -657,81 +732,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1v7fv44",
-        "title": "Smalls wins - Part 6",
-        "summary": "Stay tuned for more on my Journey to the jackpot 🎰 🍀. You can’t win 🥇 if you don’t play.",
-        "url": "https://reddit.com/r/Lottery/comments/1v7fv44/smalls_wins_part_6/",
-        "timestamp": "2026-07-26T20:56:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v7bxur",
-        "title": "California Lottery to pilot debit card payments at self-service lottery machines",
-        "summary": "This comes from [their 26-27 business plan at the Lottery Commission's June 2026 meeting.](https://static.www.calottery.com/-/media/project/calottery/pws/pdfs/commission-documents/june-2026/9f--fy-202627-business-plan-final.pdf?rev=9968c83a",
-        "url": "https://reddit.com/r/Lottery/comments/1v7bxur/california_lottery_to_pilot_debit_card_payments/",
-        "timestamp": "2026-07-26T18:30:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 11,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v7b8q3",
-        "title": "Powerball vs Mega Millions",
-        "summary": "Mega Millions is 800 million    Powerball is 633 million    Super Lotto is 41 million  I am ready to be a millionaire this week! I already had the dream where I collect my MegaMillions check. Although because I only play one or two lines …I",
-        "url": "https://reddit.com/r/Lottery/comments/1v7b8q3/powerball_vs_mega_millions/",
-        "timestamp": "2026-07-26T18:04:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 64,
-        "comments": 26,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v7a1mj",
-        "title": "Neon jackpot",
-        "summary": "↑34 · 💬14",
-        "url": "https://reddit.com/r/Lottery/comments/1v7a1mj/neon_jackpot/",
-        "timestamp": "2026-07-26T17:20:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 34,
-        "comments": 14,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v73i9z",
-        "title": "So close yet so far",
-        "summary": "I don’t usually gamble and when I do it’s at a casino. For some reason I was feeling lucky and that i should play the lotto and some scratchers. Picked my numbers the night before on the app. Got 500 from this and 100 from a scratcher! I’ve",
-        "url": "https://reddit.com/r/Lottery/comments/1v73i9z/so_close_yet_so_far/",
-        "timestamp": "2026-07-26T13:10:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 24,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "One winner of Lotto jackpot worth over €8.2 million",
         "summary": "There was one winner of last night's Lotto jackpot worth over €8.2 million. The winning numbers were 23, 24, 25, 42, 43, 46 and the bonus was 37.",
@@ -743,21 +743,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v6wx45",
-        "title": "Winning numbers are NOT random",
-        "summary": "Let's say that I can prove a certain lotto game winning numbers are NOT random. So far my prediction would look something like this: let's say the number 31154 will win some time in the next 45 days (usually in the next 20 days), my predict",
-        "url": "https://reddit.com/r/Lottery/comments/1v6wx45/winning_numbers_are_not_random/",
-        "timestamp": "2026-07-26T07:28:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -820,35 +805,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Mega Millions Winning Numbers for July 21, 2026: No Winner Claims $707 Million Jackpot, Prize Rolls to Friday",
-        "summary": "The Mega Millions jackpot has reached $707 million, the ninth-largest in history, after no ticket matched all numbers in Tuesday's draw. The next drawing is scheduled for Friday night.",
-        "url": "https://www.ibtimes.com.au/mega-millions-jackpot-ninth-largest-history-1872741",
-        "timestamp": "2026-07-22T04:46:16Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 49,
+      "totalSignals": 47,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 45,
+        "HOPEFUL": 43,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 8
+      "uncertaintyScore": 9
     }
   }
 }
