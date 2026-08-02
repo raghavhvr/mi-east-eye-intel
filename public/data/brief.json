@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-01T05:41:53.179Z",
+  "generated_at": "2026-08-02T05:42:34.653Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Lebanon Arrest",
-  "summary": "The arrest of former Lebanese central bank governor Riad Salameh may have implications for regional financial stability. However, current open-source information does not indicate a significant escalation of tensions in the MENA region.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Geopolitics",
+  "summary": "Regional tensions persist with reports of Israeli raids and potential US-Iran deals, while Saudi Arabia and the UAE navigate diplomatic and economic interests. Ongoing conflicts and power struggles contribute to an uncertain security environment in the MENA region.",
   "keyTrends": [
-    "Lebanon Politics",
-    "Regional Finance",
-    "Palestinian Support"
+    "US-Iran relations",
+    "Israeli-Palestinian conflict",
+    "Saudi influence"
   ],
   "watchItems": [
-    "Riad Salameh Trial",
-    "MENA Economic Stability"
+    "Iran nuclear deal",
+    "Saudi-US relations"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Uncertainty",
-    "Economic Concerns"
+    "regional instability",
+    "economic uncertainty"
   ]
 }
