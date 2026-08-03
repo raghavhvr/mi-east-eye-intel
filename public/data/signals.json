@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:38:32.909Z",
+  "generated_at": "2026-08-03T05:54:13.047Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,122 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
+    "UAE": {
       "temp_c": 38,
-      "wind_kmh": 3,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 39,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
     "Qatar": {
-      "temp_c": 39,
+      "temp_c": 41,
       "wind_kmh": 4,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
+      "temp_c": 40,
+      "wind_kmh": 13,
+      "condition": "Clear",
       "city": "Kuwait City"
     },
     "Oman": {
-      "temp_c": 40,
-      "wind_kmh": 4,
+      "temp_c": 36,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
       "temp_c": 38,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 30,
-      "wind_kmh": 7,
+      "wind_kmh": 5,
       "condition": "Clear",
-      "city": "Amman"
+      "city": "Manama"
     },
     "Lebanon": {
       "temp_c": 29,
       "wind_kmh": 4,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Beirut"
     },
-    "Iran": {
-      "temp_c": 31,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
+    "Jordan": {
+      "temp_c": 30,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Amman"
     },
     "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 7,
+      "temp_c": 26,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 40,
-      "wind_kmh": 12,
-      "condition": "Clear",
+      "temp_c": 41,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
     "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 7,
+      "temp_c": 24,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 31,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309438,
+    "KWD": 0.309175,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.123173,
-    "IQD": 1310.169064
+    "EGP": 50.841592,
+    "IQD": 1312.315372
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vdu87y",
+        "title": "[NEED FEEDBACK] I coded a statistical filter system for the lottery.. Thoughts needed",
+        "summary": "Hello everyone, Like a lot of people, I occasionally buy a Powerball or Mega Millions ticket when the jackpot gets huge. But every time I play, my brain goes to the exact same place: Is there actually a mathematical way to play smarter? I l",
+        "url": "https://reddit.com/r/Lottery/comments/1vdu87y/need_feedback_i_coded_a_statistical_filter_system/",
+        "timestamp": "2026-08-02T21:32:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vdjkbh",
+        "title": "One number off from a big payout.. Devasted.",
+        "summary": "I was one point off from a $260,000+ payout via lotto 6/49 in Canada. If the second number was a 22 instead of a 21 I would have gotten 5/6.. I'm genuinely so devasted. Words could not describe how much that kind of money would mean to my w",
+        "url": "https://reddit.com/r/Lottery/comments/1vdjkbh/one_number_off_from_a_big_payout_devasted/",
+        "timestamp": "2026-08-02T14:30:31.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vd8zai",
         "title": "Where can I see a list of all the superlotto (ca) jackpot winners?",
@@ -129,6 +159,21 @@
         "score": 1,
         "comments": 0,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9w",
+        "title": "IRD rolls out taxpayer lottery portal",
+        "summary": "Kathmandu, Aug. 2: The Inland Revenue Department (IRD) has launched an online portal for its taxpayer incentive scheme, allowing consumers who pay in cash to upload their purchase bills for a chance to win cash rewards. In a notice issued on Saturday, the dep…",
+        "url": "https://peoplesreview.com.np/2026/08/02/ird-rolls-out-taxpayer-lottery-portal/",
+        "timestamp": "2026-08-02T02:10:35Z",
+        "source": "Peoplesreview.com.np",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -186,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,23 +261,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 21,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1vc1na1",
         "title": "Winning Florida lottery ticket allegedly stolen, redeemed by US Postal Service worker",
-        "summary": "↑1 · 💬0",
+        "summary": "↑46 · 💬12",
         "url": "https://reddit.com/r/Lottery/comments/1vc1na1/winning_florida_lottery_ticket_allegedly_stolen/",
         "timestamp": "2026-07-31T20:02:34.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 46,
+        "comments": 12,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": true
       },
@@ -642,36 +687,6 @@
         "isME": true
       },
       {
-        "id": "reddit-lot-1v7y7ak",
-        "title": "Who would you say \"IN YOUR FACE\" when you win the lottery?",
-        "summary": "Honestly, I would waste my time going for those people BUT I would saying that to people from my old college. I remember someone making fun of me for not getting a job in front of the whole class. If I could choose, def would be people from",
-        "url": "https://reddit.com/r/Lottery/comments/1v7y7ak/who_would_you_say_in_your_face_when_you_win_the/",
-        "timestamp": "2026-07-27T11:54:31.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v7vpqv",
-        "title": "Lotto Games",
-        "summary": "Hey r/Lottery, I’m a big lottery fan (especially NY Lotto!), and I recently built a free passion project called [**LottoHog.com**](http://LottoHog.com) just for fun. I wanted a clean, simple place to run quick simulations, check stats, and ",
-        "url": "https://reddit.com/r/Lottery/comments/1v7vpqv/lotto_games/",
-        "timestamp": "2026-07-27T09:45:52.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Where winners go wrong: National Lottery 'fixer' Andy Carter who has helped 2,500 people over 20 years reveals how to avoid ruining your life if you hit the jackpot",
         "summary": "Andy Carter, a National Lottery adviser who has helped guide more than 2,500 winners over 20 years, is among a team who help Brits try to stop a jackpot ruining their life.",
@@ -683,51 +698,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v7izwn",
-        "title": "How do you picture you \"rich life\" when you win the lottery?",
-        "summary": "Assuming you win big I picture myself living in New York, Manhattan. A nice apartament with a nice view. Spending my days (at least for a year) watching movies, playing videos games, learning how to stream and how to write (books or screenp",
-        "url": "https://reddit.com/r/Lottery/comments/1v7izwn/how_do_you_picture_you_rich_life_when_you_win_the/",
-        "timestamp": "2026-07-26T23:00:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 42,
-        "comments": 35,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v7io8x",
-        "title": "$4 win on Powerball. Not the jackpot but a win is a win.",
-        "summary": "I matched 24 from the first set of numbers and the powerball which was 17.",
-        "url": "https://reddit.com/r/Lottery/comments/1v7io8x/4_win_on_powerball_not_the_jackpot_but_a_win_is_a/",
-        "timestamp": "2026-07-26T22:47:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 26,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v7hb2v",
-        "title": "3rd time in a month both of my quick picks have had the same power ball numbers. I’m beginning to think quick pick isn’t the way to go.",
-        "summary": "First the two powerballs were both 7, then 23, this Saturday (7/25) they were both 6. When the jackpot gets up this high and this sort of thing happens I begin to distrust the system. Will pick my own numbers going forward.",
-        "url": "https://reddit.com/r/Lottery/comments/1v7hb2v/3rd_time_in_a_month_both_of_my_quick_picks_have/",
-        "timestamp": "2026-07-26T21:51:48.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -808,17 +778,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 47,
+      "totalSignals": 45,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 43,
+        "HOPEFUL": 40,
         "CYNICAL": 0,
-        "ANXIOUS": 0,
+        "ANXIOUS": 1,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 9
+      "uncertaintyScore": 11
     }
   }
 }
