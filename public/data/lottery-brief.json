@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:42:35.363Z",
+  "generated_at": "2026-08-03T05:58:45.535Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning Big Jackpots",
+  "dominantNarrative": "Winning big dreams",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Frustration"
+    "excitement",
+    "frustration",
+    "optimism"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals experiencing frustration due to lack of wins. The social aspect of playing the lottery, such as sharing numbers and discussing wins, also plays a significant role in shaping public sentiment.",
+  "psychInsight": "The public is driven by the desire for a life-changing win, with optimism fueling their participation in lotteries. However, frustration and disappointment can arise from near-misses and perceived injustices in the system.",
   "riskSignals": [
-    "Gaming addiction",
-    "Unrealistic expectations"
+    "problem gambling",
+    "unrealistic expectations"
   ],
   "opportunitySignals": [
-    "Increased engagement",
-    "Loyalty programs"
+    "innovative lottery products",
+    "player engagement strategies"
   ]
 }

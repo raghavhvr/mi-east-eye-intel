@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-02T05:42:34.653Z",
+  "generated_at": "2026-08-03T05:58:44.667Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "MENA Geopolitics",
-  "summary": "Regional tensions persist with reports of Israeli raids and potential US-Iran deals, while Saudi Arabia and the UAE navigate diplomatic and economic interests. Ongoing conflicts and power struggles contribute to an uncertain security environment in the MENA region.",
+  "topTheme": "Iran Deal Talks",
+  "summary": "The region is witnessing increased diplomatic efforts, particularly between Iran and the US, which may lead to a potential deal on the Strait of Hormuz. However, ongoing military operations in south Lebanon and recent earthquakes in Egypt contribute to an uncertain security environment.",
   "keyTrends": [
-    "US-Iran relations",
-    "Israeli-Palestinian conflict",
-    "Saudi influence"
+    "US-Iran Relations",
+    "Regional Security",
+    "Diplomatic Efforts"
   ],
   "watchItems": [
-    "Iran nuclear deal",
-    "Saudi-US relations"
+    "Strait of Hormuz",
+    "Israel-Lebanon Tensions"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "regional instability",
-    "economic uncertainty"
+    "Potential US-Iran Deal",
+    "Regional Instability"
   ]
 }
