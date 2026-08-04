@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-03T05:58:44.667Z",
+  "generated_at": "2026-08-04T05:33:19.790Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Iran Deal Talks",
-  "summary": "The region is witnessing increased diplomatic efforts, particularly between Iran and the US, which may lead to a potential deal on the Strait of Hormuz. However, ongoing military operations in south Lebanon and recent earthquakes in Egypt contribute to an uncertain security environment.",
+  "topTheme": "Regional Tensions",
+  "summary": "The Iran-US tensions are escalating, with potential implications for the regional economy and security. Flight cancellations and warnings from senior officials indicate a heightened sense of alertness in the region",
   "keyTrends": [
-    "US-Iran Relations",
-    "Regional Security",
-    "Diplomatic Efforts"
+    "Iran-US tensions",
+    "Oil price volatility",
+    "Regional flight disruptions"
   ],
   "watchItems": [
-    "Strait of Hormuz",
-    "Israel-Lebanon Tensions"
+    "Naval blockade",
+    "Iranian official statements"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Potential US-Iran Deal",
-    "Regional Instability"
+    "Regional instability",
+    "Economic uncertainty"
   ]
 }
