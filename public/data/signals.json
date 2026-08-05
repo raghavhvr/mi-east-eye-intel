@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T05:26:46.155Z",
+  "generated_at": "2026-08-05T05:26:16.354Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,152 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 40,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
       "temp_c": 37,
       "wind_kmh": 6,
       "condition": "Clear",
-      "city": "Kuwait City"
+      "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 6,
+    "UAE": {
+      "temp_c": 42,
+      "wind_kmh": 9,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 36,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Kuwait City"
     },
     "Bahrain": {
       "temp_c": 36,
-      "wind_kmh": 2,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Manama"
     },
+    "Qatar": {
+      "temp_c": 39,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 10,
+      "temp_c": 40,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 28,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
       "temp_c": 27,
-      "wind_kmh": 5,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
+    "Jordan": {
+      "temp_c": 28,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Egypt": {
       "temp_c": 25,
-      "wind_kmh": 10,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 12,
+      "temp_c": 38,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Iran": {
-      "temp_c": 29,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
     "Yemen": {
-      "temp_c": 23,
+      "temp_c": 24,
       "wind_kmh": 3,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 31,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309191,
+    "KWD": 0.309143,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.259961,
-    "IQD": 1312.345858
+    "EGP": 50.284913,
+    "IQD": 1312.799449
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vfq7y0",
+        "title": "Buy a roll or from different places",
+        "summary": "Hi all, Happy Summer!  Looking to buy some lotto cards and was wondering:  Should I buy ten from   The same place or five from two diffent spots?  Im leaning towards the former. Thanks!",
+        "url": "https://reddit.com/r/Lottery/comments/1vfq7y0/buy_a_roll_or_from_different_places/",
+        "timestamp": "2026-08-04T23:14:03.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vfjsoh",
+        "title": "Undocumented Mother Blackmailed by Uncle to Hand Over $2M Lottery Ticket",
+        "summary": "I apologize in advance if this has been posted before, this is a reminder I hope all of you that win big keep it to yourselves. [https://www.gamblingnews.com/news/undocumented-mother-blackmailed-by-uncle-to-hand-over-2m-lottery-ticket/](htt",
+        "url": "https://reddit.com/r/Lottery/comments/1vfjsoh/undocumented_mother_blackmailed_by_uncle_to_hand/",
+        "timestamp": "2026-08-04T19:07:55.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vfhm2k",
+        "title": "Some had a good pay day or something",
+        "summary": "So I went into my local quicky mart store and found someone put $100 in the lotto machine. I looked about inside and  saw nobody outside waiting around so I asked the staff about it. They told me its in there cant get it back and nobody's c",
+        "url": "https://reddit.com/r/Lottery/comments/1vfhm2k/some_had_a_good_pay_day_or_something/",
+        "timestamp": "2026-08-04T17:50:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vff53a",
+        "title": "Should the US cap Powerball at 250 million like Euromillions?",
+        "summary": "Euromillions jackpots are capped at 250 million and if no one wins after 5 consecutive 250 million euro games they award the prize to winners in the next tier.  The extra money from the no wins is also split between the other lower tier win",
+        "url": "https://reddit.com/r/Lottery/comments/1vff53a/should_the_us_cap_powerball_at_250_million_like/",
+        "timestamp": "2026-08-04T16:23:39.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1veyueb",
         "title": "In the United Kingdom, you can win a prize with two matches and no Powerball, but not in the USA. Is that fair?",
@@ -194,15 +254,15 @@
       {
         "id": "reddit-lot-1vecj2w",
         "title": "$167M Kentucky Powerball lottery winner arrested AGAIN for allegedly strangling woman",
-        "summary": "↑1 · 💬0",
+        "summary": "↑19 · 💬7",
         "url": "https://reddit.com/r/Lottery/comments/1vecj2w/167m_kentucky_powerball_lottery_winner_arrested/",
         "timestamp": "2026-08-03T12:50:17.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 0,
+        "score": 19,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": true
       },
@@ -231,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -612,66 +672,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1v9tjko",
-        "title": "How much did you spend on lottery tickets?",
-        "summary": "I spent around 2000 thousands dollars in my lifetime on lottery tickets, and won around 1000-1500$, which I proceeded to spend again and lost them all. I was curious how much you have spent",
-        "url": "https://reddit.com/r/Lottery/comments/1v9tjko/how_much_did_you_spend_on_lottery_tickets/",
-        "timestamp": "2026-07-29T11:32:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v9spp5",
-        "title": "Tips for increasing your chance of Winning!",
-        "summary": "I personally go on the lottery website to check how many of the prizes are remaining, you'll be surprised just how little some tickets are. From there I make my decision on the ticket I purchase, because it has a higher chance of winning. I",
-        "url": "https://reddit.com/r/Lottery/comments/1v9spp5/tips_for_increasing_your_chance_of_winning/",
-        "timestamp": "2026-07-29T10:52:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v9lkdr",
-        "title": "Mega Millions Jackpot Won In Florida",
-        "summary": "Time to focus on Powerball now I guess",
-        "url": "https://reddit.com/r/Lottery/comments/1v9lkdr/mega_millions_jackpot_won_in_florida/",
-        "timestamp": "2026-07-29T04:25:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 105,
-        "comments": 51,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1v9fe7k",
-        "title": "Powerball smallest prizes",
-        "summary": "It's ridiculous PB only and PB+1 regular number are the same $4 win.",
-        "url": "https://reddit.com/r/Lottery/comments/1v9fe7k/powerball_smallest_prizes/",
-        "timestamp": "2026-07-28T23:49:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Powerball winner arrested for fourth time since winning $167m jackpot over claims he throttled woman",
         "summary": "James Farthing, 51, won a staggering $167 million Powerball jackpot in April 2025. He was arrested Monday on domestic violence charges of strangulation and assault.",
@@ -685,21 +685,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1v9bd3a",
-        "title": "Can I play in the lottery in USA if I'm a tourist?",
-        "summary": "Silly question but if I'm traveling to Miami or New York and I decide randomly buy a ticket in gas station (powerball or mega millions) and I actually won (maybe I noticed that I won after I came back to my country lol) Can I get the price?",
-        "url": "https://reddit.com/r/Lottery/comments/1v9bd3a/can_i_play_in_the_lottery_in_usa_if_im_a_tourist/",
-        "timestamp": "2026-07-28T21:12:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 21,
-        "mood": "HOPEFUL",
-        "isME": false
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9t",
@@ -747,21 +732,6 @@
         "isME": false
       },
       {
-        "id": "hn-lot-49049693",
-        "title": "Show HN: Brolly, a plain-text weather forecast site",
-        "summary": "228 pts · 84 comments",
-        "url": "https://brolly.sh/forecast/RWFP2qW8",
-        "timestamp": "2026-07-25T17:34:34.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 228,
-        "comments": 84,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Mega Millions Winning Numbers for Friday, July 24: $743 Million Jackpot, 10th-Largest Prize in Lottery History",
         "summary": "The Mega Millions jackpot has reached $743 million, the 10th largest in history, as players await the next drawing. The jackpot has grown due to a long stretch without a winner.",
@@ -790,28 +760,13 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "UK Powerball Jackpots Look Smaller—Here Is The Tax Reason Why",
-        "summary": "UK Powerball's £300M jackpot looks smaller than the US's $567M, but it's not the exchange rate. The UK figure is after tax—and the US number never has been.",
-        "url": "https://www.forbes.com/sites/nathangoldman/2026/07/24/uk-powerball-jackpots-look-smaller-here-is-the-tax-reason-why/",
-        "timestamp": "2026-07-24T13:53:47Z",
-        "source": "Forbes",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 47,
+      "totalSignals": 44,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 43,
+        "HOPEFUL": 40,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 3
