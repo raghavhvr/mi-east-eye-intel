@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-04T05:33:20.420Z",
+  "generated_at": "2026-08-05T05:32:36.690Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
-  "dominantNarrative": "Winning Big",
+  "dominantNarrative": "Winning Lottery Dreams",
   "keyEmotions": [
     "Excitement",
     "Optimism",
     "Disappointment"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning large sums of money, with some individuals experiencing disappointment when they do not win. The use of social media to share experiences and seek feedback also suggests a sense of community and social interaction among lottery players.",
+  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals experiencing disappointment and frustration when they do not win. The lottery's unpredictability and the occasional win create a psychological rollercoaster that keeps people engaged and hopeful.",
   "riskSignals": [
     "Problem Gambling",
-    "Financial Risk"
+    "Financial Irresponsibility"
   ],
   "opportunitySignals": [
-    "Innovative Lottery Products",
-    "Digital Engagement"
+    "Responsible Gaming Initiatives",
+    "Innovative Lottery Products"
   ]
 }

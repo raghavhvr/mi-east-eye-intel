@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-04T05:33:19.790Z",
+  "generated_at": "2026-08-05T05:32:36.032Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Regional Tensions",
-  "summary": "The Iran-US tensions are escalating, with potential implications for the regional economy and security. Flight cancellations and warnings from senior officials indicate a heightened sense of alertness in the region",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "Regional tensions persist due to ongoing conflicts and diplomatic issues, with Iran and Israel being key players. The situation is being closely monitored as it may escalate into a larger conflict.",
   "keyTrends": [
-    "Iran-US tensions",
-    "Oil price volatility",
-    "Regional flight disruptions"
+    "Iran-Israel Conflict",
+    "Regional Diplomacy",
+    "Maritime Security"
   ],
   "watchItems": [
-    "Naval blockade",
-    "Iranian official statements"
+    "Hormuz Strait Deal",
+    "Israel-Lebanon Peace Talks"
   ],
   "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Regional instability",
-    "Economic uncertainty"
+    "Escalating Violence",
+    "Diplomatic Tensions"
   ]
 }
