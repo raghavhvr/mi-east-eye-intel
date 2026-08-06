@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T05:32:36.690Z",
+  "generated_at": "2026-08-06T05:34:47.232Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning Lottery Dreams",
+  "dominantNarrative": "Winning big changes lives",
   "keyEmotions": [
-    "Excitement",
-    "Optimism",
-    "Disappointment"
+    "excitement",
+    "optimism",
+    "disappointment"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for financial freedom and the thrill of potentially winning life-changing amounts, with some individuals experiencing disappointment and frustration when they do not win. The lottery's unpredictability and the occasional win create a psychological rollercoaster that keeps people engaged and hopeful.",
+  "psychInsight": "The allure of life-changing winnings drives public fascination with lotteries, while losses can evoke feelings of disappointment and frustration. The human brain's tendency to overestimate low-probability events contributes to the enduring appeal of gambling.",
   "riskSignals": [
-    "Problem Gambling",
-    "Financial Irresponsibility"
+    "problem gambling",
+    "financial stress"
   ],
   "opportunitySignals": [
-    "Responsible Gaming Initiatives",
-    "Innovative Lottery Products"
+    "responsible gaming initiatives",
+    "financial literacy programs"
   ]
 }

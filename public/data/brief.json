@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-05T05:32:36.032Z",
+  "generated_at": "2026-08-06T05:34:46.523Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "Regional tensions persist due to ongoing conflicts and diplomatic issues, with Iran and Israel being key players. The situation is being closely monitored as it may escalate into a larger conflict.",
+  "threatLevel": "LOW",
+  "topTheme": "Economy and Sport",
+  "summary": "The current open-source headlines indicate a low threat level with discussions centered around economic trends, sports, and lifestyle topics. The region's economic stability and potential for growth are highlighted through mentions of oil prices, market openness, and eVisa policies.",
   "keyTrends": [
-    "Iran-Israel Conflict",
-    "Regional Diplomacy",
-    "Maritime Security"
+    "Oil Prices",
+    "Economic Stability",
+    "Travel Regulations"
   ],
   "watchItems": [
-    "Hormuz Strait Deal",
-    "Israel-Lebanon Peace Talks"
+    "Hormuz Reopening",
+    "UAE Market"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Escalating Violence",
-    "Diplomatic Tensions"
+    "Lack of Political Tension",
+    "Economic Fluctuations"
   ]
 }
