@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T05:26:16.354Z",
+  "generated_at": "2026-08-06T05:28:33.672Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,76 +15,76 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 42,
-      "wind_kmh": 9,
+      "temp_c": 40,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Saudi Arabia": {
+      "temp_c": 38,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
     "Kuwait": {
-      "temp_c": 36,
-      "wind_kmh": 4,
+      "temp_c": 40,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 11,
+      "temp_c": 40,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
     "Oman": {
-      "temp_c": 40,
-      "wind_kmh": 7,
+      "temp_c": 43,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 6,
+      "temp_c": 26,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 28,
-      "wind_kmh": 6,
+      "temp_c": 25,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Amman"
     },
     "Egypt": {
       "temp_c": 25,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 8,
+      "temp_c": 36,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Baghdad"
     },
     "Yemen": {
       "temp_c": 24,
-      "wind_kmh": 3,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Sanaa"
     },
     "Iran": {
-      "temp_c": 31,
-      "wind_kmh": 5,
-      "condition": "Clear",
+      "temp_c": 32,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     }
   },
@@ -92,15 +92,75 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309143,
+    "KWD": 0.308559,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.284913,
-    "IQD": 1312.799449
+    "EGP": 49.802855,
+    "IQD": 1311.770761
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vguhv0",
+        "title": "Powerball",
+        "summary": "Hope it keeps rolling, please don’t ruin the fun California and Florida by winning it this Saturday. 🙏🏼😆",
+        "url": "https://reddit.com/r/Lottery/comments/1vguhv0/powerball/",
+        "timestamp": "2026-08-06T04:50:39.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vgtb00",
+        "title": "my first and last lotto .. the winning number is top and my ticket is down .. i feel sick",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vgtb00/my_first_and_last_lotto_the_winning_number_is_top/",
+        "timestamp": "2026-08-06T03:50:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vgrvvt",
+        "title": "Ohio lottery question",
+        "summary": "Do any of my buckeye people know where to find the $20 “Cash is King” scratch off ticket? It’s getting lower on tickets and still has a nice million dollar prize. I’d like to purchase some but none of my local stores have it. If you’ve seen",
+        "url": "https://reddit.com/r/Lottery/comments/1vgrvvt/ohio_lottery_question/",
+        "timestamp": "2026-08-06T02:41:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vgdqhp",
+        "title": "I found old lottery tickets in my room what do I do with them?",
+        "summary": "Are they a winner? If so idk if I want to throw them out or not. I not buying any lottery for awhile because I now broke",
+        "url": "https://reddit.com/r/Lottery/comments/1vgdqhp/i_found_old_lottery_tickets_in_my_room_what_do_i/",
+        "timestamp": "2026-08-05T17:20:23.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vfq7y0",
         "title": "Buy a roll or from different places",
@@ -156,7 +216,37 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
+        "comments": 24,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Michigan woman reveals how father's $13 million lottery win changed family’s life",
+        "summary": "In 2013, a father from Michigan struck it rich with over thirteen million dollars in the lottery. This newfound wealth initially filled his family with joy and security. However, poor gambling choices and lavish spending quickly eroded their fortune. After he…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/michigan-woman-reveals-how-fathers-13-million-lottery-win-changed-familys-life/articleshow/132861712.cms",
+        "timestamp": "2026-08-04T13:00:16Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Jackpot Hits $748 Million: See Monday's Winning Numbers and What Experts Say to Do if You Win",
+        "summary": "The Powerball jackpot has reached $748 million, prompting financial advisors to offer crucial advice for potential winners on securing their ticket, choosing payout options, and managing sudden wealth.",
+        "url": "https://www.ibtimes.com.au/powerball-jackpot-748-million-expert-advice-1873518",
+        "timestamp": "2026-08-04T09:03:49Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -171,23 +261,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 11,
+        "comments": 34,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1vew4qo",
         "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑3 · 💬4",
         "url": "https://reddit.com/r/Lottery/comments/1vew4qo/powerball_winning_numbers_monday/",
         "timestamp": "2026-08-04T01:20:07.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -202,7 +292,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 22,
+        "comments": 15,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 14,
+        "comments": 22,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -582,96 +672,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1vanrn3",
-        "title": "Royal Jackpot 3 in a row",
-        "summary": "Bought 3 Royal Jackpots on my way too work $120 in $490 out. Got a $40, $50, and a $400",
-        "url": "https://reddit.com/r/Lottery/comments/1vanrn3/royal_jackpot_3_in_a_row/",
-        "timestamp": "2026-07-30T08:33:53.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vah87l",
-        "title": "Somebody won a $5 million jackpot on a scratcher from a liquor store 5 minutes away from me.",
-        "summary": "I was looking through the CA lottery’s instagram page and noticed that someone won a scratcher jackpot at a liquor store down the street from me 😭 The liquor store is a 5 min drive away from me, and although I don’t buy scratchers from the",
-        "url": "https://reddit.com/r/Lottery/comments/1vah87l/somebody_won_a_5_million_jackpot_on_a_scratcher/",
-        "timestamp": "2026-07-30T02:48:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 80,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vacrxo",
-        "title": "There's a new 200X $30 Scatcher from California Lottery and I haven't won anything yet from it. Not even a free ticket. The cash odds aren't bad ...1:2.71...disheartening",
-        "summary": "↑8 · 💬8",
-        "url": "https://reddit.com/r/Lottery/comments/1vacrxo/theres_a_new_200x_30_scatcher_from_california/",
-        "timestamp": "2026-07-29T23:31:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vacqkz",
-        "title": "There's a new 200X $30 Scatcher from California Lottery and I haven't won anything yet from it. Not even a free ticket. The cash odds are bad ...1:2.71...disheartening",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1vacqkz/theres_a_new_200x_30_scatcher_from_california/",
-        "timestamp": "2026-07-29T23:29:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vabyie",
-        "title": "Growing up?",
-        "summary": "I have been playing the lottery, mostly lotto and power ball occasionally for past 20 years since I was a broke college student. Never more than $20 a year. Never won more than $15 bucks obviously. Today I bought lotto ticket after a long g",
-        "url": "https://reddit.com/r/Lottery/comments/1vabyie/growing_up/",
-        "timestamp": "2026-07-29T22:57:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1va982a",
-        "title": "Won on a scratch off ticket but I accidentally scratched the barcode so badly it won't read as a winner, what do I do.",
-        "summary": "I won on a lottery tickets but accidentally butcherd the barcode i'm supposed to scan. A lot of the times here in Oklahoma the lottery tickets are a piece of shit and won't scratch off very good so I put all my might into it to scratch of t",
-        "url": "https://reddit.com/r/Lottery/comments/1va982a/won_on_a_scratch_off_ticket_but_i_accidentally/",
-        "timestamp": "2026-07-29T21:11:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Powerball winner arrested for fourth time since winning $167m jackpot over claims he throttled woman",
         "summary": "James Farthing, 51, won a staggering $167 million Powerball jackpot in April 2025. He was arrested Monday on domestic violence charges of strangulation and assault.",
@@ -732,48 +732,33 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Mega Millions Winning Numbers for Friday, July 24: $743 Million Jackpot, 10th-Largest Prize in Lottery History",
-        "summary": "The Mega Millions jackpot has reached $743 million, the 10th largest in history, as players await the next drawing. The jackpot has grown due to a long stretch without a winner.",
-        "url": "https://www.ibtimes.com.au/mega-millions-jackpot-743-million-10th-largest-1872897",
-        "timestamp": "2026-07-25T12:27:50Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
+        "id": "hn-lot-49049693",
+        "title": "Show HN: Brolly, a plain-text weather forecast site",
+        "summary": "228 pts · 84 comments",
+        "url": "https://brolly.sh/forecast/RWFP2qW8",
+        "timestamp": "2026-07-25T17:34:34.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9u",
-        "title": "Mega Millions jackpot soars to $800M — tenth-largest prize in history",
-        "summary": "The Mega Millions jackpot shot up to $800 million as no player won the grand prize for Friday's drawing, continuing the four-month winless drought.",
-        "url": "https://nypost.com/2026/07/25/us-news/mega-millions-jackpot-soars-to-800m-results-drawing/",
-        "timestamp": "2026-07-25T08:39:06Z",
-        "source": "New York Post",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
+        "score": 228,
+        "comments": 84,
+        "mood": "NEUTRAL",
         "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 44,
-      "meSignals": 4,
+      "totalSignals": 43,
+      "meSignals": 5,
       "moodDist": {
-        "HOPEFUL": 40,
+        "HOPEFUL": 38,
         "CYNICAL": 0,
         "ANXIOUS": 1,
-        "NEUTRAL": 3
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 9
+      "uncertaintyScore": 12
     }
   }
 }
