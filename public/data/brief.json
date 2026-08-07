@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-06T05:34:46.523Z",
+  "generated_at": "2026-08-07T04:37:17.494Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Economy and Sport",
-  "summary": "The current open-source headlines indicate a low threat level with discussions centered around economic trends, sports, and lifestyle topics. The region's economic stability and potential for growth are highlighted through mentions of oil prices, market openness, and eVisa policies.",
+  "threatLevel": "MODERATE",
+  "topTheme": "Regional Tensions",
+  "summary": "The MENA region is experiencing ongoing security concerns, including a recent Houthi attack on Saudi Arabia and an Israeli army raid in East Jerusalem. Economic and cultural developments, such as sovereign capital growth and Emirati art exhibitions, are also shaping the regional landscape.",
   "keyTrends": [
-    "Oil Prices",
-    "Economic Stability",
-    "Travel Regulations"
+    "Geopolitical Tensions",
+    "Economic Diversification",
+    "Cultural Exchange"
   ],
   "watchItems": [
-    "Hormuz Reopening",
-    "UAE Market"
+    "US-Iran Relations",
+    "Houthi Militia Activity"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Lack of Political Tension",
-    "Economic Fluctuations"
+    "Regional Conflict",
+    "Economic Uncertainty"
   ]
 }

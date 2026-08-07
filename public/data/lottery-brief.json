@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T05:34:47.232Z",
+  "generated_at": "2026-08-07T04:37:18.095Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 20,
     "negative": 20
   },
-  "dominantNarrative": "Winning big changes lives",
+  "dominantNarrative": "Big wins change lives",
   "keyEmotions": [
     "excitement",
     "optimism",
-    "disappointment"
+    "skepticism"
   ],
-  "psychInsight": "The allure of life-changing winnings drives public fascination with lotteries, while losses can evoke feelings of disappointment and frustration. The human brain's tendency to overestimate low-probability events contributes to the enduring appeal of gambling.",
+  "psychInsight": "The public is driven by the desire for life-changing wins, with lottery jackpots and raffles tapping into this aspiration. However, reports of winners' troubles also evoke caution, highlighting the complex psychology of gambling and sudden wealth.",
   "riskSignals": [
     "problem gambling",
-    "financial stress"
+    "winner's troubles"
   ],
   "opportunitySignals": [
-    "responsible gaming initiatives",
-    "financial literacy programs"
+    "lottery engagement",
+    "raffle participation"
   ]
 }
