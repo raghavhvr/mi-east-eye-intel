@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-07T04:37:17.494Z",
+  "generated_at": "2026-08-08T03:56:41.762Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "Regional Tensions",
-  "summary": "The MENA region is experiencing ongoing security concerns, including a recent Houthi attack on Saudi Arabia and an Israeli army raid in East Jerusalem. Economic and cultural developments, such as sovereign capital growth and Emirati art exhibitions, are also shaping the regional landscape.",
+  "threatLevel": "LOW",
+  "topTheme": "MENA Regional Dynamics",
+  "summary": "The current open-source headlines indicate a mix of regional and global topics with no immediate security threats. The discussions are mostly centered around social and cultural issues, with some economic and geopolitical undertones.",
   "keyTrends": [
     "Geopolitical Tensions",
-    "Economic Diversification",
-    "Cultural Exchange"
+    "Social Media Usage",
+    "Economic Interests"
   ],
   "watchItems": [
-    "US-Iran Relations",
-    "Houthi Militia Activity"
+    "US-Russia Sanctions",
+    "Mecca Defence Agreement"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Regional Conflict",
-    "Economic Uncertainty"
+    "Lack of Coherent Threats",
+    "Diverse Range of Topics"
   ]
 }
