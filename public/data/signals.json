@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T03:46:42.552Z",
+  "generated_at": "2026-08-09T03:54:24.171Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,227 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 35,
-      "wind_kmh": 3,
+      "temp_c": 36,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
+    "UAE": {
+      "temp_c": 38,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
     "Kuwait": {
-      "temp_c": 37,
+      "temp_c": 36,
       "wind_kmh": 10,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 5,
+      "temp_c": 36,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 35,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Manama"
     },
     "Oman": {
       "temp_c": 33,
       "wind_kmh": 10,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
       "temp_c": 27,
-      "wind_kmh": 7,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Egypt": {
-      "temp_c": 23,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 32,
-      "wind_kmh": 5,
+      "temp_c": 34,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Baghdad"
     },
     "Jordan": {
-      "temp_c": 21,
-      "wind_kmh": 5,
+      "temp_c": 23,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Amman"
     },
+    "Yemen": {
+      "temp_c": 19,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
     "Iran": {
-      "temp_c": 26,
-      "wind_kmh": 4,
+      "temp_c": 27,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 18,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308847,
+    "KWD": 0.30877,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.793552,
-    "IQD": 1311.985329
+    "EGP": 49.793699,
+    "IQD": 1311.995414
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vjebvu",
+        "title": "Powerball tonight gl",
+        "summary": "Good luck everyone",
+        "url": "https://reddit.com/r/Lottery/comments/1vjebvu/powerball_tonight_gl/",
+        "timestamp": "2026-08-09T02:48:49.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vjd545",
+        "title": "$20 Florida lottery ticket nothing in the bar code area",
+        "summary": "I bought it for a $20 lottery ticket from a 7 Eleven by my house and there's nothing in the barcode area it's completely blank any ideas I can't find anything online.",
+        "url": "https://reddit.com/r/Lottery/comments/1vjd545/20_florida_lottery_ticket_nothing_in_the_bar_code/",
+        "timestamp": "2026-08-09T01:47:14.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vjcsu3",
+        "title": "Powerball Winning Numbers (Wednesday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vjcsu3/powerball_winning_numbers_wednesday/",
+        "timestamp": "2026-08-09T01:30:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vjcstq",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vjcstq/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-08-09T01:30:15.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vj95ge",
+        "title": "Family drama and possibly millions",
+        "summary": "I've had a really difficult time with my mom for the past few years. At one point we were both in a pretty deep place, and somehow this stupid little project ended up turning something around between us. My mom was trying to use numerology ",
+        "url": "https://reddit.com/r/Lottery/comments/1vj95ge/family_drama_and_possibly_millions/",
+        "timestamp": "2026-08-08T22:37:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vj3p52",
+        "title": "To the person who keeps making me play his number instead of going to the fucking lottery machine go fuck your self",
+        "summary": "I frucked said it",
+        "url": "https://reddit.com/r/Lottery/comments/1vj3p52/to_the_person_who_keeps_making_me_play_his_number/",
+        "timestamp": "2026-08-08T18:43:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vj1lce",
+        "title": "Random but incredible",
+        "summary": "One of the smallest populations in Europe, but Belgium has won 4 of the 6 Euromillions jackpots this year. Grrrrr.",
+        "url": "https://reddit.com/r/Lottery/comments/1vj1lce/random_but_incredible/",
+        "timestamp": "2026-08-08T17:19:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vioy07",
+        "title": "Is PB going tomorrow?",
+        "summary": "I have a feeling that Powerball Jackpot would be gone tomorrow!!! And would be pissed if someone from UK wins! Are you guys playing tomorrow? If yes, how many tickets? QPs or your own numbers?  I am going with 3 QPs, and 3 mine! Fingers cro",
+        "url": "https://reddit.com/r/Lottery/comments/1vioy07/is_pb_going_tomorrow/",
+        "timestamp": "2026-08-08T06:52:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vilj04",
+        "title": "Best bang for buck opinions",
+        "summary": "Do ya’ll think buying the highest priced scratcher for example $20-$100 range is superior to buying for example 10x-$2 tickets or 100x$1 tickets ? Even on the low priced ones you can potentially hit $5k+ . Just curious about fellow thoughts",
+        "url": "https://reddit.com/r/Lottery/comments/1vilj04/best_bang_for_buck_opinions/",
+        "timestamp": "2026-08-08T03:46:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1viel1s",
         "title": "New powerball pay out idea.",
@@ -186,23 +321,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 18,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1vhld9e",
         "title": "Lottery winning could be hacked?",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬8",
         "url": "https://reddit.com/r/Lottery/comments/1vhld9e/lottery_winning_could_be_hacked/",
         "timestamp": "2026-08-07T00:18:20.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -582,36 +717,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1vd8zai",
-        "title": "Where can I see a list of all the superlotto (ca) jackpot winners?",
-        "summary": "Since ca is a non-anonymous state",
-        "url": "https://reddit.com/r/Lottery/comments/1vd8zai/where_can_i_see_a_list_of_all_the_superlotto_ca/",
-        "timestamp": "2026-08-02T05:06:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vd862c",
-        "title": "When you play the lottery, do you prefer Quick Pick or you pick your own numbers?",
-        "summary": "↑5 · 💬19",
-        "url": "https://reddit.com/r/Lottery/comments/1vd862c/when_you_play_the_lottery_do_you_prefer_quick/",
-        "timestamp": "2026-08-02T04:24:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 19,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9w",
         "title": "IRD rolls out taxpayer lottery portal",
         "summary": "Kathmandu, Aug. 2: The Inland Revenue Department (IRD) has launched an online portal for its taxpayer incentive scheme, allowing consumers who pay in cash to upload their purchase bills for a chance to win cash rewards. In a notice issued on Saturday, the dep…",
@@ -623,66 +728,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vd4nbw",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑2 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1vd4nbw/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-08-02T01:30:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vd4ewm",
-        "title": "First play BIG pay!",
-        "summary": "I went to Hannafords to go shop for someone which I never do... the store had a lottery machine and their only $50 ticket is what I grabbed.  Happened to grab the $500 winner!",
-        "url": "https://reddit.com/r/Lottery/comments/1vd4ewm/first_play_big_pay/",
-        "timestamp": "2026-08-02T01:18:57.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 9,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vd0cto",
-        "title": "But why?",
-        "summary": "I purchased several scratch offs for Texas Monaco Cash lottery all were not winners, but there was a second chance entry for all non winners, why when I go to enter does the Texas lottery already need my social security number? I can see gi",
-        "url": "https://reddit.com/r/Lottery/comments/1vd0cto/but_why/",
-        "timestamp": "2026-08-01T22:12:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vc8ubx",
-        "title": "Redeeming small wins at the lotto machines instead of interacting with surly cashier Would be so nice.",
-        "summary": "Lotto is the only reason i go into any of those liquor store/smokeshop type of establishments. I don't do the ones at grocery stores because they smack dab in front of the store checkout where everyone will watch you and judge. lol.",
-        "url": "https://reddit.com/r/Lottery/comments/1vc8ubx/redeeming_small_wins_at_the_lotto_machines/",
-        "timestamp": "2026-08-01T00:54:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -730,35 +775,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "hn-lot-49049693",
-        "title": "Show HN: Brolly, a plain-text weather forecast site",
-        "summary": "228 pts · 84 comments",
-        "url": "https://brolly.sh/forecast/RWFP2qW8",
-        "timestamp": "2026-07-25T17:34:34.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 228,
-        "comments": 84,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 43,
+      "totalSignals": 45,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 37,
+        "HOPEFUL": 39,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 14
+      "uncertaintyScore": 13
     }
   }
 }
