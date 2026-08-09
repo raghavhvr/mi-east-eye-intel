@@ -1,21 +1,22 @@
 {
-  "generated_at": "2026-08-08T03:56:41.762Z",
+  "generated_at": "2026-08-09T04:03:26.109Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "MENA Regional Dynamics",
-  "summary": "The current open-source headlines indicate a mix of regional and global topics with no immediate security threats. The discussions are mostly centered around social and cultural issues, with some economic and geopolitical undertones.",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Conflict",
+  "summary": "Tensions persist in the MENA region with incidents involving Saudi Arabia, Israel, and Yemen, while wildfires and helicopter crashes also pose concerns. Regional instability and security threats remain a focus for analysts and policymakers alike.",
   "keyTrends": [
-    "Geopolitical Tensions",
-    "Social Media Usage",
-    "Economic Interests"
+    "Regional Conflict",
+    "Security Threats",
+    "Wildfire Response"
   ],
   "watchItems": [
-    "US-Russia Sanctions",
-    "Mecca Defence Agreement"
+    "Saudi Aramco",
+    "Gaza Strip",
+    "UAE Oil Tankers"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Lack of Coherent Threats",
-    "Diverse Range of Topics"
+    "Regional Unrest",
+    "Security Incidents"
   ]
 }
