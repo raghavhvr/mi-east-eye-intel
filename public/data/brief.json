@@ -1,22 +1,21 @@
 {
-  "generated_at": "2026-08-09T04:03:26.109Z",
+  "generated_at": "2026-08-10T04:16:34.934Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Conflict",
-  "summary": "Tensions persist in the MENA region with incidents involving Saudi Arabia, Israel, and Yemen, while wildfires and helicopter crashes also pose concerns. Regional instability and security threats remain a focus for analysts and policymakers alike.",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Sports News",
+  "summary": "The majority of headlines focus on sports and local issues, with no major security threats identified. However, rising oil prices and tensions between the US and Israel may have regional implications.",
   "keyTrends": [
-    "Regional Conflict",
-    "Security Threats",
-    "Wildfire Response"
+    "Sports updates",
+    "Regional tensions",
+    "Oil price fluctuations"
   ],
   "watchItems": [
-    "Saudi Aramco",
-    "Gaza Strip",
-    "UAE Oil Tankers"
+    "US-Israel relations",
+    "Strait of Hormuz"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Regional Unrest",
-    "Security Incidents"
+    "Lack of major security threats",
+    "Regional focus on sports"
   ]
 }
