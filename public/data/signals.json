@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:54:24.171Z",
+  "generated_at": "2026-08-10T04:09:42.235Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -21,69 +21,69 @@
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Kuwait": {
-      "temp_c": 36,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Qatar": {
-      "temp_c": 36,
-      "wind_kmh": 10,
+      "temp_c": 38,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Doha"
     },
+    "UAE": {
+      "temp_c": 37,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 33,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Bahrain": {
       "temp_c": 35,
-      "wind_kmh": 6,
-      "condition": "Clear",
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
       "city": "Manama"
     },
     "Oman": {
       "temp_c": 33,
-      "wind_kmh": 10,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
       "temp_c": 27,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Iraq": {
-      "temp_c": 34,
-      "wind_kmh": 7,
+      "wind_kmh": 5,
       "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Beirut"
     },
     "Jordan": {
       "temp_c": 23,
-      "wind_kmh": 6,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Yemen": {
-      "temp_c": 19,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+    "Iraq": {
+      "temp_c": 33,
+      "wind_kmh": 1,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Egypt": {
       "temp_c": 25,
-      "wind_kmh": 8,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 27,
+    "Yemen": {
+      "temp_c": 20,
       "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 31,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     }
@@ -92,15 +92,105 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.30877,
+    "KWD": 0.308239,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.793699,
-    "IQD": 1311.995414
+    "EGP": 49.817643,
+    "IQD": 1312.319404
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vk5784",
+        "title": "In your experience, do any of the “tricks” to winning the lottery actually work?",
+        "summary": "I’m talking about buying the first few scratchers in a row, “lucky” vendors, going to different states, etc. Just curious what your experience is. I’m in Georgia, by the way, so that’s the lottery I mostly play.",
+        "url": "https://reddit.com/r/Lottery/comments/1vk5784/in_your_experience_do_any_of_the_tricks_to/",
+        "timestamp": "2026-08-09T23:54:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vk53qy",
+        "title": "PA Lottery subscriptions on the app, anyone have any insight when they will return?",
+        "summary": "Used the subscription option for years, mega millions and Powerball, it WAS a fantastic service. Really nice that it had no service fee or anything. They abruptly stopped it several months back, now you can only do one draw at a time. Which",
+        "url": "https://reddit.com/r/Lottery/comments/1vk53qy/pa_lottery_subscriptions_on_the_app_anyone_have/",
+        "timestamp": "2026-08-09T23:49:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vk0m9y",
+        "title": "Checking Lottery \"Pick a Date\"",
+        "summary": "What does the \"Pick a date\" mean to check your lottery ticket online mean? When you go to an online website to pick a date to check your lottery numbers, it asks for pick a date. What does that mean? Is that the date of when you bought your",
+        "url": "https://reddit.com/r/Lottery/comments/1vk0m9y/checking_lottery_pick_a_date/",
+        "timestamp": "2026-08-09T20:37:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vjtqu4",
+        "title": "Regret stories",
+        "summary": "Hi all, Happy Summer!  With a HUGE powerball jackpot and my daydreaming about winning, I ask:  How many people REALLY regret winning?  Feel like these articles and stories are just out there to make people feel better that they didn’t win a",
+        "url": "https://reddit.com/r/Lottery/comments/1vjtqu4/regret_stories/",
+        "timestamp": "2026-08-09T16:07:33.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vjr9ye",
+        "title": "Just curious about jackpot winner places",
+        "summary": "I think most jackpot winners bought their tickets at small towns or some gas stations along highway. Why none of them from downtown big cities such as ny, la, or chicago.  Just curious.",
+        "url": "https://reddit.com/r/Lottery/comments/1vjr9ye/just_curious_about_jackpot_winner_places/",
+        "timestamp": "2026-08-09T14:27:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vjgfsl",
+        "title": "95 million dollars away….lt’s happening once again",
+        "summary": "Current Powerball 905 million $… the next few days or weeks are going to be interesting, I can imagine the news headlines in the U.S, and sadly the U.K will the PB hitting one billion. Crazy how folks in two countries are competing for the ",
+        "url": "https://reddit.com/r/Lottery/comments/1vjgfsl/95_million_dollars_awaylts_happening_once_again/",
+        "timestamp": "2026-08-09T04:39:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vjebvu",
         "title": "Powerball tonight gl",
@@ -192,6 +282,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Moore leads GB&I to Shergar Cup at Ascot",
+        "summary": "Following a break of 20 years, Ryan Moore returned to the Dubai Duty Free Shergar Cup with a vengeance as he spearheaded a decisive Great Britain & Ireland success at Ascot in the premier jockeys' competition.",
+        "url": "https://www.rte.ie/sport/racing/2026/0808/1587093-moore-lead-gbi-to-shergar-cup-at-ascot/",
+        "timestamp": "2026-08-08T17:37:09Z",
+        "source": "RTE",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1vj1lce",
         "title": "Random but incredible",
         "summary": "One of the smallest populations in Europe, but Belgium has won 4 of the 6 Euromillions jackpots this year. Grrrrr.",
@@ -216,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 45,
+        "comments": 30,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -261,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -276,8 +381,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -291,8 +396,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 9,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -306,8 +411,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 50,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -642,81 +747,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1vek48k",
-        "title": "Do you think the Powerball is getting won tonight?",
-        "summary": "I think so!  (by me 🤪)",
-        "url": "https://reddit.com/r/Lottery/comments/1vek48k/do_you_think_the_powerball_is_getting_won_tonight/",
-        "timestamp": "2026-08-03T17:32:22.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 22,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vecj2w",
-        "title": "$167M Kentucky Powerball lottery winner arrested AGAIN for allegedly strangling woman",
-        "summary": "↑19 · 💬7",
-        "url": "https://reddit.com/r/Lottery/comments/1vecj2w/167m_kentucky_powerball_lottery_winner_arrested/",
-        "timestamp": "2026-08-03T12:50:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 19,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1vec4fo",
-        "title": "Premium gold instant winner",
-        "summary": "Anyone play this game,if yes where is it available i play from (nova scotia) someone jist hot the jackpot yesterday of about 5 million. Any thoughts on this game if u ever played, how come this game is new but had the jackpot of 4 million i",
-        "url": "https://reddit.com/r/Lottery/comments/1vec4fo/premium_gold_instant_winner/",
-        "timestamp": "2026-08-03T12:32:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vdu87y",
-        "title": "[NEED FEEDBACK] I coded a statistical filter system for the lottery.. Thoughts needed",
-        "summary": "Hello everyone, Like a lot of people, I occasionally buy a Powerball or Mega Millions ticket when the jackpot gets huge. But every time I play, my brain goes to the exact same place: Is there actually a mathematical way to play smarter? I l",
-        "url": "https://reddit.com/r/Lottery/comments/1vdu87y/need_feedback_i_coded_a_statistical_filter_system/",
-        "timestamp": "2026-08-02T21:32:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vdjkbh",
-        "title": "One number off from a big payout.. Devasted.",
-        "summary": "I was one point off from a $260,000+ payout via lotto 6/49 in Canada. If the second number was a 22 instead of a 21 I would have gotten 5/6.. I'm genuinely so devasted. Words could not describe how much that kind of money would mean to my w",
-        "url": "https://reddit.com/r/Lottery/comments/1vdjkbh/one_number_off_from_a_big_payout_devasted/",
-        "timestamp": "2026-08-02T14:30:31.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 11,
-        "comments": 15,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9w",
         "title": "IRD rolls out taxpayer lottery portal",
         "summary": "Kathmandu, Aug. 2: The Inland Revenue Department (IRD) has launched an online portal for its taxpayer incentive scheme, allowing consumers who pay in cash to upload their purchase bills for a chance to win cash rewards. In a notice issued on Saturday, the dep…",
@@ -760,35 +790,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Step inside Stonehenge! Visitors offered rare chance to enter ancient stone circle usually reserved for VIPs",
-        "summary": "Normally viewed only from behind a barrier, Stonehenge's ancient stone circle will be opened to one lucky booking each day throughout August as part of a new prize draw.",
-        "url": "https://www.dailymail.com/travel/article-16015927/stonehenge-visit-vip-experience-english-heritage.html",
-        "timestamp": "2026-07-30T10:00:23Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 45,
+      "totalSignals": 46,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 39,
+        "HOPEFUL": 42,
         "CYNICAL": 0,
-        "ANXIOUS": 2,
-        "NEUTRAL": 4
+        "ANXIOUS": 1,
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 13
+      "uncertaintyScore": 9
     }
   }
 }
