@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-10T04:16:34.934Z",
+  "generated_at": "2026-08-11T04:05:22.452Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "Regional Sports News",
-  "summary": "The majority of headlines focus on sports and local issues, with no major security threats identified. However, rising oil prices and tensions between the US and Israel may have regional implications.",
+  "threatLevel": "MODERATE",
+  "topTheme": "Iran Defence Agreement",
+  "summary": "The region is witnessing a mix of geopolitical tensions and non-security related events, with Iran's response to the Mecca Joint Defence Agreement being a key point of interest. The overall atmosphere remains cautious due to the potential for escalation in regional conflicts",
   "keyTrends": [
-    "Sports updates",
-    "Regional tensions",
-    "Oil price fluctuations"
+    "Iran Defence",
+    "US Military",
+    "Regional Sports"
   ],
   "watchItems": [
-    "US-Israel relations",
-    "Strait of Hormuz"
+    "Mecca Joint Defence Agreement",
+    "Trump's warnings to FIFA"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Lack of major security threats",
-    "Regional focus on sports"
+    "Geopolitical tensions",
+    "Regional instability"
   ]
 }

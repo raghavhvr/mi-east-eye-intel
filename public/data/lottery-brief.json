@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-10T04:16:35.559Z",
+  "generated_at": "2026-08-11T04:05:23.138Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 20,
-    "negative": 20
+    "neutral": 30,
+    "negative": 10
   },
-  "dominantNarrative": "Waiting for jackpot win",
+  "dominantNarrative": "Big jackpot wins",
   "keyEmotions": [
     "excitement",
-    "anticipation",
-    "frustration"
+    "optimism",
+    "anticipation"
   ],
-  "psychInsight": "The public's reactions are driven by the desire for a life-changing win, with hope and excitement fueling their engagement with lottery games. However, frustration and regret also emerge when expectations are not met, revealing a complex emotional landscape.",
+  "psychInsight": "The large jackpot amounts are driving feelings of hope and anticipation, with many individuals experiencing a psychological phenomenon known as the gambler's fallacy, where they believe their chances of winning are higher than they actually are. The social aspect of discussing lottery wins and near-misses also contributes to the overall sense of excitement and community among participants.",
   "riskSignals": [
-    "gambling addiction",
-    "financial stress"
+    "gambler's fallacy",
+    "financial overextension"
   ],
   "opportunitySignals": [
     "increased engagement",
-    "loyalty programs"
+    "community building"
   ]
 }
