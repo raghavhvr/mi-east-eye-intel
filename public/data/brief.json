@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-11T04:05:22.452Z",
+  "generated_at": "2026-08-12T04:25:58.661Z",
   "model": "groq/llama-3.3-70b-versatile",
   "threatLevel": "MODERATE",
-  "topTheme": "Iran Defence Agreement",
-  "summary": "The region is witnessing a mix of geopolitical tensions and non-security related events, with Iran's response to the Mecca Joint Defence Agreement being a key point of interest. The overall atmosphere remains cautious due to the potential for escalation in regional conflicts",
+  "topTheme": "MENA Regional Tensions",
+  "summary": "The region is experiencing increased instability due to attacks on oil infrastructure and rising tensions in the Strait of Hormuz. Economic and security concerns are driving anxiety in the region, with Lebanon seeking to diversify its diplomatic relationships",
   "keyTrends": [
-    "Iran Defence",
-    "US Military",
-    "Regional Sports"
+    "Oil Price Volatility",
+    "Regional Diplomacy",
+    "Security Threats"
   ],
   "watchItems": [
-    "Mecca Joint Defence Agreement",
-    "Trump's warnings to FIFA"
+    "Strait of Hormuz",
+    "Libya's Zawiya Power Station"
   ],
-  "userSentiment": "CAUTIOUS",
+  "userSentiment": "ANXIOUS",
   "sentimentDrivers": [
-    "Geopolitical tensions",
-    "Regional instability"
+    "Economic Uncertainty",
+    "Regional Conflict"
   ]
 }

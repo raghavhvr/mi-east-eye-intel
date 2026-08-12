@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T04:05:23.138Z",
+  "generated_at": "2026-08-12T04:25:59.286Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -7,19 +7,19 @@
     "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Big jackpot wins",
+  "dominantNarrative": "Big Jackpot Frenzy",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "anticipation"
+    "Excitement",
+    "Optimism",
+    "Anticipation"
   ],
-  "psychInsight": "The large jackpot amounts are driving feelings of hope and anticipation, with many individuals experiencing a psychological phenomenon known as the gambler's fallacy, where they believe their chances of winning are higher than they actually are. The social aspect of discussing lottery wins and near-misses also contributes to the overall sense of excitement and community among participants.",
+  "psychInsight": "The large jackpot amount triggers a psychological response of heightened excitement and optimism, driven by the prospect of life-changing winnings. This phenomenon is fueled by the brain's tendency to overestimate low-probability events, leading to an increase in lottery participation.",
   "riskSignals": [
-    "gambler's fallacy",
-    "financial overextension"
+    "Unrealistic expectations",
+    "Financial overextension"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "community building"
+    "Increased engagement",
+    "Potential windfall"
   ]
 }
