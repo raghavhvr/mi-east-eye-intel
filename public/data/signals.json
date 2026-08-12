@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:56:16.462Z",
+  "generated_at": "2026-08-12T04:18:43.489Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,227 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 36,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 7,
+      "temp_c": 35,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Kuwait": {
-      "temp_c": 34,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 1,
+      "temp_c": 36,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Saudi Arabia": {
+      "temp_c": 35,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "Oman": {
-      "temp_c": 34,
-      "wind_kmh": 4,
+      "temp_c": 37,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 3,
+      "temp_c": 37,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 3,
+      "temp_c": 28,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Beirut"
     },
+    "Jordan": {
+      "temp_c": 25,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
     "Iraq": {
-      "temp_c": 33,
+      "temp_c": 35,
       "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 5,
+    "Yemen": {
+      "temp_c": 21,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Sanaa"
     },
     "Iran": {
       "temp_c": 29,
       "wind_kmh": 1,
       "condition": "Partly Cloudy",
       "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 19,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308695,
+    "KWD": 0.308619,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 49.942126,
-    "IQD": 1312.348309
+    "EGP": 50.233243,
+    "IQD": 1312.379017
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vlvhia",
+        "title": "Updating last powerball draw on dollargravity.com",
+        "summary": "I feel like I am getting close to the winning numbers!",
+        "url": "https://reddit.com/r/Lottery/comments/1vlvhia/updating_last_powerball_draw_on_dollargravitycom/",
+        "timestamp": "2026-08-11T22:02:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vlp6m6",
+        "title": "So Powerball is at 1bill again huh",
+        "summary": "Now people who dont usually play will say why not.  I'm playing how bout you?",
+        "url": "https://reddit.com/r/Lottery/comments/1vlp6m6/so_powerball_is_at_1bill_again_huh/",
+        "timestamp": "2026-08-11T18:09:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vlolkq",
+        "title": "Powerball Jackpot Soars to Nearly $1BN, Numbers Revealed as 2026's Richest Jackpot Keeps Growing",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vlolkq/powerball_jackpot_soars_to_nearly_1bn_numbers/",
+        "timestamp": "2026-08-11T17:49:33.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vlkgky",
+        "title": "44 straight Powerball drawings without a jackpot winner — does the rollover ever bother you?",
+        "summary": "I understand how the rollover works, and the jackpot size is part of the appeal. But after 44 straight drawings since May 2nd without a single winner, I'm curious how other players think about the tradeoff.       The odds of hitting the jac",
+        "url": "https://reddit.com/r/Lottery/comments/1vlkgky/44_straight_powerball_drawings_without_a_jackpot/",
+        "timestamp": "2026-08-11T15:21:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vljva1",
+        "title": "How much money would I need to win",
+        "summary": "How much money would I need to win to get off Social Security? And what small amount of a lottery win that I would not receive my social security payments? Let’s just say that I won $100K, not enough to comfortably live off of but enough th",
+        "url": "https://reddit.com/r/Lottery/comments/1vljva1/how_much_money_would_i_need_to_win/",
+        "timestamp": "2026-08-11T15:00:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vlhzs9",
+        "title": "Winning numbers all add up to 10? 8/10/2026",
+        "summary": "6   54    (54+6=60. 6 balls in play. 60/6=10)   64   (6+4=10)   55   (5+5=10)   37   (3+7=10)    Powerball was 10.    Multiplier was 3, making 7 numbers in play if you won the multiplier. 7+3= …. 10 I’m not saying in anyway this was predict",
+        "url": "https://reddit.com/r/Lottery/comments/1vlhzs9/winning_numbers_all_add_up_to_10_8102026/",
+        "timestamp": "2026-08-11T13:48:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vlbov2",
+        "title": "Jackpot?",
+        "summary": "Shud this be a jackpot winner?",
+        "url": "https://reddit.com/r/Lottery/comments/1vlbov2/jackpot/",
+        "timestamp": "2026-08-11T08:33:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vl8gwm",
+        "title": "How high does your state lotto get up to usually (if you have one)?",
+        "summary": "The California Super Lotto Plus is now at 45 million.  given the odds compared to the national (or multinational) lotteries, and the price to play at 1 dollar I am only playing this one now since its still 1 dollar per play. it makes more s",
+        "url": "https://reddit.com/r/Lottery/comments/1vl8gwm/how_high_does_your_state_lotto_get_up_to_usually/",
+        "timestamp": "2026-08-11T05:27:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vl7r1r",
+        "title": "Do you guys believe Powerball will reach $1Billion before the next drawing?",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vl7r1r/do_you_guys_believe_powerball_will_reach_1billion/",
+        "timestamp": "2026-08-11T04:49:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vl3lfh",
         "title": "Me again",
@@ -162,17 +297,47 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9i",
+        "title": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest",
+        "summary": "After 42 drawings with no jackpot winner, the Powerball's big prize stands at $905 million in annual payments or a lump sum cash payment of $391.9 million. The next drawing is set for tonight, Aug. 10.\nThe odds of winning a lottery jackpot are slim — 1 in 292…",
+        "url": "https://biztoc.com/x/12858271f102e468",
+        "timestamp": "2026-08-10T15:51:18Z",
+        "source": "Biztoc.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9m",
+        "title": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest.",
+        "summary": "Here's how much of the Powerball prize you would take home after taxes — plus six ways to invest your windfall.",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-905-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
+        "timestamp": "2026-08-10T15:44:01Z",
+        "source": "Yahoo Entertainment",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1vkoa3c",
         "title": "The National Lottery is advertising the Powerball jackpot prize in the UK as £467million, which equals roughly $628.8million USD. This is much less than the $905million",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬12",
         "url": "https://reddit.com/r/Lottery/comments/1vkoa3c/the_national_lottery_is_advertising_the_powerball/",
         "timestamp": "2026-08-10T15:37:31.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 12,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 15,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +366,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 51,
+        "comments": 18,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -217,7 +382,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -231,8 +396,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -246,8 +411,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -261,8 +426,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 20,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -702,81 +867,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1vgdqhp",
-        "title": "I found old lottery tickets in my room what do I do with them?",
-        "summary": "Are they a winner? If so idk if I want to throw them out or not. I not buying any lottery for awhile because I now broke",
-        "url": "https://reddit.com/r/Lottery/comments/1vgdqhp/i_found_old_lottery_tickets_in_my_room_what_do_i/",
-        "timestamp": "2026-08-05T17:20:23.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vfq7y0",
-        "title": "Buy a roll or from different places",
-        "summary": "Hi all, Happy Summer!  Looking to buy some lotto cards and was wondering:  Should I buy ten from   The same place or five from two diffent spots?  Im leaning towards the former. Thanks!",
-        "url": "https://reddit.com/r/Lottery/comments/1vfq7y0/buy_a_roll_or_from_different_places/",
-        "timestamp": "2026-08-04T23:14:03.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vfjsoh",
-        "title": "Undocumented Mother Blackmailed by Uncle to Hand Over $2M Lottery Ticket",
-        "summary": "I apologize in advance if this has been posted before, this is a reminder I hope all of you that win big keep it to yourselves. [https://www.gamblingnews.com/news/undocumented-mother-blackmailed-by-uncle-to-hand-over-2m-lottery-ticket/](htt",
-        "url": "https://reddit.com/r/Lottery/comments/1vfjsoh/undocumented_mother_blackmailed_by_uncle_to_hand/",
-        "timestamp": "2026-08-04T19:07:55.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vfhm2k",
-        "title": "Some had a good pay day or something",
-        "summary": "So I went into my local quicky mart store and found someone put $100 in the lotto machine. I looked about inside and  saw nobody outside waiting around so I asked the staff about it. They told me its in there cant get it back and nobody's c",
-        "url": "https://reddit.com/r/Lottery/comments/1vfhm2k/some_had_a_good_pay_day_or_something/",
-        "timestamp": "2026-08-04T17:50:22.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 43,
-        "comments": 8,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vff53a",
-        "title": "Should the US cap Powerball at 250 million like Euromillions?",
-        "summary": "Euromillions jackpots are capped at 250 million and if no one wins after 5 consecutive 250 million euro games they award the prize to winners in the next tier.  The extra money from the no wins is also split between the other lower tier win",
-        "url": "https://reddit.com/r/Lottery/comments/1vff53a/should_the_us_cap_powerball_at_250_million_like/",
-        "timestamp": "2026-08-04T16:23:39.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 24,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Michigan woman reveals how father's $13 million lottery win changed family’s life",
         "summary": "In 2013, a father from Michigan struck it rich with over thirteen million dollars in the lottery. This newfound wealth initially filled his family with joy and security. However, poor gambling choices and lavish spending quickly eroded their fortune. After he…",
@@ -820,35 +910,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Rob Gronkowski Explains How Raffles Worked at Taylor and Travis' Wedding",
-        "summary": "Former NFL star Rob Gronkowski spilled all the tea on the raffle system at Taylor Swift and Travis Kelce’s star-studded wedding. “I did [participate in the raffle],” Gronkowski, 37, told People in a new interview published on Thursday, July 30. “I was trying …",
-        "url": "https://www.usmagazine.com/celebrity-news/news/rob-gronkowski-explains-raffles-at-taylor-and-travis-wedding/",
-        "timestamp": "2026-07-30T19:29:28Z",
-        "source": "Us Weekly",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 49,
+      "totalSignals": 54,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 45,
+        "HOPEFUL": 50,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 8
+      "uncertaintyScore": 7
     }
   }
 }
