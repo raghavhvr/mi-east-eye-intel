@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-12T04:25:58.661Z",
+  "generated_at": "2026-08-13T04:28:50.186Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Regional Tensions",
-  "summary": "The region is experiencing increased instability due to attacks on oil infrastructure and rising tensions in the Strait of Hormuz. Economic and security concerns are driving anxiety in the region, with Lebanon seeking to diversify its diplomatic relationships",
+  "threatLevel": "LOW",
+  "topTheme": "Regional Lifestyle",
+  "summary": "The region's social and cultural landscape is the primary focus, with discussions on everyday life, education, and entertainment. There is no indication of significant security concerns or geopolitical tensions in the provided headlines.",
   "keyTrends": [
-    "Oil Price Volatility",
-    "Regional Diplomacy",
-    "Security Threats"
+    "Education Abroad",
+    "Language Dominance",
+    "Vaping Regulations"
   ],
   "watchItems": [
-    "Strait of Hormuz",
-    "Libya's Zawiya Power Station"
+    "Houthi Spokesperson's Social Media",
+    "Gulf University Plagiarism Scandals"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "INDIFFERENT",
   "sentimentDrivers": [
-    "Economic Uncertainty",
-    "Regional Conflict"
+    "Lack of Security Concerns",
+    "Focus on Lifestyle Topics"
   ]
 }

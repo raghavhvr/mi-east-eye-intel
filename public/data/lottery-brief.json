@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-12T04:25:59.286Z",
+  "generated_at": "2026-08-13T04:28:50.917Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 60,
-    "neutral": 30,
+    "positive": 70,
+    "neutral": 20,
     "negative": 10
   },
-  "dominantNarrative": "Big Jackpot Frenzy",
+  "dominantNarrative": "Big Win Ahead",
   "keyEmotions": [
     "Excitement",
     "Optimism",
     "Anticipation"
   ],
-  "psychInsight": "The large jackpot amount triggers a psychological response of heightened excitement and optimism, driven by the prospect of life-changing winnings. This phenomenon is fueled by the brain's tendency to overestimate low-probability events, leading to an increase in lottery participation.",
+  "psychInsight": "The large jackpot amount is driving feelings of hope and anticipation, with many individuals experiencing a heightened sense of excitement and optimism about their chances of winning. This behavior is consistent with the psychological concept of variable reward schedules, where the potential for a large reward can lead to increased engagement and motivation.",
   "riskSignals": [
-    "Unrealistic expectations",
-    "Financial overextension"
+    "Unclaimed tickets",
+    "Rollover anxiety"
   ],
   "opportunitySignals": [
     "Increased engagement",
-    "Potential windfall"
+    "Growing jackpot"
   ]
 }
