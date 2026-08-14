@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-13T04:28:50.917Z",
+  "generated_at": "2026-08-14T04:26:31.806Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 70,
-    "neutral": 20,
+    "positive": 60,
+    "neutral": 30,
     "negative": 10
   },
-  "dominantNarrative": "Big Win Ahead",
+  "dominantNarrative": "Big Wins Inspire Hope",
   "keyEmotions": [
     "Excitement",
     "Optimism",
-    "Anticipation"
+    "Disappointment"
   ],
-  "psychInsight": "The large jackpot amount is driving feelings of hope and anticipation, with many individuals experiencing a heightened sense of excitement and optimism about their chances of winning. This behavior is consistent with the psychological concept of variable reward schedules, where the potential for a large reward can lead to increased engagement and motivation.",
+  "psychInsight": "The large jackpot amounts are triggering a psychological response known as the variable reward schedule, releasing dopamine and encouraging continued participation. The public's mood is also influenced by social proof, where others' wins reinforce the belief that winning is possible.",
   "riskSignals": [
     "Unclaimed tickets",
-    "Rollover anxiety"
+    "Impulsive spending"
   ],
   "opportunitySignals": [
     "Increased engagement",
-    "Growing jackpot"
+    "Growing lottery market"
   ]
 }

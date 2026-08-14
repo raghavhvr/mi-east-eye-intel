@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-13T04:28:50.186Z",
-  "model": "groq/llama-3.3-70b-versatile",
+  "generated_at": "2026-08-14T04:26:30.835Z",
+  "model": "keyword-fallback",
   "threatLevel": "LOW",
-  "topTheme": "Regional Lifestyle",
-  "summary": "The region's social and cultural landscape is the primary focus, with discussions on everyday life, education, and entertainment. There is no indication of significant security concerns or geopolitical tensions in the provided headlines.",
+  "topTheme": "Political Developments",
+  "summary": "Regional signals indicate low activity with focus on political developments. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "Education Abroad",
-    "Language Dominance",
-    "Vaping Regulations"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Houthi Spokesperson's Social Media",
-    "Gulf University Plagiarism Scandals"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
-  "userSentiment": "INDIFFERENT",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Lack of Security Concerns",
-    "Focus on Lifestyle Topics"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }
