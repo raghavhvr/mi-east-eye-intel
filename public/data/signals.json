@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T04:22:38.291Z",
+  "generated_at": "2026-08-14T04:20:07.972Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,155 @@
     "Iran": null
   },
   "weather": {
-    "Oman": {
-      "temp_c": 35,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Saudi Arabia": {
-      "temp_c": 35,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Qatar": {
       "temp_c": 36,
       "wind_kmh": 3,
       "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Qatar": {
+      "temp_c": 35,
+      "wind_kmh": 0,
+      "condition": "Clear",
       "city": "Doha"
     },
-    "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 5,
+    "Saudi Arabia": {
+      "temp_c": 35,
+      "wind_kmh": 3,
       "condition": "Clear",
-      "city": "Amman"
+      "city": "Riyadh"
     },
-    "Yemen": {
-      "temp_c": 20,
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Jordan": {
+      "temp_c": 21,
       "wind_kmh": 11,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 34,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Iran": {
-      "temp_c": 29,
-      "wind_kmh": 1,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
+      "city": "Amman"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308491,
+    "KWD": 0.308501,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.212831,
-    "IQD": 1311.073185
+    "EGP": 50.269967,
+    "IQD": 1311.728305
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vnwjab",
+        "title": "Claimer. $10 Jumbo Bucks",
+        "summary": "Florida Lottery win !",
+        "url": "https://reddit.com/r/Lottery/comments/1vnwjab/claimer_10_jumbo_bucks/",
+        "timestamp": "2026-08-14T03:53:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vnkuvw",
+        "title": "And another $1k on royal jackpot",
+        "summary": "2nd claimer on CA Royal jackpot",
+        "url": "https://reddit.com/r/Lottery/comments/1vnkuvw/and_another_1k_on_royal_jackpot/",
+        "timestamp": "2026-08-13T19:33:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vnhdtw",
+        "title": "Bruh",
+        "summary": "I got pump faked.  For a solid 20 seconds I legit thought I won the Powerball last night.  That damn notification",
+        "url": "https://reddit.com/r/Lottery/comments/1vnhdtw/bruh/",
+        "timestamp": "2026-08-13T17:31:08.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vne7c0",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1vne7c0/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-08-13T15:38:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vncegy",
+        "title": "I could have won the jackpot 😭😭😭",
+        "summary": "I could have won 2 million but missed the first number by -1. It was 2, mine was 3 😭😭😭😭😭. I got $750 CAD anyways !!!",
+        "url": "https://reddit.com/r/Lottery/comments/1vncegy/i_could_have_won_the_jackpot/",
+        "timestamp": "2026-08-13T14:32:35.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vncbow",
+        "title": "I could have won the jackpot 😭😭😭",
+        "summary": "I could have won 2 million but missed the first number by -1. It was 2 mine was 3 😭😭😭😭😭. I got $750 CAD anyways !!!",
+        "url": "https://reddit.com/r/Lottery/comments/1vncbow/i_could_have_won_the_jackpot/",
+        "timestamp": "2026-08-13T14:29:43.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vn168l",
+        "title": "Winner in Illinois For 1 Billion Dollar Powerball Prize 🏆",
+        "summary": "Illinois is awesome because you can buy tickets through the state lottery app and they direct deposit into your account ASAP! ✅",
+        "url": "https://reddit.com/r/Lottery/comments/1vn168l/winner_in_illinois_for_1_billion_dollar_powerball/",
+        "timestamp": "2026-08-13T04:58:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vn0315",
         "title": "CONGRATULATIONS TO THE POWERBALL WINNER FROM ILLINOIS!!!! BLESSINGS TO EVERYBODY AND GOOD LUCK IN THE FUTURE!",
@@ -112,6 +175,21 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball jackpot hits $1 billion: Check ticket rules and drawing time",
+        "summary": "Powerball draw: The Powerball jackpot has soared to approximately one billion dollars, marking it as the eighth-largest prize ever in the game’s history. The last winning jackpot was awarded to two fortunate players on May 2. Drawings take place every Monday,…",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/powerball-jackpot-hits-1-billion-check-ticket-rules-and-drawing-time/articleshow/133195809.cms",
+        "timestamp": "2026-08-13T02:24:33Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -164,14 +242,14 @@
       {
         "id": "reddit-lot-1vmczot",
         "title": "Nothing crazy, but I guess this is my sign to throw 40% of my winnings at that $1 billion Powerball",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1vmczot/nothing_crazy_but_i_guess_this_is_my_sign_to/",
         "timestamp": "2026-08-12T12:39:28.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -187,7 +265,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +279,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 54,
+        "comments": 28,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -246,8 +324,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -261,22 +339,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 50,
+        "comments": 53,
         "mood": "NEUTRAL",
         "isME": false
       },
       {
         "id": "reddit-lot-1vlolkq",
         "title": "Powerball Jackpot Soars to Nearly $1BN, Numbers Revealed as 2026's Richest Jackpot Keeps Growing",
-        "summary": "↑1 · 💬0",
+        "summary": "↑11 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1vlolkq/powerball_jackpot_soars_to_nearly_1bn_numbers/",
         "timestamp": "2026-08-11T17:49:33.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 11,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -732,21 +810,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1vj3p52",
-        "title": "To the person who keeps making me play his number instead of going to the fucking lottery machine go fuck your self",
-        "summary": "I frucked said it",
-        "url": "https://reddit.com/r/Lottery/comments/1vj3p52/to_the_person_who_keeps_making_me_play_his_number/",
-        "timestamp": "2026-08-08T18:43:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 6,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Moore leads GB&I to Shergar Cup at Ascot",
         "summary": "Following a break of 20 years, Ryan Moore returned to the Dubai Duty Free Shergar Cup with a vengeance as he spearheaded a decisive Great Britain & Ireland success at Ascot in the premier jockeys' competition.",
@@ -760,96 +823,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1vj1lce",
-        "title": "Random but incredible",
-        "summary": "One of the smallest populations in Europe, but Belgium has won 4 of the 6 Euromillions jackpots this year. Grrrrr.",
-        "url": "https://reddit.com/r/Lottery/comments/1vj1lce/random_but_incredible/",
-        "timestamp": "2026-08-08T17:19:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 10,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vioy07",
-        "title": "Is PB going tomorrow?",
-        "summary": "I have a feeling that Powerball Jackpot would be gone tomorrow!!! And would be pissed if someone from UK wins! Are you guys playing tomorrow? If yes, how many tickets? QPs or your own numbers?  I am going with 3 QPs, and 3 mine! Fingers cro",
-        "url": "https://reddit.com/r/Lottery/comments/1vioy07/is_pb_going_tomorrow/",
-        "timestamp": "2026-08-08T06:52:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 45,
-        "comments": 30,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vilj04",
-        "title": "Best bang for buck opinions",
-        "summary": "Do ya’ll think buying the highest priced scratcher for example $20-$100 range is superior to buying for example 10x-$2 tickets or 100x$1 tickets ? Even on the low priced ones you can potentially hit $5k+ . Just curious about fellow thoughts",
-        "url": "https://reddit.com/r/Lottery/comments/1vilj04/best_bang_for_buck_opinions/",
-        "timestamp": "2026-08-08T03:46:40.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1viel1s",
-        "title": "New powerball pay out idea.",
-        "summary": "Anyone else think the powerball payout should be restructured?  I'd like to see something like 5w1p: Jackpot  5w: 10 million  4w1p: 1 million  4w: 10,000 3w1p: 1,000 3w: 100 2w1p: 10 1w1p: 5 0w1p: 0 Even if the price of the ticket went to 5",
-        "url": "https://reddit.com/r/Lottery/comments/1viel1s/new_powerball_pay_out_idea/",
-        "timestamp": "2026-08-07T22:18:48.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vicoct",
-        "title": "Got all the powerball winning numbers eventually on Aug- 5th",
-        "summary": "Can I win powerball mix and match these numbers?  What do you think?",
-        "url": "https://reddit.com/r/Lottery/comments/1vicoct/got_all_the_powerball_winning_numbers_eventually/",
-        "timestamp": "2026-08-07T21:01:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vicb9h",
-        "title": "All the winning numbers of Powerball Aug-5th",
-        "summary": "I am thinking how I can get the powerball winning number using dollargravity.com  If this lottery number generator helps?  What is your opinion?",
-        "url": "https://reddit.com/r/Lottery/comments/1vicb9h/all_the_winning_numbers_of_powerball_aug5th/",
-        "timestamp": "2026-08-07T20:46:34.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
@@ -943,17 +916,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 56,
+      "totalSignals": 57,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 52,
+        "HOPEFUL": 54,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 4
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 7
+      "uncertaintyScore": 5
     }
   }
 }
