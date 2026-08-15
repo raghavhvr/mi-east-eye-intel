@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-14T04:26:31.806Z",
+  "generated_at": "2026-08-15T03:21:01.310Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
     "positive": 60,
-    "neutral": 30,
-    "negative": 10
+    "neutral": 20,
+    "negative": 20
   },
   "dominantNarrative": "Big Wins Inspire Hope",
   "keyEmotions": [
     "Excitement",
-    "Optimism",
-    "Disappointment"
+    "Disappointment",
+    "Optimism"
   ],
-  "psychInsight": "The large jackpot amounts are triggering a psychological response known as the variable reward schedule, releasing dopamine and encouraging continued participation. The public's mood is also influenced by social proof, where others' wins reinforce the belief that winning is possible.",
+  "psychInsight": "The large jackpot wins trigger a psychological response of hope and excitement, driving individuals to participate in the lottery. The fear of missing out and disappointment of near-wins also play a significant role in shaping the public's emotional response.",
   "riskSignals": [
-    "Unclaimed tickets",
-    "Impulsive spending"
+    "Unclaimed prizes",
+    "Deadline anxiety"
   ],
   "opportunitySignals": [
-    "Increased engagement",
-    "Growing lottery market"
+    "Increased participation",
+    "Jackpot enthusiasm"
   ]
 }

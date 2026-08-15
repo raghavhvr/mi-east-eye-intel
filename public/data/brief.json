@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-14T04:26:30.835Z",
-  "model": "keyword-fallback",
-  "threatLevel": "LOW",
-  "topTheme": "Political Developments",
-  "summary": "Regional signals indicate low activity with focus on political developments. Monitoring 12 open-source data points.",
+  "generated_at": "2026-08-15T03:21:00.546Z",
+  "model": "groq/llama-3.3-70b-versatile",
+  "threatLevel": "MODERATE",
+  "topTheme": "MENA Geopolitics",
+  "summary": "The region remains volatile with potential flashpoints in the Strait of Hormuz and Yemen, while economic and social issues persist. Ongoing developments in the MENA region warrant continued monitoring and analysis to assess emerging threats and opportunities.",
   "keyTrends": [
-    "Ongoing monitoring",
-    "Signal analysis active",
-    "Data refresh scheduled"
+    "US-Iran tensions",
+    "Yemen conflict",
+    "Regional instability"
   ],
   "watchItems": [
-    "Regional escalation indicators",
-    "Economic sentiment shifts"
+    "Strait of Hormuz",
+    "Hamas elections"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
     "Geopolitical uncertainty",
-    "Economic signals"
+    "Economic concerns"
   ]
 }
