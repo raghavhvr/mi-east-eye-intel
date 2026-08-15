@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T04:20:07.972Z",
+  "generated_at": "2026-08-15T03:08:04.115Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,49 +16,121 @@
   },
   "weather": {
     "UAE": {
-      "temp_c": 36,
+      "temp_c": 33,
       "wind_kmh": 3,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 0,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Saudi Arabia": {
-      "temp_c": 35,
-      "wind_kmh": 3,
+      "temp_c": 33,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Riyadh"
     },
+    "Qatar": {
+      "temp_c": 34,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 33,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Jordan": {
+      "temp_c": 23,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 32,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
     "Kuwait": {
-      "temp_c": 37,
-      "wind_kmh": 8,
+      "temp_c": 36,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Jordan": {
-      "temp_c": 21,
+    "Egypt": {
+      "temp_c": 26,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Bahrain": {
+      "temp_c": 35,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 28,
       "wind_kmh": 11,
       "condition": "Partly Cloudy",
-      "city": "Amman"
+      "city": "Beirut"
+    },
+    "Yemen": {
+      "temp_c": 18,
+      "wind_kmh": 1,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 26,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308501,
+    "KWD": 0.308497,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.269967,
-    "IQD": 1311.728305
+    "EGP": 50.275333,
+    "IQD": 1311.74923
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vom0lv",
+        "title": "How can I cash this $500 ticket🫠it says you can only send it in if it’s over $599🫪",
+        "summary": "What locations can cash a $500 scratcher?? 🫥No gas station ever keeps more than $150 max in their registers.. 🙄so if you have cashed a $500 ticket plz help😮‍💨 Do Sports Bars Cash scratch tickets ?? \\-Lottery PRO’s I Need You☹️ \\-OHIO St",
+        "url": "https://reddit.com/r/Lottery/comments/1vom0lv/how_can_i_cash_this_500_ticketit_says_you_can/",
+        "timestamp": "2026-08-14T22:48:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1voea2s",
+        "title": "Texas lottery",
+        "summary": "Why do you have to choose lump sum vs annuity when you buy your ticket LMAO I bought a mega millions since I was in TX last night and I didn't know the gas station worker didn't tell me so I'm stuck with CVO if it does somehow happen to hit",
+        "url": "https://reddit.com/r/Lottery/comments/1voea2s/texas_lottery/",
+        "timestamp": "2026-08-14T17:51:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vnwjab",
         "title": "Claimer. $10 Jumbo Bucks",
@@ -105,6 +177,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "(VIDEO) Illinois Player Wins Record $1.04 Billion Powerball Jackpot, Eighth-Largest In History",
+        "summary": "A single Powerball ticket sold in Illinois won a $1.04 billion jackpot, marking the largest prize in 2026 and the second-largest in Illinois history. The winner's identity remains undisclosed.",
+        "url": "https://www.ibtimes.com.au/illinois-powerball-ticket-wins-billion-jackpot-1874027",
+        "timestamp": "2026-08-13T17:18:07Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1vne7c0",
         "title": "What Would You Do If You Won? (Weekly Discussion)",
         "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
@@ -129,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 11,
+        "comments": 15,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -150,6 +237,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Has Just Created a New Billionaire",
+        "summary": "A Powerball ticket sold at a gas station in western Illinois was the sole winner of the $1 billion jackpot, ending a three-month drought without a top-prize victor. The ticket that won the jackpot Wednesday night was purchased at a Hy-Vee station in Quincy, a…",
+        "url": "https://www.newser.com/story/394595/powerball-has-just-minted-a-new-billionaire.html",
+        "timestamp": "2026-08-13T13:59:00Z",
+        "source": "Newser",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1vn168l",
         "title": "Winner in Illinois For 1 Billion Dollar Powerball Prize 🏆",
         "summary": "Illinois is awesome because you can buy tickets through the state lottery app and they direct deposit into your account ASAP! ✅",
@@ -159,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 61,
+        "comments": 22,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -174,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 93,
+        "comments": 38,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -205,7 +307,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -219,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 31,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -234,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 59,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -571,6 +673,21 @@
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9m",
+        "title": "Powerball jackpot climbs to $1 billion. What you'd pocket after taxes, and what to do with the rest.",
+        "summary": "Here's how much of the Powerball prize you would take home after taxes — plus six ways to invest your windfall.",
+        "url": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-1-billion-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
+        "timestamp": "2026-08-10T15:44:01Z",
+        "source": "Yahoo Entertainment",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9m",
         "title": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest.",
         "summary": "Here's how much of the Powerball prize you would take home after taxes — plus six ways to invest your windfall.",
         "url": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-905-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
@@ -735,81 +852,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1vjebvu",
-        "title": "Powerball tonight gl",
-        "summary": "Good luck everyone",
-        "url": "https://reddit.com/r/Lottery/comments/1vjebvu/powerball_tonight_gl/",
-        "timestamp": "2026-08-09T02:48:49.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 4,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vjd545",
-        "title": "$20 Florida lottery ticket nothing in the bar code area",
-        "summary": "I bought it for a $20 lottery ticket from a 7 Eleven by my house and there's nothing in the barcode area it's completely blank any ideas I can't find anything online.",
-        "url": "https://reddit.com/r/Lottery/comments/1vjd545/20_florida_lottery_ticket_nothing_in_the_bar_code/",
-        "timestamp": "2026-08-09T01:47:14.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vjcsu3",
-        "title": "Powerball Winning Numbers (Wednesday)",
-        "summary": "↑2 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1vjcsu3/powerball_winning_numbers_wednesday/",
-        "timestamp": "2026-08-09T01:30:16.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vjcstq",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑2 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1vjcstq/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-08-09T01:30:15.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vj95ge",
-        "title": "Family drama and possibly millions",
-        "summary": "I've had a really difficult time with my mom for the past few years. At one point we were both in a pretty deep place, and somehow this stupid little project ended up turning something around between us. My mom was trying to use numerology ",
-        "url": "https://reddit.com/r/Lottery/comments/1vj95ge/family_drama_and_possibly_millions/",
-        "timestamp": "2026-08-08T22:37:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Moore leads GB&I to Shergar Cup at Ascot",
         "summary": "Following a break of 20 years, Ryan Moore returned to the Dubai Duty Free Shergar Cup with a vengeance as he spearheaded a decisive Great Britain & Ireland success at Ascot in the premier jockeys' competition.",
@@ -883,46 +925,16 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Michigan woman reveals how father's $13 million lottery win changed family’s life",
-        "summary": "In 2013, a father from Michigan struck it rich with over thirteen million dollars in the lottery. This newfound wealth initially filled his family with joy and security. However, poor gambling choices and lavish spending quickly eroded their fortune. After he…",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/michigan-woman-reveals-how-fathers-13-million-lottery-win-changed-familys-life/articleshow/132861712.cms",
-        "timestamp": "2026-08-04T13:00:16Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Powerball Jackpot Hits $748 Million: See Monday's Winning Numbers and What Experts Say to Do if You Win",
-        "summary": "The Powerball jackpot has reached $748 million, prompting financial advisors to offer crucial advice for potential winners on securing their ticket, choosing payout options, and managing sudden wealth.",
-        "url": "https://www.ibtimes.com.au/powerball-jackpot-748-million-expert-advice-1873518",
-        "timestamp": "2026-08-04T09:03:49Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 57,
-      "meSignals": 4,
+      "totalSignals": 55,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 54,
+        "HOPEFUL": 52,
         "CYNICAL": 0,
-        "ANXIOUS": 0,
-        "NEUTRAL": 3
+        "ANXIOUS": 1,
+        "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
