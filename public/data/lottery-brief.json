@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:21:01.310Z",
+  "generated_at": "2026-08-16T03:30:44.554Z",
   "model": "groq/llama-3.3-70b-versatile",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
@@ -9,17 +9,17 @@
   },
   "dominantNarrative": "Big Wins Inspire Hope",
   "keyEmotions": [
-    "Excitement",
-    "Disappointment",
-    "Optimism"
+    "excitement",
+    "disappointment",
+    "optimism"
   ],
-  "psychInsight": "The large jackpot wins trigger a psychological response of hope and excitement, driving individuals to participate in the lottery. The fear of missing out and disappointment of near-wins also play a significant role in shaping the public's emotional response.",
+  "psychInsight": "The public is driven by the thrill of potential life-changing wins, with recent big wins fueling optimism and excitement. However, repeated near-misses and losses also evoke feelings of disappointment and frustration, highlighting the complex emotional landscape of lottery players.",
   "riskSignals": [
-    "Unclaimed prizes",
-    "Deadline anxiety"
+    "problematic spending",
+    "false hope"
   ],
   "opportunitySignals": [
-    "Increased participation",
-    "Jackpot enthusiasm"
+    "increased engagement",
+    "player retention"
   ]
 }
