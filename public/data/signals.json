@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:08:04.115Z",
+  "generated_at": "2026-08-16T03:15:28.306Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,75 +15,75 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 33,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 33,
-      "wind_kmh": 2,
+      "temp_c": 34,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 34,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Oman": {
-      "temp_c": 33,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iraq": {
-      "temp_c": 32,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Kuwait": {
-      "temp_c": 36,
-      "wind_kmh": 11,
+      "temp_c": 37,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 2,
+    "UAE": {
+      "temp_c": 31,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Abu Dhabi"
     },
     "Bahrain": {
       "temp_c": 35,
-      "wind_kmh": 11,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Lebanon": {
-      "temp_c": 28,
-      "wind_kmh": 11,
+    "Oman": {
+      "temp_c": 33,
+      "wind_kmh": 2,
       "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Qatar": {
+      "temp_c": 34,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Lebanon": {
+      "temp_c": 26,
+      "wind_kmh": 5,
+      "condition": "Clear",
       "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 21,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 31,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Yemen": {
       "temp_c": 18,
-      "wind_kmh": 1,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Sanaa"
     },
     "Iran": {
-      "temp_c": 26,
-      "wind_kmh": 2,
+      "temp_c": 31,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     }
@@ -92,15 +92,90 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308497,
+    "KWD": 0.308452,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.275333,
-    "IQD": 1311.74923
+    "EGP": 50.274761,
+    "IQD": 1311.781001
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vpk4hy",
+        "title": "Will there be a PB winner tonight?",
+        "summary": "Last time, PB went off back to back after a jackpot win! Will there be a winner tonight? Are you guys playing? I got one QP just in case, i become the unluckiest winner tonight! 😅",
+        "url": "https://reddit.com/r/Lottery/comments/1vpk4hy/will_there_be_a_pb_winner_tonight/",
+        "timestamp": "2026-08-16T01:42:41.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vpjvkq",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vpjvkq/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-08-16T01:30:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vpdrli",
+        "title": "Homeless with $100 going full send on some lottery tickets",
+        "summary": "I'm in Los Angeles. What are some good tickets? I'm thinking either 10 $10 tickets or 5 $20 tickets.     I don't want a lecture. What else am I going to do with $100? Survive for a couple more days? What are some tickets that have won you a",
+        "url": "https://reddit.com/r/Lottery/comments/1vpdrli/homeless_with_100_going_full_send_on_some_lottery/",
+        "timestamp": "2026-08-15T20:50:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vp4vxz",
+        "title": "Can You Stay Anonymous With an Online Lottery Ticket in Michigan?",
+        "summary": "Here in Michigan, I’ve heard that people can stay anonymous after winning a large lottery prize by creating a lottery club. Supposedly, when it’s time to claim the prize, their lawyer can set up the club and claim the winnings on their beha",
+        "url": "https://reddit.com/r/Lottery/comments/1vp4vxz/can_you_stay_anonymous_with_an_online_lottery/",
+        "timestamp": "2026-08-15T14:53:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vp3gxs",
+        "title": "Predictions",
+        "summary": "Thinking of sharing lottery theoretical numbers.  Here’s a few below for today, 8/15/2026. let me know what you think and if I should do more of these.   421   976   921   911   679   826   8619   9221   9911   9921   4921",
+        "url": "https://reddit.com/r/Lottery/comments/1vp3gxs/predictions/",
+        "timestamp": "2026-08-15T13:53:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vom0lv",
         "title": "How can I cash this $500 ticket🫠it says you can only send it in if it’s over $599🫪",
@@ -132,6 +207,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly9m",
+        "title": "One ticket, one gas station, $1 billion: Powerball’s drought ends in Illinois",
+        "summary": "A single ticket sold at a Hy-Vee gas station in Quincy, Illinois won the $1.04 billion jackpot, ending Powerball's three-month drought.",
+        "url": "https://fortune.com/2026/08/14/one-ticket-one-gas-station-1-billion-powerballs-drought-ends-in-illinois/",
+        "timestamp": "2026-08-14T13:58:19Z",
+        "source": "Fortune",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1vnwjab",
         "title": "Claimer. $10 Jumbo Bucks",
         "summary": "Florida Lottery win !",
@@ -141,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 39,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 54,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 38,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +291,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 7,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -777,51 +867,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1vk0m9y",
-        "title": "Checking Lottery \"Pick a Date\"",
-        "summary": "What does the \"Pick a date\" mean to check your lottery ticket online mean? When you go to an online website to pick a date to check your lottery numbers, it asks for pick a date. What does that mean? Is that the date of when you bought your",
-        "url": "https://reddit.com/r/Lottery/comments/1vk0m9y/checking_lottery_pick_a_date/",
-        "timestamp": "2026-08-09T20:37:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vjtqu4",
-        "title": "Regret stories",
-        "summary": "Hi all, Happy Summer!  With a HUGE powerball jackpot and my daydreaming about winning, I ask:  How many people REALLY regret winning?  Feel like these articles and stories are just out there to make people feel better that they didn’t win a",
-        "url": "https://reddit.com/r/Lottery/comments/1vjtqu4/regret_stories/",
-        "timestamp": "2026-08-09T16:07:33.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 13,
-        "comments": 20,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vjr9ye",
-        "title": "Just curious about jackpot winner places",
-        "summary": "I think most jackpot winners bought their tickets at small towns or some gas stations along highway. Why none of them from downtown big cities such as ny, la, or chicago.  Just curious.",
-        "url": "https://reddit.com/r/Lottery/comments/1vjr9ye/just_curious_about_jackpot_winner_places/",
-        "timestamp": "2026-08-09T14:27:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Powerball Jackpot Soars to $856 Million: Check Your Ticket Against Saturday Night's Winning Numbers Now",
         "summary": "The Powerball jackpot reached $856 million, ranking among the largest in history. No winner has been confirmed yet, but smaller prizes continue to be awarded across the country.",
@@ -833,21 +878,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vjgfsl",
-        "title": "95 million dollars away….lt’s happening once again",
-        "summary": "Current Powerball 905 million $… the next few days or weeks are going to be interesting, I can imagine the news headlines in the U.S, and sadly the U.K will the PB hitting one billion. Crazy how folks in two countries are competing for the ",
-        "url": "https://reddit.com/r/Lottery/comments/1vjgfsl/95_million_dollars_awaylts_happening_once_again/",
-        "timestamp": "2026-08-09T04:39:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 33,
-        "comments": 18,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -895,50 +925,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Ohio Ticket Wins $1 Million as Powerball Jackpot Rolls to $856 Million for Saturday's Drawing",
-        "summary": "The Powerball jackpot has surged to $856 million after no ticket matched all numbers. An Ohio ticket won $1 million, while the jackpot remains the largest of 2026 so far.",
-        "url": "https://www.ibtimes.com.au/powerball-jackpot-soars-856-million-1873652",
-        "timestamp": "2026-08-06T12:49:32Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Peloton delivers first annual net profit ever in 'landmark' financial year",
-        "summary": "Peloton delivered its first ever annual profit in fiscal 2026 but it's still working to generate sales growth as consumers pull back on big ticket purchases.",
-        "url": "https://www.cnbc.com/2026/08/06/peloton-pton-q4-2026-earnings.html",
-        "timestamp": "2026-08-06T11:05:19Z",
-        "source": "CNBC",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       }
     ],
     "meta": {
       "totalSignals": 55,
-      "meSignals": 3,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 52,
+        "HOPEFUL": 51,
         "CYNICAL": 0,
         "ANXIOUS": 1,
-        "NEUTRAL": 2
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 5
+      "uncertaintyScore": 7
     }
   }
 }
