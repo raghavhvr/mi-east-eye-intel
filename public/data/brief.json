@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-16T03:30:44.040Z",
+  "generated_at": "2026-08-17T03:31:05.096Z",
   "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "MODERATE",
-  "topTheme": "MENA Conflict",
-  "summary": "The region is experiencing increased military activity, with Houthi missile launches and Israeli strikes in Lebanon. Economic and social developments, such as the growth of Gulf sports and electric bike adoption, are also noteworthy.",
+  "threatLevel": "LOW",
+  "topTheme": "MENA Regional Issues",
+  "summary": "The current open-source headlines indicate a mix of regional news and non-security related topics, with no major security threats emerging. The region remains stable, with some discussions on Shia safety in Saudi Arabia and alleged Houthi claims of attacks in Jazan, but these are not corroborated and do not indicate a significant escalation",
   "keyTrends": [
-    "Houthi Insurgency",
-    "Gulf Sports Expansion",
-    "Electric Bike Adoption"
+    "Regional Diplomacy",
+    "Saudi Shia Safety",
+    "Houthi Propaganda"
   ],
   "watchItems": [
-    "Marib City",
-    "Nabatieh Lebanon"
+    "Kushner-Sisi Meeting",
+    "Jazan Attack Claims"
   ],
-  "userSentiment": "ANXIOUS",
+  "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Escalating Conflict",
-    "Economic Uncertainty"
+    "Regional Tensions",
+    "Unverified Claims"
   ]
 }
