@@ -1,21 +1,21 @@
 {
-  "generated_at": "2026-08-17T03:31:05.096Z",
-  "model": "groq/llama-3.3-70b-versatile",
-  "threatLevel": "LOW",
-  "topTheme": "MENA Regional Issues",
-  "summary": "The current open-source headlines indicate a mix of regional news and non-security related topics, with no major security threats emerging. The region remains stable, with some discussions on Shia safety in Saudi Arabia and alleged Houthi claims of attacks in Jazan, but these are not corroborated and do not indicate a significant escalation",
+  "generated_at": "2026-08-18T03:25:38.505Z",
+  "model": "keyword-fallback",
+  "threatLevel": "MODERATE",
+  "topTheme": "Regional Security",
+  "summary": "Regional signals indicate moderate activity with focus on regional security. Monitoring 12 open-source data points.",
   "keyTrends": [
-    "Regional Diplomacy",
-    "Saudi Shia Safety",
-    "Houthi Propaganda"
+    "Ongoing monitoring",
+    "Signal analysis active",
+    "Data refresh scheduled"
   ],
   "watchItems": [
-    "Kushner-Sisi Meeting",
-    "Jazan Attack Claims"
+    "Regional escalation indicators",
+    "Economic sentiment shifts"
   ],
   "userSentiment": "CAUTIOUS",
   "sentimentDrivers": [
-    "Regional Tensions",
-    "Unverified Claims"
+    "Geopolitical uncertainty",
+    "Economic signals"
   ]
 }

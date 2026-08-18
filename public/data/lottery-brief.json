@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-17T03:31:05.846Z",
-  "model": "groq/llama-3.3-70b-versatile",
+  "generated_at": "2026-08-18T03:25:38.637Z",
+  "model": "keyword-fallback",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 70,
-    "neutral": 20,
-    "negative": 10
+    "positive": 67,
+    "neutral": 40,
+    "negative": 0
   },
-  "dominantNarrative": "Big Wins Spark Hope",
+  "dominantNarrative": "Mixed lottery sentiment MENA",
   "keyEmotions": [
-    "excitement",
-    "optimism",
-    "envy"
+    "Hope",
+    "Uncertainty",
+    "Anticipation"
   ],
-  "psychInsight": "The large jackpots and recent wins are driving a sense of optimism and hope among the public, with many individuals fantasizing about winning and improving their financial situation. The media coverage of these events is also fueling a sense of excitement and possibility, leading people to take a chance and buy tickets.",
+  "psychInsight": "Regional lottery sentiment reflects broader economic optimism and aspirational culture common in expatriate communities. Signals suggest persistent interest despite low odds.",
   "riskSignals": [
-    "irresponsible spending",
-    "gambling addiction"
+    "Problem gambling indicators",
+    "Financial desperation signals"
   ],
   "opportunitySignals": [
-    "increased engagement",
-    "lottery revenue growth"
+    "High engagement with ME lottery brands",
+    "Strong community participation"
   ]
 }
