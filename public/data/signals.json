@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T03:13:40.943Z",
+  "generated_at": "2026-08-20T03:13:12.593Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,107 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 35,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Oman": {
-      "temp_c": 31,
-      "wind_kmh": 0,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
     "Qatar": {
-      "temp_c": 33,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
+      "temp_c": 35,
+      "wind_kmh": 14,
+      "condition": "Clear",
       "city": "Doha"
     },
+    "UAE": {
+      "temp_c": 33,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Kuwait": {
-      "temp_c": 36,
-      "wind_kmh": 9,
+      "temp_c": 34,
+      "wind_kmh": 23,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Jordan": {
-      "temp_c": 19,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
       "temp_c": 25,
-      "wind_kmh": 5,
-      "condition": "Clear",
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 11,
+    "Egypt": {
+      "temp_c": 22,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
-      "city": "Manama"
+      "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 30,
-      "wind_kmh": 7,
+      "temp_c": 29,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Egypt": {
-      "temp_c": 23,
+    "Oman": {
+      "temp_c": 32,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Saudi Arabia": {
+      "temp_c": 33,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Bahrain": {
+      "temp_c": 36,
+      "wind_kmh": 21,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 21,
       "wind_kmh": 4,
       "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 18,
-      "wind_kmh": 1,
-      "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Amman"
     },
     "Iran": {
-      "temp_c": 30,
-      "wind_kmh": 9,
-      "condition": "Clear",
+      "temp_c": 28,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 19,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308615,
+    "KWD": 0.308112,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.518369,
-    "IQD": 1312.568428
+    "EGP": 50.675896,
+    "IQD": 1310.88755
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball jackpot numbers for August 17 revealed - Did someone win the $35 million top prize on Monday night?",
+        "summary": "Powerball jackpot August 17: The advertised $35 million prize is based on the annuity option, which is paid in annual installments over 30 years. Winners can instead choose a lump-sum cash option estimated at $15.2 million, before federal and applicable state…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-numbers-for-august-17-revealed-did-someone-win-the-35-million-top-prize-on-monday-night/articleshow/133310358.cms",
+        "timestamp": "2026-08-18T03:16:16Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Powerball jackpot rises to $35 million for August 17 drawing - Here's what Monday night's winner could take home",
@@ -301,21 +316,6 @@
         "title": "Powerball jackpot climbs to $1 billion. What you'd pocket after taxes, and what to do with the rest.",
         "summary": "Here's how much of the Powerball prize you would take home after taxes — plus six ways to invest your windfall.",
         "url": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-1-billion-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
-        "timestamp": "2026-08-10T15:44:01Z",
-        "source": "Yahoo Entertainment",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9m",
-        "title": "Powerball jackpot climbs to $905 million. What you’d pocket after taxes, and what to do with the rest.",
-        "summary": "Here's how much of the Powerball prize you would take home after taxes — plus six ways to invest your windfall.",
-        "url": "https://finance.yahoo.com/personal-finance/banking/article/powerball-jackpot-climbs-to-905-million-what-youd-pocket-after-taxes-and-what-to-do-with-the-rest-154401967.html",
         "timestamp": "2026-08-10T15:44:01Z",
         "source": "Yahoo Entertainment",
         "sourceType": "NewsAPI",
