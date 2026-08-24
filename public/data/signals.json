@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:25:15.344Z",
+  "generated_at": "2026-08-24T03:26:54.012Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,107 @@
     "Iran": null
   },
   "weather": {
-    "Kuwait": {
-      "temp_c": 35,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Saudi Arabia": {
-      "temp_c": 30,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 10,
+      "temp_c": 33,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Qatar": {
-      "temp_c": 34,
+    "Saudi Arabia": {
+      "temp_c": 33,
       "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
+    "Kuwait": {
+      "temp_c": 35,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Bahrain": {
+      "temp_c": 34,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Qatar": {
+      "temp_c": 33,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Doha"
     },
     "Oman": {
       "temp_c": 35,
-      "wind_kmh": 5,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Lebanon": {
+      "temp_c": 26,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Iran": {
+      "temp_c": 26,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Tehran"
+    },
     "Jordan": {
-      "temp_c": 20,
+      "temp_c": 22,
       "wind_kmh": 4,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Egypt": {
-      "temp_c": 22,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
+      "temp_c": 23,
+      "wind_kmh": 4,
+      "condition": "Fog/Haze",
       "city": "Cairo"
     },
-    "Bahrain": {
-      "temp_c": 33,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
+    "Iraq": {
+      "temp_c": 31,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Yemen": {
       "temp_c": 18,
-      "wind_kmh": 3,
-      "condition": "Clear",
+      "wind_kmh": 1,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 25,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Iraq": {
-      "temp_c": 28,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.305977,
+    "KWD": 0.307126,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.880787,
-    "IQD": 1296.670454
+    "EGP": 50.863906,
+    "IQD": 1304.596986
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1vwdg09",
+        "title": "When you win the lottery, what will you do to celebrate in the next days?",
+        "summary": "I don't mean like what will you buy, like \"I will buy a house and a car etc\", I mean what you will do to celebrate in the next following days (or weeks) In the night of the win, I will prob order some food (some large pizzas lol) and do som",
+        "url": "https://reddit.com/r/Lottery/comments/1vwdg09/when_you_win_the_lottery_what_will_you_do_to/",
+        "timestamp": "2026-08-23T17:34:20.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vvv61t",
         "title": "Book of 20 $20 Scratchers NJ Lottery - How did it go?",
@@ -147,21 +162,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1vvcymf",
-        "title": "Are These Prizes Fair for Traditional Artists?",
-        "summary": "Isang traditional art contest ang kasalukuyang isinasagawa bilang bahagi ng pagdiriwang ng Buwan ng Wika, kung saan hinihikayat ang mga kalahok na gumawa ng artwork tungkol sa Filipino experiences, challenges, achievements, at values. Sa me",
-        "url": "https://reddit.com/r/Philippines/comments/1vvcymf/are_these_prizes_fair_for_traditional_artists/",
-        "timestamp": "2026-08-22T13:49:32.000Z",
-        "source": "r/Philippines",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1vuw8fv",
         "title": "My 1st claimer!",
         "summary": "Just won 1k off a $10 ticket...I finally get to go to the lotto office 😂",
@@ -171,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 85,
+        "comments": 19,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -655,80 +655,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1vpk4hy",
-        "title": "Will there be a PB winner tonight?",
-        "summary": "Last time, PB went off back to back after a jackpot win! Will there be a winner tonight? Are you guys playing? I got one QP just in case, i become the unluckiest winner tonight! 😅",
-        "url": "https://reddit.com/r/Lottery/comments/1vpk4hy/will_there_be_a_pb_winner_tonight/",
-        "timestamp": "2026-08-16T01:42:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vpjvkq",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑0 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1vpjvkq/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-08-16T01:30:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vpdrli",
-        "title": "Homeless with $100 going full send on some lottery tickets",
-        "summary": "I'm in Los Angeles. What are some good tickets? I'm thinking either 10 $10 tickets or 5 $20 tickets.     I don't want a lecture. What else am I going to do with $100? Survive for a couple more days? What are some tickets that have won you a",
-        "url": "https://reddit.com/r/Lottery/comments/1vpdrli/homeless_with_100_going_full_send_on_some_lottery/",
-        "timestamp": "2026-08-15T20:50:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 21,
-        "comments": 44,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vp4vxz",
-        "title": "Can You Stay Anonymous With an Online Lottery Ticket in Michigan?",
-        "summary": "Here in Michigan, I’ve heard that people can stay anonymous after winning a large lottery prize by creating a lottery club. Supposedly, when it’s time to claim the prize, their lawyer can set up the club and claim the winnings on their beha",
-        "url": "https://reddit.com/r/Lottery/comments/1vp4vxz/can_you_stay_anonymous_with_an_online_lottery/",
-        "timestamp": "2026-08-15T14:53:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 41,
-      "meSignals": 2,
+      "totalSignals": 37,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 32,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 12
+      "uncertaintyScore": 14
     }
   }
 }
