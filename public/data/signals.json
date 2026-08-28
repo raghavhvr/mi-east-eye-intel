@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T12:53:51.023Z",
+  "generated_at": "2026-08-28T14:25:05.132Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,152 @@
     "Iran": null
   },
   "weather": {
-    "Egypt": {
-      "temp_c": 39,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Jordan": {
-      "temp_c": 35,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "UAE": {
-      "temp_c": 40,
-      "wind_kmh": 13,
+      "temp_c": 36,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Lebanon": {
-      "temp_c": 30,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Saudi Arabia": {
       "temp_c": 43,
-      "wind_kmh": 9,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
       "city": "Riyadh"
     },
-    "Bahrain": {
-      "temp_c": 40,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 10,
+      "temp_c": 44,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Yemen": {
+    "Qatar": {
+      "temp_c": 39,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 37,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 41,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Lebanon": {
       "temp_c": 29,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 31,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 44,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 37,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
+    "Iran": {
+      "temp_c": 35,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 26,
       "wind_kmh": 12,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
-    },
-    "Iraq": {
-      "temp_c": 46,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Iran": {
-      "temp_c": 37,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308184,
+    "KWD": 0.308462,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.232166,
-    "IQD": 1310.972936
+    "EGP": 50.247305,
+    "IQD": 1310.972077
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1w0dtl8",
+        "title": "Oklahoma lottery",
+        "summary": "Well I won a pack of scratchers from my state lottery it’s $5 scratchers won a pack of 60 waiting for them to come in the mail I’m pretty excited! Jackpot on them is 50k",
+        "url": "https://reddit.com/r/Lottery/comments/1w0dtl8/oklahoma_lottery/",
+        "timestamp": "2026-08-28T02:14:51.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1w022g0",
+        "title": "Mega Millions promised $800 million jackpots after increasing the ticket price to $5. Seven wins in, the average is $418 million.",
+        "summary": "So far, the increase to $5 hasn't produced the huge jackpots as promised.",
+        "url": "https://reddit.com/r/Lottery/comments/1w022g0/mega_millions_promised_800_million_jackpots_after/",
+        "timestamp": "2026-08-27T18:25:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vzy0id",
+        "title": "More greed from the PowerBall association",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1vzy0id/more_greed_from_the_powerball_association/",
+        "timestamp": "2026-08-27T15:59:03.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1vzxg12",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1vzxg12/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-08-27T15:38:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1vz8vnc",
         "title": "UPDATE to ActualWinnings.com Built a free, no-key JSON API for lottery jackpot history, tax rates, and payout tables (Powerball back to 2010, Mega Millions back to 2002) https://actualwinnings.com",
@@ -111,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -415,95 +475,20 @@
         "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1vtmxd4",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1vtmxd4/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-08-20T15:38:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vtj8ld",
-        "title": "I used to spreadsheet Powerball/Pick 3 after every draw. Turned that into an app (no “winning system”)",
-        "summary": "I got into lottery the same way a lot of people here did. I’d watch Powerball or a local Pick 3, write numbers down, then the next morning try to figure out if anything actually hit — and whether the patterns I *thought* I saw were even rea",
-        "url": "https://reddit.com/r/Lottery/comments/1vtj8ld/i_used_to_spreadsheet_powerballpick_3_after_every/",
-        "timestamp": "2026-08-20T13:16:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 7,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9t",
-        "title": "Hello Polyglots!",
-        "summary": "I am the plugin author of LuckyGrid Lite — Arcade Prize Draw. Please add my WordPress.org user as translation editor (PTE) for this plugin: https://wordpress.org/plugins/lucky-grid-game/ #zh_TW — @wowjonesstudio I have a complete Traditional Chinese translati…",
-        "url": "https://make.wordpress.org/polyglots/2026/08/20/hello-polyglots-344/",
-        "timestamp": "2026-08-20T07:50:42Z",
-        "source": "Wordpress.org",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vt8nw0",
-        "title": "Why does it seem like someone from Florida always wins a million?",
-        "summary": "I don’t want to start any conspiracy theories, but could it have anything to do with Powerball having its headquarters in Florida? Like do the lottery machines in Florida give its residents favorable numbers? 😭😂",
-        "url": "https://reddit.com/r/Lottery/comments/1vt8nw0/why_does_it_seem_like_someone_from_florida_always/",
-        "timestamp": "2026-08-20T03:54:49.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 24,
-        "comments": 15,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vt2i0l",
-        "title": "My best win on a $5 ticket ever! 🎉",
-        "summary": "I usually only buy $10 scratchers but this SuperLotto Plus $5 scratcher has been lucky for me, even more so now. Bought two of em and hit $500 on the second one. Pleasant surprise from a $5 scratcher! Cheers and good luck y’all🍀",
-        "url": "https://reddit.com/r/Lottery/comments/1vt2i0l/my_best_win_on_a_5_ticket_ever/",
-        "timestamp": "2026-08-19T23:17:39.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 91,
-        "comments": 16,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 26,
+      "totalSignals": 25,
       "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 22,
+        "HOPEFUL": 21,
         "CYNICAL": 0,
-        "ANXIOUS": 2,
-        "NEUTRAL": 2
+        "ANXIOUS": 1,
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 15
+      "uncertaintyScore": 16
     }
   }
 }
