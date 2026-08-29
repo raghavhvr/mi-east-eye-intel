@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:25:05.132Z",
+  "generated_at": "2026-08-29T09:09:18.273Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,91 +16,136 @@
   },
   "weather": {
     "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 15,
+      "temp_c": 42,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 43,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
+      "temp_c": 44,
+      "wind_kmh": 9,
+      "condition": "Clear",
       "city": "Riyadh"
     },
     "Kuwait": {
-      "temp_c": 44,
-      "wind_kmh": 9,
+      "temp_c": 46,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 6,
+      "temp_c": 43,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Oman": {
-      "temp_c": 37,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
     "Bahrain": {
-      "temp_c": 41,
-      "wind_kmh": 10,
+      "temp_c": 44,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Lebanon": {
-      "temp_c": 29,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Jordan": {
       "temp_c": 31,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 18,
+      "condition": "Clear",
       "city": "Amman"
     },
+    "Egypt": {
+      "temp_c": 34,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Oman": {
+      "temp_c": 39,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Lebanon": {
+      "temp_c": 31,
+      "wind_kmh": 33,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
     "Iraq": {
-      "temp_c": 44,
-      "wind_kmh": 5,
+      "temp_c": 42,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Egypt": {
-      "temp_c": 37,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 35,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
     "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 12,
+      "temp_c": 30,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 36,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308462,
+    "KWD": 0.308661,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.247305,
-    "IQD": 1310.972077
+    "EGP": 50.252612,
+    "IQD": 1310.970822
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1w16ge8",
+        "title": "Washington Lottery app with negative points?",
+        "summary": "I’m scanning in my non-winning tickets to redeem the points, but somehow I have negative 3,000+ points? How is this possible? My deficit reduces as I scan additional tickets, see screenshots with time stamps.",
+        "url": "https://reddit.com/r/Lottery/comments/1w16ge8/washington_lottery_app_with_negative_points/",
+        "timestamp": "2026-08-28T23:33:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1w0t8fy",
+        "title": "My strategy for scratch offs(it's not gonna be popular here, you're gonna hate me for it)",
+        "summary": "This is sort of a confession post. The way I've been playing tickets lately, is that I'll hang around somewhere, watch the lottery vending machines, and wait for people to buy multiples of the same ticket and lose on them (this works only i",
+        "url": "https://reddit.com/r/Lottery/comments/1w0t8fy/my_strategy_for_scratch_offsits_not_gonna_be/",
+        "timestamp": "2026-08-28T15:10:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1w0t376",
+        "title": "NY lottery: \"reported odds are just a suggestion 😂\"",
+        "summary": "I finally won $200 on this game. I was starting to think I'd never win on it. I bought 5 losers from the same pile before this one, the number on this one was 44.  Around ticket 3, the sunken cost fallacy kicked in and I thought \"well, I've",
+        "url": "https://reddit.com/r/Lottery/comments/1w0t376/ny_lottery_reported_odds_are_just_a_suggestion/",
+        "timestamp": "2026-08-28T15:04:53.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1w0dtl8",
         "title": "Oklahoma lottery",
@@ -126,23 +171,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 96,
+        "comments": 24,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1vzy0id",
         "title": "More greed from the PowerBall association",
-        "summary": "↑1 · 💬0",
+        "summary": "↑11 · 💬14",
         "url": "https://reddit.com/r/Lottery/comments/1vzy0id/more_greed_from_the_powerball_association/",
         "timestamp": "2026-08-27T15:59:03.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 11,
+        "comments": 14,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -156,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -445,50 +490,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1vulp2a",
-        "title": "I've been tracking my profit/losses on scratch tickets since 2024. Here is the data:",
-        "summary": "I purchase all of my tickets in Chicago, IL. Most of them are losses, which is expected, but we all play for the same reason - for that one chance at winning big.  June 2024:   $10 crossword: $0   $10 crossword: $0   $5 monopoly: $0   $5 wi",
-        "url": "https://reddit.com/r/Lottery/comments/1vulp2a/ive_been_tracking_my_profitlosses_on_scratch/",
-        "timestamp": "2026-08-21T16:47:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vudn2r",
-        "title": "Is it normal that I want win the lottery and feel nostalgic after? Why is that tho?",
-        "summary": "I always think move to another country when I win the lottery but I always thought visit some old places before. Like go to an old shopping mall that I don't visit for years or walk around my old street. Is this normal? Why this nostalgic f",
-        "url": "https://reddit.com/r/Lottery/comments/1vudn2r/is_it_normal_that_i_want_win_the_lottery_and_feel/",
-        "timestamp": "2026-08-21T11:25:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 25,
+      "totalSignals": 26,
       "meSignals": 0,
       "moodDist": {
         "HOPEFUL": 21,
         "CYNICAL": 0,
-        "ANXIOUS": 1,
+        "ANXIOUS": 2,
         "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 16
+      "uncertaintyScore": 19
     }
   }
 }
