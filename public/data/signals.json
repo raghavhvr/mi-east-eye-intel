@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:09:18.273Z",
+  "generated_at": "2026-08-30T08:23:20.314Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,76 +15,76 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 42,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
       "temp_c": 44,
-      "wind_kmh": 9,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 46,
-      "wind_kmh": 7,
+    "UAE": {
+      "temp_c": 44,
+      "wind_kmh": 20,
       "condition": "Clear",
-      "city": "Kuwait City"
+      "city": "Abu Dhabi"
     },
     "Qatar": {
       "temp_c": 43,
-      "wind_kmh": 8,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Bahrain": {
-      "temp_c": 44,
-      "wind_kmh": 8,
+    "Kuwait": {
+      "temp_c": 46,
+      "wind_kmh": 4,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Kuwait City"
     },
     "Jordan": {
-      "temp_c": 31,
-      "wind_kmh": 18,
-      "condition": "Clear",
+      "temp_c": 24,
+      "wind_kmh": 17,
+      "condition": "Partly Cloudy",
       "city": "Amman"
     },
-    "Egypt": {
-      "temp_c": 34,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Oman": {
-      "temp_c": 39,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Lebanon": {
-      "temp_c": 31,
-      "wind_kmh": 33,
+      "temp_c": 28,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Beirut"
     },
+    "Oman": {
+      "temp_c": 38,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 43,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Egypt": {
+      "temp_c": 31,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
     "Iraq": {
-      "temp_c": 42,
-      "wind_kmh": 8,
+      "temp_c": 39,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
     "Yemen": {
-      "temp_c": 30,
-      "wind_kmh": 14,
+      "temp_c": 29,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
     "Iran": {
       "temp_c": 36,
-      "wind_kmh": 11,
-      "condition": "Clear",
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     }
   },
@@ -92,15 +92,30 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308661,
+    "KWD": 0.308602,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.252612,
-    "IQD": 1310.970822
+    "EGP": 50.250989,
+    "IQD": 1310.96882
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1w24122",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1w24122/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-08-30T01:30:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1w16ge8",
         "title": "Washington Lottery app with negative points?",
@@ -126,8 +141,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 14,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -141,7 +156,52 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 13,
+        "comments": 5,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Guy Wins $5.8 Million Jackpot But Misses Deadline To Cash It In, Goes On 20-Year Political Rampage",
+        "summary": "23-year-old man buys a lottery ticket but forgets to check whether his numbers won. Little did he know that he was the $5.8 million jackpot winner, and he found out too late on the deadline date.\r\n\r\nWhen the man submitted his lotto ticket 3 days after it was …",
+        "url": "https://www.boredpanda.com/lottery-winner-denied-jackpot/",
+        "timestamp": "2026-08-28T13:47:45Z",
+        "source": "Boredpanda.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9w",
+        "title": "Puspakom GiCheck Auto Weekend 2026, Sep 5-6 at Aeon Bukit Tinggi Klang – fun road safety activities, lucky draw",
+        "summary": "The first edition of Puspakom’s GiCheck Auto Weekend 2026 will happen next weekend (September 5-6) at Aeon Bukit Tinggi in Klang. The event will have fun interactive road safety activities for the whole family (yes, adults too), lucky draws with the grand pri…",
+        "url": "https://paultan.org/2026/08/28/puspakom-gicheck-auto-weekend-2026-sep-5-6-at-aeon-bukit-tinggi-klang-fun-road-safety-activities-lucky-draw/",
+        "timestamp": "2026-08-28T10:31:01Z",
+        "source": "Paul Tan's Automotive News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cDovL3d3",
+        "title": "Lee Jun Hyuk, Seo Hyun Woo, And Oh Dae Hwan Dish On What Drew Them To “The Ordinary Jackpot”",
+        "summary": "Lee Jun Hyuk, Seo Hyun Woo, and Oh Dae Hwan have shared insights into their upcoming drama “The Ordinary Jackpot”! Based on the webtoon of the same name, “The Ordinary Jackpot” follows Gong Eun Tae (Lee Jun Hyuk), an ordinary sales employee who wins the lotte…",
+        "url": "http://www.soompi.com/article/1866398wpp/lee-jun-hyuk-seo-hyun-woo-and-oh-dae-hwan-dish-on-what-drew-them-to-the-ordinary-jackpot",
+        "timestamp": "2026-08-28T09:44:36Z",
+        "source": "soompi",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -156,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 15,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -402,21 +462,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball numbers for August 22 revealed - Did someone win the $68 million jackpot on Saturday night?",
-        "summary": "Powerball Jackpot numbers for August 22: The $68 million figure represents the annuity value, which would be distributed through 30 annual payments. A jackpot winner could instead select the estimated $29.2 million cash option and receive the prize as a one-t…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-numbers-for-august-22-revealed-did-someone-win-the-68-million-jackpot-on-saturday-night/articleshow/133434088.cms",
-        "timestamp": "2026-08-23T04:02:20Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1vvv61t",
         "title": "Book of 20 $20 Scratchers NJ Lottery - How did it go?",
         "summary": "Ok cost $400. Got three of the dreaded NJ free tickets and two other winners. One for $40. One for $50. So $150 back on a book for $400 or 37.5%.  I don’t know… we all wanna win, and I guess it did meet the 1 in four tickets wins criteria, ",
@@ -460,43 +505,13 @@
         "comments": 1,
         "mood": "ANXIOUS",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1vuw8fv",
-        "title": "My 1st claimer!",
-        "summary": "Just won 1k off a $10 ticket...I finally get to go to the lotto office 😂",
-        "url": "https://reddit.com/r/Lottery/comments/1vuw8fv/my_1st_claimer/",
-        "timestamp": "2026-08-21T23:32:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 85,
-        "comments": 19,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vuw5x0",
-        "title": "My 1st Claimer!!",
-        "summary": "Just won 1k off a $10 ticket! I finally get to go to the lotto office 😂",
-        "url": "https://reddit.com/r/Lottery/comments/1vuw5x0/my_1st_claimer/",
-        "timestamp": "2026-08-21T23:29:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 26,
+      "totalSignals": 27,
       "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 21,
+        "HOPEFUL": 22,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 3
