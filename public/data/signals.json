@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:52:35.783Z",
+  "generated_at": "2026-09-02T07:09:54.765Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,137 @@
     "Iran": null
   },
   "weather": {
+    "Kuwait": {
+      "temp_c": 37,
+      "wind_kmh": 20,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "UAE": {
-      "temp_c": 39,
+      "temp_c": 40,
       "wind_kmh": 6,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Saudi Arabia": {
-      "temp_c": 39,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
     "Qatar": {
-      "temp_c": 42,
-      "wind_kmh": 25,
+      "temp_c": 41,
+      "wind_kmh": 23,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 19,
+    "Saudi Arabia": {
+      "temp_c": 37,
+      "wind_kmh": 5,
       "condition": "Clear",
-      "city": "Kuwait City"
+      "city": "Riyadh"
     },
     "Bahrain": {
-      "temp_c": 38,
-      "wind_kmh": 26,
+      "temp_c": 37,
+      "wind_kmh": 24,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 38,
+      "temp_c": 35,
       "wind_kmh": 13,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 28,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 29,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 29,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 9,
+      "temp_c": 38,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Iran": {
-      "temp_c": 32,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Tehran"
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Lebanon": {
+      "temp_c": 29,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Yemen": {
-      "temp_c": 29,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
+      "temp_c": 27,
+      "wind_kmh": 5,
+      "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Jordan": {
+      "temp_c": 29,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Iran": {
+      "temp_c": 30,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308801,
+    "KWD": 0.308894,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.870596,
-    "IQD": 1312.522433
+    "EGP": 50.924246,
+    "IQD": 1312.580395
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1w4ng9g",
+        "title": "$20 NY Lottery ticket with a prize of.. $10??",
+        "summary": "I was looking at the new NY lottery tickets today, and noticed on one of their $20 tickets, its a 1:10 chance to get NOT moneyback, $10.  I looked it up on google and apparently they can’t do that under their own rules!  I hate NYL!!",
+        "url": "https://reddit.com/r/Lottery/comments/1w4ng9g/20_ny_lottery_ticket_with_a_prize_of_10/",
+        "timestamp": "2026-09-01T20:00:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1w47ixo",
+        "title": "Eurojackpot €15 million tonight",
+        "summary": "Who's playing tonight? What would you do if you hit the jackpot? First, i would pay off my familys debts and my own debts. I would buy a reliable car (probably as new and as good as possible to save repair costs) Then i would purchase a nic",
+        "url": "https://reddit.com/r/Lottery/comments/1w47ixo/eurojackpot_15_million_tonight/",
+        "timestamp": "2026-09-01T10:04:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1w47a2b",
+        "title": "California Lottery installing debit card readers for its kiosk machines",
+        "summary": "Someone else posted about this earlier.  I thought California Lottery was just in the deliberation stage of installing these, but I saw a machine over the weekend with the debit card reader already attached to an existing machine, with a br",
+        "url": "https://reddit.com/r/Lottery/comments/1w47a2b/california_lottery_installing_debit_card_readers/",
+        "timestamp": "2026-09-01T09:51:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1w3xhz5",
         "title": "Powerball Winning Numbers (Monday)",
@@ -126,9 +171,24 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 2,
         "mood": "ANXIOUS",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9m",
+        "title": "Why Canada’s major projects push has the big banks salivating",
+        "summary": "An easing of capital requirements means the Big Six have $74 billion to lend, but they may be waiting for big ticket projects on the horizon",
+        "url": "https://financialpost.com/fp-finance/banking/why-canadas-major-projects-push-has-big-banks-salivating",
+        "timestamp": "2026-08-31T10:00:31Z",
+        "source": "Financial Post",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": true
       },
       {
@@ -149,15 +209,15 @@
       {
         "id": "reddit-lot-1w316t5",
         "title": "CA Super Lotto jackpot $50 million.  If you fell short by matching five numbers and missing the mega number, you would've won about $40,000.  Yes you would've won, but at the same time I imagine I'd feel bad and carried away by the thought that I was just one number from winning life changing money.",
-        "summary": "↑1 · 💬0",
+        "summary": "↑4 · 💬6",
         "url": "https://reddit.com/r/Lottery/comments/1w316t5/ca_super_lotto_jackpot_50_million_if_you_fell/",
         "timestamp": "2026-08-31T02:47:34.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 439,
+        "comments": 102,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,7 +246,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -445,110 +505,20 @@
         "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1vxqine",
-        "title": "CA Super Lotto Plus",
-        "summary": "For those of you in California how much do you spend on tickets depending on the size of the jackpot?",
-        "url": "https://reddit.com/r/Lottery/comments/1vxqine/ca_super_lotto_plus/",
-        "timestamp": "2026-08-25T05:12:58.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 12,
-        "comments": 14,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vxqhl2",
-        "title": "How many powerball tickets been sold in the UK so far?",
-        "summary": "I’m just curious.",
-        "url": "https://reddit.com/r/Lottery/comments/1vxqhl2/how_many_powerball_tickets_been_sold_in_the_uk_so/",
-        "timestamp": "2026-08-25T05:11:22.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vxqcbu",
-        "title": "My Lotto6aus49 small win.",
-        "summary": "https://preview.redd.it/dfr41e5edglh1.png?width=567&format=png&auto=webp&s=b07cce8c9d2e908444a13b440f4fbd3c79ffa441 Small win of 32.80 euros.      I wonder what it takes to win the Jackpot.       Is it karma ? Luck ? Good deeds ? I wish I w",
-        "url": "https://reddit.com/r/Lottery/comments/1vxqcbu/my_lotto6aus49_small_win/",
-        "timestamp": "2026-08-25T05:03:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vxlq8t",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1vxlq8t/powerball_winning_numbers_monday/",
-        "timestamp": "2026-08-25T01:20:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vxjl1b",
-        "title": "Cashing a GA lottery check",
-        "summary": "Will Truist cash a GA lottery check if you don't have an account with them, or is depositing in my bank the only option? My bank holds checks, and since I'm off work tomorrow, I'd like to cash it and get a few things taken care of while I a",
-        "url": "https://reddit.com/r/Lottery/comments/1vxjl1b/cashing_a_ga_lottery_check/",
-        "timestamp": "2026-08-24T23:48:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1vxjksi",
-        "title": "I matched 3 white balls and the powerball for December 15 2025 drawing",
-        "summary": "I have a winning ticket but didn't check til now.  it was a 3x multiplier too.   But i never claimed the prize.  I don't know why I didn't check but there's no other way to claim or just completely worthless now?",
-        "url": "https://reddit.com/r/Lottery/comments/1vxjksi/i_matched_3_white_balls_and_the_powerball_for/",
-        "timestamp": "2026-08-24T23:47:43.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 29,
-      "meSignals": 1,
+      "totalSignals": 27,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 23,
+        "HOPEFUL": 21,
         "CYNICAL": 0,
-        "ANXIOUS": 2,
-        "NEUTRAL": 4
+        "ANXIOUS": 3,
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 21
+      "uncertaintyScore": 22
     }
   }
 }
