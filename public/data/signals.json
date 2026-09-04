@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T07:14:19.810Z",
+  "generated_at": "2026-09-04T07:17:40.081Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,137 @@
     "Iran": null
   },
   "weather": {
-    "Bahrain": {
+    "UAE": {
+      "temp_c": 40,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
       "temp_c": 38,
-      "wind_kmh": 12,
+      "wind_kmh": 5,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Riyadh"
+    },
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 17,
+      "temp_c": 38,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 10,
+    "Bahrain": {
+      "temp_c": 39,
+      "wind_kmh": 7,
       "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 29,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 29,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
+      "city": "Manama"
     },
     "Oman": {
-      "temp_c": 33,
-      "wind_kmh": 19,
+      "temp_c": 34,
+      "wind_kmh": 13,
       "condition": "Partly Cloudy",
       "city": "Muscat"
     },
     "Lebanon": {
       "temp_c": 29,
-      "wind_kmh": 9,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Jordan": {
-      "temp_c": 28,
-      "wind_kmh": 11,
+      "temp_c": 26,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Saudi Arabia": {
-      "temp_c": 38,
+    "Iraq": {
+      "temp_c": 39,
       "wind_kmh": 8,
       "condition": "Clear",
-      "city": "Riyadh"
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Yemen": {
+      "temp_c": 29,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 28,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308622,
+    "KWD": 0.308482,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.090409,
-    "IQD": 1310.868756
+    "EGP": 50.939253,
+    "IQD": 1311.079298
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1w6p3ov",
+        "title": "Big ticket dream car",
+        "summary": "So my friends dad won a Range Rover velar but he doesn’t want to keep it and wants to sell it for cash what’s the best way to sell it for a good amount",
+        "url": "https://reddit.com/r/UAE/comments/1w6p3ov/big_ticket_dream_car/",
+        "timestamp": "2026-09-04T00:27:28.000Z",
+        "source": "r/UAE",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1w6p1gq",
+        "title": "Big ticket dream car",
+        "summary": "The latest draw defender",
+        "url": "https://reddit.com/r/UAE/comments/1w6p1gq/big_ticket_dream_car/",
+        "timestamp": "2026-09-04T00:24:44.000Z",
+        "source": "r/UAE",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "hn-lot-49558646",
+        "title": "Tell HN: The Thoughts and Woes of a Full-Time Founder Part 1",
+        "summary": "3 pts · 0 comments",
+        "url": "https://news.ycombinator.com/item?id=49558646",
+        "timestamp": "2026-09-03T23:41:52.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9s",
         "title": "GHA Discovery D$50 Bonus For Each New Brand Stayed Between September 1 – October 31, 2026 + Raffle",
@@ -208,17 +253,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 7,
-      "meSignals": 1,
+      "totalSignals": 10,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 7,
+        "HOPEFUL": 9,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 0
+        "NEUTRAL": 1
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 0
+      "uncertaintyScore": 10
     }
   }
 }
