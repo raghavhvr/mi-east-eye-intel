@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T06:58:53.006Z",
+  "generated_at": "2026-09-06T07:10:53.618Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,137 @@
     "Iran": null
   },
   "weather": {
-    "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 1,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Oman": {
-      "temp_c": 36,
+    "UAE": {
+      "temp_c": 40,
       "wind_kmh": 12,
       "condition": "Clear",
-      "city": "Muscat"
+      "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 38,
+      "temp_c": 36,
       "wind_kmh": 5,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 6,
+      "temp_c": 39,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Bahrain": {
+    "Kuwait": {
+      "temp_c": 38,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Oman": {
       "temp_c": 36,
-      "wind_kmh": 18,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 39,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Manama"
     },
-    "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 17,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Iran": {
-      "temp_c": 31,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
     "Lebanon": {
-      "temp_c": 29,
-      "wind_kmh": 7,
+      "temp_c": 28,
+      "wind_kmh": 16,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
     "Jordan": {
       "temp_c": 26,
-      "wind_kmh": 8,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Yemen": {
+    "Iraq": {
+      "temp_c": 39,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Egypt": {
       "temp_c": 27,
-      "wind_kmh": 17,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Yemen": {
+      "temp_c": 28,
+      "wind_kmh": 15,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
-    "Iraq": {
-      "temp_c": 39,
-      "wind_kmh": 5,
+    "Iran": {
+      "temp_c": 32,
+      "wind_kmh": 10,
       "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308726,
+    "KWD": 0.308651,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 50.944245,
-    "IQD": 1311.094196
+    "EGP": 50.94352,
+    "IQD": 1311.116771
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1w8kmmm",
+        "title": "Pretty lucky night for me...",
+        "summary": "I haven't had much luck recently. Yesterday I won $5 on a $5 scratch off. I used that $5 to buy a ticket tonight, Won $20, bought $10 in draw game tickets and 2 more $5 tickets, won $70 on one of those. In my state there is a lottery app sw",
+        "url": "https://reddit.com/r/Lottery/comments/1w8kmmm/pretty_lucky_night_for_me/",
+        "timestamp": "2026-09-06T03:14:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1w8iiax",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1w8iiax/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-09-06T01:30:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1w81tks",
+        "title": "Lottery Scratch Tickets Advice",
+        "summary": "Any advice on if buying the $50 scratch tickets are worth the costs in the long run?  I usually buy the $10 tickets but on 3 separate occasions in the last 2 months, I purchased a $50 ticket along with my regular $10 tickets but was disappo",
+        "url": "https://reddit.com/r/Lottery/comments/1w81tks/lottery_scratch_tickets_advice/",
+        "timestamp": "2026-09-05T14:11:32.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1w7j7c7",
         "title": "Beware Jackpot lottery courier app in Colorado",
@@ -142,23 +187,8 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-49558646",
-        "title": "Tell HN: The Thoughts and Woes of a Full-Time Founder Part 1",
-        "summary": "3 pts · 2 comments",
-        "url": "https://news.ycombinator.com/item?id=49558646",
-        "timestamp": "2026-09-03T23:41:52.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
         "comments": 2,
-        "mood": "NEUTRAL",
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -492,36 +522,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1w0t8fy",
-        "title": "My strategy for scratch offs(it's not gonna be popular here, you're gonna hate me for it)",
-        "summary": "This is sort of a confession post. The way I've been playing tickets lately, is that I'll hang around somewhere, watch the lottery vending machines, and wait for people to buy multiples of the same ticket and lose on them (this works only i",
-        "url": "https://reddit.com/r/Lottery/comments/1w0t8fy/my_strategy_for_scratch_offsits_not_gonna_be/",
-        "timestamp": "2026-08-28T15:10:22.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 14,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w0t376",
-        "title": "NY lottery: \"reported odds are just a suggestion 😂\"",
-        "summary": "I finally won $200 on this game. I was starting to think I'd never win on it. I bought 5 losers from the same pile before this one, the number on this one was 44.  Around ticket 3, the sunken cost fallacy kicked in and I thought \"well, I've",
-        "url": "https://reddit.com/r/Lottery/comments/1w0t376/ny_lottery_reported_odds_are_just_a_suggestion/",
-        "timestamp": "2026-08-28T15:04:53.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 13,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Guy Wins $5.8 Million Jackpot But Misses Deadline To Cash It In, Goes On 20-Year Political Rampage",
         "summary": "23-year-old man buys a lottery ticket but forgets to check whether his numbers won. Little did he know that he was the $5.8 million jackpot winner, and he found out too late on the deadline date.\r\n\r\nWhen the man submitted his lotto ticket 3 days after it was …",
@@ -565,50 +565,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1w0dtl8",
-        "title": "Oklahoma lottery",
-        "summary": "Well I won a pack of scratchers from my state lottery it’s $5 scratchers won a pack of 60 waiting for them to come in the mail I’m pretty excited! Jackpot on them is 50k",
-        "url": "https://reddit.com/r/Lottery/comments/1w0dtl8/oklahoma_lottery/",
-        "timestamp": "2026-08-28T02:14:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 15,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w022g0",
-        "title": "Mega Millions promised $800 million jackpots after increasing the ticket price to $5. Seven wins in, the average is $418 million.",
-        "summary": "So far, the increase to $5 hasn't produced the huge jackpots as promised.",
-        "url": "https://reddit.com/r/Lottery/comments/1w022g0/mega_millions_promised_800_million_jackpots_after/",
-        "timestamp": "2026-08-27T18:25:16.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 96,
-        "comments": 24,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 33,
+      "totalSignals": 31,
       "meSignals": 2,
       "moodDist": {
         "HOPEFUL": 26,
         "CYNICAL": 0,
-        "ANXIOUS": 4,
-        "NEUTRAL": 3
+        "ANXIOUS": 3,
+        "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 21
+      "uncertaintyScore": 16
     }
   }
 }
