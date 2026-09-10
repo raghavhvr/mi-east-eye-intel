@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:26:44.709Z",
+  "generated_at": "2026-09-10T07:22:07.610Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,239 +15,104 @@
     "Iran": null
   },
   "weather": {
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Qatar": {
-      "temp_c": 44,
-      "wind_kmh": 7,
+    "Saudi Arabia": {
+      "temp_c": 40,
+      "wind_kmh": 10,
       "condition": "Clear",
-      "city": "Doha"
-    },
-    "Lebanon": {
-      "temp_c": 30,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
-    "Iraq": {
-      "temp_c": 36,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Riyadh"
     },
     "UAE": {
       "temp_c": 42,
-      "wind_kmh": 14,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Kuwait": {
       "temp_c": 38,
-      "wind_kmh": 6,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Oman": {
+    "Qatar": {
+      "temp_c": 44,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Bahrain": {
       "temp_c": 41,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 38,
       "wind_kmh": 14,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Bahrain": {
-      "temp_c": 42,
-      "wind_kmh": 13,
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 8,
       "condition": "Clear",
-      "city": "Manama"
-    },
-    "Saudi Arabia": {
-      "temp_c": 40,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
+      "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 29,
-      "wind_kmh": 11,
+      "temp_c": 27,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 10,
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 38,
+      "wind_kmh": 5,
       "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Baghdad"
     },
     "Iran": {
-      "temp_c": 28,
+      "temp_c": 30,
       "wind_kmh": 9,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308568,
+    "KWD": 0.307958,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.022516,
-    "IQD": 1310.4613
+    "EGP": 51.199677,
+    "IQD": 1311.249965
   },
   "lottery": {
     "items": [
       {
-        "id": "reddit-lot-1wbbhsu",
-        "title": "I've never won the lottery or any kind of game of chance before. Give me 6 numbers from 1 to 90.",
-        "summary": "Have you ever won a big lottery before? These lottery things seem like scams to me.",
-        "url": "https://reddit.com/r/Lottery/comments/1wbbhsu/ive_never_won_the_lottery_or_any_kind_of_game_of/",
-        "timestamp": "2026-09-09T04:34:00.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "No Winner In $190M Powerball Drawing Monday, Jackpot Climbs To $207M For Wednesday Draw Amid Unclaimed $1B",
+        "summary": "The Powerball jackpot has increased to $207 million after no winner was found. Meanwhile, a $1.04 billion prize remains unclaimed, adding intrigue to the lottery's ongoing excitement.",
+        "url": "https://www.ibtimes.com.au/powerball-jackpot-207-million-unclaimed-billion-dollar-prize-1875193",
+        "timestamp": "2026-09-08T12:47:23Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wb7lpb",
-        "title": "Powerball Winning Numbers (Wednesday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1wb7lpb/powerball_winning_numbers_wednesday/",
-        "timestamp": "2026-09-09T01:30:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wazhlo",
-        "title": "MD LOTTERY",
-        "summary": "RACETRAX MD Lottery",
-        "url": "https://reddit.com/r/Lottery/comments/1wazhlo/md_lottery/",
-        "timestamp": "2026-09-08T20:05:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1was4gn",
-        "title": "New Powerball x NFL X's & O's",
-        "summary": "The new Powerball X's & O's game went live today? Are you going to play this new game? Do you think it will drive in new interest to the lottery?",
-        "url": "https://reddit.com/r/Lottery/comments/1was4gn/new_powerball_x_nfl_xs_os/",
-        "timestamp": "2026-09-08T15:47:57.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wanty1",
-        "title": "New Powerball game",
-        "summary": "Worth it?? What is yall thought?",
-        "url": "https://reddit.com/r/Lottery/comments/1wanty1/new_powerball_game/",
-        "timestamp": "2026-09-08T13:03:03.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wanal0",
-        "title": "Powerball jackpot overtook the Mega.",
-        "summary": "The Mega reset on July 28 after the 800M jackpot was won and the Powerball reset 2 weeks later on  Aug 12 when the 1B jackpot got hit. Powerball jackpot is at 207 (89.3) and Mega is at just 193 (82.8). Jackpot sizes are a set percentage of ",
-        "url": "https://reddit.com/r/Lottery/comments/1wanal0/powerball_jackpot_overtook_the_mega/",
-        "timestamp": "2026-09-08T12:39:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1waaeyo",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1waaeyo/powerball_winning_numbers_monday/",
-        "timestamp": "2026-09-08T01:20:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wa0bmm",
-        "title": "Bonus Blowout top prize win",
-        "summary": "Florida lottery $ 5 scratch off top prize  win $500.  Odds over 1 in 3000.  Rare",
-        "url": "https://reddit.com/r/Lottery/comments/1wa0bmm/bonus_blowout_top_prize_win/",
-        "timestamp": "2026-09-07T18:32:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w9iq6n",
-        "title": "Did they pull the Spin to Win game from the NY Lottery? I don't see it on the app or the site anymore.",
-        "summary": "↑1 · 💬8",
-        "url": "https://reddit.com/r/Lottery/comments/1w9iq6n/did_they_pull_the_spin_to_win_game_from_the_ny/",
-        "timestamp": "2026-09-07T05:07:57.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w9fa0b",
-        "title": "Won $400 off $5 scratcher",
-        "summary": "My cousin from washington came down and I invited him to my lucky lottery spot to buy a scratcher. We noticed a guy buy the $5 loteria and he lost. I told my cousin the next one might be a winner.  He bought it and won $400",
-        "url": "https://reddit.com/r/Lottery/comments/1w9fa0b/won_400_off_5_scratcher/",
-        "timestamp": "2026-09-07T02:16:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 59,
-        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -267,186 +132,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1w8kmmm",
-        "title": "Pretty lucky night for me...",
-        "summary": "I haven't had much luck recently. Yesterday I won $5 on a $5 scratch off. I used that $5 to buy a ticket tonight, Won $20, bought $10 in draw game tickets and 2 more $5 tickets, won $70 on one of those. In my state there is a lottery app sw",
-        "url": "https://reddit.com/r/Lottery/comments/1w8kmmm/pretty_lucky_night_for_me/",
-        "timestamp": "2026-09-06T03:14:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 12,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w8iiax",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1w8iiax/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-09-06T01:30:10.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w81tks",
-        "title": "Lottery Scratch Tickets Advice",
-        "summary": "Any advice on if buying the $50 scratch tickets are worth the costs in the long run?  I usually buy the $10 tickets but on 3 separate occasions in the last 2 months, I purchased a $50 ticket along with my regular $10 tickets but was disappo",
-        "url": "https://reddit.com/r/Lottery/comments/1w81tks/lottery_scratch_tickets_advice/",
-        "timestamp": "2026-09-05T14:11:32.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w7j7c7",
-        "title": "Beware Jackpot lottery courier app in Colorado",
-        "summary": "I usually buy in person, but sometimes I will use one of several apps to get a ticket for a drawing if I’m feeling lazy or didn’t make it to the store. I tried jackpot, spent about $90. Won $50.   I processed my withdrawal on September 1 an",
-        "url": "https://reddit.com/r/Lottery/comments/1w7j7c7/beware_jackpot_lottery_courier_app_in_colorado/",
-        "timestamp": "2026-09-04T22:37:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 4,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w7j3pb",
-        "title": "MegaMillions 10X multiplier!! Lets go!!!!",
-        "summary": "Finally got a 10X multiplier today on my single quick pick ticket after months! Don’t be surprised if there’s a 10X match five winner today! Fingers crossed 🤞Good Luck Everyone!!!",
-        "url": "https://reddit.com/r/Lottery/comments/1w7j3pb/megamillions_10x_multiplier_lets_go/",
-        "timestamp": "2026-09-04T22:33:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w758qb",
-        "title": "Scratch-off tickets are 90% of Tennessee's lottery revenue and 8% of Rhode Island's - there is no single \"American lottery\"",
-        "summary": "I compile scratch-off and total lottery revenue by state from lottery commission annual reports, and the 2025 numbers have a split in them I didn't expect to be this wide. Scratch-off tickets as a share of total state lottery revenue, 2025:",
-        "url": "https://reddit.com/r/Lottery/comments/1w758qb/scratchoff_tickets_are_90_of_tennessees_lottery/",
-        "timestamp": "2026-09-04T14:00:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w6aw2c",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1w6aw2c/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-09-03T15:38:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w5z58j",
-        "title": "California's new $40 has a top prize of $1 million.",
-        "summary": "Yes.  That was not a typo.  A chance at $1 million with a $40 ticket.  A retailer showed me the glossy booklet of upcoming games, and it was on one of the pages.  It's a new California-themed ticket that is set for release in October.  The ",
-        "url": "https://reddit.com/r/Lottery/comments/1w5z58j/californias_new_40_has_a_top_prize_of_1_million/",
-        "timestamp": "2026-09-03T06:14:23.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 9,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w5ycz1",
-        "title": "Best lotteries ever",
-        "summary": "Oz Lotto - [https://www.thelott.com/oz-lotto/play?jid=weekly-offers-ozlotto](https://www.thelott.com/oz-lotto/play?jid=weekly-offers-ozlotto) Powerball - [https://www.thelott.com/powerball/play?jid=weekly-offers-powerball](https://www.thelo",
-        "url": "https://reddit.com/r/Lottery/comments/1w5ycz1/best_lotteries_ever/",
-        "timestamp": "2026-09-03T05:30:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w5ceml",
-        "title": "New Powerball game",
-        "summary": "Games called Xs & Os, seems cool but still don’t understand it",
-        "url": "https://reddit.com/r/Lottery/comments/1w5ceml/new_powerball_game/",
-        "timestamp": "2026-09-02T14:45:29.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 9,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w5catr",
-        "title": "POWERBALL IS NEARLY 150 MILLION ...AGAIN",
-        "summary": "https://preview.redd.it/bg3vqkh4c4nh1.png?width=1236&format=png&auto=webp&s=56121a7030594b2e3d4b55d59eee898c55f6be7f **Power Ball** is up over 100 million again and **Super Lotto** is still poking along. This would be sweet week to win befo",
-        "url": "https://reddit.com/r/Lottery/comments/1w5catr/powerball_is_nearly_150_million_again/",
-        "timestamp": "2026-09-02T14:41:39.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w533u7",
-        "title": "Are the odds any better or worse on these $20 Texas lottery scratch tickets?",
-        "summary": "Are the odds any better or worse on these Texas lottery scratch tickets? Because what I like seeing on these 3 $20 tickets is that the 2nd place winnings is $100,000 compared to the other $20 tickets out there are only $10,000. 🤔",
-        "url": "https://reddit.com/r/Lottery/comments/1w533u7/are_the_odds_any_better_or_worse_on_these_20/",
-        "timestamp": "2026-09-02T07:11:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 10,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9s",
         "title": "GHA Discovery D$50 Bonus For Each New Brand Stayed Between September 1 – October 31, 2026 + Raffle",
         "summary": "Global Hotel Alliance (GHA) has launched a new offer to get Discovery members to stay at new brands between September 1 and October 31, 2026. GHA Discovery members earn a D$50 bonus for each stay of two nights or longer at a brand they have […]",
@@ -460,81 +145,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1w4ng9g",
-        "title": "$20 NY Lottery ticket with a prize of.. $10??",
-        "summary": "I was looking at the new NY lottery tickets today, and noticed on one of their $20 tickets, its a 1:10 chance to get NOT moneyback, $10.  I looked it up on google and apparently they can’t do that under their own rules!  I hate NYL!!",
-        "url": "https://reddit.com/r/Lottery/comments/1w4ng9g/20_ny_lottery_ticket_with_a_prize_of_10/",
-        "timestamp": "2026-09-01T20:00:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w47ixo",
-        "title": "Eurojackpot €15 million tonight",
-        "summary": "Who's playing tonight? What would you do if you hit the jackpot? First, i would pay off my familys debts and my own debts. I would buy a reliable car (probably as new and as good as possible to save repair costs) Then i would purchase a nic",
-        "url": "https://reddit.com/r/Lottery/comments/1w47ixo/eurojackpot_15_million_tonight/",
-        "timestamp": "2026-09-01T10:04:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 4,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w47a2b",
-        "title": "California Lottery installing debit card readers for its kiosk machines",
-        "summary": "Someone else posted about this earlier.  I thought California Lottery was just in the deliberation stage of installing these, but I saw a machine over the weekend with the debit card reader already attached to an existing machine, with a br",
-        "url": "https://reddit.com/r/Lottery/comments/1w47a2b/california_lottery_installing_debit_card_readers/",
-        "timestamp": "2026-09-01T09:51:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w3xhz5",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬2",
-        "url": "https://reddit.com/r/Lottery/comments/1w3xhz5/powerball_winning_numbers_monday/",
-        "timestamp": "2026-09-01T01:20:23.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w3m8tl",
-        "title": "Do you know dubai duty free lottery?",
-        "summary": "Hello, I'm Jeremy from Belgium. In Dubai airport I saw a dubai duty free lottery boot. As a gambler, I had to play, I liked the odds, 1M usd, 5000 tickets, 1000 dirham (250eur\\~). One winner. I don't care about small prices as most of the t",
-        "url": "https://reddit.com/r/Lottery/comments/1w3m8tl/do_you_know_dubai_duty_free_lottery/",
-        "timestamp": "2026-08-31T18:23:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 2,
-        "comments": 2,
-        "mood": "ANXIOUS",
-        "isME": true
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9m",
@@ -565,35 +175,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Five K-Dramas to watch in September 2026 on OTT: Made in Korea 2 to The Scandal to The Ordinary Jackpot, more on Netflix, Viki and Prime Video",
-        "summary": "September brings an exciting lineup of new K-dramas to streaming platforms. Fans of Hyun Bin and Jung Woosung can catch the emotional ride of the final season of Made in Korea. The Ordinary Jackpot offers a glimpse into life post-lottery win, while A Love Oth…",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/five-k-dramas-to-watch-in-september-2026-on-ott-made-in-korea-2-to-the-scandal-to-the-ordinary-jackpot-more-on-netflix-viki-and-prime-video/articleshow/133621955.cms",
-        "timestamp": "2026-08-30T02:46:16Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 32,
-      "meSignals": 2,
+      "totalSignals": 5,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 25,
+        "HOPEFUL": 5,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
-        "NEUTRAL": 4
+        "ANXIOUS": 0,
+        "NEUTRAL": 0
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 0
     }
   }
 }
