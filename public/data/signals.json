@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T07:22:07.610Z",
+  "generated_at": "2026-09-11T07:20:44.577Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,107 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 40,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 42,
-      "wind_kmh": 16,
+      "temp_c": 40,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Saudi Arabia": {
+      "temp_c": 40,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
     "Kuwait": {
       "temp_c": 38,
-      "wind_kmh": 4,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Qatar": {
-      "temp_c": 44,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Bahrain": {
-      "temp_c": 41,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Lebanon": {
-      "temp_c": 28,
+    "Yemen": {
+      "temp_c": 24,
       "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 27,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Amman"
+      "condition": "Rain",
+      "city": "Sanaa"
     },
     "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 8,
+      "temp_c": 26,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 5,
+    "Oman": {
+      "temp_c": 36,
+      "wind_kmh": 21,
       "condition": "Clear",
-      "city": "Baghdad"
+      "city": "Muscat"
     },
     "Iran": {
-      "temp_c": 30,
-      "wind_kmh": 9,
+      "temp_c": 29,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Tehran"
     },
-    "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 11,
+    "Iraq": {
+      "temp_c": 38,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Baghdad"
+    },
+    "Bahrain": {
+      "temp_c": 41,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 27,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Qatar": {
+      "temp_c": 44,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Doha"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307958,
+    "KWD": 0.308137,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.199677,
-    "IQD": 1311.249965
+    "EGP": 51.336524,
+    "IQD": 1310.989427
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball jackpot numbers for September 9 revealed - Check who won the $207 million top prize on Wednesday night?",
+        "summary": "Get ready for an exciting Wednesday as the Powerball jackpot reaches an impressive $207 million! To win, participants need to align all five white balls and the red Powerball. Just a month ago, an Illinois ticket celebrated an incredible $1.04 billion win on …",
+        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-numbers-for-september-9-revealed-check-who-won-the-207-million-top-prize-on-wednesday-night/articleshow/133992421.cms",
+        "timestamp": "2026-09-10T03:26:54Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "No Winner In $190M Powerball Drawing Monday, Jackpot Climbs To $207M For Wednesday Draw Amid Unclaimed $1B",
@@ -145,43 +160,13 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9m",
-        "title": "Why Canada’s major projects push has the big banks salivating",
-        "summary": "An easing of capital requirements means the Big Six have $74 billion to lend, but they may be waiting for big ticket projects on the horizon",
-        "url": "https://financialpost.com/fp-finance/banking/why-canadas-major-projects-push-has-big-banks-salivating",
-        "timestamp": "2026-08-31T10:00:31Z",
-        "source": "Financial Post",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cDovL3d3",
-        "title": "Lee Jun Hyuk Is An Office Worker Whose Life Changes After Winning The Lottery In New Drama “The Ordinary Jackpot”",
-        "summary": "“The Ordinary Jackpot” has unveiled new stills of Lee Jun Hyuk in character! Based on a webtoon, “The Ordinary Jackpot” follows Gong Eun Tae (Lee Jun Hyuk), an ordinary sales employee who wins the lottery jackpot. Though the prize—1.3 billion won (approximate…",
-        "url": "http://www.soompi.com/article/1866992wpp/lee-jun-hyuk-is-an-office-worker-whose-life-changes-after-winning-the-lottery-in-new-drama-the-ordinary-jackpot",
-        "timestamp": "2026-08-31T06:34:19Z",
-        "source": "soompi",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 5,
-      "meSignals": 1,
+      "totalSignals": 4,
+      "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 5,
+        "HOPEFUL": 4,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 0
