@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:20:44.577Z",
+  "generated_at": "2026-09-12T07:13:13.207Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,34 +16,58 @@
   },
   "weather": {
     "UAE": {
-      "temp_c": 40,
-      "wind_kmh": 14,
+      "temp_c": 39,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Lebanon": {
-      "temp_c": 28,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Saudi Arabia": {
       "temp_c": 40,
-      "wind_kmh": 15,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 38,
+    "Qatar": {
+      "temp_c": 41,
       "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 39,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Yemen": {
-      "temp_c": 24,
+    "Bahrain": {
+      "temp_c": 39,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 34,
+      "wind_kmh": 24,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 27,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 38,
       "wind_kmh": 8,
-      "condition": "Rain",
-      "city": "Sanaa"
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Egypt": {
       "temp_c": 26,
@@ -51,56 +75,47 @@
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 21,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Iran": {
-      "temp_c": 29,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Bahrain": {
-      "temp_c": 41,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Jordan": {
       "temp_c": 27,
       "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Amman"
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     },
-    "Qatar": {
-      "temp_c": 44,
-      "wind_kmh": 9,
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 18,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308137,
+    "KWD": 0.308232,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.336524,
-    "IQD": 1310.989427
+    "EGP": 51.351123,
+    "IQD": 1310.981106
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball jackpot climbs to $232 million for September 12 drawing - Here's what Saturday night's winner could take home",
+        "summary": "The anticipation mounts for the Saturday drawing as the Powerball jackpot reaches an impressive estimated $232 million. After Wednesday's drawing ended without a winning ticket, the prize ballooned. Contestants can opt for either a lump sum of $100 million be…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-climbs-to-232-million-for-september-12-drawing-heres-what-saturday-nights-winner-could-take-home/articleshow/134042398.cms",
+        "timestamp": "2026-09-11T03:04:52Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Powerball jackpot numbers for September 9 revealed - Check who won the $207 million top prize on Wednesday night?",
@@ -138,21 +153,6 @@
         "url": "https://www.dailymail.com/news/article-16109649/Lottery-winner-inspired-Dolly-Parton-generosity.html",
         "timestamp": "2026-09-06T15:50:44Z",
         "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9s",
-        "title": "GHA Discovery D$50 Bonus For Each New Brand Stayed Between September 1 – October 31, 2026 + Raffle",
-        "summary": "Global Hotel Alliance (GHA) has launched a new offer to get Discovery members to stay at new brands between September 1 and October 31, 2026. GHA Discovery members earn a D$50 bonus for each stay of two nights or longer at a brand they have […]",
-        "url": "https://loyaltylobby.com/2026/09/01/gha-discovery-d50-bonus-for-each-new-brand-stayed-between-september-1-october-31-2026-raffle/",
-        "timestamp": "2026-09-02T01:32:50Z",
-        "source": "Loyaltylobby.com",
         "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
