@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:13:13.207Z",
+  "generated_at": "2026-09-13T07:31:17.296Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,20 +16,20 @@
   },
   "weather": {
     "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 9,
+      "temp_c": 38,
+      "wind_kmh": 17,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
       "temp_c": 40,
-      "wind_kmh": 4,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 3,
+      "temp_c": 38,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Doha"
     },
@@ -39,65 +39,65 @@
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Bahrain": {
-      "temp_c": 39,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Oman": {
-      "temp_c": 34,
-      "wind_kmh": 24,
+      "temp_c": 35,
+      "wind_kmh": 22,
       "condition": "Partly Cloudy",
       "city": "Muscat"
     },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
     "Lebanon": {
       "temp_c": 28,
-      "wind_kmh": 6,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 27,
-      "wind_kmh": 3,
+      "temp_c": 30,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Amman"
     },
     "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 8,
+      "temp_c": 40,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Baghdad"
     },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 27,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
+    "Bahrain": {
+      "temp_c": 38,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Manama"
     },
     "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 18,
-      "condition": "Clear",
+      "temp_c": 25,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 29,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308232,
+    "KWD": 0.308184,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.351123,
-    "IQD": 1310.981106
+    "EGP": 51.34216,
+    "IQD": 1310.968471
   },
   "lottery": {
     "items": [
