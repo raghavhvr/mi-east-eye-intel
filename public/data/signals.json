@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T07:57:55.808Z",
+  "generated_at": "2026-09-15T07:51:56.279Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,75 +15,75 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 41,
-      "wind_kmh": 4,
+      "temp_c": 39,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 8,
+      "temp_c": 41,
+      "wind_kmh": 1,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Kuwait": {
+    "UAE": {
       "temp_c": 40,
-      "wind_kmh": 2,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Bahrain": {
+      "temp_c": 40,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Kuwait": {
+      "temp_c": 38,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Oman": {
-      "temp_c": 35,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
+      "temp_c": 37,
+      "wind_kmh": 16,
+      "condition": "Clear",
       "city": "Muscat"
     },
-    "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Jordan": {
-      "temp_c": 31,
-      "wind_kmh": 5,
+      "temp_c": 30,
+      "wind_kmh": 4,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Lebanon": {
-      "temp_c": 29,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 29,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 39,
-      "wind_kmh": 6,
+      "temp_c": 40,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
+    "Lebanon": {
+      "temp_c": 29,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 19,
+      "temp_c": 28,
+      "wind_kmh": 15,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
+    "Egypt": {
+      "temp_c": 29,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
     "Iran": {
       "temp_c": 31,
-      "wind_kmh": 10,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Tehran"
     }
@@ -92,15 +92,60 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.307954,
+    "KWD": 0.308467,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.377954,
-    "IQD": 1310.958162
+    "EGP": 51.827004,
+    "IQD": 1311.545953
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wgooqx",
+        "title": "Calif. ??",
+        "summary": "Yes its a win but Calif lottery is cruel. Whoever comes up with this type of win or the 50x’s or 100x’s wins with a $1 or $2 winner must think these were good ideas. But a win is a win i guys. Calif lottery is making it more difficult to ke",
+        "url": "https://reddit.com/r/Lottery/comments/1wgooqx/calif/",
+        "timestamp": "2026-09-15T03:17:00.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wgm83p",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1wgm83p/powerball_winning_numbers_monday/",
+        "timestamp": "2026-09-15T01:20:32.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wgg9fr",
+        "title": "Anyone else having issues with the NJ Lottery app scanning tickets? It seems to be down entirely",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1wgg9fr/anyone_else_having_issues_with_the_nj_lottery_app/",
+        "timestamp": "2026-09-14T21:11:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wfjv4x",
         "title": "$500 Winner",
@@ -126,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,22 +186,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 3,
+        "comments": 5,
         "mood": "NEUTRAL",
         "isME": false
       },
       {
         "id": "reddit-lot-1weu7q2",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1weu7q2/powerball_winning_numbers_saturday/",
         "timestamp": "2026-09-13T01:30:08.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -550,65 +595,20 @@
         "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1w7j7c7",
-        "title": "Beware Jackpot lottery courier app in Colorado",
-        "summary": "I usually buy in person, but sometimes I will use one of several apps to get a ticket for a drawing if I’m feeling lazy or didn’t make it to the store. I tried jackpot, spent about $90. Won $50.   I processed my withdrawal on September 1 an",
-        "url": "https://reddit.com/r/Lottery/comments/1w7j7c7/beware_jackpot_lottery_courier_app_in_colorado/",
-        "timestamp": "2026-09-04T22:37:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 4,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w7j3pb",
-        "title": "MegaMillions 10X multiplier!! Lets go!!!!",
-        "summary": "Finally got a 10X multiplier today on my single quick pick ticket after months! Don’t be surprised if there’s a 10X match five winner today! Fingers crossed 🤞Good Luck Everyone!!!",
-        "url": "https://reddit.com/r/Lottery/comments/1w7j3pb/megamillions_10x_multiplier_lets_go/",
-        "timestamp": "2026-09-04T22:33:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w758qb",
-        "title": "Scratch-off tickets are 90% of Tennessee's lottery revenue and 8% of Rhode Island's - there is no single \"American lottery\"",
-        "summary": "I compile scratch-off and total lottery revenue by state from lottery commission annual reports, and the 2025 numbers have a split in them I didn't expect to be this wide. Scratch-off tickets as a share of total state lottery revenue, 2025:",
-        "url": "https://reddit.com/r/Lottery/comments/1w758qb/scratchoff_tickets_are_90_of_tennessees_lottery/",
-        "timestamp": "2026-09-04T14:00:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
       "totalSignals": 33,
       "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 25,
+        "HOPEFUL": 26,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
+        "ANXIOUS": 2,
         "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 24
+      "uncertaintyScore": 21
     }
   }
 }
