@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:47:54.703Z",
+  "generated_at": "2026-09-18T07:28:02.112Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -17,90 +17,135 @@
   "weather": {
     "UAE": {
       "temp_c": 38,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 2,
+      "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 3,
+      "temp_c": 39,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 42,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
+      "temp_c": 41,
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 7,
+      "temp_c": 41,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Bahrain": {
-      "temp_c": 39,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
+      "temp_c": 38,
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
       "temp_c": 38,
-      "wind_kmh": 20,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 11,
+      "condition": "Clear",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 29,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
-      "temp_c": 30,
-      "wind_kmh": 9,
-      "condition": "Clear",
+      "temp_c": 26,
+      "wind_kmh": 27,
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Yemen": {
+    "Jordan": {
       "temp_c": 25,
-      "wind_kmh": 14,
+      "wind_kmh": 20,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Amman"
     },
     "Egypt": {
-      "temp_c": 33,
-      "wind_kmh": 9,
-      "condition": "Clear",
+      "temp_c": 28,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 34,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 9,
+      "condition": "Rain",
+      "city": "Sanaa"
     },
     "Iran": {
       "temp_c": 32,
-      "wind_kmh": 11,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Tehran"
-    },
-    "Iraq": {
-      "temp_c": 39,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308151,
+    "KWD": 0.308234,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.18941,
-    "IQD": 1311.463335
+    "EGP": 52.136987,
+    "IQD": 1309.264006
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wj2a0l",
+        "title": "Mystery Solved: Illinois Lottery Confirms $1.04 Billion Powerball Jackpot Has Been Claimed",
+        "summary": "Won on a quick pick and single $2 ticket.",
+        "url": "https://reddit.com/r/Lottery/comments/1wj2a0l/mystery_solved_illinois_lottery_confirms_104/",
+        "timestamp": "2026-09-17T18:35:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wj1pim",
+        "title": "Does this mean I won a lottery sort of?",
+        "summary": "First time my numbers hit in the correct order for Pick 3!",
+        "url": "https://reddit.com/r/Lottery/comments/1wj1pim/does_this_mean_i_won_a_lottery_sort_of/",
+        "timestamp": "2026-09-17T18:14:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wixf0d",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1wixf0d/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-09-17T15:38:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wilg9x",
         "title": "Eurojackpot winning",
@@ -119,7 +164,7 @@
       {
         "id": "hn-lot-49731216",
         "title": "Tell HN: An inside view of Montana's new biotech law",
-        "summary": "34 pts · 15 comments",
+        "summary": "34 pts · 21 comments",
         "url": "https://news.ycombinator.com/item?id=49731216",
         "timestamp": "2026-09-16T18:43:57.000Z",
         "source": "Hacker News",
@@ -127,7 +172,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 34,
-        "comments": 15,
+        "comments": 21,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -156,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 3,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -171,23 +216,23 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 0,
+        "score": 14,
+        "comments": 31,
         "mood": "HOPEFUL",
         "isME": true
       },
       {
         "id": "reddit-lot-1whbjcp",
         "title": "Jackpot win! Well, the top prize for this ticket. 😀",
-        "summary": "↑1 · 💬0",
+        "summary": "↑92 · 💬5",
         "url": "https://reddit.com/r/Lottery/comments/1whbjcp/jackpot_win_well_the_top_prize_for_this_ticket/",
         "timestamp": "2026-09-15T20:14:35.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 92,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -582,21 +627,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "No Winner In $190M Powerball Drawing Monday, Jackpot Climbs To $207M For Wednesday Draw Amid Unclaimed $1B",
-        "summary": "The Powerball jackpot has increased to $207 million after no winner was found. Meanwhile, a $1.04 billion prize remains unclaimed, adding intrigue to the lottery's ongoing excitement.",
-        "url": "https://www.ibtimes.com.au/powerball-jackpot-207-million-unclaimed-billion-dollar-prize-1875193",
-        "timestamp": "2026-09-08T12:47:23Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1wanal0",
         "title": "Powerball jackpot overtook the Mega.",
         "summary": "The Mega reset on July 28 after the 800M jackpot was won and the Powerball reset 2 weeks later on  Aug 12 when the 1B jackpot got hit. Powerball jackpot is at 207 (89.3) and Mega is at just 193 (82.8). Jackpot sizes are a set percentage of ",
@@ -638,36 +668,6 @@
         "country": "Global",
         "score": 29,
         "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w9iq6n",
-        "title": "Did they pull the Spin to Win game from the NY Lottery? I don't see it on the app or the site anymore.",
-        "summary": "↑1 · 💬8",
-        "url": "https://reddit.com/r/Lottery/comments/1w9iq6n/did_they_pull_the_spin_to_win_game_from_the_ny/",
-        "timestamp": "2026-09-07T05:07:57.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1w9fa0b",
-        "title": "Won $400 off $5 scratcher",
-        "summary": "My cousin from washington came down and I invited him to my lucky lottery spot to buy a scratcher. We noticed a guy buy the $5 loteria and he lost. I told my cousin the next one might be a winner.  He bought it and won $400",
-        "url": "https://reddit.com/r/Lottery/comments/1w9fa0b/won_400_off_5_scratcher/",
-        "timestamp": "2026-09-07T02:16:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 59,
-        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       }
