@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T07:28:02.112Z",
+  "generated_at": "2026-09-19T07:24:08.318Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,182 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
+    "Qatar": {
       "temp_c": 38,
-      "wind_kmh": 2,
+      "wind_kmh": 7,
       "condition": "Clear",
-      "city": "Abu Dhabi"
+      "city": "Doha"
     },
     "Saudi Arabia": {
-      "temp_c": 39,
+      "temp_c": 40,
       "wind_kmh": 2,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Qatar": {
-      "temp_c": 41,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Kuwait": {
-      "temp_c": 41,
-      "wind_kmh": 14,
+      "temp_c": 39,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Kuwait City"
     },
+    "UAE": {
+      "temp_c": 40,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Bahrain": {
-      "temp_c": 38,
+      "temp_c": 37,
       "wind_kmh": 6,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 11,
+      "temp_c": 35,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
       "temp_c": 26,
-      "wind_kmh": 27,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 15,
+      "condition": "Clear",
       "city": "Beirut"
     },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 20,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Egypt": {
-      "temp_c": 28,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 34,
-      "wind_kmh": 2,
+      "temp_c": 35,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 9,
-      "condition": "Rain",
-      "city": "Sanaa"
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Jordan": {
+      "temp_c": 23,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
     },
     "Iran": {
-      "temp_c": 32,
-      "wind_kmh": 9,
-      "condition": "Clear",
+      "temp_c": 33,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 25,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308234,
+    "KWD": 0.308118,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.136987,
-    "IQD": 1309.264006
+    "EGP": 52.135355,
+    "IQD": 1309.241712
   },
   "lottery": {
     "items": [
+      {
+        "id": "hn-lot-49763311",
+        "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
+        "summary": "9 pts · 4 comments",
+        "url": "https://github.com/jasonepage/Seal",
+        "timestamp": "2026-09-19T04:28:22.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 9,
+        "comments": 4,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wk0zhz",
+        "title": "Millionaire for life $8 win 🏆",
+        "summary": "A win is a win 🍀. Stay tuned on my journey towards the jackpot 🎰 🤞🏾",
+        "url": "https://reddit.com/r/Lottery/comments/1wk0zhz/millionaire_for_life_8_win/",
+        "timestamp": "2026-09-18T20:09:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 5,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wjz391",
+        "title": "Attention UK Powerball players",
+        "summary": "Curious any Brits are playing the Powerball lottery game? Haven’t seen any UK media video coverage on the first day of the game on July 22nd. Do you have pics how the paper game looks?",
+        "url": "https://reddit.com/r/Lottery/comments/1wjz391/attention_uk_powerball_players/",
+        "timestamp": "2026-09-18T18:59:15.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wjvcz5",
+        "title": "What is more popular? PowerBall or Mega Millions",
+        "summary": "↑6 · 💬9",
+        "url": "https://reddit.com/r/Lottery/comments/1wjvcz5/what_is_more_popular_powerball_or_mega_millions/",
+        "timestamp": "2026-09-18T16:42:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 6,
+        "comments": 9,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wjuod3",
+        "title": "Emirates Draw Confirmation",
+        "summary": "Hello Good People Just want to check if this is a real lottery and not a scam. Any insights will be helpful!",
+        "url": "https://reddit.com/r/Lottery/comments/1wjuod3/emirates_draw_confirmation/",
+        "timestamp": "2026-09-18T16:17:31.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 2,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball jackpot touches nearly $300-million mark for September 19 drawing - Here's what Saturday night's winner could take home",
+        "summary": "The Powerball jackpot has surged to an impressive $298 million for the upcoming drawing on Saturday. After no tickets matched the winning numbers in Wednesday's draw, the prize continued to grow, reminiscent of past record-breaking jackpots seen in Illinois a…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-touches-nearly-300-million-mark-for-september-19-drawing-heres-what-saturday-nights-winner-could-take-home/articleshow/134324713.cms",
+        "timestamp": "2026-09-18T03:09:21Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wj2a0l",
         "title": "Mystery Solved: Illinois Lottery Confirms $1.04 Billion Powerball Jackpot Has Been Claimed",
@@ -111,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 81,
+        "comments": 15,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -126,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 11,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 9,
+        "comments": 13,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,7 +246,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 3,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -164,7 +254,7 @@
       {
         "id": "hn-lot-49731216",
         "title": "Tell HN: An inside view of Montana's new biotech law",
-        "summary": "34 pts · 21 comments",
+        "summary": "34 pts · 25 comments",
         "url": "https://news.ycombinator.com/item?id=49731216",
         "timestamp": "2026-09-16T18:43:57.000Z",
         "source": "Hacker News",
@@ -172,7 +262,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 34,
-        "comments": 21,
+        "comments": 25,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -235,21 +325,6 @@
         "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wgx8du",
-        "title": "UFC 6 community Oman",
-        "summary": "Hey all    I have been curious to see the popularity of the UFC franchise video game here in Oman    Im planning to host a small tournament by beginning of October with a grand prize and all  The game is very competitive and broken tbh too ",
-        "url": "https://reddit.com/r/Oman/comments/1wgx8du/ufc_6_community_oman/",
-        "timestamp": "2026-09-15T11:04:10.000Z",
-        "source": "r/oman",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 3,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": true
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
@@ -594,81 +669,6 @@
         "score": 385,
         "comments": 45,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1was4gn",
-        "title": "New Powerball x NFL X's & O's",
-        "summary": "The new Powerball X's & O's game went live today? Are you going to play this new game? Do you think it will drive in new interest to the lottery?",
-        "url": "https://reddit.com/r/Lottery/comments/1was4gn/new_powerball_x_nfl_xs_os/",
-        "timestamp": "2026-09-08T15:47:57.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 6,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wanty1",
-        "title": "New Powerball game",
-        "summary": "Worth it?? What is yall thought?",
-        "url": "https://reddit.com/r/Lottery/comments/1wanty1/new_powerball_game/",
-        "timestamp": "2026-09-08T13:03:03.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wanal0",
-        "title": "Powerball jackpot overtook the Mega.",
-        "summary": "The Mega reset on July 28 after the 800M jackpot was won and the Powerball reset 2 weeks later on  Aug 12 when the 1B jackpot got hit. Powerball jackpot is at 207 (89.3) and Mega is at just 193 (82.8). Jackpot sizes are a set percentage of ",
-        "url": "https://reddit.com/r/Lottery/comments/1wanal0/powerball_jackpot_overtook_the_mega/",
-        "timestamp": "2026-09-08T12:39:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 25,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1waaeyo",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬2",
-        "url": "https://reddit.com/r/Lottery/comments/1waaeyo/powerball_winning_numbers_monday/",
-        "timestamp": "2026-09-08T01:20:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wa0bmm",
-        "title": "Bonus Blowout top prize win",
-        "summary": "Florida lottery $ 5 scratch off top prize  win $500.  Odds over 1 in 3000.  Rare",
-        "url": "https://reddit.com/r/Lottery/comments/1wa0bmm/bonus_blowout_top_prize_win/",
-        "timestamp": "2026-09-07T18:32:41.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 3,
-        "mood": "HOPEFUL",
         "isME": false
       }
     ],
