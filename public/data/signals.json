@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T07:24:08.318Z",
+  "generated_at": "2026-09-20T07:47:49.683Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,104 +15,179 @@
     "Iran": null
   },
   "weather": {
-    "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Saudi Arabia": {
       "temp_c": 40,
-      "wind_kmh": 2,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
     "UAE": {
-      "temp_c": 40,
+      "temp_c": 42,
       "wind_kmh": 4,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Qatar": {
+      "temp_c": 39,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 38,
+      "wind_kmh": 18,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 6,
+      "temp_c": 35,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
-      "temp_c": 35,
-      "wind_kmh": 15,
+      "temp_c": 34,
+      "wind_kmh": 17,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 15,
-      "condition": "Clear",
+      "temp_c": 28,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
+    "Jordan": {
+      "temp_c": 25,
+      "wind_kmh": 1,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Iraq": {
-      "temp_c": 35,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
+      "temp_c": 34,
+      "wind_kmh": 8,
+      "condition": "Clear",
       "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 28,
-      "wind_kmh": 6,
+      "temp_c": 27,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 10,
+    "Yemen": {
+      "temp_c": 27,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
-      "city": "Amman"
+      "city": "Sanaa"
     },
     "Iran": {
       "temp_c": 33,
-      "wind_kmh": 8,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 25,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308118,
+    "KWD": 0.309208,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.135355,
-    "IQD": 1309.241712
+    "EGP": 52.137035,
+    "IQD": 1322.500221
   },
   "lottery": {
     "items": [
       {
+        "id": "reddit-lot-1wl80ki",
+        "title": "YT channel",
+        "summary": "I created a YT channel for my  lottery playing journey. Please subscribe if you’d like to follow along.",
+        "url": "https://reddit.com/r/Lottery/comments/1wl80ki/yt_channel/",
+        "timestamp": "2026-09-20T05:18:25.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wl3ji8",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1wl3ji8/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-09-20T01:30:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wl2hah",
+        "title": "Tickets that start with \"01\"",
+        "summary": "Before I say anything I am very aware that strictly statistically speaking \"01\" on my lottery ticket is neither good nor bad.  However, I absolutely hate getting a ticket that starts with 01. And, it happens a \\*lot\\*.  The way I like to bu",
+        "url": "https://reddit.com/r/Lottery/comments/1wl2hah/tickets_that_start_with_01/",
+        "timestamp": "2026-09-20T00:39:38.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wkni7l",
+        "title": "Won $10,000 the Tennessee Lottery Second Chance Drawing",
+        "summary": "I enter losing tickets in my state lottery's app. Points are awarded for each ticket, and I use those points to enter drawings. On September 3rd, \"Tennessee Education Lottery\" appeared on my caller id. I answered, of course. A man asked if ",
+        "url": "https://reddit.com/r/Lottery/comments/1wkni7l/won_10000_the_tennessee_lottery_second_chance/",
+        "timestamp": "2026-09-19T14:20:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wkl8c7",
+        "title": "Lottery",
+        "summary": "What's with yall chasing 20$ and up tickets are you all that desperate for a huge win.  I mean I would if I could but seems like a waste no one on this platform post 10$ or lower huge wins. Hope to see some huge wins on a 1$ 2$ 3$ 5$ or 10$",
+        "url": "https://reddit.com/r/Lottery/comments/1wkl8c7/lottery/",
+        "timestamp": "2026-09-19T12:41:23.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "hn-lot-49763311",
         "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
-        "summary": "9 pts · 4 comments",
+        "summary": "12 pts · 7 comments",
         "url": "https://github.com/jasonepage/Seal",
         "timestamp": "2026-09-19T04:28:22.000Z",
         "source": "Hacker News",
         "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 9,
-        "comments": 4,
+        "score": 12,
+        "comments": 7,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -141,23 +216,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
-        "comments": 0,
+        "score": 8,
+        "comments": 9,
         "mood": "NEUTRAL",
         "isME": false
       },
       {
         "id": "reddit-lot-1wjvcz5",
         "title": "What is more popular? PowerBall or Mega Millions",
-        "summary": "↑6 · 💬9",
+        "summary": "↑11 · 💬11",
         "url": "https://reddit.com/r/Lottery/comments/1wjvcz5/what_is_more_popular_powerball_or_mega_millions/",
         "timestamp": "2026-09-18T16:42:45.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 6,
-        "comments": 9,
+        "score": 11,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -567,21 +642,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball jackpot numbers for September 9 revealed - Check who won the $207 million top prize on Wednesday night?",
-        "summary": "Get ready for an exciting Wednesday as the Powerball jackpot reaches an impressive $207 million! To win, participants need to align all five white balls and the red Powerball. Just a month ago, an Illinois ticket celebrated an incredible $1.04 billion win on …",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-numbers-for-september-9-revealed-check-who-won-the-207-million-top-prize-on-wednesday-night/articleshow/133992421.cms",
-        "timestamp": "2026-09-10T03:26:54Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1wc5wah",
         "title": "I’m officially done",
         "summary": "I’m officially done playing the lottery for a big win. I thought after years of health issues and struggles that happened despite my best efforts I would receive, manifest, get Gods mercy or whatever the fuck ever…but outside of a few wins ",
@@ -595,95 +655,20 @@
         "comments": 52,
         "mood": "ANXIOUS",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wbukt7",
-        "title": "Checked which Powerball numbers have hit most since April — nothing surprising, but here's the list",
-        "summary": "Got curious and pulled the draw history since April 1 (66 draws) to see which numbers actually come up most often. Top white balls: 64 (10 times), then 3, 59, and 65 (8 times each), then a tight cluster at 7 times each: 14, 16, 17, 30, 36, ",
-        "url": "https://reddit.com/r/Lottery/comments/1wbukt7/checked_which_powerball_numbers_have_hit_most/",
-        "timestamp": "2026-09-09T18:53:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 12,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wbknya",
-        "title": "New AZ Draw Game X's and O's",
-        "summary": "What the heck is even going on here. I was researching this game that started on the 8th of Sept. The odds are insane. And it is $5 a play. I guess you pick your NFL teams and if those match you win. It IS NOT based on any outcome of any NF",
-        "url": "https://reddit.com/r/Lottery/comments/1wbknya/new_az_draw_game_xs_and_os/",
-        "timestamp": "2026-09-09T12:49:17.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 9,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wbbhsu",
-        "title": "I've never won the lottery or any kind of game of chance before. Give me 6 numbers from 1 to 90.",
-        "summary": "Have you ever won a big lottery before? These lottery things seem like scams to me.",
-        "url": "https://reddit.com/r/Lottery/comments/1wbbhsu/ive_never_won_the_lottery_or_any_kind_of_game_of/",
-        "timestamp": "2026-09-09T04:34:00.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wb7lpb",
-        "title": "Powerball Winning Numbers (Wednesday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1wb7lpb/powerball_winning_numbers_wednesday/",
-        "timestamp": "2026-09-09T01:30:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wazhlo",
-        "title": "MD LOTTERY",
-        "summary": "RACETRAX MD Lottery",
-        "url": "https://reddit.com/r/Lottery/comments/1wazhlo/md_lottery/",
-        "timestamp": "2026-09-08T20:05:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 385,
-        "comments": 45,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 38,
+      "totalSignals": 37,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 26,
         "CYNICAL": 0,
-        "ANXIOUS": 2,
+        "ANXIOUS": 3,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 26
+      "uncertaintyScore": 30
     }
   }
 }
