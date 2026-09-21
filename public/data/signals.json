@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:47:49.683Z",
+  "generated_at": "2026-09-21T08:01:52.185Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,59 +15,53 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 40,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 42,
-      "wind_kmh": 4,
+      "temp_c": 40,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Qatar": {
-      "temp_c": 39,
+    "Saudi Arabia": {
+      "temp_c": 38,
       "wind_kmh": 9,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Riyadh"
     },
     "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 18,
+      "temp_c": 37,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Kuwait City"
     },
+    "Qatar": {
+      "temp_c": 39,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 8,
+      "temp_c": 37,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
       "temp_c": 34,
-      "wind_kmh": 17,
+      "wind_kmh": 19,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Lebanon": {
-      "temp_c": 28,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 1,
+      "temp_c": 27,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Iraq": {
-      "temp_c": 34,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Baghdad"
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Egypt": {
       "temp_c": 27,
@@ -75,32 +69,83 @@
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+    "Iraq": {
+      "temp_c": 36,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Iran": {
-      "temp_c": 33,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
+      "temp_c": 32,
+      "wind_kmh": 11,
+      "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 26,
+      "wind_kmh": 19,
+      "condition": "Clear",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309208,
+    "KWD": 0.308712,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.137035,
-    "IQD": 1322.500221
+    "EGP": 52.042641,
+    "IQD": 1314.594062
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wm5b23",
+        "title": "I hate working. Is there anyway I can have at least net 10000 dollars/Euros per month without working using AI ?",
+        "summary": "As I hate working. Is there really a way where people using AI can create Money Automation for life ?   I have tried playing lottery but never really won anything. At this point I have given up hitting the lottery of millions of euros. Now ",
+        "url": "https://reddit.com/r/Lottery/comments/1wm5b23/i_hate_working_is_there_anyway_i_can_have_at/",
+        "timestamp": "2026-09-21T06:54:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wltk1b",
+        "title": "Lottery. What would you guys do? No numbers match",
+        "summary": "Help",
+        "url": "https://reddit.com/r/Lottery/comments/1wltk1b/lottery_what_would_you_guys_do_no_numbers_match/",
+        "timestamp": "2026-09-20T21:30:39.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wlqjh4",
+        "title": "Pick 3 Lottery Lotto App",
+        "summary": "Check out [https://p3.oceandataservices.com](https://p3.oceandataservices.com) for daily pick 3 numbers. Free 7 day trial, cancel any time. Play less, win more. Built for people who just want the numbers. send any feedback, good or bad to [",
+        "url": "https://reddit.com/r/Lottery/comments/1wlqjh4/pick_3_lottery_lotto_app/",
+        "timestamp": "2026-09-20T19:35:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wl80ki",
         "title": "YT channel",
@@ -114,6 +159,36 @@
         "score": 1,
         "comments": 0,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "India Post gift offer goes viral on social media, but what is the ‘Dak Seva Gifts’ scheme? PIB responds",
+        "summary": "A viral image claiming that India Post is distributing gifts under a “Dak Seva Gifts” scheme has been debunked by the PIB Fact Check Unit. The agency said India Post has no connection with the alleged gift, reward or lucky draw offer and urged citizens not to…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/india-post-gift-offer-goes-viral-on-social-media-but-what-is-the-dak-seva-gifts-scheme-pib-responds/articleshow/134363559.cms",
+        "timestamp": "2026-09-20T04:35:29Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball $298 million jackpot: Did anyone win Saturday's drawing? Check winning numbers here",
+        "summary": "Saturday night's Powerball drawing numbers have been announced. No ticket matched all six numbers, so the jackpot did not win. The estimated jackpot will now roll over to the next drawing on Monday. This drawing will take place at approximately 10:59 p.m. Eas…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-298-million-jackpot-did-anyone-win-saturdays-drawing-check-winning-numbers-here/articleshow/134363290.cms",
+        "timestamp": "2026-09-20T03:59:10Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -156,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 100,
+        "comments": 21,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -171,22 +246,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 43,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "hn-lot-49763311",
         "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
-        "summary": "12 pts · 7 comments",
+        "summary": "13 pts · 7 comments",
         "url": "https://github.com/jasonepage/Seal",
         "timestamp": "2026-09-19T04:28:22.000Z",
         "source": "Hacker News",
         "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 12,
+        "score": 13,
         "comments": 7,
         "mood": "NEUTRAL",
         "isME": false
@@ -201,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 5,
-        "comments": 0,
+        "score": 19,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -329,7 +404,7 @@
       {
         "id": "hn-lot-49731216",
         "title": "Tell HN: An inside view of Montana's new biotech law",
-        "summary": "34 pts · 25 comments",
+        "summary": "34 pts · 26 comments",
         "url": "https://news.ycombinator.com/item?id=49731216",
         "timestamp": "2026-09-16T18:43:57.000Z",
         "source": "Hacker News",
@@ -337,7 +412,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 34,
-        "comments": 25,
+        "comments": 26,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -595,80 +670,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wcwhha",
-        "title": "Welcome to r/Lottery!",
-        "summary": "Welcome to r/Lottery 47089 subscribers / 50k subscribers.   Help us reach our goal! Visit this post on Shreddit to enjoy interactive features. * * * This post contains content not supported on old Reddit. [Click here to view the full post](",
-        "url": "https://reddit.com/r/Lottery/comments/1wcwhha/welcome_to_rlottery/",
-        "timestamp": "2026-09-10T21:29:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wcmoo0",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1wcmoo0/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-09-10T15:38:18.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 15,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wc7l5c",
-        "title": "Forms of lottery??",
-        "summary": "Hey, do people play lotto tickets, fast prints, & scratchers all together? Or do you just stick to one game?",
-        "url": "https://reddit.com/r/Lottery/comments/1wc7l5c/forms_of_lottery/",
-        "timestamp": "2026-09-10T03:33:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wc5wah",
-        "title": "I’m officially done",
-        "summary": "I’m officially done playing the lottery for a big win. I thought after years of health issues and struggles that happened despite my best efforts I would receive, manifest, get Gods mercy or whatever the fuck ever…but outside of a few wins ",
-        "url": "https://reddit.com/r/Lottery/comments/1wc5wah/im_officially_done/",
-        "timestamp": "2026-09-10T02:15:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 59,
-        "comments": 52,
-        "mood": "ANXIOUS",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 37,
+      "totalSignals": 38,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 26,
+        "HOPEFUL": 28,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
+        "ANXIOUS": 2,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 30
+      "uncertaintyScore": 26
     }
   }
 }
