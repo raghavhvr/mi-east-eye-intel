@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:46:57.564Z",
+  "generated_at": "2026-09-23T07:49:56.966Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,152 @@
     "Iran": null
   },
   "weather": {
+    "Qatar": {
+      "temp_c": 38,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "UAE": {
       "temp_c": 39,
-      "wind_kmh": 10,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 5,
+      "temp_c": 40,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 13,
+      "temp_c": 40,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Kuwait": {
+      "temp_c": 41,
+      "wind_kmh": 13,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Jordan": {
+      "temp_c": 25,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
     "Bahrain": {
       "temp_c": 38,
-      "wind_kmh": 10,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Manama"
     },
+    "Lebanon": {
+      "temp_c": 28,
+      "wind_kmh": 19,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 38,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Cairo"
+    },
     "Yemen": {
-      "temp_c": 25,
-      "wind_kmh": 18,
+      "temp_c": 24,
+      "wind_kmh": 16,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
     "Iran": {
-      "temp_c": 34,
-      "wind_kmh": 11,
+      "temp_c": 32,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Tehran"
-    },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 40,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Amman"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308357,
+    "KWD": 0.308597,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.928286,
-    "IQD": 1311.506614
+    "EGP": 51.655442,
+    "IQD": 1309.497779
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wndskb",
+        "title": "The beginning of the barcode is faded, is this ok?",
+        "summary": "So as you can see, I purchased a Powerball ticket from a self-serv machine, and the first block of the barcode came out faded because of the printer. Is this ok? Because now this is giving me anxiety in case I win and they’ll give me a hard",
+        "url": "https://reddit.com/r/Lottery/comments/1wndskb/the_beginning_of_the_barcode_is_faded_is_this_ok/",
+        "timestamp": "2026-09-22T16:10:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wnbyzw",
+        "title": "Kentucky man who took home $167 million lottery jackpot is arrested again",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1wnbyzw/kentucky_man_who_took_home_167_million_lottery/",
+        "timestamp": "2026-09-22T15:03:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wn9kpw",
+        "title": "CA Lottery is a scam",
+        "summary": "Ca lottery has been getting cheaper each time first with 20x with a prize of $1 then both new $40 tickets don’t give profit anymore like the first ticket that went from 40 to 80 now it’s 40 to 50 and a winall all contain $2 prizes    This m",
+        "url": "https://reddit.com/r/Lottery/comments/1wn9kpw/ca_lottery_is_a_scam/",
+        "timestamp": "2026-09-22T13:30:23.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9u",
+        "title": "$167M Powerball winner arrested for fifth time after hitting jackpot for public intoxication in Walmart parking lot",
+        "summary": "The jackpot winner from rural Kentucky allegedly smelled of alcohol and marijuana and had bloodshot and watery eyes, slurred speech, and difficulty maintaining balance.",
+        "url": "https://nypost.com/2026/09/21/us-news/167m-powerball-winner-arrested-for-fifth-time-after-hitting-jackpot-for-public-intoxication-in-walmart-parking-lot/",
+        "timestamp": "2026-09-22T01:54:15Z",
+        "source": "New York Post",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wmvl03",
         "title": "Powerball Winning Numbers (Monday)",
@@ -156,9 +216,39 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 14,
+        "comments": 28,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cDovL3d3",
+        "title": "Zoomex to Host Traders After Party During TOKEN2049 Singapore, Connecting Traders and the Web3 Community",
+        "summary": "Industry KOL panels, an interactive session with F1 driver Ollie Bearman, live music, and grand prizes including a MacBook Air and iPhone Duo will highlight the evening. Global cryptocurrency derivatives platform Zoomex will host the “ZOOMEX TRADERS AFTER PAR…",
+        "url": "http://www.newsbtc.com/news/zoomex-to-host-traders-after-party-during-token2049-singapore-connecting-traders-and-the-web3-community/",
+        "timestamp": "2026-09-21T11:57:37Z",
+        "source": "newsBTC",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly96",
+        "title": "Zoomex to Host Traders’ After-Party During TOKEN2049 Singapore, Connecting Traders and the Web3 Community",
+        "summary": "Industry KOL panels, an interactive session with F1 driver Ollie Bearman, live music, and grand prizes including a MacBook Air and iPhone Duo will highlight the evening. Global cryptocurrency derivatives platform Zoomex will host the “ZOOMEX TRADERS AFTER PAR…",
+        "url": "https://zycrypto.com/zoomex-to-host-traders-after-party-during-token2049-singapore-connecting-traders-and-the-web3-community/",
+        "timestamp": "2026-09-21T10:36:30Z",
+        "source": "ZyCrypto",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -171,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 19,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 36,
+        "comments": 48,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -447,6 +537,21 @@
         "isME": false
       },
       {
+        "id": "hn-lot-49731216",
+        "title": "Tell HN: An inside view of Montana's new biotech law",
+        "summary": "34 pts · 26 comments",
+        "url": "https://news.ycombinator.com/item?id=49731216",
+        "timestamp": "2026-09-16T18:43:57.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 34,
+        "comments": 26,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1wi51xq",
         "title": "Whats the best lottery app out there if anyone uses one?  curious just started using ailotterywizards.com lottery app   looks great but curious what other ones are out there ?",
         "summary": "↑1 · 💬0",
@@ -580,103 +685,13 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wfjv4x",
-        "title": "$500 Winner",
-        "summary": "My dry spell came to an end yesterday. Recently I’ve stopped buying $5 and $10 tickets. Instead just buying a couple $30 or $20 tix Praying for my jackpot soon 🍀🤞",
-        "url": "https://reddit.com/r/Lottery/comments/1wfjv4x/500_winner/",
-        "timestamp": "2026-09-13T21:11:43.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 67,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wezo85",
-        "title": "Bad luck or next ones winners",
-        "summary": "I bought 100 dollars worth of Texas lotto tickets and went 0 for 100… some amazing bad luck or my next 100 is the jackpot",
-        "url": "https://reddit.com/r/Lottery/comments/1wezo85/bad_luck_or_next_ones_winners/",
-        "timestamp": "2026-09-13T06:12:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wewkyi",
-        "title": "Anyone deal with this before? It didn't get wet and I used a coin from the Texas lottery and a quater",
-        "summary": "For my Texas peeps.",
-        "url": "https://reddit.com/r/Lottery/comments/1wewkyi/anyone_deal_with_this_before_it_didnt_get_wet_and/",
-        "timestamp": "2026-09-13T03:27:12.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 5,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1weu7q2",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑0 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1weu7q2/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-09-13T01:30:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9t",
-        "title": "Hello Polyglots!",
-        "summary": "I am the plugin author of LuckyGrid Lite — Arcade Prize Draw. Please add my WordPress.org user as translation editor (PTE) for this plugin: LuckyGrid Lite — Arcade Prize Draw #zh_tw — @wowjonesstudio The full Traditional Chinese translation has already been s…",
-        "url": "https://make.wordpress.org/polyglots/2026/09/12/hello-polyglots-356/",
-        "timestamp": "2026-09-12T14:31:33Z",
-        "source": "Wordpress.org",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball jackpot climbs to $232 million for September 12 drawing - Here's what Saturday night's winner could take home",
-        "summary": "The anticipation mounts for the Saturday drawing as the Powerball jackpot reaches an impressive estimated $232 million. After Wednesday's drawing ended without a winning ticket, the prize ballooned. Contestants can opt for either a lump sum of $100 million be…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-climbs-to-232-million-for-september-12-drawing-heres-what-saturday-nights-winner-could-take-home/articleshow/134042398.cms",
-        "timestamp": "2026-09-11T03:04:52Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 38,
+      "totalSignals": 39,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 29,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 8
