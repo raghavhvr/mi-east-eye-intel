@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T07:49:56.966Z",
+  "generated_at": "2026-09-24T07:40:34.563Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,98 +15,98 @@
     "Iran": null
   },
   "weather": {
-    "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
       "temp_c": 40,
-      "wind_kmh": 6,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Oman": {
-      "temp_c": 40,
-      "wind_kmh": 10,
+    "UAE": {
+      "temp_c": 38,
+      "wind_kmh": 3,
       "condition": "Clear",
-      "city": "Muscat"
+      "city": "Abu Dhabi"
+    },
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 41,
-      "wind_kmh": 13,
+      "temp_c": 39,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Kuwait City"
     },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
+    "Oman": {
+      "temp_c": 38,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 38,
-      "wind_kmh": 8,
+      "temp_c": 37,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Manama"
     },
     "Lebanon": {
       "temp_c": 28,
-      "wind_kmh": 19,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 9,
+      "condition": "Clear",
       "city": "Beirut"
     },
-    "Iraq": {
-      "temp_c": 38,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
+    "Jordan": {
+      "temp_c": 25,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Amman"
     },
     "Egypt": {
       "temp_c": 28,
-      "wind_kmh": 5,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+    "Iraq": {
+      "temp_c": 37,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Iran": {
-      "temp_c": 32,
+      "temp_c": 33,
       "wind_kmh": 10,
       "condition": "Clear",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 26,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308597,
+    "KWD": 0.308559,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.655442,
-    "IQD": 1309.497779
+    "EGP": 51.418308,
+    "IQD": 1308.445398
   },
   "lottery": {
     "items": [
       {
-        "id": "reddit-lot-1wndskb",
-        "title": "The beginning of the barcode is faded, is this ok?",
-        "summary": "So as you can see, I purchased a Powerball ticket from a self-serv machine, and the first block of the barcode came out faded because of the printer. Is this ok? Because now this is giving me anxiety in case I win and they’ll give me a hard",
-        "url": "https://reddit.com/r/Lottery/comments/1wndskb/the_beginning_of_the_barcode_is_faded_is_this_ok/",
-        "timestamp": "2026-09-22T16:10:37.000Z",
+        "id": "reddit-lot-1wopsad",
+        "title": "I felt disrespected from CA lottery 😆",
+        "summary": "After playing for months today I saw all numbers matched the winning numbers, I got excited damn Finally 😁 all 1$ and 2$ total 30$",
+        "url": "https://reddit.com/r/Lottery/comments/1wopsad/i_felt_disrespected_from_ca_lottery/",
+        "timestamp": "2026-09-24T02:36:07.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
@@ -117,16 +117,106 @@
         "isME": false
       },
       {
+        "id": "reddit-lot-1wogdu0",
+        "title": "Well that sucks (or maybe not?)",
+        "summary": "Never had 4 dupe powerball numbers on a single ticket before.",
+        "url": "https://reddit.com/r/Lottery/comments/1wogdu0/well_that_sucks_or_maybe_not/",
+        "timestamp": "2026-09-23T19:54:15.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wog1nq",
+        "title": "I hit it again. Twice this week",
+        "summary": "$500 win on Blowout ticket.  FLORIDA lottery.  It seems like the low ticket numbers hit the top prize.",
+        "url": "https://reddit.com/r/Lottery/comments/1wog1nq/i_hit_it_again_twice_this_week/",
+        "timestamp": "2026-09-23T19:41:21.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball jackpot soars to $332 million for September 23 drawing - Here's what Wednesday night's winner could take home",
+        "summary": "The Powerball jackpot stands at an estimated $332 million for the upcoming drawing on Wednesday night. Winners have the option for an annuity paid over 30 years or a one-time lump sum payment. Previous Powerball drawings have resulted in record jackpots, incl…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-soars-to-332-million-for-september-23-drawing-heres-what-wednesday-nights-winner-could-take-home/articleshow/134424322.cms",
+        "timestamp": "2026-09-23T02:30:24Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Dollywood Is Offering a BIG Ticket and Hotel Deal This Fall",
+        "summary": "There's a big ticket and hotel deal this fall at Dollywood!",
+        "url": "https://www.disneyfoodblog.com/2026/09/22/dollywood-is-offering-a-big-ticket-and-hotel-deal-this-fall/",
+        "timestamp": "2026-09-22T17:52:47Z",
+        "source": "disneyfoodblog.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1wndskb",
+        "title": "The beginning of the barcode is faded, is this ok?",
+        "summary": "So as you can see, I purchased a Powerball ticket from a self-serv machine, and the first block of the barcode came out faded because of the printer. Is this ok? Because now this is giving me anxiety in case I win and they’ll give me a hard",
+        "url": "https://reddit.com/r/Lottery/comments/1wndskb/the_beginning_of_the_barcode_is_faded_is_this_ok/",
+        "timestamp": "2026-09-22T16:10:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1wnbyzw",
         "title": "Kentucky man who took home $167 million lottery jackpot is arrested again",
-        "summary": "↑1 · 💬0",
+        "summary": "↑47 · 💬22",
         "url": "https://reddit.com/r/Lottery/comments/1wnbyzw/kentucky_man_who_took_home_167_million_lottery/",
         "timestamp": "2026-09-22T15:03:26.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 47,
+        "comments": 22,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "$167M Powerball Win Did Not Bring Luck to This Guy",
+        "summary": "The clock struck 4am on Sunday in Georgetown, Kentucky, and a Powerball multimillionaire was allegedly asleep behind the wheel in a Walmart parking lot, engine running. Deputies say they found 51-year-old James Farthing—who won a $167.3 million jackpot in the…",
+        "url": "https://www.newser.com/story/396849/167m-powerball-winner-arrested-for-5th-time.html",
+        "timestamp": "2026-09-22T14:55:22Z",
+        "source": "Newser",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -141,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 8,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 41,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,7 +291,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
@@ -402,6 +492,21 @@
         "isME": false
       },
       {
+        "id": "hn-lot-49763311",
+        "title": "Show HN: Seal – Letters and passwords that open for your family after you die",
+        "summary": "13 pts · 13 comments",
+        "url": "https://github.com/jasonepage/Seal",
+        "timestamp": "2026-09-19T04:28:22.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 13,
+        "comments": 13,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1wk0zhz",
         "title": "Millionaire for life $8 win 🏆",
         "summary": "A win is a win 🍀. Stay tuned on my journey towards the jackpot 🎰 🤞🏾",
@@ -537,21 +642,6 @@
         "isME": false
       },
       {
-        "id": "hn-lot-49731216",
-        "title": "Tell HN: An inside view of Montana's new biotech law",
-        "summary": "34 pts · 26 comments",
-        "url": "https://news.ycombinator.com/item?id=49731216",
-        "timestamp": "2026-09-16T18:43:57.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 34,
-        "comments": 26,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1wi51xq",
         "title": "Whats the best lottery app out there if anyone uses one?  curious just started using ailotterywizards.com lottery app   looks great but curious what other ones are out there ?",
         "summary": "↑1 · 💬0",
@@ -625,80 +715,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wgooqx",
-        "title": "Calif. ??",
-        "summary": "Yes its a win but Calif lottery is cruel. Whoever comes up with this type of win or the 50x’s or 100x’s wins with a $1 or $2 winner must think these were good ideas. But a win is a win i guys. Calif lottery is making it more difficult to ke",
-        "url": "https://reddit.com/r/Lottery/comments/1wgooqx/calif/",
-        "timestamp": "2026-09-15T03:17:00.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wgm83p",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑2 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1wgm83p/powerball_winning_numbers_monday/",
-        "timestamp": "2026-09-15T01:20:32.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wgg9fr",
-        "title": "Anyone else having issues with the NJ Lottery app scanning tickets? It seems to be down entirely",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1wgg9fr/anyone_else_having_issues_with_the_nj_lottery_app/",
-        "timestamp": "2026-09-14T21:11:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9m",
-        "title": "BC Parks Foundation launches first-ever lottery with beautiful BC adventures for you to win",
-        "summary": "Vancouver, BC, Sept. 14, 2026 (GLOBE NEWSWIRE) — What if a lottery ticket could take you to Haida Gwaii, through the Rockies, or into the mountains of Whistler, all while helping protect the incredible nature that makes British Columbia home?  Today, BC Parks…",
-        "url": "https://financialpost.com/globe-newswire/bc-parks-foundation-launches-first-ever-lottery-with-beautiful-bc-adventures-for-you-to-win",
-        "timestamp": "2026-09-14T16:00:23Z",
-        "source": "Financial Post",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 39,
-      "meSignals": 2,
+      "totalSignals": 41,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 29,
+        "HOPEFUL": 31,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 26
+      "uncertaintyScore": 24
     }
   }
 }
