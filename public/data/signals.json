@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:40:34.563Z",
+  "generated_at": "2026-09-25T07:57:40.096Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,74 +16,74 @@
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 40,
-      "wind_kmh": 7,
+      "temp_c": 39,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 4,
+      "temp_c": 42,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Doha"
     },
     "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 7,
-      "condition": "Clear",
+      "temp_c": 40,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
+    "UAE": {
+      "temp_c": 39,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Oman": {
-      "temp_c": 38,
+      "temp_c": 40,
       "wind_kmh": 15,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
       "temp_c": 37,
-      "wind_kmh": 5,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Manama"
     },
     "Lebanon": {
-      "temp_c": 28,
-      "wind_kmh": 9,
-      "condition": "Clear",
+      "temp_c": 27,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
       "temp_c": 25,
-      "wind_kmh": 3,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Amman"
     },
     "Egypt": {
-      "temp_c": 28,
-      "wind_kmh": 8,
-      "condition": "Clear",
+      "temp_c": 27,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 9,
+      "temp_c": 38,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Baghdad"
     },
     "Iran": {
       "temp_c": 33,
       "wind_kmh": 10,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     },
     "Yemen": {
       "temp_c": 26,
-      "wind_kmh": 10,
+      "wind_kmh": 18,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     }
@@ -92,15 +92,60 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308559,
+    "KWD": 0.308632,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.418308,
-    "IQD": 1308.445398
+    "EGP": 51.695271,
+    "IQD": 1308.959349
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wp4zuh",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1wp4zuh/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-09-24T15:38:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wp4w3d",
+        "title": "Lottery Winnings",
+        "summary": "When you win a 'medium' prize (like $100 to $500), do you roll 100% of it back into tickets, cash out half, or pocket the whole thing",
+        "url": "https://reddit.com/r/Lottery/comments/1wp4w3d/lottery_winnings/",
+        "timestamp": "2026-09-24T15:34:21.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wp13p3",
+        "title": "Anyone here still part of an office lottery group?",
+        "summary": "Curious how many people still do office/work lottery pools, especially when Powerball or Mega Millions gets huge. If you're in one, how big is the group and who gets stuck organizing everything? I feel like there's always one person chasing",
+        "url": "https://reddit.com/r/Lottery/comments/1wp13p3/anyone_here_still_part_of_an_office_lottery_group/",
+        "timestamp": "2026-09-24T13:04:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wopsad",
         "title": "I felt disrespected from CA lottery 😆",
@@ -126,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,7 +186,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 29,
+        "comments": 4,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "I won the lottery TWICE at odds of 24-trillion-to-one in a remarkable double-win that stunned experts - but here's why I'll keep playing for a third jackpot",
+        "summary": "In June 2018, Faye Stevenson-Davies, 44, and her husband Richard, 50, scooped up a seven-figure jackpot playing the EuroMillions Millionaire Maker draw.",
+        "url": "https://www.dailymail.com/lifestyle/article-16025129/Lotter-winner-twice-jackpot-millions.html",
+        "timestamp": "2026-09-23T14:36:07Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -625,110 +685,20 @@
         "comments": 13,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wilg9x",
-        "title": "Eurojackpot winning",
-        "summary": "I won in Tuesday Eurojackpot draw with Tuesdays date (09.15) and some random numbers, this is something I am going to try to test out in next coming draws as well.",
-        "url": "https://reddit.com/r/Lottery/comments/1wilg9x/eurojackpot_winning/",
-        "timestamp": "2026-09-17T05:52:27.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wi51xq",
-        "title": "Whats the best lottery app out there if anyone uses one?  curious just started using ailotterywizards.com lottery app   looks great but curious what other ones are out there ?",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1wi51xq/whats_the_best_lottery_app_out_there_if_anyone/",
-        "timestamp": "2026-09-16T18:12:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1whz96n",
-        "title": "Lottery intelligence",
-        "summary": "This may help: 365get.co",
-        "url": "https://reddit.com/r/Lottery/comments/1whz96n/lottery_intelligence/",
-        "timestamp": "2026-09-16T14:45:01.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 3,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1whm1vu",
-        "title": "Are scratch tickets a legit scam 😂",
-        "summary": "so maybe this is common knowledge with regular players, but it’s news to me lmao  so, I’ve been playing a certain game for while now and regularly check the remaining prizes section on my local lottery’s website (updated weekly) to see if a",
-        "url": "https://reddit.com/r/Lottery/comments/1whm1vu/are_scratch_tickets_a_legit_scam/",
-        "timestamp": "2026-09-16T03:41:16.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 14,
-        "comments": 31,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1whbjcp",
-        "title": "Jackpot win! Well, the top prize for this ticket. 😀",
-        "summary": "↑92 · 💬5",
-        "url": "https://reddit.com/r/Lottery/comments/1whbjcp/jackpot_win_well_the_top_prize_for_this_ticket/",
-        "timestamp": "2026-09-15T20:14:35.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 92,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball winning numbers for September 14 revealed - Check who won the $251 million jackpot on Monday night?",
-        "summary": "The Powerball jackpot has reached an estimated $251 million for the September 14 drawing. Winning numbers for this drawing were 19-20-57-61-67 and the Powerball was 22. The odds of winning the jackpot remain extremely difficult at 1 in 292.2 million. A ticket…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-winning-numbers-for-september-14-revealed-check-who-won-the-251-million-jackpot-on-monday-night/articleshow/134251129.cms",
-        "timestamp": "2026-09-15T03:33:55Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 41,
-      "meSignals": 3,
+      "totalSignals": 39,
+      "meSignals": 2,
       "moodDist": {
         "HOPEFUL": 31,
         "CYNICAL": 0,
         "ANXIOUS": 2,
-        "NEUTRAL": 8
+        "NEUTRAL": 6
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 24
+      "uncertaintyScore": 21
     }
   }
 }
