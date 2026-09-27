@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T07:50:33.513Z",
+  "generated_at": "2026-09-27T08:20:23.330Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,110 @@
     "Iran": null
   },
   "weather": {
-    "Qatar": {
-      "temp_c": 42,
-      "wind_kmh": 4,
+    "Kuwait": {
+      "temp_c": 41,
+      "wind_kmh": 3,
       "condition": "Clear",
-      "city": "Doha"
+      "city": "Kuwait City"
     },
-    "Jordan": {
-      "temp_c": 25,
+    "UAE": {
+      "temp_c": 41,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 40,
       "wind_kmh": 6,
       "condition": "Clear",
-      "city": "Amman"
+      "city": "Riyadh"
+    },
+    "Oman": {
+      "temp_c": 37,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 38,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 27,
+      "wind_kmh": 17,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Egypt": {
+      "temp_c": 29,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 39,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "temp_c": 41,
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Baghdad"
     },
     "Iran": {
       "temp_c": 28,
-      "wind_kmh": 6,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     },
-    "Saudi Arabia": {
-      "temp_c": 40,
-      "wind_kmh": 1,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
-      "temp_c": 40,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Lebanon": {
-      "temp_c": 27,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Bahrain": {
-      "temp_c": 40,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Manama"
-    },
     "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 12,
+      "temp_c": 27,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
-    },
-    "Oman": {
-      "temp_c": 38,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Muscat"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308492,
+    "KWD": 0.308462,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.682464,
-    "IQD": 1308.965796
+    "EGP": 51.752763,
+    "IQD": 1308.975584
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "EuroMillions ticket-holder from the UK hits £111million jackpot in winning Friday night's draw",
+        "summary": "The anonymous player was one of 2.8million who participated in the transnational lottery, which sees seven countries across Europe compete for the life-changing cash.",
+        "url": "https://www.dailymail.com/news/article-16161525/Euromillions-UK-111million-jackpot-winning-Friday-nights-draw.html",
+        "timestamp": "2026-09-25T21:51:08Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "$1.04 billion Powerball winner remained anonymous for nearly a month; finally claimed the prize in Illinois",
+        "summary": "A $1.04 billion Powerball jackpot winner in Illinois has finally claimed the prize nearly one month after the August 12 drawing, ending the mystery over",
+        "url": "https://timesofindia.indiatimes.com/world/us/1-04-billion-powerball-winner-remained-anonymous-for-nearly-a-month-finally-claimed-the-prize-in-illinois/articleshow/134480110.cms",
+        "timestamp": "2026-09-25T08:42:18Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Powerball jackpot jumps to $360 million for September 26 drawing - How much could Saturday night’s winner actually take home?",
@@ -242,36 +260,6 @@
         "summary": "A viral image claiming that India Post is distributing gifts under a “Dak Seva Gifts” scheme has been debunked by the PIB Fact Check Unit. The agency said India Post has no connection with the alleged gift, reward or lucky draw offer and urged citizens not to…",
         "url": "https://economictimes.indiatimes.com/news/new-updates/india-post-gift-offer-goes-viral-on-social-media-but-what-is-the-dak-seva-gifts-scheme-pib-responds/articleshow/134363559.cms",
         "timestamp": "2026-09-20T04:35:29Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball $298 million jackpot: Did anyone win Saturday's drawing? Check winning numbers here",
-        "summary": "Saturday night's Powerball drawing numbers have been announced. No ticket matched all six numbers, so the jackpot did not win. The estimated jackpot will now roll over to the next drawing on Monday. This drawing will take place at approximately 10:59 p.m. Eas…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-298-million-jackpot-did-anyone-win-saturdays-drawing-check-winning-numbers-here/articleshow/134363290.cms",
-        "timestamp": "2026-09-20T03:59:10Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball jackpot touches nearly $300-million mark for September 19 drawing - Here's what Saturday night's winner could take home",
-        "summary": "The Powerball jackpot has surged to an impressive $298 million for the upcoming drawing on Saturday. After no tickets matched the winning numbers in Wednesday's draw, the prize continued to grow, reminiscent of past record-breaking jackpots seen in Illinois a…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-touches-nearly-300-million-mark-for-september-19-drawing-heres-what-saturday-nights-winner-could-take-home/articleshow/134324713.cms",
-        "timestamp": "2026-09-18T03:09:21Z",
         "source": "The Times of India",
         "sourceType": "NewsAPI",
         "tag": "LOT",
