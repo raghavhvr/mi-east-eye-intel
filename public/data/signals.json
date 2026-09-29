@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:47:02.483Z",
+  "generated_at": "2026-09-29T08:41:36.117Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,91 +16,226 @@
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 41,
-      "wind_kmh": 8,
+      "temp_c": 39,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 40,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Kuwait": {
-      "temp_c": 40,
-      "wind_kmh": 1,
+      "temp_c": 38,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 10,
+      "temp_c": 40,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Doha"
     },
     "Bahrain": {
-      "temp_c": 40,
-      "wind_kmh": 4,
+      "temp_c": 37,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Manama"
     },
+    "UAE": {
+      "temp_c": 41,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Oman": {
-      "temp_c": 37,
-      "wind_kmh": 18,
+      "temp_c": 36,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 27,
+    "Lebanon": {
+      "temp_c": 25,
       "wind_kmh": 19,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 22,
+      "wind_kmh": 17,
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
-    "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 21,
-      "condition": "Showers",
-      "city": "Beirut"
-    },
-    "Iraq": {
-      "temp_c": 37,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Egypt": {
-      "temp_c": 30,
-      "wind_kmh": 9,
+      "temp_c": 27,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Yemen": {
       "temp_c": 27,
-      "wind_kmh": 8,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Sanaa"
     },
     "Iran": {
-      "temp_c": 28,
+      "temp_c": 29,
       "wind_kmh": 11,
       "condition": "Clear",
       "city": "Tehran"
+    },
+    "Iraq": {
+      "temp_c": 34,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308332,
+    "KWD": 0.308645,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.744321,
-    "IQD": 1309.290097
+    "EGP": 52.070874,
+    "IQD": 1309.31788
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wsz54m",
+        "title": "1 million dollar winning Lotto+ ticket expires in Colorado",
+        "summary": "It's hard for me to imagine.  You buy the tickets, you keep them safe, you check them after the drawing - visually and scan...  Can't help but wonder what the potential reason is: https://www.lotterypost.com/news/361596",
+        "url": "https://reddit.com/r/Lottery/comments/1wsz54m/1_million_dollar_winning_lotto_ticket_expires_in/",
+        "timestamp": "2026-09-29T03:12:42.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wswrjm",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1wswrjm/powerball_winning_numbers_monday/",
+        "timestamp": "2026-09-29T01:20:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wsutkl",
+        "title": "Double up on losing numbers!",
+        "summary": "Like why my lottery got multiple same losing numbers? Like looser on number 11, 46, yeah 11 again.",
+        "url": "https://reddit.com/r/Lottery/comments/1wsutkl/double_up_on_losing_numbers/",
+        "timestamp": "2026-09-28T23:49:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 1,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wsud2u",
+        "title": "I won $1,000,000 in the Georgia lottery. Now what?",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1wsud2u/i_won_1000000_in_the_georgia_lottery_now_what/",
+        "timestamp": "2026-09-28T23:28:45.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wsrn7d",
+        "title": "Confused. How did the Euromillions jackpot jump that quick?",
+        "summary": "11 September - won at £95M in Austria. 15 September - £14M   18 September - £24M   22 September - £32M (Normal increases…) Then it jumps to:   25 September - £111M And the jackpot was won in the UK at £111M. I have never seen a jackpot incr",
+        "url": "https://reddit.com/r/Lottery/comments/1wsrn7d/confused_how_did_the_euromillions_jackpot_jump/",
+        "timestamp": "2026-09-28T21:33:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wskny6",
+        "title": "Question on how winning numbers picked?",
+        "summary": "I have question on how lottery numbers being picked in some states by computer. Does it seem the numbers are not randomly picked and winners can be determined before each draw.?",
+        "url": "https://reddit.com/r/Lottery/comments/1wskny6/question_on_how_winning_numbers_picked/",
+        "timestamp": "2026-09-28T17:17:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wsh2nz",
+        "title": "What would you be your first meal after you win the lottery?",
+        "summary": "If I found out at night that I won, I would ordered some larger pizzas. Cheesy but I rarely eat pizza and honestly it seems the best food to celabrate with a jackpot lol If I found out in a morning that I won, I would probably go to the mal",
+        "url": "https://reddit.com/r/Lottery/comments/1wsh2nz/what_would_you_be_your_first_meal_after_you_win/",
+        "timestamp": "2026-09-28T15:05:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wse9vt",
+        "title": "Do you remember your first lottery ticket?",
+        "summary": "What was the first lottery ticket or scratch-off you ever bought when you turned legal age, and did it hit?",
+        "url": "https://reddit.com/r/Lottery/comments/1wse9vt/do_you_remember_your_first_lottery_ticket/",
+        "timestamp": "2026-09-28T13:12:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Powerball jackpot soars to $389 million for September 28 drawing - How much could Monday night’s winner actually take home?",
+        "summary": "The Powerball jackpot has reached $389 million for an upcoming drawing, offering substantial payout options. Winners must consider federal and state taxes impacting their final amount. Recent significant wins have been recorded in Illinois, North Carolina, an…",
+        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-soars-to-389-million-for-september-28-drawing-how-much-could-monday-nights-winner-actually-take-home/articleshow/134531325.cms",
+        "timestamp": "2026-09-28T04:01:44Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wrjesv",
         "title": "Idaho Lottery App",
@@ -111,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -134,15 +269,15 @@
       {
         "id": "reddit-lot-1wr66bt",
         "title": "Do i have a better chance of getting $2 scratch off and hitting the top prize or getting a $2 powerball ticket winning anything?",
-        "summary": "↑1 · 💬0",
+        "summary": "↑5 · 💬4",
         "url": "https://reddit.com/r/Lottery/comments/1wr66bt/do_i_have_a_better_chance_of_getting_2_scratch/",
         "timestamp": "2026-09-27T00:34:13.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -157,7 +292,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +306,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 27,
+        "comments": 20,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -595,80 +730,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wm5b23",
-        "title": "I hate working. Is there anyway I can have at least net 10000 dollars/Euros per month without working using AI ?",
-        "summary": "As I hate working. Is there really a way where people using AI can create Money Automation for life ?   I have tried playing lottery but never really won anything. At this point I have given up hitting the lottery of millions of euros. Now ",
-        "url": "https://reddit.com/r/Lottery/comments/1wm5b23/i_hate_working_is_there_anyway_i_can_have_at/",
-        "timestamp": "2026-09-21T06:54:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 19,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wltk1b",
-        "title": "Lottery. What would you guys do? No numbers match",
-        "summary": "Help",
-        "url": "https://reddit.com/r/Lottery/comments/1wltk1b/lottery_what_would_you_guys_do_no_numbers_match/",
-        "timestamp": "2026-09-20T21:30:39.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 36,
-        "comments": 48,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wlqjh4",
-        "title": "Pick 3 Lottery Lotto App",
-        "summary": "Check out [https://p3.oceandataservices.com](https://p3.oceandataservices.com) for daily pick 3 numbers. Free 7 day trial, cancel any time. Play less, win more. Built for people who just want the numbers. send any feedback, good or bad to [",
-        "url": "https://reddit.com/r/Lottery/comments/1wlqjh4/pick_3_lottery_lotto_app/",
-        "timestamp": "2026-09-20T19:35:16.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wl80ki",
-        "title": "YT channel",
-        "summary": "I created a YT channel for my  lottery playing journey. Please subscribe if you’d like to follow along.",
-        "url": "https://reddit.com/r/Lottery/comments/1wl80ki/yt_channel/",
-        "timestamp": "2026-09-20T05:18:25.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 37,
+      "totalSignals": 42,
       "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 33,
+        "HOPEFUL": 39,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 4
+        "NEUTRAL": 3
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 11
+      "uncertaintyScore": 7
     }
   }
 }
