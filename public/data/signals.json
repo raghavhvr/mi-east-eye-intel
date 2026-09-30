@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:41:36.117Z",
+  "generated_at": "2026-09-30T08:41:57.860Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,91 +16,163 @@
   },
   "weather": {
     "Saudi Arabia": {
-      "temp_c": 39,
-      "wind_kmh": 3,
+      "temp_c": 38,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Bahrain": {
-      "temp_c": 37,
-      "wind_kmh": 15,
+      "temp_c": 38,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Manama"
     },
-    "UAE": {
-      "temp_c": 41,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
+    "Jordan": {
+      "temp_c": 23,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
     },
-    "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 13,
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 16,
       "condition": "Clear",
-      "city": "Muscat"
+      "city": "Doha"
     },
     "Lebanon": {
-      "temp_c": 25,
+      "temp_c": 26,
       "wind_kmh": 19,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Jordan": {
-      "temp_c": 22,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Egypt": {
+    "Yemen": {
       "temp_c": 27,
       "wind_kmh": 7,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 10,
-      "condition": "Clear",
       "city": "Sanaa"
     },
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
     "Iran": {
-      "temp_c": 29,
-      "wind_kmh": 11,
+      "temp_c": 28,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Tehran"
-    },
-    "Iraq": {
-      "temp_c": 34,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308645,
+    "KWD": 0.308442,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.070874,
-    "IQD": 1309.31788
+    "EGP": 52.092039,
+    "IQD": 1309.348067
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wttt5g",
+        "title": "It is now starting to show that the real battleground is with the VP sweepstakes in 2028 as the dominant Duterte base is heading to an imminent regrouping. Who would then be the most ideal candidate to ward them off from a potentially resurgent 2034 comeback?",
+        "summary": "The Marcos Jr administration might be currently doing an indirect service to its eventual successor by informally purging the opposing camp one by one. Undoubtedly, it will be an easier pathway for the next administration if Sara Duterte be",
+        "url": "https://reddit.com/r/Philippines/comments/1wttt5g/it_is_now_starting_to_show_that_the_real/",
+        "timestamp": "2026-09-30T02:53:33.000Z",
+        "source": "r/Philippines",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1wtj3td",
+        "title": "Give me a number 1- 69",
+        "summary": "Pick 1 number.  I'm going to use it for Wednesdays Powerball drawing.  First 5 people to respond...  if it hits I'll reach out and send you 50K.",
+        "url": "https://reddit.com/r/Lottery/comments/1wtj3td/give_me_a_number_1_69/",
+        "timestamp": "2026-09-29T19:08:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wtighj",
+        "title": "Office pool veterans: what's the one rule that kept yours from turning into drama?",
+        "summary": "With Powerball over $400 million, I figure a lot of office pools are starting up again. For those who've been part of one (or ran one), what rule or habit made it work, and what's the worst mess you've seen when it didn't?",
+        "url": "https://reddit.com/r/Lottery/comments/1wtighj/office_pool_veterans_whats_the_one_rule_that_kept/",
+        "timestamp": "2026-09-29T18:44:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wtdoou",
+        "title": "Something is not right with Arizona Lottery",
+        "summary": "Look at the winners from June to September, Sebastian Kwit and Spencer Kwit has won every single draw. Also a bunch of other names constantly popping up. How is this even possible? Heres the winners list - [https://gateway-web.loyalty.azpla",
+        "url": "https://reddit.com/r/Lottery/comments/1wtdoou/something_is_not_right_with_arizona_lottery/",
+        "timestamp": "2026-09-29T15:47:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wtar20",
+        "title": "How do you scratch your tickets?",
+        "summary": "What is your preferred scratcher tool? Coin, official lottery scraper, key, or fingernail, and does using a specific coin feel luckier to you?",
+        "url": "https://reddit.com/r/Lottery/comments/1wtar20/how_do_you_scratch_your_tickets/",
+        "timestamp": "2026-09-29T13:54:28.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wt5hl2",
+        "title": "In case anyone wants to know my luck with the lottery",
+        "summary": "My $10 ticket gave me duplicate numbers of only 6 and 8.  The powerball last night was 7  🙃",
+        "url": "https://reddit.com/r/Lottery/comments/1wt5hl2/in_case_anyone_wants_to_know_my_luck_with_the/",
+        "timestamp": "2026-09-29T09:25:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wsz54m",
         "title": "1 million dollar winning Lotto+ ticket expires in Colorado",
@@ -177,6 +249,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "The City Harvest Bid is back for 2026 with a new theme, impressive raffles and a fresh lineup of chefs",
+        "summary": "The fundraiser is getting groovy for this year's event, hoping to feed millions of hungry New Yorkers",
+        "url": "https://www.timeout.com/newyork/news/the-city-harvest-bid-is-back-for-2026-with-a-new-theme-impressive-raffles-and-a-fresh-lineup-of-chefs-092826",
+        "timestamp": "2026-09-28T18:45:11Z",
+        "source": "Time Out",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1wskny6",
         "title": "Question on how winning numbers picked?",
         "summary": "I have question on how lottery numbers being picked in some states by computer. Does it seem the numbers are not randomly picked and winners can be determined before each draw.?",
@@ -186,8 +273,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 9,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,8 +288,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 22,
+        "comments": 37,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -216,8 +303,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -640,110 +727,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wmvl03",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1wmvl03/powerball_winning_numbers_monday/",
-        "timestamp": "2026-09-22T01:20:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wms497",
-        "title": "Top prize Blowout ticket",
-        "summary": "FLORIDA lottery scratch off!",
-        "url": "https://reddit.com/r/Lottery/comments/1wms497/top_prize_blowout_ticket/",
-        "timestamp": "2026-09-21T22:50:16.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 41,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wms2az",
-        "title": "Lotto UK",
-        "summary": "Try this way. Meet [365get.co](http://365get.co)  May change your life. Good luck !!!",
-        "url": "https://reddit.com/r/Lottery/comments/1wms2az/lotto_uk/",
-        "timestamp": "2026-09-21T22:48:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wmfj7e",
-        "title": "FYI -- Georgia Lottery website & app are both down.",
-        "summary": "both have been down well over 36 hours...  app message is \"*...site is currently unavailable due to maintenance in progress...*\" I've never seen it down for this long before.",
-        "url": "https://reddit.com/r/Lottery/comments/1wmfj7e/fyi_georgia_lottery_website_app_are_both_down/",
-        "timestamp": "2026-09-21T15:10:48.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 28,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cDovL3d3",
-        "title": "Zoomex to Host Traders After Party During TOKEN2049 Singapore, Connecting Traders and the Web3 Community",
-        "summary": "Industry KOL panels, an interactive session with F1 driver Ollie Bearman, live music, and grand prizes including a MacBook Air and iPhone Duo will highlight the evening. Global cryptocurrency derivatives platform Zoomex will host the “ZOOMEX TRADERS AFTER PAR…",
-        "url": "http://www.newsbtc.com/news/zoomex-to-host-traders-after-party-during-token2049-singapore-connecting-traders-and-the-web3-community/",
-        "timestamp": "2026-09-21T11:57:37Z",
-        "source": "newsBTC",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly96",
-        "title": "Zoomex to Host Traders’ After-Party During TOKEN2049 Singapore, Connecting Traders and the Web3 Community",
-        "summary": "Industry KOL panels, an interactive session with F1 driver Ollie Bearman, live music, and grand prizes including a MacBook Air and iPhone Duo will highlight the evening. Global cryptocurrency derivatives platform Zoomex will host the “ZOOMEX TRADERS AFTER PAR…",
-        "url": "https://zycrypto.com/zoomex-to-host-traders-after-party-during-token2049-singapore-connecting-traders-and-the-web3-community/",
-        "timestamp": "2026-09-21T10:36:30Z",
-        "source": "ZyCrypto",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 42,
-      "meSignals": 3,
+      "totalSignals": 43,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 39,
+        "HOPEFUL": 41,
         "CYNICAL": 0,
-        "ANXIOUS": 0,
-        "NEUTRAL": 3
+        "ANXIOUS": 1,
+        "NEUTRAL": 1
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 7
+      "uncertaintyScore": 5
     }
   }
 }
