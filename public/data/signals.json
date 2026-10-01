@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:41:57.860Z",
+  "generated_at": "2026-10-01T09:04:19.288Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,17 +15,41 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 38,
-      "wind_kmh": 8,
+    "Kuwait": {
+      "temp_c": 35,
+      "wind_kmh": 4,
       "condition": "Clear",
-      "city": "Riyadh"
+      "city": "Kuwait City"
     },
-    "Bahrain": {
+    "Qatar": {
       "temp_c": 38,
       "wind_kmh": 16,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 34,
+      "wind_kmh": 16,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Saudi Arabia": {
+      "temp_c": 39,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 38,
+      "wind_kmh": 0,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Lebanon": {
+      "temp_c": 25,
+      "wind_kmh": 23,
+      "condition": "Clear",
+      "city": "Beirut"
     },
     "Jordan": {
       "temp_c": 23,
@@ -33,39 +57,33 @@
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
-    "Qatar": {
-      "temp_c": 40,
-      "wind_kmh": 16,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 19,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "UAE": {
+    "Bahrain": {
       "temp_c": 36,
-      "wind_kmh": 10,
+      "wind_kmh": 14,
       "condition": "Clear",
-      "city": "Abu Dhabi"
+      "city": "Manama"
+    },
+    "Iraq": {
+      "temp_c": 36,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 27,
+      "temp_c": 28,
       "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 28,
+    "Yemen": {
+      "temp_c": 27,
       "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 27,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Tehran"
     }
@@ -74,29 +92,89 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308442,
+    "KWD": 0.308528,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.092039,
-    "IQD": 1309.348067
+    "EGP": 51.965687,
+    "IQD": 1309.953028
   },
   "lottery": {
     "items": [
       {
-        "id": "reddit-lot-1wttt5g",
-        "title": "It is now starting to show that the real battleground is with the VP sweepstakes in 2028 as the dominant Duterte base is heading to an imminent regrouping. Who would then be the most ideal candidate to ward them off from a potentially resurgent 2034 comeback?",
-        "summary": "The Marcos Jr administration might be currently doing an indirect service to its eventual successor by informally purging the opposing camp one by one. Undoubtedly, it will be an easier pathway for the next administration if Sara Duterte be",
-        "url": "https://reddit.com/r/Philippines/comments/1wttt5g/it_is_now_starting_to_show_that_the_real/",
-        "timestamp": "2026-09-30T02:53:33.000Z",
-        "source": "r/Philippines",
+        "id": "reddit-lot-1wurn0d",
+        "title": "California's $1 Million California Cash Scratcher - Is It Worth Playing? (Numbers Breakdown)",
+        "summary": "I saw this new ticket in CA and wanted to break it down for my fellow scratchers. This $40 ticket is a lot different than many other games so I wanted go through the numbers with you guys. **Super good Jackpot odds** This game has currently",
+        "url": "https://reddit.com/r/Lottery/comments/1wurn0d/californias_1_million_california_cash_scratcher/",
+        "timestamp": "2026-10-01T05:58:35.000Z",
+        "source": "r/lottery",
         "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
+        "tag": "LOT",
+        "country": "Global",
         "score": 1,
         "comments": 0,
         "mood": "HOPEFUL",
-        "isME": true
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wuo36z",
+        "title": "You will never win the lottery",
+        "summary": "The odds of winning are almost impossible, you better off saving your money. There’s a website that shows lottery winners holding their big cheques and all these people are between the age of 75-90. They probably spent more trying to win th",
+        "url": "https://reddit.com/r/Lottery/comments/1wuo36z/you_will_never_win_the_lottery/",
+        "timestamp": "2026-10-01T02:41:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wugo9q",
+        "title": "Yall don’t think sports betting is easier to hit then lottery tickets the odds are impossible sports betting has a higher probability so why do we choose lotto tickets",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1wugo9q/yall_dont_think_sports_betting_is_easier_to_hit/",
+        "timestamp": "2026-09-30T21:00:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wu59hl",
+        "title": "What would you buy if you won the Powerball?",
+        "summary": "If you hit the Powerball Jackpot, before paying off mortgages, investing, or helping family, what is the first purely dumb, non-essential luxury item you’d buy on day one?",
+        "url": "https://reddit.com/r/Lottery/comments/1wu59hl/what_would_you_buy_if_you_won_the_powerball/",
+        "timestamp": "2026-09-30T13:41:26.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wu2zn4",
+        "title": "When you win the lottery, which movie or tv show you would like to marathon?",
+        "summary": "Specific question but I like watching stuffs in calm moments or even imagining me in my new apartament in NY just chilling watching something lol I would like to rewatch LOTR and for tv shows maybe rewatch Avatar (the last airbend)",
+        "url": "https://reddit.com/r/Lottery/comments/1wu2zn4/when_you_win_the_lottery_which_movie_or_tv_show/",
+        "timestamp": "2026-09-30T11:58:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
       },
       {
         "id": "reddit-lot-1wtj3td",
@@ -108,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -123,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -138,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 17,
+        "comments": 21,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -153,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -168,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 19,
+        "comments": 8,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -183,22 +261,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1wswrjm",
         "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑2 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1wswrjm/powerball_winning_numbers_monday/",
         "timestamp": "2026-09-29T01:20:06.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -213,23 +291,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
-        "comments": 1,
+        "score": 15,
+        "comments": 11,
         "mood": "NEUTRAL",
         "isME": false
       },
       {
         "id": "reddit-lot-1wsud2u",
         "title": "I won $1,000,000 in the Georgia lottery. Now what?",
-        "summary": "↑1 · 💬0",
+        "summary": "↑94 · 💬65",
         "url": "https://reddit.com/r/Lottery/comments/1wsud2u/i_won_1000000_in_the_georgia_lottery_now_what/",
         "timestamp": "2026-09-28T23:28:45.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 94,
+        "comments": 65,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -243,8 +321,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -652,88 +730,13 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1wndskb",
-        "title": "The beginning of the barcode is faded, is this ok?",
-        "summary": "So as you can see, I purchased a Powerball ticket from a self-serv machine, and the first block of the barcode came out faded because of the printer. Is this ok? Because now this is giving me anxiety in case I win and they’ll give me a hard",
-        "url": "https://reddit.com/r/Lottery/comments/1wndskb/the_beginning_of_the_barcode_is_faded_is_this_ok/",
-        "timestamp": "2026-09-22T16:10:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wnbyzw",
-        "title": "Kentucky man who took home $167 million lottery jackpot is arrested again",
-        "summary": "↑47 · 💬22",
-        "url": "https://reddit.com/r/Lottery/comments/1wnbyzw/kentucky_man_who_took_home_167_million_lottery/",
-        "timestamp": "2026-09-22T15:03:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 47,
-        "comments": 22,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "$167M Powerball Win Did Not Bring Luck to This Guy",
-        "summary": "The clock struck 4am on Sunday in Georgetown, Kentucky, and a Powerball multimillionaire was allegedly asleep behind the wheel in a Walmart parking lot, engine running. Deputies say they found 51-year-old James Farthing—who won a $167.3 million jackpot in the…",
-        "url": "https://www.newser.com/story/396849/167m-powerball-winner-arrested-for-5th-time.html",
-        "timestamp": "2026-09-22T14:55:22Z",
-        "source": "Newser",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wn9kpw",
-        "title": "CA Lottery is a scam",
-        "summary": "Ca lottery has been getting cheaper each time first with 20x with a prize of $1 then both new $40 tickets don’t give profit anymore like the first ticket that went from 40 to 80 now it’s 40 to 50 and a winall all contain $2 prizes    This m",
-        "url": "https://reddit.com/r/Lottery/comments/1wn9kpw/ca_lottery_is_a_scam/",
-        "timestamp": "2026-09-22T13:30:23.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9u",
-        "title": "$167M Powerball winner arrested for fifth time after hitting jackpot for public intoxication in Walmart parking lot",
-        "summary": "The jackpot winner from rural Kentucky allegedly smelled of alcohol and marijuana and had bloodshot and watery eyes, slurred speech, and difficulty maintaining balance.",
-        "url": "https://nypost.com/2026/09/21/us-news/167m-powerball-winner-arrested-for-fifth-time-after-hitting-jackpot-for-public-intoxication-in-walmart-parking-lot/",
-        "timestamp": "2026-09-22T01:54:15Z",
-        "source": "New York Post",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 43,
-      "meSignals": 4,
+      "totalSignals": 42,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 41,
+        "HOPEFUL": 40,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 1
