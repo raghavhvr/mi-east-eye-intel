@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:04:19.288Z",
+  "generated_at": "2026-10-02T08:38:57.496Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,76 +15,76 @@
     "Iran": null
   },
   "weather": {
-    "Kuwait": {
-      "temp_c": 35,
+    "UAE": {
+      "temp_c": 38,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 39,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Bahrain": {
+      "temp_c": 37,
       "wind_kmh": 4,
       "condition": "Clear",
-      "city": "Kuwait City"
+      "city": "Manama"
     },
     "Qatar": {
-      "temp_c": 38,
+      "temp_c": 39,
       "wind_kmh": 16,
       "condition": "Clear",
       "city": "Doha"
     },
     "Oman": {
-      "temp_c": 34,
-      "wind_kmh": 16,
+      "temp_c": 33,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Saudi Arabia": {
+    "Kuwait": {
       "temp_c": 39,
-      "wind_kmh": 8,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 0,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 23,
-      "condition": "Clear",
-      "city": "Beirut"
+      "city": "Kuwait City"
     },
     "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 12,
+      "temp_c": 22,
+      "wind_kmh": 17,
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Iraq": {
-      "temp_c": 36,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Baghdad"
+    "Lebanon": {
+      "temp_c": 25,
+      "wind_kmh": 27,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Egypt": {
-      "temp_c": 28,
-      "wind_kmh": 8,
+      "temp_c": 29,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
+    "Iraq": {
+      "temp_c": 32,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
     "Yemen": {
-      "temp_c": 27,
-      "wind_kmh": 14,
-      "condition": "Clear",
+      "temp_c": 26,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
     "Iran": {
-      "temp_c": 27,
-      "wind_kmh": 10,
-      "condition": "Clear",
+      "temp_c": 29,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     }
   },
@@ -92,15 +92,45 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308528,
+    "KWD": 0.308607,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 51.965687,
-    "IQD": 1309.953028
+    "EGP": 52.300596,
+    "IQD": 1310.214721
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wvgh9v",
+        "title": "Anyone know if these prizes powerball were ever claimed & if so, who did?",
+        "summary": "March 29, 2025 in Anaheim, CA for $515 million  May 31, 2025 in Arleta, CA for $205 million Can't seem to find any information on the California Lottery website or any official press releases regarding the prizes being claimed or going uncl",
+        "url": "https://reddit.com/r/Lottery/comments/1wvgh9v/anyone_know_if_these_prizes_powerball_were_ever/",
+        "timestamp": "2026-10-02T00:59:55.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wv2pdt",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1wv2pdt/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-10-01T15:38:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wurn0d",
         "title": "California's $1 Million California Cash Scratcher - Is It Worth Playing? (Numbers Breakdown)",
@@ -156,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 11,
+        "comments": 46,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 15,
+        "comments": 24,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -625,118 +655,13 @@
         "comments": 13,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "In 2025, a Texas woman held the ticket for an $83.5 million lottery win but the state delayed the payout amid its fight over ticket-buying couriers",
-        "summary": "A Texas woman became an instant millionaire after winning 83.5 million dollars in the lottery, but her windfall soon turned into a legal quagmire. The Texas Lottery Commission raised concerns about the use of a courier service to purchase her ticket, promptin…",
-        "url": "https://timesofindia.indiatimes.com/world/us/in-2025-a-texas-woman-held-the-ticket-for-an-83-5-million-lottery-win-but-the-state-froze-the-payout-amid-its-fight-over-ticket-buying-couriers/articleshow/134459167.cms",
-        "timestamp": "2026-09-24T12:05:09Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1wopsad",
-        "title": "I felt disrespected from CA lottery 😆",
-        "summary": "After playing for months today I saw all numbers matched the winning numbers, I got excited damn Finally 😁 all 1$ and 2$ total 30$",
-        "url": "https://reddit.com/r/Lottery/comments/1wopsad/i_felt_disrespected_from_ca_lottery/",
-        "timestamp": "2026-09-24T02:36:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 19,
-        "comments": 10,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wogdu0",
-        "title": "Well that sucks (or maybe not?)",
-        "summary": "Never had 4 dupe powerball numbers on a single ticket before.",
-        "url": "https://reddit.com/r/Lottery/comments/1wogdu0/well_that_sucks_or_maybe_not/",
-        "timestamp": "2026-09-23T19:54:15.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wog1nq",
-        "title": "I hit it again. Twice this week",
-        "summary": "$500 win on Blowout ticket.  FLORIDA lottery.  It seems like the low ticket numbers hit the top prize.",
-        "url": "https://reddit.com/r/Lottery/comments/1wog1nq/i_hit_it_again_twice_this_week/",
-        "timestamp": "2026-09-23T19:41:21.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 29,
-        "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "I won the lottery TWICE at odds of 24-trillion-to-one in a remarkable double-win that stunned experts - but here's why I'll keep playing for a third jackpot",
-        "summary": "In June 2018, Faye Stevenson-Davies, 44, and her husband Richard, 50, scooped up a seven-figure jackpot playing the EuroMillions Millionaire Maker draw.",
-        "url": "https://www.dailymail.com/lifestyle/article-16025129/Lotter-winner-twice-jackpot-millions.html",
-        "timestamp": "2026-09-23T14:36:07Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball jackpot soars to $332 million for September 23 drawing - Here's what Wednesday night's winner could take home",
-        "summary": "The Powerball jackpot stands at an estimated $332 million for the upcoming drawing on Wednesday night. Winners have the option for an annuity paid over 30 years or a one-time lump sum payment. Previous Powerball drawings have resulted in record jackpots, incl…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-soars-to-332-million-for-september-23-drawing-heres-what-wednesday-nights-winner-could-take-home/articleshow/134424322.cms",
-        "timestamp": "2026-09-23T02:30:24Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Dollywood Is Offering a BIG Ticket and Hotel Deal This Fall",
-        "summary": "There's a big ticket and hotel deal this fall at Dollywood!",
-        "url": "https://www.disneyfoodblog.com/2026/09/22/dollywood-is-offering-a-big-ticket-and-hotel-deal-this-fall/",
-        "timestamp": "2026-09-22T17:52:47Z",
-        "source": "disneyfoodblog.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       }
     ],
     "meta": {
-      "totalSignals": 42,
-      "meSignals": 3,
+      "totalSignals": 37,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 40,
+        "HOPEFUL": 35,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 1
