@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T08:38:57.496Z",
+  "generated_at": "2026-10-03T08:16:48.903Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,89 +15,89 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 39,
-      "wind_kmh": 7,
+      "temp_c": 37,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Bahrain": {
+    "UAE": {
       "temp_c": 37,
-      "wind_kmh": 4,
+      "wind_kmh": 13,
       "condition": "Clear",
-      "city": "Manama"
+      "city": "Abu Dhabi"
+    },
+    "Lebanon": {
+      "temp_c": 24,
+      "wind_kmh": 19,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 16,
+      "temp_c": 38,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Bahrain": {
+      "temp_c": 39,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Kuwait": {
+      "temp_c": 35,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Oman": {
-      "temp_c": 33,
+      "temp_c": 34,
       "wind_kmh": 14,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
     "Jordan": {
-      "temp_c": 22,
-      "wind_kmh": 17,
+      "temp_c": 24,
+      "wind_kmh": 12,
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
-    "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 27,
+    "Iraq": {
+      "temp_c": 33,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 29,
-      "wind_kmh": 9,
+      "temp_c": 27,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iraq": {
-      "temp_c": 32,
-      "wind_kmh": 4,
+    "Iran": {
+      "temp_c": 29,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "city": "Tehran"
     },
     "Yemen": {
       "temp_c": 26,
       "wind_kmh": 12,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 29,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308607,
+    "KWD": 0.308774,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.300596,
-    "IQD": 1310.214721
+    "EGP": 52.28469,
+    "IQD": 1310.218099
   },
   "lottery": {
     "items": [
@@ -126,8 +126,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,7 +141,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 3,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -156,23 +156,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 60,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1wugo9q",
         "title": "Yall don’t think sports betting is easier to hit then lottery tickets the odds are impossible sports betting has a higher probability so why do we choose lotto tickets",
-        "summary": "↑1 · 💬0",
+        "summary": "↑2 · 💬3",
         "url": "https://reddit.com/r/Lottery/comments/1wugo9q/yall_dont_think_sports_betting_is_easier_to_hit/",
         "timestamp": "2026-09-30T21:00:13.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 11,
-        "comments": 46,
+        "score": 14,
+        "comments": 49,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -201,7 +201,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 15,
+        "score": 16,
         "comments": 24,
         "mood": "HOPEFUL",
         "isME": false
@@ -580,95 +580,20 @@
         "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "$1.04 billion Powerball winner remained anonymous for nearly a month; finally claimed the prize in Illinois",
-        "summary": "A $1.04 billion Powerball jackpot winner in Illinois has finally claimed the prize nearly one month after the August 12 drawing, ending the mystery over",
-        "url": "https://timesofindia.indiatimes.com/world/us/1-04-billion-powerball-winner-remained-anonymous-for-nearly-a-month-finally-claimed-the-prize-in-illinois/articleshow/134480110.cms",
-        "timestamp": "2026-09-25T08:42:18Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Powerball jackpot jumps to $360 million for September 26 drawing - How much could Saturday night’s winner actually take home?",
-        "summary": "The Powerball winners need not necessarily pick all the six numbers to win big. The person who picks all the five white balls but does not pick the red ball gets a prize of one million dollars before taxes. There is another option known as Power Play, which m…",
-        "url": "https://economictimes.indiatimes.com/news/international/us/powerball-jackpot-jumps-to-360-million-for-september-26-drawing-how-much-could-saturday-nights-winner-actually-take-home/articleshow/134474220.cms",
-        "timestamp": "2026-09-25T03:22:42Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1wp4zuh",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1wp4zuh/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-09-24T15:38:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wp4w3d",
-        "title": "Lottery Winnings",
-        "summary": "When you win a 'medium' prize (like $100 to $500), do you roll 100% of it back into tickets, cash out half, or pocket the whole thing",
-        "url": "https://reddit.com/r/Lottery/comments/1wp4w3d/lottery_winnings/",
-        "timestamp": "2026-09-24T15:34:21.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 6,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wp13p3",
-        "title": "Anyone here still part of an office lottery group?",
-        "summary": "Curious how many people still do office/work lottery pools, especially when Powerball or Mega Millions gets huge. If you're in one, how big is the group and who gets stuck organizing everything? I feel like there's always one person chasing",
-        "url": "https://reddit.com/r/Lottery/comments/1wp13p3/anyone_here_still_part_of_an_office_lottery_group/",
-        "timestamp": "2026-09-24T13:04:37.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 12,
-        "comments": 13,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 37,
-      "meSignals": 1,
+      "totalSignals": 32,
+      "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 35,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 1
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 5
+      "uncertaintyScore": 6
     }
   }
 }
