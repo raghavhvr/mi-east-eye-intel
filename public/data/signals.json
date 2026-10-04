@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:16:48.903Z",
+  "generated_at": "2026-10-04T08:31:47.534Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,152 @@
     "Iran": null
   },
   "weather": {
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Oman": {
+      "temp_c": 37,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Kuwait": {
+      "temp_c": 35,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Saudi Arabia": {
       "temp_c": 37,
-      "wind_kmh": 12,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "UAE": {
       "temp_c": 37,
-      "wind_kmh": 13,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
     "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 19,
+      "temp_c": 27,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Qatar": {
-      "temp_c": 38,
-      "wind_kmh": 13,
+      "temp_c": 39,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Bahrain": {
-      "temp_c": 39,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Kuwait": {
-      "temp_c": 35,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Oman": {
-      "temp_c": 34,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 12,
+      "temp_c": 25,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
     "Iraq": {
-      "temp_c": 33,
-      "wind_kmh": 6,
+      "temp_c": 31,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
     "Egypt": {
       "temp_c": 27,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 29,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
     "Yemen": {
-      "temp_c": 26,
+      "temp_c": 24,
       "wind_kmh": 12,
       "condition": "Clear",
       "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 26,
+      "wind_kmh": 19,
+      "condition": "Clear",
+      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.308774,
+    "KWD": 0.308736,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.28469,
-    "IQD": 1310.218099
+    "EGP": 52.229699,
+    "IQD": 1310.223228
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1wx3do9",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1wx3do9/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-10-04T01:30:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wx00n8",
+        "title": "4 of 6 Texas Lotto Number",
+        "summary": "I had this ticket in my wallet all week and didn’t even realize I had won anything. Pretty close on the last two numbers too.",
+        "url": "https://reddit.com/r/Lottery/comments/1wx00n8/4_of_6_texas_lotto_number/",
+        "timestamp": "2026-10-03T22:38:31.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wwvp9x",
+        "title": "Having trouble with the Second Chance Lottery Nj",
+        "summary": "Anybody else getting an error message when you enter in the ticket numbers for Second Chance in NJ? Idk if they have the second chance in every state but they do in New Jersey. I entered in a bunch of tickets with no issue and now it’s sayi",
+        "url": "https://reddit.com/r/Lottery/comments/1wwvp9x/having_trouble_with_the_second_chance_lottery_nj/",
+        "timestamp": "2026-10-03T19:27:30.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1wwpb3z",
+        "title": "Get numbers right frequently but timing is always off.",
+        "summary": "I have strong feelings once in awhile or dreams of numbers, play it for a week or so and bam hits the next day haha. Psychic gave me winning lotto numbers once Cpl years ago for pick 5 said every number has something to do with both sides o",
+        "url": "https://reddit.com/r/Lottery/comments/1wwpb3z/get_numbers_right_frequently_but_timing_is_always/",
+        "timestamp": "2026-10-03T14:58:56.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1wvgh9v",
         "title": "Anyone know if these prizes powerball were ever claimed & if so, who did?",
@@ -112,7 +172,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -522,21 +582,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "EuroMillions ticket-holder from the UK hits £111million jackpot in winning Friday night's draw",
-        "summary": "The anonymous player was one of 2.8million who participated in the transnational lottery, which sees seven countries across Europe compete for the life-changing cash.",
-        "url": "https://www.dailymail.com/news/article-16161525/Euromillions-UK-111million-jackpot-winning-Friday-nights-draw.html",
-        "timestamp": "2026-09-25T21:51:08Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1wq10cj",
         "title": "Would you volunteer to run a 20-person lottery group?",
         "summary": "Say 20 coworkers want to throw in for Powerball every week. Would you actually volunteer to be the person responsible for collecting everyone's money, buying the tickets, sending everyone copies and keeping track of who was in each draw? Or",
@@ -550,43 +595,13 @@
         "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wpymyd",
-        "title": "Lottery Confessions",
-        "summary": "What’s the largest winning ticket you’ve ever lost, washed in the laundry, or accidentally let expire?",
-        "url": "https://reddit.com/r/Lottery/comments/1wpymyd/lottery_confessions/",
-        "timestamp": "2026-09-25T15:01:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wpxx82",
-        "title": "I went through 48 years of Belgian Lotto draws. Some of it surprised me.",
-        "summary": "In case anyone's interested: the Belgian National Lottery archives are public, free and available on their official site.      I've always had a thing for the lottery, so I took the time to dig into the data. Here's what I found:   * There ",
-        "url": "https://reddit.com/r/Lottery/comments/1wpxx82/i_went_through_48_years_of_belgian_lotto_draws/",
-        "timestamp": "2026-09-25T14:32:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 32,
+      "totalSignals": 33,
       "meSignals": 0,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 31,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 1
