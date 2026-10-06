@@ -1,7 +1,1375 @@
 {
-  "generated_at": "2026-10-05T08:33:15.889Z",
-  "count": 22083,
+  "generated_at": "2026-10-06T08:41:04.772Z",
+  "count": 22009,
   "articles": [
+    {
+      "id": "https://www.thenationalnews.com/sport/2026/10/06/rory-mcilroy-confirmed-for-dp-world-tour-championship-as-he-chases-race-to-dubai-record/",
+      "title": "Rory McIlroy confirmed for DP World Tour Championship as he chases Race to Dubai record",
+      "summary": "Seven-time Race to Dubai champion Rory McIlroy has been confirmed for the season-ending DP World Tour Championship next month. McIlroy is the latest big name to be confirmed for the November 12-15 event at Jumeirah Golf Estates. The Norther",
+      "url": "https://www.thenationalnews.com/sport/2026/10/06/rory-mcilroy-confirmed-for-dp-world-tour-championship-as-he-chases-race-to-dubai-record/",
+      "timestamp": "2026-10-06T08:34:05.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/mena/2026/10/06/saudi-airports-attacked-as-yemens-west-coast-battle-intensifies/",
+      "title": "Saudi airports attacked as Yemen's west coast battle intensifies",
+      "summary": "Two airports in Saudi Arabia have been attacked as battles between the Houthi rebels and Saudi-backed Yemeni government forces intensified along the western coast overlooking the Red Sea and the strategic Bab Al Mandeb strait. Saudi Arabia’",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/06/saudi-airports-attacked-as-yemens-west-coast-battle-intensifies/",
+      "timestamp": "2026-10-06T08:25:19.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/10/06/dubai-ride-2026-guide-date-registration-bib-collection-and-more/",
+      "title": "Dubai Ride 2026 guide: Date, registration, bib collection and more",
+      "summary": "Registration is now open for Dubai Ride , the city's biggest community cycling event and a highlight of the Dubai Fitness Challenge. The free-to-attend race is to be held in the early hours of November 1, when it will once again take over t",
+      "url": "https://www.thenationalnews.com/lifestyle/things-to-do/2026/10/06/dubai-ride-2026-guide-date-registration-bib-collection-and-more/",
+      "timestamp": "2026-10-06T08:24:41.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-arabia-warns-against-filming-missile-interceptions-as-houthi-attacks-intensify/",
+      "title": "Saudi Arabia warns against filming or sharing missile and drone interceptions",
+      "summary": "Saudi Arabia has warned the public against filming, publishing or sharing images of missile and drone interceptions, as Yemen’s Houthis intensify attacks on the kingdom. The warning came hours after Yemen’s Iran-backed Houthi rebels claimed",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-arabia-warns-against-filming-missile-interceptions-as-houthi-attacks-intensify/",
+      "timestamp": "2026-10-06T08:18:19.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079328",
+      "title": "Israeli fire kills 2 Gazans, injures 3 amid ceasefire violations",
+      "summary": "At least 1,460 Palestinians killed, 5,116 injured in Israeli attacks since ceasefire, Health Ministry says",
+      "url": "https://www.aa.com.tr/en/middle-east/israeli-fire-kills-2-gazans-injures-3-amid-ceasefire-violations/4079328",
+      "timestamp": "2026-10-06T08:10:43.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079317",
+      "title": "South Korea not satisfied with Ukraine’s ‘apology message’ over controversial transfer of North Korean soldiers",
+      "summary": "Seoul considering ‘firm measures,’ including possible recall of ambassador, after Kyiv disclosed transfer of 2 captured North Korean soldiers",
+      "url": "https://www.aa.com.tr/en/asia-pacific/south-korea-not-satisfied-with-ukraine-s-apology-message-over-controversial-transfer-of-north-korean-soldiers/4079317",
+      "timestamp": "2026-10-06T08:08:22.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/uae/2026/10/06/uae-weather-fog-abu-dhabi/",
+      "title": "UAE weather: Speed limit caps lifted in Abu Dhabi after morning fog reduced visibility",
+      "summary": "Temporary speed limit caps imposed on a number of Abu Dhabi roads were lifted shortly after 8am on Tuesday morning after dense fog had shrouded skies in the capital. Abu Dhabi Police moved to reduce speed limits to 80kph on key routes as a ",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/06/uae-weather-fog-abu-dhabi/",
+      "timestamp": "2026-10-06T08:07:22.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079309",
+      "title": "Saudi Arabia says 3 injured in attacks on 2 airports in country’s south amid escalation with Houthis",
+      "summary": "Aviation authority says King Abdullah bin Abdulaziz International Airport in Jazan, Najran International Airport targeted Monday evening",
+      "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-3-injured-in-attacks-on-2-airports-in-country-s-south-amid-escalation-with-houthis/4079309",
+      "timestamp": "2026-10-06T08:05:12.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wywu40",
+      "title": "what movie is this?",
+      "summary": "hi guys, I hope all is well, and I hope this is the right kind of sub to make this post, I was just hoping to ask where this beautiful scene/shot is from?",
+      "url": "https://reddit.com/r/arabs/comments/1wywu40/what_movie_is_this/",
+      "timestamp": "2026-10-06T07:58:42.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791268443",
+      "title": "Harmanpreet Kaur steps down as captain of India’s women’s cricket team",
+      "summary": "Kaur, 37, is the only man or woman to captain her side in international cricket in more than 150 T20I games.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/harmanpreet-kaur-steps-down-as-captain-of-indias-womens-cricket-team?traffic_source=rss",
+      "timestamp": "2026-10-06T07:49:48.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Oman",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/business/2026/10/06/uaes-e-revives-original-etisalat-branding-as-it-focuses-on-ai-growth/",
+      "title": "UAE's e& revives original Etisalat branding as it focuses on AI growth",
+      "summary": "UAE telecoms group e& is to return to its original brand identity of Etisalat, four years after it changed the company's name, as it looks to boost growth in the artificial intelligence era. “Etisalat is the name we are taking forward – a n",
+      "url": "https://www.thenationalnews.com/business/2026/10/06/uaes-e-revives-original-etisalat-branding-as-it-focuses-on-ai-growth/",
+      "timestamp": "2026-10-06T07:47:03.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo#0",
+      "title": "Yemeni military says it has 'secured' Red Sea waterway",
+      "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-10-06T07:43:07.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791269286",
+      "title": "Are pets replacing human babies?",
+      "summary": "Why are birth rates declining while pet ownership is on the rise?",
+      "url": "https://www.aljazeera.com/video/money-works/2026/10/6/are-pets-replacing-human-babies?traffic_source=rss",
+      "timestamp": "2026-10-06T07:39:00.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079243",
+      "title": "Russia ready to grant $1B loan to Iran: Report",
+      "summary": "Transfer awaits Iranian bank account details amid disagreements over how funds should be used, Iranian media reports",
+      "url": "https://www.aa.com.tr/en/eurasia/russia-ready-to-grant-1b-loan-to-iran-report/4079243",
+      "timestamp": "2026-10-06T07:29:52.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o#0",
+      "title": "Children brave snipers and mortars to go to school near Yemen front line",
+      "summary": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-10-06T07:23:24.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Yemen",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791263833",
+      "title": "Trump approves firing squad execution for Fort Hood attacker Nidal Hasan",
+      "summary": "Pentagon confirms execution order for Nidal Hasan, convicted of killing 13 in Fort Hood shooting in 2009.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan?traffic_source=rss",
+      "timestamp": "2026-10-06T07:23:00.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-arabia-to-legalise-status-of-yemenis-living-in-country-without-proper-authority/",
+      "title": "Saudi Arabia to legalise status of Yemenis living without proper authority in kingdom",
+      "summary": "Saudi Arabia has said it will begin procedures to legalise the residency status of Yemenis living in the kingdom without proper authority, following a request from the Yemen Presidential Council. The move was ordered by King Salman in respo",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/10/06/saudi-arabia-to-legalise-status-of-yemenis-living-in-country-without-proper-authority/",
+      "timestamp": "2026-10-06T07:17:03.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079225",
+      "title": "Yemeni army says 100 Houthis killed, 5 drones downed in southwestern Taiz province",
+      "summary": "Government forces say they also retook Jabal al-Manzara, al-Asharif and Dhiban in southern Taiz as part of ‘Dawn of Yemen’ operation",
+      "url": "https://www.aa.com.tr/en/middle-east/yemeni-army-says-100-houthis-killed-5-drones-downed-in-southwestern-taiz-province/4079225",
+      "timestamp": "2026-10-06T07:16:04.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Yemen",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791270513",
+      "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
+      "summary": "At a campaign rally in Nebraska, US President Donald Trump joked about letting Iran bomb Los Angeles and San Diego.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
+      "timestamp": "2026-10-06T07:12:00.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448883 at https://www.middleeasteye.net/",
+      "title": "US and several allies say Iran committed 'terrorist actions'",
+      "summary": "<article data-history-node-id=\"448883\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/us-and-several-allies-say-iran-committed-terrorist-actions\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleea",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-and-several-allies-say-iran-committed-terrorist-actions",
+      "timestamp": "2026-10-06T07:11:03.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791265478",
+      "title": "Gauff in racial abuse controversy at China Open after replayed point",
+      "summary": "Coco Gauff was targeted online after stopping play during a crucial point in the first set against China’s Sun Xinran.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/gauff-in-racial-abuse-controversy-at-china-open-after-replayed-point?traffic_source=rss",
+      "timestamp": "2026-10-06T07:10:37.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/arts-culture/books/2026/10/06/why-jeffrey-archer-kept-coming-back-to-the-uae/",
+      "title": "Why Jeffrey Archer kept coming back to the UAE",
+      "summary": "Bestselling British author Jeffrey Archer was a regular visitor to the UAE, returning several times to meet fans at literary festivals in Dubai and Sharjah during his five-decade career. Archer, whose novels sold more than 300 million copie",
+      "url": "https://www.thenationalnews.com/arts-culture/books/2026/10/06/why-jeffrey-archer-kept-coming-back-to-the-uae/",
+      "timestamp": "2026-10-06T07:08:59.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079215",
+      "title": "Israeli forces demolish residential building in East Jerusalem, raid several homes in West Bank",
+      "summary": "Israeli occupiers also torched four vehicles in Aqraba, south of Nablus, and sprayed racist slogans calling for revenge",
+      "url": "https://www.aa.com.tr/en/middle-east/israeli-forces-demolish-residential-building-in-east-jerusalem-raid-several-homes-in-west-bank/4079215",
+      "timestamp": "2026-10-06T07:08:52.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791243995",
+      "title": "Southeast Asia’s energy chiefs meet against backdrop of Iran war",
+      "summary": "ASEAN ministers to discuss energy security amid energy crunch caused by the war on Iran.",
+      "url": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss",
+      "timestamp": "2026-10-06T07:07:47.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448881 at https://www.middleeasteye.net/",
+      "title": "Morning update",
+      "summary": "<article data-history-node-id=\"448881\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-635\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/mor",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-635",
+      "timestamp": "2026-10-06T07:03:43.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+      "title": "Keeping up with the Bolsonaros: Flávio’s surprise first-round election win heralds rise of a political dynasty",
+      "summary": "<p>Four members of disgraced ex-president Jair Bolsonaro’s family have been elected to office, most notably his wife and son Flávio, who won the first round of voting to be Brazil’s new president</p><p>The weekend’s elections in Brazil not ",
+      "url": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+      "timestamp": "2026-10-06T07:00:05.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wyvxew",
+      "title": "Just a question",
+      "summary": "Why do you hate us? I’ve never seen so much hate in my life from Arabs like literally I’ve been living in the UK since I was 8 I don’t even mix with Arabs that much but whenever they find out that I’m originally Syrian t",
+      "url": "https://reddit.com/r/arabs/comments/1wyvxew/just_a_question/",
+      "timestamp": "2026-10-06T06:58:10.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Lebanon",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "https://www.thenationalnews.com/sport/cricket/2026/10/06/uae-cricketers-set-for-ilt20-earnings-hit-as-usas-milind-kumar-extends-odi-world-record/",
+      "title": "UAE cricketers set for ILT20 earnings hit as USA’s Milind Kumar extends ODI world record",
+      "summary": "Leading UAE players are set to have their ILT20 windfalls snatched away as a scheduling clash is now almost inevitable. Twenty-seven domestic players landed deals for a combined total of over a million dollars when the ILT20 auction took pl",
+      "url": "https://www.thenationalnews.com/sport/cricket/2026/10/06/uae-cricketers-set-for-ilt20-earnings-hit-as-usas-milind-kumar-extends-odi-world-record/",
+      "timestamp": "2026-10-06T06:56:23.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "Other",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079190",
+      "title": "Israeli forces launch new raid in Syria’s Quneitra",
+      "summary": "2 Israeli tanks, soldiers moved into Tal al-Duriyat near Al-Muallaqa village in southern Quneitra countryside, Syrian Alikhbariah TV says",
+      "url": "https://www.aa.com.tr/en/middle-east/israeli-forces-launch-new-raid-in-syria-s-quneitra/4079190",
+      "timestamp": "2026-10-06T06:46:23.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Syria",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448880 at https://www.middleeasteye.net/",
+      "title": "Saudi Aramco chief warns of 'scarily thin’ global oil stockpiles, amid war on Iran",
+      "summary": "<article data-history-node-id=\"448880\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/saudi-aramco-chief-warns-scarily-thin-global-oil-stockpiles-amid-war\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://ww",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-aramco-chief-warns-scarily-thin-global-oil-stockpiles-amid-war",
+      "timestamp": "2026-10-06T06:45:03.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079174",
+      "title": "Morning Briefing: Oct. 6, 2026",
+      "summary": "Anadolu’s recap of top stories from around the globe",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-6-2026/4079174",
+      "timestamp": "2026-10-06T06:34:19.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791197844",
+      "title": "Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?",
+      "summary": "Ronaldo sparked controversy last week when he walked out of the camp after learning that he would not start a game.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss",
+      "timestamp": "2026-10-06T06:33:13.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791177054",
+      "title": "Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head",
+      "summary": "Coming on the back of a 10-match winning streak, Spain face Croatia with sights set on the Nations League quarterfinals.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss",
+      "timestamp": "2026-10-06T06:17:15.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448879 at https://www.middleeasteye.net/",
+      "title": "US Navy helicopter disappears after declaring emergency over Red Sea near Saudi Arabia",
+      "summary": "<article data-history-node-id=\"448879\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/us-navy-helicopter-disappears-after-declaring-emergency-over-red-sea\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://ww",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-navy-helicopter-disappears-after-declaring-emergency-over-red-sea",
+      "timestamp": "2026-10-06T06:16:31.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448878 at https://www.middleeasteye.net/",
+      "title": "UN chief arrives in Pakistan for talks on mediation efforts between US, Iran",
+      "summary": "<article data-history-node-id=\"448878\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-arrives-pakistan-talks-mediation-efforts-between-us-iran\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.m",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-chief-arrives-pakistan-talks-mediation-efforts-between-us-iran",
+      "timestamp": "2026-10-06T05:44:45.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Iran",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791017158",
+      "title": "Widowed twice: A Gaza mother’s story of loss and survival",
+      "summary": "A young mother has lost two husbands and two children during Israel's genocidal war on Gaza.",
+      "url": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
+      "timestamp": "2026-10-06T05:44:39.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/06/yemeni-forces-secure-bab-al-mandeb-uae-jordan-launch-23bn-railway-and-eagle-hills-signs-syria-projects/",
+      "title": "Yemeni forces secure Bab Al Mandeb, UAE-Jordan launch $2.3bn railway and Eagle Hills signs Syria projects",
+      "summary": "In today’s episode of Trending Middle East , Yemeni government forces secure control of the Bab Al Mandeb strait and the strategic port city of Mokha as their offensive against the Houthis expands. The Saudi-led coalition is providing air s",
+      "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/10/06/yemeni-forces-secure-bab-al-mandeb-uae-jordan-launch-23bn-railway-and-eagle-hills-signs-syria-projects/",
+      "timestamp": "2026-10-06T05:43:55.000Z",
+      "source": "The National UAE",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.aljazeera.com/?t=1791190700",
+      "title": "Erling Haaland faces injury scare ahead of Man City vs Liverpool",
+      "summary": "The Manchester City star asked to be substituted and was replaced in the 67th minute of the 2-1 defeat in Porto.",
+      "url": "https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool?traffic_source=rss",
+      "timestamp": "2026-10-06T05:38:52.000Z",
+      "source": "Al Jazeera",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448877 at https://www.middleeasteye.net/",
+      "title": "Syria condemns Israeli attacks, demands withdrawal from territory",
+      "summary": "<article data-history-node-id=\"448877\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-attacks-demands-withdrawal-territory\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middlee",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-attacks-demands-withdrawal-territory",
+      "timestamp": "2026-10-06T05:19:46.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Syria",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+      "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
+      "summary": "<p>Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again</p><p>As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging t",
+      "url": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+      "timestamp": "2026-10-06T05:00:02.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-49974305",
+      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "summary": "6 pts · 3 comments",
+      "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o",
+      "timestamp": "2026-10-06T04:46:12.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 6,
+      "comments": 3
+    },
+    {
+      "id": "448876 at https://www.middleeasteye.net/",
+      "title": "Israeli politician calls Gaza's population, including babies, the 'enemy'",
+      "summary": "<article data-history-node-id=\"448876\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/israeli-politician-calls-gazas-population-including-babies-enemy\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-politician-calls-gazas-population-including-babies-enemy",
+      "timestamp": "2026-10-06T04:43:56.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Palestine",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "4079131",
+      "title": "Malaysia has repatriated 10,000 Myanmar detainees since January: Prime minister",
+      "summary": "Anwar Ibrahim tells parliament that returns were conducted by air and sea as UN raises concerns over repatriations to conflict-hit Myanmar",
+      "url": "https://www.aa.com.tr/en/asia-pacific/malaysia-has-repatriated-10-000-myanmar-detainees-since-january-prime-minister/4079131",
+      "timestamp": "2026-10-06T04:25:59.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448875 at https://www.middleeasteye.net/",
+      "title": "Hormuz Strait disruptions could lead to global food security crisis, International Chamber of Commerce Chief warns",
+      "summary": "<article data-history-node-id=\"448875\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-strait-disruptions-could-lead-global-food-security-crisis\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.mi",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hormuz-strait-disruptions-could-lead-global-food-security-crisis",
+      "timestamp": "2026-10-06T04:20:23.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448874 at https://www.middleeasteye.net/",
+      "title": "Qatar emir vows continued support for Yemen's sovereignty",
+      "summary": "<article data-history-node-id=\"448874\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/qatar-emir-vows-continued-support-yemens-sovereignty\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-emir-vows-continued-support-yemens-sovereignty",
+      "timestamp": "2026-10-06T03:45:05.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Qatar",
+      "section": "Other",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "448873 at https://www.middleeasteye.net/",
+      "title": "Trump says high gas prices 'small price to pay for keeping the world safe'",
+      "summary": "<article data-history-node-id=\"448873\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-high-gas-prices-small-price-pay-keeping-world-safe\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middl",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-high-gas-prices-small-price-pay-keeping-world-safe",
+      "timestamp": "2026-10-06T03:12:36.000Z",
+      "source": "Middle East Eye",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wyri53",
+      "title": "أنا رجل، وأرغب في أن أدعو الله أن يرزقني زوجةً لم ترتكب شيئًا من المحرمات في ماضيها. وإذا كانت هناك امرأة قد ارتكبت بعض هذه المحرمات ثم تابت توبةً صادقة، فهل يجوز لي شرعًا أن أدعو الله أن يرزقني بزوجة لم ترتكب تلك المحرمات من قبل؟ وهل دعائي بهذه الصيغة صحيح شرعًا؟",
+      "summary": "أنا رجل، وأرغب في أن أدعو الله أن يرزقني زوجةً لم ترتكب شيئًا من المحرمات في ماضيها. وإذا كانت هناك امرأة قد ارتكبت بعض هذه المحرمات ثم تابت توبةً صادقة، فهل يجوز لي شرعًا أن أدعو الله أن يرزقني بزوجة لم ترتكب تلك المحرم",
+      "url": "https://reddit.com/r/arabs/comments/1wyri53/أنا_رجل_وأرغب_في_أن_أدعو_الله_أن_يرزقني_زوجة_لم/",
+      "timestamp": "2026-10-06T02:41:08.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "4079107",
+      "title": "Italy beat Türkiye 3-1 as France stage late comeback against Belgium",
+      "summary": "Calafiori restores Italy’s lead 3 minutes after Türkiye equalizer; substitutes inspire France to 4-1 win",
+      "url": "https://www.aa.com.tr/en/sports/italy-beat-turkiye-3-1-as-france-stage-late-comeback-against-belgium/4079107",
+      "timestamp": "2026-10-06T00:09:45.000Z",
+      "source": "Anadolu Agency",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wynspu",
+      "title": "What is your general opinion of Iranians? Do you actually think about Iran/Iranian people much?",
+      "summary": "Hi Everyone, I’m a 28F Palestinian married to a 30M Iranian, and recently I’ve been exposed to some very strong opinions about Arabs that have genuinely surprised me. For some context, I grew up in Saudi Arabia and Jorda",
+      "url": "https://reddit.com/r/arabs/comments/1wynspu/what_is_your_general_opinion_of_iranians_do_you/",
+      "timestamp": "2026-10-05T23:39:19.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1wyn52l",
+      "title": "CIA report warns of civil conflict and 'collapse' in Israel: Report",
+      "summary": "↑1 · 💬2",
+      "url": "https://reddit.com/r/arabs/comments/1wyn52l/cia_report_warns_of_civil_conflict_and_collapse/",
+      "timestamp": "2026-10-05T23:08:10.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Israel",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 1,
+      "comments": 2
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq14d438vx24o#0",
+      "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+      "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-10-05T22:28:02.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wyl1w8",
+      "title": "Breaking: CIA experts warn that Israel could be headed towards a “Civil War or Total Collapse\".",
+      "summary": "↑1 · 💬2",
+      "url": "https://reddit.com/r/arabs/comments/1wyl1w8/breaking_cia_experts_warn_that_israel_could_be/",
+      "timestamp": "2026-10-05T21:36:49.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Israel",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 1,
+      "comments": 2
+    },
+    {
+      "id": "hn-49970990",
+      "title": "Turkey's 20B ponzi scheme collapsed",
+      "summary": "23 pts · 0 comments",
+      "url": "https://www.reuters.com/world/middle-east/how-turkeys-investment-fund-bubble-burst-2026-10-02/",
+      "timestamp": "2026-10-05T21:23:16.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 23,
+      "comments": 0
+    },
+    {
+      "id": "hn-49970277",
+      "title": "ShinyHunters hacker in FBI data theft detained",
+      "summary": "5 pts · 0 comments",
+      "url": "https://www.reuters.com/world/middle-east/key-shinyhunters-hacker-detained-jordan-is-cooperating-sources-say-2026-10-03/",
+      "timestamp": "2026-10-05T20:32:28.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 5,
+      "comments": 0
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+      "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+      "summary": "<p>Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge</p><p>Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled h",
+      "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+      "timestamp": "2026-10-05T20:06:18.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wyh5co",
+      "title": "How are christians seen in your country?",
+      "summary": "I am talking about native people not recent immigrants, I know historically Arabs have not really had any friction with christian or jewish populations within but is there any \"otherness\" that separates them? I.e. voting",
+      "url": "https://reddit.com/r/arabs/comments/1wyh5co/how_are_christians_seen_in_your_country/",
+      "timestamp": "2026-10-05T19:03:21.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "hn-49968845",
+      "title": "Iran Says There Is No Military Solution as Middle East Conflict Drags On",
+      "summary": "2 pts · 0 comments",
+      "url": "https://coinmarketcap.com/community/post/379861372/",
+      "timestamp": "2026-10-05T18:49:59.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Iran",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 2,
+      "comments": 0
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula",
+      "title": "Far right on the march and Lula’s failures: key drivers of Flávio Bolsonaro’s Brazil surge",
+      "summary": "<p>Experts say strength of evangelical church and stubbornness of Lula, 80, also helped propel Jair Bolsonaro’s son to first-round election win</p><p>On Sunday night, as the scale of the far-right triumph in Brazil sank in, an adapted footb",
+      "url": "https://www.theguardian.com/world/2026/oct/05/brazil-election-bolsonaro-lula",
+      "timestamp": "2026-10-05T18:42:23.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "POSITIVE",
+        "score": 2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "hn-49968377",
+      "title": "Show HN: Rashomon – An independent execution record for AI coding agents",
+      "summary": "1 pts · 1 comments",
+      "url": "https://github.com/altrace-dev-role/rashomon",
+      "timestamp": "2026-10-05T18:13:54.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1wye6dv",
+      "title": "بعدما أقر اعتبار الصهيونية شكلا من أشكال العنصرية.. ماذا نعرف عن حزب الخضر البريطاني؟",
+      "summary": "↑1 · 💬1",
+      "url": "https://reddit.com/r/arabs/comments/1wye6dv/بعدما_أقر_اعتبار_الصهيونية_شكلا_من_أشكال_العنصرية/",
+      "timestamp": "2026-10-05T17:11:00.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "hn-49967408",
+      "title": "Show HN: Self-bench – benchmark coding agents on real-world software",
+      "summary": "4 pts · 0 comments",
+      "url": "https://github.com/mupt-ai/self-bench",
+      "timestamp": "2026-10-05T16:58:47.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 4,
+      "comments": 0
+    },
+    {
+      "id": "hn-49966816",
+      "title": "Show HN: Open-Source Instinct",
+      "summary": "1 pts · 0 comments",
+      "url": "https://github.com/mariagorskikh/open-instinct",
+      "timestamp": "2026-10-05T16:15:36.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wybv1e",
+      "title": "Survey for school project",
+      "summary": "مرحباً! أرجو منكم المشاركة في هذا الاستبيان الخاص بمشروعي المدرسي. يتناول الاستبيان موضوع الإعلام في الدول العربية. !شكراً جزيلاً لكم. Hello! Please do this survey for a school project. It is about media in Arabic countr",
+      "url": "https://reddit.com/r/arabs/comments/1wybv1e/survey_for_school_project/",
+      "timestamp": "2026-10-05T15:42:57.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "🌐 Expat",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "hn-49966215",
+      "title": "Show HN: Abralo - Open source Slack for agents and people",
+      "summary": "1 pts · 0 comments",
+      "url": "https://github.com/cw12574/abralo-workspace",
+      "timestamp": "2026-10-05T15:33:39.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wybb25",
+      "title": "Been studying dentistry for 3 years (paid). Got an offer for a fully funded scholarship in Medicine. Do it?",
+      "summary": "Hello. As the title implies, Im studying dentistry in the UAE as an expat from Iraq (so I have to pay for fees). For the sake of trying and nothing else, I applied for scholarships for medicine abroad. I got accepted in ",
+      "url": "https://reddit.com/r/arabs/comments/1wybb25/been_studying_dentistry_for_3_years_paid_got_an/",
+      "timestamp": "2026-10-05T15:21:11.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "UAE",
+      "section": "💼 Economy",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "reddit-1wyaans",
+      "title": "Bess Kalb.",
+      "summary": "Bess Kalb",
+      "url": "https://reddit.com/r/arabs/comments/1wyaans/bess_kalb/",
+      "timestamp": "2026-10-05T14:41:08.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 2
+    },
+    {
+      "id": "hn-49965199",
+      "title": "Show HN: Vibivibi – End-to-end encrypted sharing of Coding Agent sessions",
+      "summary": "4 pts · 0 comments",
+      "url": "https://vibivibi.com/",
+      "timestamp": "2026-10-05T14:16:09.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 4,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wy909u",
+      "title": "كيف أخفت مصر وسوريا استعداداتهما لحرب أكتوبر 1973؟",
+      "summary": "كيف أخفت مصر وسوريا استعداداتهما لحرب أكتوبر 1973؟   قبل أيام من الحرب التقى وزير الخارجية المصري نظيره الأمريكي «كيسنجر» في لقاء هادئ لم يوحِ بأن مواجهة عسكرية باتت قريبة.   وفي سياق خطة الخداع تحركت الصواريخ المصرية نح",
+      "url": "https://reddit.com/r/arabs/comments/1wy909u/كيف_أخفت_مصر_وسوريا_استعداداتهما_لحرب_أكتوبر_1973/",
+      "timestamp": "2026-10-05T13:47:31.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "hn-49964361",
+      "title": "Show HN: Browsentic Open-source Claude for Chrome alternative for any agent CLI",
+      "summary": "1 pts · 0 comments",
+      "url": "https://github.com/imshaikot/browsentic",
+      "timestamp": "2026-10-05T13:08:05.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
+    },
+    {
+      "id": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+      "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
+      "summary": "<p>After Guardian investigation uncovered drone strike that killed 12 civilians and injured many more, seven-year-old Abdiqadir Salah underwent vital operation in Mogadishu</p><p>On the rickshaw ride to the hospital, Marian Haji Abdi Guled ",
+      "url": "https://www.theguardian.com/global-development/2026/oct/05/guardian-readers-fundraising-somalian-boy-injured-in-us-strike-surgery-abdiqadir-salah",
+      "timestamp": "2026-10-05T12:00:24.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wy6ayi",
+      "title": "بثّت “كان 11” مقابلة مع مواطن قال إن ما يريده هو “القضاء على العرب” وإبعادهم عنه",
+      "summary": "↑1 · 💬1",
+      "url": "https://reddit.com/r/arabs/comments/1wy6ayi/بثت_كان_11_مقابلة_مع_مواطن_قال_إن_ما_يريده_هو/",
+      "timestamp": "2026-10-05T11:39:08.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o#0",
+      "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
+      "summary": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-10-05T11:34:59.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "💻 Tech",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "reddit-1wy5yqo",
+      "title": "Yahweh was originally God of North Western Arabs?",
+      "summary": "↑1 · 💬2",
+      "url": "https://reddit.com/r/arabs/comments/1wy5yqo/yahweh_was_originally_god_of_north_western_arabs/",
+      "timestamp": "2026-10-05T11:20:11.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 2
+    },
+    {
+      "id": "reddit-1wy4ij7",
+      "title": "حزب الخضر البريطاني سبق معظم التنظيمات الفلسطينية",
+      "summary": "↑1 · 💬1",
+      "url": "https://reddit.com/r/arabs/comments/1wy4ij7/حزب_الخضر_البريطاني_سبق_معظم_التنظيمات_الفلسطينية/",
+      "timestamp": "2026-10-05T09:53:48.000Z",
+      "source": "r/arabs",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 1
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+      "title": "Quebec poised to elect separatists to power for first time in more than a decade",
+      "summary": "<p>Parti Québécois promises to hold independence referendum in Canada’s French-speaking region by 2028</p><p>Voters in Quebec are going to the polls in provincial elections which will probably result in victory for a party that has promised",
+      "url": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
+      "timestamp": "2026-10-05T09:30:52.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Regional",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
+      "id": "https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65",
+      "title": "Sass Jordan, Canadian rock singer-songwriter, dies aged 65",
+      "summary": "<p>Musician who had hit albums with Racine and Rats later became a judge on six seasons of Canadian Idol</p><p>Sass Jordan, the singer-songwriter who became a significant success in Canada’s rock scene in the 1990s before starring as a judg",
+      "url": "https://www.theguardian.com/music/2026/oct/05/sass-jordan-canadian-rock-singer-songwriter-dies-aged-65",
+      "timestamp": "2026-10-05T09:22:59.000Z",
+      "source": "The Guardian",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "Jordan",
+      "section": "🕌 Culture",
+      "sentiment": {
+        "label": "STABLE",
+        "score": 1
+      },
+      "score": 0,
+      "comments": 0
+    },
     {
       "id": "reddit-1wy3a74",
       "title": "MMUP Requirement - Experience Certificate",
@@ -2577,24 +3945,6 @@
       "comments": 1
     },
     {
-      "id": "reddit-1wxqfop",
-      "title": "كيف افضفض مع رب العالمين ؟",
-      "summary": ".",
-      "url": "https://reddit.com/r/saudiarabia/comments/1wxqfop/كيف_افضفض_مع_رب_العالمين/",
-      "timestamp": "2026-10-04T20:58:55.000Z",
-      "source": "r/saudiarabia",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Saudi Arabia",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
       "id": "reddit-1wxqfoo",
       "title": "Dating an arab woman and have a question",
       "summary": "I'm dating an arab egyptian woman. I am a westerner. We've been dating 3 months. I haven't felt this strong a connection to someone in ages. But discovered something today about our cultures and I think we might be incom",
@@ -2611,6 +3961,24 @@
       },
       "score": 1,
       "comments": 1
+    },
+    {
+      "id": "reddit-1wxqfop",
+      "title": "كيف افضفض مع رب العالمين ؟",
+      "summary": ".",
+      "url": "https://reddit.com/r/saudiarabia/comments/1wxqfop/كيف_افضفض_مع_رب_العالمين/",
+      "timestamp": "2026-10-04T20:58:55.000Z",
+      "source": "r/saudiarabia",
+      "sourceType": "Reddit",
+      "tag": "SOCIAL",
+      "country": "Saudi Arabia",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 1,
+      "comments": 0
     },
     {
       "id": "reddit-1wxq9m8",
@@ -2645,8 +4013,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 5,
+      "comments": 2
     },
     {
       "id": "reddit-1wxpte2",
@@ -3371,7 +4739,7 @@
     {
       "id": "hn-49955117",
       "title": "Show HN: Skins.dev – add the features missing from the web apps you use",
-      "summary": "3 pts · 1 comments",
+      "summary": "3 pts · 2 comments",
       "url": "https://skins.dev/",
       "timestamp": "2026-10-04T16:06:53.000Z",
       "source": "Hacker News",
@@ -3384,7 +4752,7 @@
         "score": 0
       },
       "score": 3,
-      "comments": 1
+      "comments": 2
     },
     {
       "id": "reddit-1wxjb2m",
@@ -3509,13 +4877,13 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
+      "score": 2,
       "comments": 2
     },
     {
       "id": "reddit-1wxhv5f",
       "title": "على إثر إعادة نشر مقطع قديم ليوسف حداد يتحدث فيه عن تأييده للسلام وإقامة دولة فلسطينية، تصاعدت ضده انتقادات من شخصيات ونشطاء في اليمين الإسرائيلي، قبل أن ينضم محلل في القناة 14 إلى الهجوم، معتبرًا أن خدمته في الجيش وكونه مسيحيًا لا يغيّران من هويته العربية، ومتهمًا إياه بالتماهي مع غزة.",
-      "summary": "↑1 · 💬1",
+      "summary": "↑12 · 💬3",
       "url": "https://reddit.com/r/arabs/comments/1wxhv5f/على_إثر_إعادة_نشر_مقطع_قديم_ليوسف_حداد_يتحدث_فيه/",
       "timestamp": "2026-10-04T15:04:51.000Z",
       "source": "r/arabs",
@@ -3527,13 +4895,13 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 12,
+      "comments": 3
     },
     {
       "id": "reddit-1wxhk1o",
       "title": "Iran's 'Open Letter' to Americans examined. - Israel is your Enemy, NOT us. (video)",
-      "summary": "↑1 · 💬2",
+      "summary": "↑8 · 💬4",
       "url": "https://reddit.com/r/arabs/comments/1wxhk1o/irans_open_letter_to_americans_examined_israel_is/",
       "timestamp": "2026-10-04T14:51:44.000Z",
       "source": "r/arabs",
@@ -3545,13 +4913,13 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 2
+      "score": 8,
+      "comments": 4
     },
     {
       "id": "reddit-1wxhime",
       "title": "Extraordinary destruction in Gaza': Angelina Jolie's POST garnered almost a million likes",
-      "summary": "↑1 · 💬2",
+      "summary": "↑80 · 💬7",
       "url": "https://reddit.com/r/arabs/comments/1wxhime/extraordinary_destruction_in_gaza_angelina_jolies/",
       "timestamp": "2026-10-04T14:49:56.000Z",
       "source": "r/arabs",
@@ -3563,8 +4931,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 2
+      "score": 80,
+      "comments": 7
     },
     {
       "id": "reddit-1wxhcxf",
@@ -3623,7 +4991,7 @@
     {
       "id": "reddit-1wxgk7q",
       "title": "What do you think about the Anatolian Arabs?",
-      "summary": "↑1 · 💬1",
+      "summary": "↑2 · 💬3",
       "url": "https://reddit.com/r/arabs/comments/1wxgk7q/what_do_you_think_about_the_anatolian_arabs/",
       "timestamp": "2026-10-04T14:07:18.000Z",
       "source": "r/arabs",
@@ -3635,8 +5003,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 2,
+      "comments": 3
     },
     {
       "id": "reddit-1wxgh7i",
@@ -3653,8 +5021,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 11,
+      "comments": 46
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/oct/05/canada-migration-technical-recession-economy-lessons-for-australia",
@@ -3965,7 +5333,7 @@
     {
       "id": "reddit-1wxdcje",
       "title": "The reality of Palestinian life in Khallat al-Hummus, with an illegal settler outpost just 180 meters away",
-      "summary": "↑1 · 💬1",
+      "summary": "↑56 · 💬2",
       "url": "https://reddit.com/r/arabs/comments/1wxdcje/the_reality_of_palestinian_life_in_khallat/",
       "timestamp": "2026-10-04T11:24:20.000Z",
       "source": "r/arabs",
@@ -3977,8 +5345,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 56,
+      "comments": 2
     },
     {
       "id": "reddit-1wxda6z",
@@ -4161,6 +5529,24 @@
       "comments": 0
     },
     {
+      "id": "hn-49952148",
+      "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+      "summary": "78 pts · 26 comments",
+      "url": "https://github.com/rsutcliffe/nightwatch",
+      "timestamp": "2026-10-04T09:31:01.000Z",
+      "source": "Hacker News",
+      "sourceType": "HN",
+      "tag": "TECH",
+      "country": "Regional",
+      "section": "Other",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 78,
+      "comments": 26
+    },
+    {
       "id": "reddit-1wxazpi",
       "title": "Looking for a ragdoll male cat",
       "summary": "Im looking for a cutie male ragdoll for breeding, i have a female that’s looking to mate, however i dont want to mix it with something else since they are the only ones that are acceptable by my family, and no i dont wan",
@@ -4289,7 +5675,7 @@
     {
       "id": "reddit-1wx9vxp",
       "title": "باستثمارات 2.5 مليار دولار.. مشروع جديد لصناعة الصلب في ليبيا",
-      "summary": "↑1 · 💬1",
+      "summary": "↑3 · 💬1",
       "url": "https://reddit.com/r/arabs/comments/1wx9vxp/باستثمارات_25_مليار_دولار_مشروع_جديد_لصناعة_الصلب/",
       "timestamp": "2026-10-04T07:46:02.000Z",
       "source": "r/arabs",
@@ -4301,7 +5687,7 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
+      "score": 3,
       "comments": 1
     },
     {
@@ -4469,7 +5855,7 @@
     {
       "id": "reddit-1wx9g8m",
       "title": "أبطال المقاومة الشعبية في تعز المحاصرة يتصدون للعدوان الحوثي و الإمبريالية الصفوية !",
-      "summary": "↑1 · 💬1",
+      "summary": "↑0 · 💬7",
       "url": "https://reddit.com/r/arabs/comments/1wx9g8m/أبطال_المقاومة_الشعبية_في_تعز_المحاصرة_يتصدون/",
       "timestamp": "2026-10-04T07:18:15.000Z",
       "source": "r/arabs",
@@ -4481,8 +5867,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 0,
+      "comments": 7
     },
     {
       "id": "https://www.thenationalnews.com/future/technology/2026/10/04/ai-less-safe-for-keeping-secrets-than-most-people-assume/",
@@ -4649,7 +6035,7 @@
     {
       "id": "reddit-1wx8um6",
       "title": "Do i look arab?",
-      "summary": "↑1 · 💬1",
+      "summary": "↑0 · 💬24",
       "url": "https://reddit.com/r/arabs/comments/1wx8um6/do_i_look_arab/",
       "timestamp": "2026-10-04T06:42:08.000Z",
       "source": "r/arabs",
@@ -4661,8 +6047,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 0,
+      "comments": 24
     },
     {
       "id": "reddit-1wx8tlj",
@@ -5381,8 +6767,8 @@
         "label": "NEUTRAL",
         "score": 0
       },
-      "score": 1,
-      "comments": 1
+      "score": 5,
+      "comments": 7
     },
     {
       "id": "448783 at https://www.middleeasteye.net/",
@@ -12441,6 +13827,24 @@
       "comments": 0
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#1",
+      "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+      "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
+      "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-10-02T09:08:06.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "CRITICAL",
+        "score": -2
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c639m98gde00o#0",
       "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
       "summary": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
@@ -15087,6 +16491,24 @@
       "comments": 0
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o#1",
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-10-01T19:59:24.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "🏛️ Politics",
+      "sentiment": {
+        "label": "NEUTRAL",
+        "score": 0
+      },
+      "score": 0,
+      "comments": 0
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/crje8edqyej9o#0",
       "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
       "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
@@ -16147,6 +17569,24 @@
       },
       "score": 1,
       "comments": 1
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po#1",
+      "title": "Flydubai passenger describes hugging his children as plane nosedived during attack",
+      "summary": "Adam Polovincik tells the BBC he told his young children \"everything is going to be all right\" as flight plunged more than 17,000ft (5,200m).",
+      "url": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po?at_medium=RSS&amp;at_campaign=rss",
+      "timestamp": "2026-10-01T13:57:28.000Z",
+      "source": "BBC Middle East",
+      "sourceType": "RSS",
+      "tag": "NEWS",
+      "country": "UAE",
+      "section": "🚨 Crisis",
+      "sentiment": {
+        "label": "WARNING",
+        "score": -1
+      },
+      "score": 0,
+      "comments": 0
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6d949ydnw3po#0",
@@ -394723,2778 +396163,6 @@
       },
       "score": 1,
       "comments": 0
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo#1",
-      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-      "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&amp;at_campaign=rss",
-      "timestamp": "2026-07-08T08:11:50.000Z",
-      "source": "BBC Middle East",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iran",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo#0",
-      "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-      "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
-      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&amp;at_campaign=rss",
-      "timestamp": "2026-07-08T08:11:50.000Z",
-      "source": "BBC Middle East",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iran",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqlemr",
-      "title": "Moving from Asia to US",
-      "summary": "We are moving from Asia to Kansas - Overland park US, shipping is covered by the company. We realized we cant bring in our electrical appliances like air fryer, electric kettle, electric pressure cooker, roborock. We als",
-      "url": "https://reddit.com/r/expats/comments/1uqlemr/moving_from_asia_to_us/",
-      "timestamp": "2026-07-08T07:16:09.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqlbmn",
-      "title": "I'm Indian and thinking of moving to Argentina?",
-      "summary": "How guys I'm indian and thinking of moving to Argentina as everyone says it's the easiest country in the world to get citizenship in. The air in india is terrible and there's just too many people here and quality of life",
-      "url": "https://reddit.com/r/expats/comments/1uqlbmn/im_indian_and_thinking_of_moving_to_argentina/",
-      "timestamp": "2026-07-08T07:11:25.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqkm6k",
-      "title": "No sirens outdoors anymore?",
-      "summary": "Im so confused. they aren't sounding the sirens outdoors anymore from the government buildings. Why?  Im concerned for the people who work outdoors who either dont have access to a smart phone or the ones who work in a l",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqkm6k/no_sirens_outdoors_anymore/",
-      "timestamp": "2026-07-08T06:30:45.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqjw47",
-      "title": "July summer Trip to Salalah from Dubai",
-      "summary": "Hello beautiful people of Oman.  We are family of 4 (2 kids age 5 and 3),planning a short getaway to Salalah with our maid, so total 5 people.  People on this sub who have been there before could you help me with below q",
-      "url": "https://reddit.com/r/Oman/comments/1uqjw47/july_summer_trip_to_salalah_from_dubai/",
-      "timestamp": "2026-07-08T05:50:20.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 8
-    },
-    {
-      "id": "reddit-1uqjd00",
-      "title": "Salary Expectations",
-      "summary": "Hello, I am an Enterprise Applications Senior Consultant in India, with 8 years of experience and a CTC of INR 28 LPA. Having successfully completed the technical rounds, I am anticipating an HR discussion regarding mone",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqjd00/salary_expectations/",
-      "timestamp": "2026-07-08T05:21:30.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "443778 at https://www.middleeasteye.net/",
-      "title": "Morning update",
-      "summary": "<article data-history-node-id=\"443778\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-580\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/mor",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-580",
-      "timestamp": "2026-07-08T05:16:29.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqj2qo",
-      "title": "Inside the billion-dollar business of getting a visa - VFS",
-      "summary": "If anyone has been to VFS before will know how they use fear to sell you products you don't even need. I have seen a guy in front of me being sold an AED 350 premium service, just because he forgot to print his appointme",
-      "url": "https://reddit.com/r/UAE/comments/1uqj2qo/inside_the_billiondollar_business_of_getting_a/",
-      "timestamp": "2026-07-08T05:06:33.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783484596",
-      "title": "Argentina fan waves Israeli flag at World Cup match with Egypt",
-      "summary": "An Argentina fan waves the Israeli flag during his team’s Round of 16 match against Egypt.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/argentina-fan-waves-israeli-flag-at-world-cup-match-with-egypt?traffic_source=rss",
-      "timestamp": "2026-07-08T05:01:08.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Israel",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/mena/2026/07/08/minister-falconer-caps-two-year-struggle-defending-labours-israel-policy/",
-      "title": "Minister Falconer ends two-year struggle defending Labour’s Israel policy",
-      "summary": "Britain’s Middle East minister has been challenged for not being tough enough on Israeli illegal settlers , while admitting relations with Israel are at a low ebb. After two years in post during which he answered a record 19 “urgent questio",
-      "url": "https://www.thenationalnews.com/news/mena/2026/07/08/minister-falconer-caps-two-year-struggle-defending-labours-israel-policy/",
-      "timestamp": "2026-07-08T05:00:01.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Israel",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/opinion/comment/2026/07/08/itv-sky-deal-sums-up-the-short-termism-holding-back-british-investment/",
-      "title": "British investment follows a familiar pattern with ITV and easyJet buyouts",
-      "summary": "There was hope and disquiet across Westminster, UK media and social media this week, when ITV and Sky TV owner, Comcast , announced they had reached a £1.6 billion ($2.14 billion) deal. ITV’s chairman, Andy Cosslett, said that together, it ",
-      "url": "https://www.thenationalnews.com/opinion/comment/2026/07/08/itv-sky-deal-sums-up-the-short-termism-holding-back-british-investment/",
-      "timestamp": "2026-07-08T05:00:01.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "POSITIVE",
-        "score": 2
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqiw2i",
-      "title": "Looking for reasonably priced invisible aligner treatment in UAE",
-      "summary": "I wore braces like 8 years back, but didn't wear the retainers properly. So it's not a full-fledged correction I need. But I'm not comfortable with my smile now. Looking for something in the uae. I'm based in Dubai. So a",
-      "url": "https://reddit.com/r/UAE/comments/1uqiw2i/looking_for_reasonably_priced_invisible_aligner/",
-      "timestamp": "2026-07-08T04:57:17.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783485998",
-      "title": "Khamenei’s coffin arrives in Iraq as US strikes hit Iran",
-      "summary": "The coffin carrying Iran’s late Supreme Leader Ali Khamenei has arrived in one of Shia Islam’s holiest cities, Najaf.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/khameneis-coffin-arrives-in-iraq-as-us-strikes-hit-iran?traffic_source=rss",
-      "timestamp": "2026-07-08T04:53:50.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iraq",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "443777 at https://www.middleeasteye.net/",
-      "title": "Bahrain sounds off sirens for the second time",
-      "summary": "<article data-history-node-id=\"443777\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-sounds-sirens-second-time\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-sounds-sirens-second-time",
-      "timestamp": "2026-07-08T04:48:23.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/football/2026/07/05/fifa-world-cup-2026-schedule-match-time-guide/",
-      "title": "Fifa World Cup 2026 complete fixture guide and schedule: How to watch in the UAE",
-      "summary": "The 2026 Fifa World Cup started on June 11 and runs until July 19. With those games taking place across the US, Canada and Mexico , some careful planning might be required to make sure you can watch all the games you intend to. See below fo",
-      "url": "https://www.thenationalnews.com/sport/football/2026/07/05/fifa-world-cup-2026-schedule-match-time-guide/",
-      "timestamp": "2026-07-08T04:40:42.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/08/world-cup-round-up-egypts-historic-journey-ends-against-argentina-amid-heartbreak-and-controversy/",
-      "title": "World Cup round-up: Egypt's historic journey ends against Argentina amid heartbreak and controversy",
-      "summary": "Egypt are out of the World Cup, but the anger is just beginning. Argentina came from 2-0 down to win 3-2 in Atlanta in a match that will be debated long after the tournament ends. Egypt led through Yasser Ibrahim's header, had a Mostafa Zic",
-      "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/07/08/world-cup-round-up-egypts-historic-journey-ends-against-argentina-amid-heartbreak-and-controversy/",
-      "timestamp": "2026-07-08T04:39:53.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Egypt",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/07/08/sharjah-plane-missing-with-five-passengers-on-board/",
-      "title": "Cargo plane travelling from Sharjah to Karachi vanishes from radar",
-      "summary": "Five crew members on board a cargo plane that took off from Sharjah are missing after the aircraft disappeared from radar off the coast of Pakistan. Air traffic control lost contact with the K2 Airways Cargo 737 aircraft on Tuesday night af",
-      "url": "https://www.thenationalnews.com/news/uae/2026/07/08/sharjah-plane-missing-with-five-passengers-on-board/",
-      "timestamp": "2026-07-08T04:33:04.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "UAE",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/business/energy/2026/07/08/oil-prices-soar-on-renewed-fighting-between-us-and-iran/",
-      "title": "Oil prices soar after US launches renewed strikes on Iran",
-      "summary": "Oil prices increased more than 2 per cent on Wednesday, rising above $75 per barrel after renewed fighting in the Middle East, with the US also reinstating oil sanctions on Iran. Brent, the benchmark for two thirds of the world's oil, was u",
-      "url": "https://www.thenationalnews.com/business/energy/2026/07/08/oil-prices-soar-on-renewed-fighting-between-us-and-iran/",
-      "timestamp": "2026-07-08T04:32:27.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iran",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/08/messi-mbappe-haaland-kane-world-cup-2026-team-of-the-week/",
-      "title": "Messi, Mbappe, Haaland, Kane: World Cup 2026 team of the week",
-      "summary": "The 2026 World Cup enters the quarter-final stage following some epic early knockout matches. With the expanded 48-team format, an extra round was created for this World Cup , with 32 teams qualifying for the knockout stages. A record nine ",
-      "url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/08/messi-mbappe-haaland-kane-world-cup-2026-team-of-the-week/",
-      "timestamp": "2026-07-08T04:29:08.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "443776 at https://www.middleeasteye.net/",
-      "title": "In pictures: Funeral procession for Iran's slain supreme leader continues in Iraq's Najaf",
-      "summary": "<article data-history-node-id=\"443776\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/pictures-funeral-procession-irans-slain-supreme-leader-continues-iraqs\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pictures-funeral-procession-irans-slain-supreme-leader-continues-iraqs",
-      "timestamp": "2026-07-08T04:26:16.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iraq",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783410649",
-      "title": "99% of people on Earth will get sunlight at the same time this Wednesday",
-      "summary": "On July 8, at about 11:10 GMT, about 99 percent of the world experiences sunlight at the same time.",
-      "url": "https://www.aljazeera.com/news/2026/7/8/99-of-people-on-earth-will-get-sunlight-at-the-same-time-this-wednesday?traffic_source=rss",
-      "timestamp": "2026-07-08T04:23:58.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "443775 at https://www.middleeasteye.net/",
-      "title": "IRGC says it downed a US drone, struck infrastructure in Kuwait and Bahrain",
-      "summary": "<article data-history-node-id=\"443775\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-downed-us-drone-struck-infrastructure-kuwait-and-bahrain\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://w",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-downed-us-drone-struck-infrastructure-kuwait-and-bahrain",
-      "timestamp": "2026-07-08T04:10:59.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Kuwait",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783455926",
-      "title": "Triumph to disaster: Egypt’s pride remains as they bow out of World Cup",
-      "summary": "Proud Egyptians celebrate their team's historic run at the World Cup but blame bias for a heartbreaking exit.",
-      "url": "https://www.aljazeera.com/sports/2026/7/8/triumph-to-disaster-egypts-pride-remains-as-they-bow-out-of-world-cup?traffic_source=rss",
-      "timestamp": "2026-07-08T04:03:54.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Egypt",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "443774 at https://www.middleeasteye.net/",
-      "title": "Iran's Ghalibaf slams renewed US attacks, Israeli violations in Lebanon",
-      "summary": "<article data-history-node-id=\"443774\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-slams-renewed-us-attacks-israeli-violations-lebanon\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-ghalibaf-slams-renewed-us-attacks-israeli-violations-lebanon",
-      "timestamp": "2026-07-08T04:03:29.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Lebanon",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/08/egypt-bemoan-injustice-and-accuse-fifa-of-favouritism-after-argentinas-stunning-comeback/",
-      "title": "Egypt bemoan 'injustice' and accuse Fifa of favouritism after Argentina's comeback",
-      "summary": "Egypt’s players, coach Hossam Hassan, and several pundits, including the legendary Mohamed Aboutrika, have launched scathing attacks on Fifa and the “unjust” officiating the Pharaohs faced during their 3-2 loss against Argentina in a dramat",
-      "url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/08/egypt-bemoan-injustice-and-accuse-fifa-of-favouritism-after-argentinas-stunning-comeback/",
-      "timestamp": "2026-07-08T04:03:21.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Egypt",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783474701",
-      "title": "Oil prices surge as US strikes Iran, reversing slide to pre-war levels",
-      "summary": "Brent crude rises above $76 a barrel for the first time in two weeks amid renewed violence in Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/news/2026/7/8/oil-prices-surge-as-us-strikes-iran-reversing-fall-to-pre-war-levels?traffic_source=rss",
-      "timestamp": "2026-07-08T04:02:32.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iran",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783482964",
-      "title": "IOC eases restrictions on Russian athletes ahead of 2028 games",
-      "summary": "The International Olympic Committee has lifted some of the restrictions on Russian athletes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/ioc-eases-restrictions-on-russian-athletes-ahead-of-2028-games?traffic_source=rss",
-      "timestamp": "2026-07-08T03:58:51.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqhp7l",
-      "title": "Zionists would have you believe that the Arabs of Najd and Hijaz, the least populated region at the time of the Islamic Conquests, somehow replaced every population in the Levant, Mesopotamia, North Africa, and parts of Iran.",
-      "summary": "↑125 · 💬8",
-      "url": "https://reddit.com/r/arabs/comments/1uqhp7l/zionists_would_have_you_believe_that_the_arabs_of/",
-      "timestamp": "2026-07-08T03:56:48.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Iran",
-      "section": "🕌 Culture",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 125,
-      "comments": 8
-    },
-    {
-      "id": "reddit-1uqhm63",
-      "title": "ADCB app still not working what about others is it working ??",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/UAE/comments/1uqhm63/adcb_app_still_not_working_what_about_others_is/",
-      "timestamp": "2026-07-08T03:52:41.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqhj3y",
-      "title": "Is ADCB app working ??",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/UAE/comments/1uqhj3y/is_adcb_app_working/",
-      "timestamp": "2026-07-08T03:48:31.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783439772",
-      "title": "FIFA condemns fan’s racist attack on IShowSpeed at Argentina World Cup match",
-      "summary": "An Argentina supporter told Speed to 'go cry at the zoo' on his livestream at the match against Cape Verde in Miami.",
-      "url": "https://www.aljazeera.com/sports/2026/7/8/fifa-condemns-fans-racist-attack-on-ishowspeed-at-argentina-world-cup-match?traffic_source=rss",
-      "timestamp": "2026-07-08T03:46:32.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/08/lionel-messi-says-goal-celebration-against-egypt-a-moment-of-release-as-argentina-keep-world-cup-dream-alive/",
-      "title": "Lionel Messi says goal celebration against Egypt 'a moment of release' as Argentina keep World Cup dream alive",
-      "summary": "Lionel Messi explained that his celebration after scoring against Egypt was a \"moment of release\" after his earlier missed penalty had threatened to see Argentina eliminated from the World Cup. The Argentina captain saw his first-half penal",
-      "url": "https://www.thenationalnews.com/sport/world-cup-2026/2026/07/08/lionel-messi-says-goal-celebration-against-egypt-a-moment-of-release-as-argentina-keep-world-cup-dream-alive/",
-      "timestamp": "2026-07-08T03:45:15.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Egypt",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783481836",
-      "title": "Experts warn Trump is playing politics with US intelligence",
-      "summary": "Former officials warn that Trump's intelligence overhaul risks politicising national security.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/experts-warn-trump-is-playing-politics-with-us-intelligence?traffic_source=rss",
-      "timestamp": "2026-07-08T03:44:28.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "443773 at https://www.middleeasteye.net/",
-      "title": "US extends invitation to Lebanon's Aoun on 21 July",
-      "summary": "<article data-history-node-id=\"443773\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/us-extends-invitation-lebanons-aoun-21-july\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-extends-invitation-lebanons-aoun-21-july",
-      "timestamp": "2026-07-08T03:43:56.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Lebanon",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "443772 at https://www.middleeasteye.net/",
-      "title": "Sirens sound in Bahrain, Kuwait",
-      "summary": "<article data-history-node-id=\"443772\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/sirens-sound-bahrain-kuwait\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blog/live-blog-u",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sirens-sound-bahrain-kuwait",
-      "timestamp": "2026-07-08T03:39:32.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Kuwait",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.thenationalnews.com/news/uae/2026/07/08/speed-limits-reduced-as-fog-alert-issued-in-abu-dhabi/",
-      "title": "Red alert issued for fog in Abu Dhabi and Dubai with speed limits reduced",
-      "summary": "Abu Dhabi Police urged motorists to drive with care as dense fog caused disruption on the roads for early morning commuters. Police in the emirate reduced the speed limit to 80kph on the Abu Dhabi to Al Ain road, as well as on the road towa",
-      "url": "https://www.thenationalnews.com/news/uae/2026/07/08/speed-limits-reduced-as-fog-alert-issued-in-abu-dhabi/",
-      "timestamp": "2026-07-08T03:33:31.000Z",
-      "source": "The National UAE",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqgznc",
-      "title": "Viral Season Is Almost Here – Vaccinate Before It’s Too Late-pets",
-      "summary": "Viral season is just around the corner. Please don’t wait until your cat gets sick. Last viral season, around 90% of the kittens in my area became infected and died. Many rescuers also told me that their feeding stations",
-      "url": "https://reddit.com/r/UAE/comments/1uqgznc/viral_season_is_almost_here_vaccinate_before_its/",
-      "timestamp": "2026-07-08T03:22:34.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "443771 at https://www.middleeasteye.net/",
-      "title": "Iran's top joint military command vows 'crushing response' against US",
-      "summary": "<article data-history-node-id=\"443771\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/irans-top-joint-military-command-vows-crushing-response-against-us\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-top-joint-military-command-vows-crushing-response-against-us",
-      "timestamp": "2026-07-08T03:21:42.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iran",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783468114",
-      "title": "VAR call, Argentina win over Egypt raise questions of legitimacy at World Cup",
-      "summary": "Experts question political influence and the need to keep Lionel Messi's side in the World Cup amid Egypt's heartbreak.",
-      "url": "https://www.aljazeera.com/sports/2026/7/8/var-call-argentina-win-raise-questions-of-legitimacy-at-world-cup?traffic_source=rss",
-      "timestamp": "2026-07-08T03:20:26.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Egypt",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqgngt",
-      "title": "Best way to send a suitcase from Greece to France while travelling Europe?",
-      "summary": "Hi everyone, I’m looking for some advice on the best way to send a suitcase from Greece to France. I’m flying to Athens on the 10th and will be spending around three weeks travelling through Greece, then heading to Croat",
-      "url": "https://reddit.com/r/expats/comments/1uqgngt/best_way_to_send_a_suitcase_from_greece_to_france/",
-      "timestamp": "2026-07-08T03:06:34.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqge45",
-      "title": "I compared 55 French towns using official data (sunshine, prices, hospital access, etc.). Free tool.",
-      "summary": "*Full disclosure: I helped build this.* We kept hearing that picking the town is the hardest decision in the whole move, harder than the visa, so we spent months pulling official French data on 55 towns and cities: Météo",
-      "url": "https://reddit.com/r/expats/comments/1uqge45/i_compared_55_french_towns_using_official_data/",
-      "timestamp": "2026-07-08T02:54:10.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "443770 at https://www.middleeasteye.net/",
-      "title": "More than 80 targets struck in Iran, Centcom says",
-      "summary": "<article data-history-node-id=\"443770\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/more-80-targets-struck-iran-centcom-says\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeasteye.net/live-blo",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/more-80-targets-struck-iran-centcom-says",
-      "timestamp": "2026-07-08T02:48:02.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iran",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqfyux",
-      "title": "The same YouTube channel that predicted October 7th also predicted Operation True Promise 4 to its near exact timespan. Operation True Promise 4 lasted from Feb 28 to April 9th 2026. The prediction stated Feb 4th -to April 19th. Skip to 20:40 to see the prediction",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqfyux/the_same_youtube_channel_that_predicted_october/",
-      "timestamp": "2026-07-08T02:34:25.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqfxtw",
-      "title": "This is the only video on record that predicted the October 7th Hamas attack",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqfxtw/this_is_the_only_video_on_record_that_predicted/",
-      "timestamp": "2026-07-08T02:33:08.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "443769 at https://www.middleeasteye.net/",
-      "title": "US defence secretary set to visit to Israel on Wednesday: Report",
-      "summary": "<article data-history-node-id=\"443769\" about=\"https://www.middleeasteye.net/live-blog/live-blog-update/us-defence-secretary-set-visit-israel-wednesday-report\" class=\"live-blog-update default clearfix\"> <h2> <a href=\"https://www.middleeastey",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-defence-secretary-set-visit-israel-wednesday-report",
-      "timestamp": "2026-07-08T02:11:32.000Z",
-      "source": "Middle East Eye",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Israel",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqf63x",
-      "title": "US launches new strikes on Iran",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/UAE/comments/1uqf63x/us_launches_new_strikes_on_iran/",
-      "timestamp": "2026-07-08T01:57:09.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqewh7",
-      "title": "MEGATHREAD: US-Iran War",
-      "summary": "Like many of you, we were hoping this post would never been repeated, however in light of what happened today, we had to put it back up. Gentle reminder Ladies and Gents, PLEASE PLEASE PLEASE use the search function on t",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqewh7/megathread_usiran_war/",
-      "timestamp": "2026-07-08T01:44:42.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "CRITICAL",
-        "score": -2
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqerjx",
-      "title": "Anyone hear that? Or am I going crazy",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqerjx/anyone_hear_that_or_am_i_going_crazy/",
-      "timestamp": "2026-07-08T01:38:21.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqeipk",
-      "title": "😢",
-      "summary": "anyone else scared something’s going to happen? 😢",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqeipk/_/",
-      "timestamp": "2026-07-08T01:27:05.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "https://www.aljazeera.com/?t=1783468274",
-      "title": "US immigration officer shoots and kills man in Texas",
-      "summary": "Man, identified as Lorenzo Salgado Araujo, is latest to be killed by ICE officers since President Trump took power.",
-      "url": "https://www.aljazeera.com/news/2026/7/8/us-immigration-officer-shoots-and-kills-man-in-texas?traffic_source=rss",
-      "timestamp": "2026-07-08T01:26:01.000Z",
-      "source": "Al Jazeera",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqdk4b",
-      "title": "Twinoncam UAE",
-      "summary": "Goodmorning everyone, There is an individual which goes by the name @twinoncam on the platform TikTok. He currently has 3 posts which has the personal identity of individuals who have opted to be recorded. What he does i",
-      "url": "https://reddit.com/r/UAE/comments/1uqdk4b/twinoncam_uae/",
-      "timestamp": "2026-07-08T00:43:51.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqd8b2",
-      "title": "Oral minoxidil availability?",
-      "summary": "Does anyone know if Bahrain has oral minoxidil for male pattern baldness. Do I need to get a prescription or am I wasting my time and it doesn't exist. I've tried contacting many pharmacies and all have said they only ha",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqd8b2/oral_minoxidil_availability/",
-      "timestamp": "2026-07-08T00:29:35.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "3989856",
-      "title": "South Korea's president calls for 'speedier cooperation' at NATO defense forum in Türkiye",
-      "summary": "NATO's know-how and South Korea's production capacity and technological prowess will strengthen both sides' security, says Lee Jae Myung",
-      "url": "https://www.aa.com.tr/en/asia-pacific/south-koreas-president-calls-for-speedier-cooperation-at-nato-defense-forum-in-turkiye/3989856",
-      "timestamp": "2026-07-08T00:15:21.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqcj72",
-      "title": "This is the only video on record that predicted the October 7th Hamas attack",
-      "summary": "↑0 · 💬3",
-      "url": "https://reddit.com/r/Oman/comments/1uqcj72/this_is_the_only_video_on_record_that_predicted/",
-      "timestamp": "2026-07-08T00:00:28.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 3
-    },
-    {
-      "id": "reddit-1uqc8ux",
-      "title": "Anyone who has moved out of the US",
-      "summary": "I am looking for people who have moved out of the US or planning to move out. I know searching through different subreddits is a good way for looking for answers to my problems, but have you guys found some different for",
-      "url": "https://reddit.com/r/expats/comments/1uqc8ux/anyone_who_has_moved_out_of_the_us/",
-      "timestamp": "2026-07-07T23:48:53.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "3989827",
-      "title": "Turkish first lady hopes NATO summit advances dialogue, reconciliation",
-      "summary": "Emine Erdogan says she was pleased to host NATO leaders and their spouses at official dinner",
-      "url": "https://www.aa.com.tr/en/turkiye/turkish-first-lady-hopes-nato-summit-advances-dialogue-reconciliation/3989827",
-      "timestamp": "2026-07-07T23:01:17.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqb0v6",
-      "title": "Looking to Printing brochure / mini booklets or flyers in Sharjah or Ajman",
-      "summary": "Anyone knows a place?",
-      "url": "https://reddit.com/r/UAE/comments/1uqb0v6/looking_to_printing_brochure_mini_booklets_or/",
-      "timestamp": "2026-07-07T22:59:36.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqat9i",
-      "title": "US Strikes Iran, Revokes Oil License As Cease-Fire Wobbles",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/MiddleEast/comments/1uqat9i/us_strikes_iran_revokes_oil_license_as_ceasefire/",
-      "timestamp": "2026-07-07T22:51:00.000Z",
-      "source": "r/middleeast",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Iran",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqamcf",
-      "title": "Trump weighs allowing Turkey to have F-35s as NATO summit begins in Ankara",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/MiddleEast/comments/1uqamcf/trump_weighs_allowing_turkey_to_have_f35s_as_nato/",
-      "timestamp": "2026-07-07T22:43:02.000Z",
-      "source": "r/middleeast",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqah3q",
-      "title": "LET THERE BE LIGHT 💡",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/Bahrain/comments/1uqah3q/let_there_be_light/",
-      "timestamp": "2026-07-07T22:37:09.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uqa4sr",
-      "title": "Javier Bardem raised the Palestinian flag during the Spain vs. Austria World Cup match at SoFi Stadium. (July 2, 2026)",
-      "summary": "↑1 · 💬1",
-      "url": "https://reddit.com/r/arabs/comments/1uqa4sr/javier_bardem_raised_the_palestinian_flag_during/",
-      "timestamp": "2026-07-07T22:23:47.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Palestine",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq9mny",
-      "title": "Electric",
-      "summary": "Is anyone having Cutouts too?",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq9mny/electric/",
-      "timestamp": "2026-07-07T22:04:29.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq9kl1",
-      "title": "E L F makeup",
-      "summary": "Where do you guys buy elf products in bahrain?",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq9kl1/e_l_f_makeup/",
-      "timestamp": "2026-07-07T22:02:15.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq9k02",
-      "title": "cost of pickup and drop from airport to Al Rayyan Hotel Apartments",
-      "summary": "let me know the price",
-      "url": "https://reddit.com/r/Oman/comments/1uq9k02/cost_of_pickup_and_drop_from_airport_to_al_rayyan/",
-      "timestamp": "2026-07-07T22:01:40.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq9j01",
-      "title": "Egypt were robbed and the World cup is rigged",
-      "summary": "↑1 · 💬1",
-      "url": "https://reddit.com/r/arabs/comments/1uq9j01/egypt_were_robbed_and_the_world_cup_is_rigged/",
-      "timestamp": "2026-07-07T22:00:38.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Egypt",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq9i0b",
-      "title": "Egypt were robbed",
-      "summary": "↑1 · 💬1",
-      "url": "https://reddit.com/r/arabs/comments/1uq9i0b/egypt_were_robbed/",
-      "timestamp": "2026-07-07T21:59:39.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Egypt",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq9en1",
-      "title": "Daylight robbery by FIFA!",
-      "summary": "Not the first time, but this one was just horrible so far. This event is done and not watching the rest of this tournament. Viewership over sportsmanship was locked in tonight.  Kudos Masr. Tahya Masr. We are prouder tha",
-      "url": "https://reddit.com/r/UAE/comments/1uq9en1/daylight_robbery_by_fifa/",
-      "timestamp": "2026-07-07T21:55:56.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "🕌 Culture",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq8zf4",
-      "title": "I hope everyone has a good night sleep today",
-      "summary": "🥰",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq8zf4/i_hope_everyone_has_a_good_night_sleep_today/",
-      "timestamp": "2026-07-07T21:39:58.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "3989746",
-      "title": "Turkish defense chief hosts NATO counterparts at next-generation military headquarters",
-      "summary": "Reception held at under-construction Ay Yildiz Headquarters as part of 36th NATO summit in Ankara",
-      "url": "https://www.aa.com.tr/en/turkiye/turkish-defense-chief-hosts-nato-counterparts-at-next-generation-military-headquarters/3989746",
-      "timestamp": "2026-07-07T21:06:08.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq7xei",
-      "title": "The Egyptian Relief Committee in Gaza had been organizing public screenings of World Cup matches for displaced families across the Gaza Strip. About an hour before today’s Egypt-Argentina match, Israel killed the committee’s public relations director in a strike on his vehicle.",
-      "summary": "↑1 · 💬1",
-      "url": "https://reddit.com/r/arabs/comments/1uq7xei/the_egyptian_relief_committee_in_gaza_had_been/",
-      "timestamp": "2026-07-07T21:00:47.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Palestine",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq7uw4",
-      "title": "Why do women hit in metro during peak hours? Like it aint my fault i cant give you way im literally squeezed by the other side of the crowd?",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/UAE/comments/1uq7uw4/why_do_women_hit_in_metro_during_peak_hours_like/",
-      "timestamp": "2026-07-07T20:58:15.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq7kvd",
-      "title": "Is this possible?",
-      "summary": "Hello everyone,    I have a friend who is facing legal issues with another guy who is omani and my friend is not omani. My friend owes the other guy money and they are in court. My friend has a travel ban which does not ",
-      "url": "https://reddit.com/r/Oman/comments/1uq7kvd/is_this_possible/",
-      "timestamp": "2026-07-07T20:47:53.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "3989721",
-      "title": "Argentina rally past Egypt to reach World Cup quarterfinals",
-      "summary": "Messi scores late equalizer as holders recover from 2-goal deficit to avoid major upset in Atlanta",
-      "url": "https://www.aa.com.tr/en/americas/argentina-rally-past-egypt-to-reach-world-cup-quarterfinals/3989721",
-      "timestamp": "2026-07-07T20:44:59.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Egypt",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq7d8a",
-      "title": "Need a Notary, Apostille, or Expedited Document Services?",
-      "summary": "Hi everyone! My name is **Mariia Khorun**, and I'm a **New York attorney and Notary Public**. My office is located in Manhattan's Ukrainian Village, and we regularly assist members of the international and expat communit",
-      "url": "https://reddit.com/r/expats/comments/1uq7d8a/need_a_notary_apostille_or_expedited_document/",
-      "timestamp": "2026-07-07T20:40:17.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq7d6d",
-      "title": "Best store to buy a new gaming pc",
-      "summary": "Hello! Since my pc broke(used to freeze every 5-35 min ,but, now it doesn’t work). I’m too dumb for pcs ,so, I will buy a new one and I don’t know what’s the best store/place to buy a gaming pc. I would like to ask y’all",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq7d6d/best_store_to_buy_a_new_gaming_pc/",
-      "timestamp": "2026-07-07T20:40:14.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "3989717",
-      "title": "Pakistani cargo plane goes missing over Arabian Sea",
-      "summary": "Search launched for aircraft with 5 crew members onboard, authorities say",
-      "url": "https://www.aa.com.tr/en/asia-pacific/pakistani-cargo-plane-goes-missing-over-arabian-sea/3989717",
-      "timestamp": "2026-07-07T20:39:16.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq7bzl",
-      "title": "Need help for an app I am building",
-      "summary": "Hi guys.   If you are like me you know how fast you spent money without knowing where it is going.    And at the end of the month you sit there wondering why is your credit card bill so high.  So I am building an app.   ",
-      "url": "https://reddit.com/r/UAE/comments/1uq7bzl/need_help_for_an_app_i_am_building/",
-      "timestamp": "2026-07-07T20:39:04.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "3989708",
-      "title": "Turkish foreign minister attends restricted-format meeting on sidelines of NATO summit in Ankara",
-      "summary": "Meeting addresses current security issues, according to diplomatic sources",
-      "url": "https://www.aa.com.tr/en/turkiye/turkish-foreign-minister-attends-restricted-format-meeting-on-sidelines-of-nato-summit-in-ankara/3989708",
-      "timestamp": "2026-07-07T20:31:36.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "3989703",
-      "title": "Spain to maintain capabilities required by NATO, premier says",
-      "summary": "At Ankara summit, Sanchez says Madrid will do so without cuts to welfare state",
-      "url": "https://www.aa.com.tr/en/europe/spain-to-maintain-capabilities-required-by-nato-premier-says/3989703",
-      "timestamp": "2026-07-07T20:26:25.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq6w0l",
-      "title": "Moving from Canada to Spain at 39 (almost 40) to pursue a PhD. Single, no kids. Am I making a mistake?",
-      "summary": "Hi everyone, I’m from Vancouver, Canada, and last year I was accepted into a PhD program in Madrid. Up until now, I’ve been working on my research remotely from Canada. I recently applied for a grant (results are still T",
-      "url": "https://reddit.com/r/expats/comments/1uq6w0l/moving_from_canada_to_spain_at_39_almost_40_to/",
-      "timestamp": "2026-07-07T20:23:02.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "POSITIVE",
-        "score": 2
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "3989700",
-      "title": "Turkish intel chief says equal partnership, complementarity critical for NATO",
-      "summary": "Ibrahim Kalin says no member state can possess all capabilities, urging capacity sharing and collective responsibility within alliance",
-      "url": "https://www.aa.com.tr/en/turkiye/turkish-intel-chief-says-equal-partnership-complementarity-critical-for-nato/3989700",
-      "timestamp": "2026-07-07T20:21:23.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq6ivo",
-      "title": "A Japanese experiment showed exactly why traffic jams happen for no reason.",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq6ivo/a_japanese_experiment_showed_exactly_why_traffic/",
-      "timestamp": "2026-07-07T20:10:20.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "3989685",
-      "title": "Saudi Arabia accuses Iran of attacking oil tanker in Hormuz",
-      "summary": "Foreign Ministry calls attacks on tankers ‘assaults on security of international navigation'",
-      "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-accuses-iran-of-attacking-oil-tanker-in-hormuz/3989685",
-      "timestamp": "2026-07-07T20:07:37.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Saudi Arabia",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq658y",
-      "title": "Where to, next? 36F (Canada, France)",
-      "summary": "I moved to Toronto from France in 2014. The aim was to get international experience, get my citizenship, and then recalibrate. Met someone, then someone else, then COVID. On my 10th year anniversary in Canada, I thought ",
-      "url": "https://reddit.com/r/expats/comments/1uq658y/where_to_next_36f_canada_france/",
-      "timestamp": "2026-07-07T19:56:59.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq63fy",
-      "title": "Question about Parking and toll for GCC registered car",
-      "summary": "I will be traveling to the UAE by road from Qatar and staying at my friend's house in Abu Dhabi. He does not have private parking and uses public parking. Do I also have to pay for public parking, or is it free? I would ",
-      "url": "https://reddit.com/r/UAE/comments/1uq63fy/question_about_parking_and_toll_for_gcc/",
-      "timestamp": "2026-07-07T19:55:15.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq5uip",
-      "title": "Account freeze lndia",
-      "summary": "My friend account has been freezed in lndia aftrr a cyber crime complain is filed by someone for a transaction he received. That amount was sent by her friends friend whom lives in lndia and he doesn’t know. Any idea how",
-      "url": "https://reddit.com/r/UAE/comments/1uq5uip/account_freeze_lndia/",
-      "timestamp": "2026-07-07T19:46:39.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq5r3w",
-      "title": "Anyone having problem with MOHESR qualification recognition through VFS global in UAE ?",
-      "summary": "I uploaded my documents for verification through VFS global and they sent me an email saying they wanted some missing documents and provided me with the link.  I have the requested documents but the link doesn’t work it ",
-      "url": "https://reddit.com/r/UAE/comments/1uq5r3w/anyone_having_problem_with_mohesr_qualification/",
-      "timestamp": "2026-07-07T19:43:24.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq5q9s",
-      "title": "Central AC consuming too much Electricity",
-      "summary": "Hello, Me and my husband just returned to Ajman and discovered the bill of 900 aed for last month, out flat was locked and one person was going there every 2 days to water the plants and ac was on only during that time. ",
-      "url": "https://reddit.com/r/UAE/comments/1uq5q9s/central_ac_consuming_too_much_electricity/",
-      "timestamp": "2026-07-07T19:42:35.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq5pag",
-      "title": "🙂🙂",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/UAE/comments/1uq5pag/_/",
-      "timestamp": "2026-07-07T19:41:39.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq5kqf",
-      "title": "Questions regarding Long stay French Visa VLS-T",
-      "summary": "Looking for a few answers/experiences regarding the VLS-T French Visa (we are trying to stay a year, we are in our 60's, retired) 1. Once you had the application submitted and all checklist items completed how long did i",
-      "url": "https://reddit.com/r/expats/comments/1uq5kqf/questions_regarding_long_stay_french_visa_vlst/",
-      "timestamp": "2026-07-07T19:37:10.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "3989662",
-      "title": "Body of slain Iranian supreme leader arrives in Iraq ahead of procession",
-      "summary": "Arrival of Khamenei's coffin forms part of funeral procession carrying his body through Shia holy sites in Iran, Iraq before his final burial",
-      "url": "https://www.aa.com.tr/en/middle-east/body-of-slain-iranian-supreme-leader-arrives-in-iraq-ahead-of-procession/3989662",
-      "timestamp": "2026-07-07T19:36:46.000Z",
-      "source": "Anadolu Agency",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Iraq",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq5dl3",
-      "title": "I would like to understand, in bahrain what are the average prices for a home cook who can work 3-4 times a week. Any tips?",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq5dl3/i_would_like_to_understand_in_bahrain_what_are/",
-      "timestamp": "2026-07-07T19:30:10.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq593c",
-      "title": "We didn't lose we were wronged",
-      "summary": "↑1 · 💬1",
-      "url": "https://reddit.com/r/arabs/comments/1uq593c/we_didnt_lose_we_were_wronged/",
-      "timestamp": "2026-07-07T19:25:47.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq573n",
-      "title": "Why do talabat delivery-people not carry change on them? (90% f the time)",
-      "summary": "It really gets to a point man. You order something, pick the cash payment option, and it comes. You hand the driver a note, and then he says “I have no change.” It’s genuinely frustrating because now both of you are stuc",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq573n/why_do_talabat_deliverypeople_not_carry_change_on/",
-      "timestamp": "2026-07-07T19:23:51.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq54uh",
-      "title": "Realistic ways to make money online from Bahrain?",
-      "summary": "Hi everyone, I’m based in Bahrain and looking for realistic ways to make some income online. I have an IT background and I’m open to things like freelance work, remote part-time jobs, tutoring, data entry, or tech suppor",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq54uh/realistic_ways_to_make_money_online_from_bahrain/",
-      "timestamp": "2026-07-07T19:21:45.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "hn-48822349",
-      "title": "Show HN: Bike4Mind – open-core AI workbench; any model, agents, RAG, self-host",
-      "summary": "4 pts · 2 comments",
-      "url": "https://github.com/Bike4Mind/bike4mind",
-      "timestamp": "2026-07-07T19:17:34.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 4,
-      "comments": 2
-    },
-    {
-      "id": "reddit-1uq4yyu",
-      "title": "What is up in Dubai Marina",
-      "summary": "Hearing a lot of sirens for past 10-15mins. Not being paranoid or anything, its not normal. Edit: Nit able to find any news or other posts about it hence the question.",
-      "url": "https://reddit.com/r/UAE/comments/1uq4yyu/what_is_up_in_dubai_marina/",
-      "timestamp": "2026-07-07T19:16:10.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq4vvi",
-      "title": "A sample question",
-      "summary": "I'm not in the UAE and for some reason this website is not working. https://www.mohre.gov.ae/ Is it only me or it's not working in the UAE as well?",
-      "url": "https://reddit.com/r/UAE/comments/1uq4vvi/a_sample_question/",
-      "timestamp": "2026-07-07T19:13:14.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq4mgz",
-      "title": "Anyone from Mirdiff side ?",
-      "summary": "Needs friends to hangout with",
-      "url": "https://reddit.com/r/UAE/comments/1uq4mgz/anyone_from_mirdiff_side/",
-      "timestamp": "2026-07-07T19:04:20.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq4ch5",
-      "title": "إسرائيل تغتال مدير اللجنة المصرية محمد فواز الوحيدي وقت مباراة مصر!",
-      "summary": "↑1 · 💬1",
-      "url": "https://reddit.com/r/arabs/comments/1uq4ch5/إسرائيل_تغتال_مدير_اللجنة_المصرية_محمد_فواز/",
-      "timestamp": "2026-07-07T18:55:07.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq4by0",
-      "title": "Man of the match! Is Argentina won by robbery? 😬😬",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/UAE/comments/1uq4by0/man_of_the_match_is_argentina_won_by_robbery/",
-      "timestamp": "2026-07-07T18:54:36.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "hn-48821803",
-      "title": "Ask HN: Is GitHub preparing to go behind a login wall?",
-      "summary": "54 pts · 37 comments",
-      "url": "https://news.ycombinator.com/item?id=48821803",
-      "timestamp": "2026-07-07T18:40:40.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 54,
-      "comments": 37
-    },
-    {
-      "id": "reddit-1uq3vau",
-      "title": "Found this in an old album",
-      "summary": "The real ones will remember this place",
-      "url": "https://reddit.com/r/Oman/comments/1uq3vau/found_this_in_an_old_album/",
-      "timestamp": "2026-07-07T18:39:12.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq3q7c",
-      "title": "WorldCup Streaming",
-      "summary": "Hi does anyone know any fanzones or decent restaurants/cafes that stream worldcup matches indoors preferably in Sharjah",
-      "url": "https://reddit.com/r/UAE/comments/1uq3q7c/worldcup_streaming/",
-      "timestamp": "2026-07-07T18:34:25.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq3imb",
-      "title": "hawala receiving money no issue's in uae?",
-      "summary": "My friend owes me money. He wants to transfer it via hawala from India to my uae personal bank account i.e wio bank.  He says hawala receiving money is not illegal in the UAE and that UAE banks will not stop the transfer",
-      "url": "https://reddit.com/r/UAE/comments/1uq3imb/hawala_receiving_money_no_issues_in_uae/",
-      "timestamp": "2026-07-07T18:27:14.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq3gdc",
-      "title": "what the price range of a private room in muwaileh",
-      "summary": "about to do masters in uni of sharjah, and wanted a price estimate for a private room there, is it possible to find something around 1300-1600 a month?, all i want is a good size room with sewa and internet included, tha",
-      "url": "https://reddit.com/r/UAE/comments/1uq3gdc/what_the_price_range_of_a_private_room_in_muwaileh/",
-      "timestamp": "2026-07-07T18:25:06.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq3ezi",
-      "title": "MBA in hospital / healthcare administration",
-      "summary": "Hi everyone, I am an MBBS graduate from India and have completed my internship. I am currently living in the UAE and am considering pursuing an MBA in Hospital/Healthcare Administration. Since I have a limited budget, I ",
-      "url": "https://reddit.com/r/UAE/comments/1uq3ezi/mba_in_hospital_healthcare_administration/",
-      "timestamp": "2026-07-07T18:23:44.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq3erz",
-      "title": "Congrats to Egypt!",
-      "summary": "They did phenomenal and went up against one of the greatest teams, had them on the ropes and almost won Egypt is the pride of us Arabs and we will always be proud of the great Egyptians  **تحيا**** ****مصر،**** ****أم***",
-      "url": "https://reddit.com/r/arabs/comments/1uq3erz/congrats_to_egypt/",
-      "timestamp": "2026-07-07T18:23:31.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Egypt",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq32cb",
-      "title": "Phenomenal Egypt",
-      "summary": "As someone of Sudanese origin, the performance by Egypt against Argentina just now was phenomenal and inspiring.  They challenged the holders of the trophy and represented African and Arab football amazingly. Sad ending ",
-      "url": "https://reddit.com/r/arabs/comments/1uq32cb/phenomenal_egypt/",
-      "timestamp": "2026-07-07T18:11:51.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Egypt",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1uq314l",
-      "title": "Egypt played really good",
-      "summary": "But better luck next time",
-      "url": "https://reddit.com/r/Bahrain/comments/1uq314l/egypt_played_really_good/",
-      "timestamp": "2026-07-07T18:10:42.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq2y6v",
-      "title": "Need Advice Please",
-      "summary": "I recently got offered a job as a property consultant/real estate broker in the dubai but its 100% commission-based with no fixed salary. I’m new to the industry and im wondering if its actually worth taking. Can beginne",
-      "url": "https://reddit.com/r/UAE/comments/1uq2y6v/need_advice_please/",
-      "timestamp": "2026-07-07T18:07:58.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq2x2n",
-      "title": "🇦🇷Arg 3-2 Egy 🇪🇬",
-      "summary": "Congratulations Argentina that was a good comeback 🎊🥳👏🎊🙌 ,  btw Egypt played so well😍.",
-      "url": "https://reddit.com/r/UAE/comments/1uq2x2n/arg_32_egy/",
-      "timestamp": "2026-07-07T18:06:56.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko#1",
-      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
-      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
-      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
-      "timestamp": "2026-07-07T18:03:56.000Z",
-      "source": "BBC Middle East",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Syria",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko#0",
-      "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
-      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
-      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&amp;at_campaign=rss",
-      "timestamp": "2026-07-07T18:03:56.000Z",
-      "source": "BBC Middle East",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Syria",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq2rcl",
-      "title": "Can someone shoot me in the head",
-      "summary": "Im fcking tired. Please someone come to this location and kill me. I dont wanna live anymore. Humans are being a fcking asshole to me. Why live?  This is my location -  https://maps.app.goo.gl/UkBJybkTBEZoqp159?g\\_st=ac ",
-      "url": "https://reddit.com/r/UAE/comments/1uq2rcl/can_someone_shoot_me_in_the_head/",
-      "timestamp": "2026-07-07T18:01:02.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq2i9t",
-      "title": "Just how??",
-      "summary": "Im genuinely so confused",
-      "url": "https://reddit.com/r/UAE/comments/1uq2i9t/just_how/",
-      "timestamp": "2026-07-07T17:51:44.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq29we",
-      "title": "AUS or Khalifa University?",
-      "summary": "criteria: international prestige, jobs/employability, internships/co-op, fees, ROI, ABET accreditation, location, social life?",
-      "url": "https://reddit.com/r/UAE/comments/1uq29we/aus_or_khalifa_university/",
-      "timestamp": "2026-07-07T17:43:30.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq21pl",
-      "title": "What happens if I stop paying my Du internet bill?",
-      "summary": "**I have a router from Du that I no longer need, and I want to know the consequences of just not paying the monthly bill.**   **I know they will cancel the service, but:**   **1. Will I face extra charges, late fees, or ",
-      "url": "https://reddit.com/r/UAE/comments/1uq21pl/what_happens_if_i_stop_paying_my_du_internet_bill/",
-      "timestamp": "2026-07-07T17:35:33.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq1k87",
-      "title": "Starting a podcast",
-      "summary": "Here is an odd one . I’m starting a podcast and looking to host guest from a science , engineering , STEM , woman in STEM and innovation background. Do you have a story you want to share , get in touch and we can see how",
-      "url": "https://reddit.com/r/UAE/comments/1uq1k87/starting_a_podcast/",
-      "timestamp": "2026-07-07T17:18:19.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq0x28",
-      "title": "FIFA STREAMING",
-      "summary": "GUYS NEED URGENT HELP  NEED LINKS WHERE I CAN WATCH FIFA MATCH   THANKS!",
-      "url": "https://reddit.com/r/UAE/comments/1uq0x28/fifa_streaming/",
-      "timestamp": "2026-07-07T16:56:17.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq0vly",
-      "title": "Emergency",
-      "summary": "Things had gotten so much worse since my last post. We are facing huge issues, and possibly even deportation. We don’t even have money for basic groceries, everything goes towards solving the issues.    Please, if you kn",
-      "url": "https://reddit.com/r/UAE/comments/1uq0vly/emergency/",
-      "timestamp": "2026-07-07T16:54:51.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uq0qlp",
-      "title": "GYM Recommendation",
-      "summary": "Hi everyone! I'm looking for recommendations for gyms near Muscat City Centre or Seeb, preferably within walking distance and for women only. If you know any good gyms, could you please share their membership rates, oper",
-      "url": "https://reddit.com/r/Oman/comments/1uq0qlp/gym_recommendation/",
-      "timestamp": "2026-07-07T16:49:48.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "🕌 Culture",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 3
-    },
-    {
-      "id": "reddit-1uq0lb0",
-      "title": "Moving back to Canada, Toronto",
-      "summary": "I'm Canadian and left Canada for the EU 10 years ago. I didn't keep up much with developments in Canada.  I'm originally from Toronto. Now I'm homesick and want to return, but I don't want to go to Toronto.  I want to se",
-      "url": "https://reddit.com/r/expats/comments/1uq0lb0/moving_back_to_canada_toronto/",
-      "timestamp": "2026-07-07T16:44:38.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 46
-    },
-    {
-      "id": "reddit-1uq05nt",
-      "title": "This channel's next prediction window is between September 27, 2026 - June 12, 2027. Armaaruss to unleash 8.5 months of hell fire upon Israel during that time",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/UAE/comments/1uq05nt/this_channels_next_prediction_window_is_between/",
-      "timestamp": "2026-07-07T16:29:00.000Z",
-      "source": "r/UAE",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "UAE",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1upztnb",
-      "title": "Dual citizen doctor in the Philippines",
-      "summary": "Hi everyone, I’m a dual citizen physician currently living and working in the Philippines, and I just found out about this issue today. I was looking into investing in U.S. stocks, and then I started realizing that being",
-      "url": "https://reddit.com/r/expats/comments/1upztnb/dual_citizen_doctor_in_the_philippines/",
-      "timestamp": "2026-07-07T16:16:50.000Z",
-      "source": "r/expats",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 4
-    },
-    {
-      "id": "hn-48819808",
-      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-      "summary": "213 pts · 91 comments",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "timestamp": "2026-07-07T16:10:44.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 213,
-      "comments": 91
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo#1",
-      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-      "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
-      "timestamp": "2026-07-07T16:10:14.000Z",
-      "source": "BBC Middle East",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Palestine",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo#0",
-      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-      "summary": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&amp;at_campaign=rss",
-      "timestamp": "2026-07-07T16:10:14.000Z",
-      "source": "BBC Middle East",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Palestine",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1upzmc6",
-      "title": "old phone??",
-      "summary": "hey everyone. a while back i got my iphone stolen and to this day i havent gotten it back. i have filed a report though nothing has turned up. does anyone have an iphone they dont use anymore or know where i can buy a se",
-      "url": "https://reddit.com/r/Oman/comments/1upzmc6/old_phone/",
-      "timestamp": "2026-07-07T16:09:28.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 2,
-      "comments": 5
-    },
-    {
-      "id": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "title": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
-      "summary": "<p>Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally </p><p>A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repell",
-      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "timestamp": "2026-07-07T15:17:19.000Z",
-      "source": "The Guardian",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
-      "title": "French prosecutors investigate racist abuse of Kylian Mbappé by Paraguayan senator",
-      "summary": "<p>Celeste Amarilla could face charges after French Football Federation complains about social media posts over World Cup match</p><p>Prosecutors in France have opened an investigation into the racist attack on Kylian Mbappé by a Paraguayan",
-      "url": "https://www.theguardian.com/world/2026/jul/07/french-prosecutors-investigate-racist-abuse-mbappe",
-      "timestamp": "2026-07-07T15:06:41.000Z",
-      "source": "The Guardian",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "WARNING",
-        "score": -1
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1upxm21",
-      "title": "Good place to get watch straps in Oman",
-      "summary": "Just got the new Moonswatch gifted. Are there any good watch stores in Muscat where i could get it?",
-      "url": "https://reddit.com/r/Oman/comments/1upxm21/good_place_to_get_watch_straps_in_oman/",
-      "timestamp": "2026-07-07T14:59:42.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 1
-    },
-    {
-      "id": "hn-48818098",
-      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
-      "summary": "37 pts · 23 comments",
-      "url": "https://github.com/bkuan001/halo-record",
-      "timestamp": "2026-07-07T14:07:08.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 37,
-      "comments": 23
-    },
-    {
-      "id": "reddit-1upvqcl",
-      "title": "Customs tax",
-      "summary": "I am from bahrain and my wife is from oman sometimes i send parcels to oman for every parcel they have to pay from 4-10 riyals in tax even the parcel isn’t worth that much i send through aramex is there any alternative t",
-      "url": "https://reddit.com/r/Oman/comments/1upvqcl/customs_tax/",
-      "timestamp": "2026-07-07T13:51:36.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 7
-    },
-    {
-      "id": "reddit-1upvkx9",
-      "title": "Started my own business",
-      "summary": "I got kicked out a few months ago from my house by my parents and couldn’t find a house or a flatmate for months. I just came back after a vacation and came back home and my parents got irritated with me for not being em",
-      "url": "https://reddit.com/r/Bahrain/comments/1upvkx9/started_my_own_business/",
-      "timestamp": "2026-07-07T13:45:54.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1upvfro",
-      "title": "Nada Milk going bad",
-      "summary": "Is anyone else's Nada milk cartons and bottles going bad way before the expiration date all of a sudden cuz i been buying them for past 2 weeks and they keep getting spoiled ? And no it wasn't my refrigerator's issue.",
-      "url": "https://reddit.com/r/Bahrain/comments/1upvfro/nada_milk_going_bad/",
-      "timestamp": "2026-07-07T13:40:26.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1upvesb",
-      "title": "GCC Shipping",
-      "summary": "Why is the shipping cost from Saudi Arabia to Oman 16 OMR (Aramex) and 25 OMR (DHL) isn’t that excessive?! Is there another way to order from businesses in Saudi Arabia without paying this much for shipping each time.",
-      "url": "https://reddit.com/r/Oman/comments/1upvesb/gcc_shipping/",
-      "timestamp": "2026-07-07T13:39:23.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 7
-    },
-    {
-      "id": "hn-48817234",
-      "title": "Show HN: Mondael.com – Institutional Intelligence for Prediction Markets",
-      "summary": "6 pts · 0 comments",
-      "url": "https://mondael.com",
-      "timestamp": "2026-07-07T13:06:37.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 6,
-      "comments": 0
-    },
-    {
-      "id": "hn-48816900",
-      "title": "Show HN: PostgreSQL performance and cost across 23 EC2 instance types",
-      "summary": "96 pts · 20 comments",
-      "url": "https://postgres.saneengineer.com",
-      "timestamp": "2026-07-07T12:40:28.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 96,
-      "comments": 20
-    },
-    {
-      "id": "reddit-1upt8z3",
-      "title": "Camel Rides/Visiting",
-      "summary": "Hi guys,   I’m in Bahrain right now until 10pm tonight - where can I go see camels or maybe get a ride on them? Can someone recommend quickly pleas thanks",
-      "url": "https://reddit.com/r/Bahrain/comments/1upt8z3/camel_ridesvisiting/",
-      "timestamp": "2026-07-07T12:12:11.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1upsyml",
-      "title": "Help!!! I missed an interview set up by MOL",
-      "summary": "I missed an interview set up by MOL as I saw the message at 2pm for an interview set at 10 am today, so what will be the consequences of this now? Will my file be closed or my unemployment benefits rejected?",
-      "url": "https://reddit.com/r/Bahrain/comments/1upsyml/help_i_missed_an_interview_set_up_by_mol/",
-      "timestamp": "2026-07-07T12:00:10.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1ups8vo",
-      "title": "Unsolicited spam marketing",
-      "summary": "​Hey everyone, ​I just got a random cold call from a cleaning and pesticide company I’ve never heard of. It got me wondering how they even got my number, and what the consumer protection laws look like here regarding uns",
-      "url": "https://reddit.com/r/Bahrain/comments/1ups8vo/unsolicited_spam_marketing/",
-      "timestamp": "2026-07-07T11:26:35.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "🏛️ Politics",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uprrpq",
-      "title": "Cineco Oasis Mall - Juffair",
-      "summary": "Does anyone go to this theater?    I went today and no one else was there but me 😂    I figured it might be because I went in the morning during school/work hours,    but idk.    Are people more likely to show up at nig",
-      "url": "https://reddit.com/r/Bahrain/comments/1uprrpq/cineco_oasis_mall_juffair/",
-      "timestamp": "2026-07-07T11:03:22.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "🌐 Expat",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
-      "title": "What will define Elon Musk’s legacy? Doge cuts to USAID Ebola programs",
-      "summary": "<p>Experts say cuts have hindered the response to DRC’s Ebola outbreak and resulted in ‘significant numbers’ of deaths</p><p>Elon Musk has an Ebola problem. SpaceX stock dropped precipitously after its initial public offering, and Tesla fac",
-      "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
-      "timestamp": "2026-07-07T11:00:06.000Z",
-      "source": "The Guardian",
-      "sourceType": "RSS",
-      "tag": "NEWS",
-      "country": "Regional",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 0,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uprijl",
-      "title": "Best platform/way to apply for jobs in Oman from the UK?",
-      "summary": "↑2 · 💬6",
-      "url": "https://reddit.com/r/Oman/comments/1uprijl/best_platformway_to_apply_for_jobs_in_oman_from/",
-      "timestamp": "2026-07-07T10:50:18.000Z",
-      "source": "r/oman",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Oman",
-      "section": "💼 Economy",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 2,
-      "comments": 6
-    },
-    {
-      "id": "reddit-1upqz8h",
-      "title": "ضياء العربية - لَا نُغَادِرُ كُلِّيًّا *",
-      "summary": "لقد أعددتُ لكم مجموعة موسيقية شاملة تمتد لثلاث ساعات، وسأضع رابط التحميل (عبر Google Drive) في التعليق الأول. يسعدني جداً أن تستمعوا إليها وتشاركوني آراءكم الصادقة! لقد رغبتُ في الاستماع إلى موسيقى عربية أصيلة وذات مغزى،",
-      "url": "https://reddit.com/r/arabs/comments/1upqz8h/ضياء_العربية_لا_نغادر_كليا/",
-      "timestamp": "2026-07-07T10:22:21.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1upqxgi",
-      "title": "نحن أطفال الريح",
-      "summary": "↑1 · 💬1",
-      "url": "https://reddit.com/r/arabs/comments/1upqxgi/نحن_أطفال_الريح/",
-      "timestamp": "2026-07-07T10:19:44.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 1
-    },
-    {
-      "id": "reddit-1upqj7b",
-      "title": "VFS Italy Bahrain – No appointment slots available",
-      "summary": "Hi all, I recently moved from Riyadh to Bahrain and didn’t realise how busy VFS Italy here gets with appointments. There are no available slots at the moment, and I’ve already booked flights for a trip in mid-August. Thi",
-      "url": "https://reddit.com/r/Bahrain/comments/1upqj7b/vfs_italy_bahrain_no_appointment_slots_available/",
-      "timestamp": "2026-07-07T09:59:00.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1upplk3",
-      "title": "Looking for an ipad 🥹",
-      "summary": "Hi everyone! This is probably a long shot, but I'm looking for an iPad for Procreate and my wallet has politely informed me that my budget is... **around BD 50** 💀 If you have an iPad that's been sitting in a drawer col",
-      "url": "https://reddit.com/r/Bahrain/comments/1upplk3/looking_for_an_ipad/",
-      "timestamp": "2026-07-07T09:06:19.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "STABLE",
-        "score": 1
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "hn-48815250",
-      "title": "Show HN: Ex Situ, open-source spatial index of displaced cultural artifacts",
-      "summary": "2 pts · 0 comments",
-      "url": "https://exsitu.app/map",
-      "timestamp": "2026-07-07T09:02:14.000Z",
-      "source": "Hacker News",
-      "sourceType": "HN",
-      "tag": "TECH",
-      "country": "Regional",
-      "section": "🚨 Crisis",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 2,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uppgxa",
-      "title": "Go-to Talabat/Keeta/Jahez orders",
-      "summary": "Hello guys, what are your go-to deals or orders from Talabat/Keeta/Jahez or any other platform here in Bahrain?  What do you go for when you don't have any specific thing in mind while hungry? Is there anything you order",
-      "url": "https://reddit.com/r/Bahrain/comments/1uppgxa/goto_talabatkeetajahez_orders/",
-      "timestamp": "2026-07-07T08:59:11.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "💻 Tech",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uppfkj",
-      "title": "Caught a nice sunrise from my room this morning.",
-      "summary": "↑1 · 💬0",
-      "url": "https://reddit.com/r/Bahrain/comments/1uppfkj/caught_a_nice_sunrise_from_my_room_this_morning/",
-      "timestamp": "2026-07-07T08:57:04.000Z",
-      "source": "r/bahrain",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Bahrain",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 1,
-      "comments": 0
-    },
-    {
-      "id": "reddit-1uppb5b",
-      "title": "A Vile party, but a peak anthem",
-      "summary": "نشيد حزب البعث العربي الاشتراكي القذر , خسارة فيهم والله",
-      "url": "https://reddit.com/r/arabs/comments/1uppb5b/a_vile_party_but_a_peak_anthem/",
-      "timestamp": "2026-07-07T08:49:54.000Z",
-      "source": "r/arabs",
-      "sourceType": "Reddit",
-      "tag": "SOCIAL",
-      "country": "Regional",
-      "section": "Other",
-      "sentiment": {
-        "label": "NEUTRAL",
-        "score": 0
-      },
-      "score": 22,
-      "comments": 18
     }
   ]
 }
