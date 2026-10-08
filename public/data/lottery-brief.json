@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T09:13:56.696Z",
+  "generated_at": "2026-10-08T09:26:46.531Z",
   "model": "keyword-fallback",
-  "overallMood": "RESIGNED",
+  "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 0,
+    "positive": 75,
     "neutral": 40,
     "negative": 0
   },
