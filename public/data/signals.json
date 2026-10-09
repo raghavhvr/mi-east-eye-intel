@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:08:33.907Z",
+  "generated_at": "2026-10-09T09:15:26.743Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,167 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 39,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
-      "temp_c": 38,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "UAE": {
-      "temp_c": 41,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Bahrain": {
-      "temp_c": 35,
+      "temp_c": 37,
       "wind_kmh": 9,
       "condition": "Clear",
       "city": "Manama"
     },
     "Oman": {
       "temp_c": 34,
-      "wind_kmh": 23,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Kuwait": {
+      "temp_c": 40,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "Saudi Arabia": {
+      "temp_c": 39,
+      "wind_kmh": 1,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 40,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Lebanon": {
       "temp_c": 27,
-      "wind_kmh": 17,
+      "wind_kmh": 20,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Jordan": {
-      "temp_c": 26,
-      "wind_kmh": 2,
+      "temp_c": 27,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
     "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 10,
+      "temp_c": 28,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
     "Iraq": {
-      "temp_c": 34,
-      "wind_kmh": 5,
+      "temp_c": 35,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 25,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Sanaa"
     },
     "Iran": {
       "temp_c": 29,
       "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 20,
-      "condition": "Clear",
-      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309778,
+    "KWD": 0.310233,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.384326,
-    "IQD": 1308.407502
+    "EGP": 52.374069,
+    "IQD": 1428.8947
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1x1a3gs",
+        "title": "The Virginia Lottery App has been acting up for a while",
+        "summary": "Yesterday I got an email with a reward coupon for a ticket, but I hadn't redeemed any points. It seems like a legit email though.  Anyone else in VA have that  happen",
+        "url": "https://reddit.com/r/Lottery/comments/1x1a3gs/the_virginia_lottery_app_has_been_acting_up_for_a/",
+        "timestamp": "2026-10-09T02:46:38.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x18kxy",
+        "title": "Powerball Winning Numbers (Wednesday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1x18kxy/powerball_winning_numbers_wednesday/",
+        "timestamp": "2026-10-09T01:30:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x11gkx",
+        "title": "INSANE lottery wins today.",
+        "summary": "First started with numbers game winning 3 out of 4 last night, then went to the grocery store to play 50 dollar scratch tickets with the winnings and more numbers game and mass cash tickets... hit 5k on my first 50 dollar ticket. The lotter",
+        "url": "https://reddit.com/r/Lottery/comments/1x11gkx/insane_lottery_wins_today/",
+        "timestamp": "2026-10-08T20:13:42.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x0u6k2",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1x0u6k2/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-10-08T15:38:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x0ttfh",
+        "title": "No winners in a book?",
+        "summary": "Florida lottery -  For the third time in less than a year I’ve had a whole book of scratchers with no winners (double checked and scanned).  First book was a $50 tickets (30 tickets per book @ $1,500) 2nd and 3rd books were bought within a ",
+        "url": "https://reddit.com/r/Lottery/comments/1x0ttfh/no_winners_in_a_book/",
+        "timestamp": "2026-10-08T15:24:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1x0caev",
         "title": "Is anyone excited for the Pennsylvania Millionaire Raffle this year?",
@@ -132,6 +207,21 @@
         "isME": false
       },
       {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "Game Lucky Draws Explained: Entries, Rewards, and Promotion Rules",
+        "summary": "Casino lucky draws are promotional activities in which players can receive prizes by receiving entry or ticket given the opportunity to win prizes. Entries can be made through deposits, wagering activity, daily logins, or special promotions, and rewards can i…",
+        "url": "https://the-digital-reader.com/game-lucky-draws-explained-entries-rewards-and-promotion-rules/",
+        "timestamp": "2026-10-07T16:44:52Z",
+        "source": "The-digital-reader.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1wzyp51",
         "title": "New iPhone 17 pro giveaway",
         "summary": "Hello beautiful people, obviously the title is 🧢 and is for traffic I won a new iPhone 17 pro, silver colour, 256 gb, US spec in an omantel raffle I know YAAAAY Anyways selling it below shop price, if anyone is interested please do dm me.",
@@ -141,8 +231,8 @@
         "sourceType": "Reddit",
         "tag": "ME-LOT",
         "country": "Regional",
-        "score": 1,
-        "comments": 1,
+        "score": 0,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": true
       },
@@ -156,8 +246,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 0,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -171,7 +261,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 31,
+        "score": 29,
         "comments": 23,
         "mood": "HOPEFUL",
         "isME": false
@@ -187,36 +277,6 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cDovLzl0",
-        "title": "Rare deals have the Black and Fox Orange Apple AirTag Key Rings at new Amazon lows",
-        "summary": "There are some seriously great deals on big ticket apple gear going live today, including AirPods Pro 3, AirPods Max 2, and the best prices ever on the M6 Mac mini lineup. But there are also some solid official accessory discounts landing like this rare price…",
-        "url": "http://9to5toys.com/2026/10/05/rare-deals-black-fox-orange-apple-airtag-key-rings/",
-        "timestamp": "2026-10-05T20:01:13Z",
-        "source": "9to5Toys",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "Rehab township to be ready by Oct-end: Min",
-        "summary": "Wayanad rehab township for Mundakkai-Chooralmala landslide survivors to finish remaining houses by Oct-end; amenities in Nov; allotment via lucky draw before Nov 1.",
-        "url": "https://timesofindia.indiatimes.com/city/kozhikode/rehab-township-to-be-ready-by-oct-end-min/articleshow/134713437.cms",
-        "timestamp": "2026-10-05T17:15:26Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -366,7 +426,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
@@ -381,8 +441,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 5,
-        "comments": 8,
+        "score": 6,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -492,101 +552,26 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1wtdoou",
-        "title": "Something is not right with Arizona Lottery",
-        "summary": "Look at the winners from June to September, Sebastian Kwit and Spencer Kwit has won every single draw. Also a bunch of other names constantly popping up. How is this even possible? Heres the winners list - [https://gateway-web.loyalty.azpla",
-        "url": "https://reddit.com/r/Lottery/comments/1wtdoou/something_is_not_right_with_arizona_lottery/",
-        "timestamp": "2026-09-29T15:47:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
+        "id": "hn-lot-49731216",
+        "title": "Tell HN: An inside view of Montana's new biotech law",
+        "summary": "34 pts · 26 comments",
+        "url": "https://news.ycombinator.com/item?id=49731216",
+        "timestamp": "2026-09-16T18:43:57.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 17,
-        "comments": 21,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wtar20",
-        "title": "How do you scratch your tickets?",
-        "summary": "What is your preferred scratcher tool? Coin, official lottery scraper, key, or fingernail, and does using a specific coin feel luckier to you?",
-        "url": "https://reddit.com/r/Lottery/comments/1wtar20/how_do_you_scratch_your_tickets/",
-        "timestamp": "2026-09-29T13:54:28.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 5,
-        "comments": 11,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wt5hl2",
-        "title": "In case anyone wants to know my luck with the lottery",
-        "summary": "My $10 ticket gave me duplicate numbers of only 6 and 8.  The powerball last night was 7  🙃",
-        "url": "https://reddit.com/r/Lottery/comments/1wt5hl2/in_case_anyone_wants_to_know_my_luck_with_the/",
-        "timestamp": "2026-09-29T09:25:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 19,
-        "comments": 8,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wsz54m",
-        "title": "1 million dollar winning Lotto+ ticket expires in Colorado",
-        "summary": "It's hard for me to imagine.  You buy the tickets, you keep them safe, you check them after the drawing - visually and scan...  Can't help but wonder what the potential reason is: https://www.lotterypost.com/news/361596",
-        "url": "https://reddit.com/r/Lottery/comments/1wsz54m/1_million_dollar_winning_lotto_ticket_expires_in/",
-        "timestamp": "2026-09-29T03:12:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wswrjm",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑2 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1wswrjm/powerball_winning_numbers_monday/",
-        "timestamp": "2026-09-29T01:20:06.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wsutkl",
-        "title": "Double up on losing numbers!",
-        "summary": "Like why my lottery got multiple same losing numbers? Like looser on number 11, 46, yeah 11 again.",
-        "url": "https://reddit.com/r/Lottery/comments/1wsutkl/double_up_on_losing_numbers/",
-        "timestamp": "2026-09-28T23:49:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 15,
-        "comments": 11,
+        "score": 34,
+        "comments": 26,
         "mood": "NEUTRAL",
         "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 32,
-      "meSignals": 2,
+      "totalSignals": 31,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 27,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 2
