@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:38:47.067Z",
+  "generated_at": "2026-10-11T09:02:45.823Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,96 +15,111 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 39,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
+    "Qatar": {
+      "temp_c": 40,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Doha"
+    },
+    "Saudi Arabia": {
+      "temp_c": 36,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
     },
     "Kuwait": {
       "temp_c": 38,
-      "wind_kmh": 12,
+      "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
-    "Qatar": {
-      "temp_c": 39,
-      "wind_kmh": 6,
+    "UAE": {
+      "temp_c": 38,
+      "wind_kmh": 16,
       "condition": "Clear",
-      "city": "Doha"
-    },
-    "Bahrain": {
-      "temp_c": 36,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Saudi Arabia": {
-      "temp_c": 37,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Riyadh"
+      "city": "Abu Dhabi"
     },
     "Lebanon": {
       "temp_c": 27,
-      "wind_kmh": 7,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Jordan": {
-      "temp_c": 27,
+    "Egypt": {
+      "temp_c": 26,
       "wind_kmh": 7,
       "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iraq": {
-      "temp_c": 35,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Cairo"
     },
     "Iran": {
-      "temp_c": 28,
-      "wind_kmh": 18,
+      "temp_c": 25,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Tehran"
     },
-    "Egypt": {
-      "temp_c": 27,
-      "wind_kmh": 10,
+    "Yemen": {
+      "temp_c": 26,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Sanaa"
+    },
+    "Jordan": {
+      "temp_c": 27,
+      "wind_kmh": 17,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Oman": {
+      "temp_c": 37,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 37,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Iraq": {
+      "temp_c": 34,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310597,
+    "KWD": 0.310482,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.380358,
-    "IQD": 1430.322142
+    "EGP": 52.38102,
+    "IQD": 1432.489475
   },
   "lottery": {
     "items": [
       {
+        "id": "reddit-lot-1x31rfv",
+        "title": "Is Dubai Duty Free website legit?",
+        "summary": "I just stumbled upon this website: https://www.dubaidutyfree.com And everything here is so much cheaper! But i wanted to confirm if this is a legit website and not a scam Also do they deliver to Abu dhabi?",
+        "url": "https://reddit.com/r/UAE/comments/1x31rfv/is_dubai_duty_free_website_legit/",
+        "timestamp": "2026-10-11T07:20:04.000Z",
+        "source": "r/UAE",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": true
+      },
+      {
         "id": "hn-lot-50022532",
         "title": "Show HN: Coolphabets – Teaching kids to read and write in their mother tongue",
-        "summary": "3 pts · 0 comments",
+        "summary": "3 pts · 1 comments",
         "url": "https://news.ycombinator.com/item?id=50022532",
         "timestamp": "2026-10-09T16:05:24.000Z",
         "source": "Hacker News",
@@ -112,8 +127,53 @@
         "tag": "LOT",
         "country": "Global",
         "score": 3,
-        "comments": 0,
+        "comments": 1,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Football club scores £1million lottery win after playing same numbers for 30 years",
+        "summary": "Longlevens AFC, based in Gloucester, scooped the jackpot by matching five main numbers and the bonus ball in the draw last month.",
+        "url": "https://www.dailymail.com/news/article-16196713/Football-club-1million-lottery-win.html",
+        "timestamp": "2026-10-09T14:48:10Z",
+        "source": "Dailymail.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "First jackpot winner since Lotto changes wins €5.6m",
+        "summary": "A shop in Cork is celebrating after selling a Lotto ticket worth more than €5.6m in the first jackpot win since the National Lottery removed two numbers.",
+        "url": "https://www.rte.ie/news/2026/1009/1594744-lotto-winner-cork/",
+        "timestamp": "2026-10-09T14:20:42Z",
+        "source": "RTE",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Football club makes history with £1m lottery win",
+        "summary": "Club members at Longlevens AFC are yet to discuss how the money from their big win will be spent.",
+        "url": "https://www.bbc.com/news/articles/cm0rlq84427qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "timestamp": "2026-10-09T13:57:37Z",
+        "source": "BBC News",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -148,17 +208,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 3,
-      "meSignals": 0,
+      "totalSignals": 7,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 2,
+        "HOPEFUL": 5,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 1
+        "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 33
+      "uncertaintyScore": 29
     }
   }
 }
