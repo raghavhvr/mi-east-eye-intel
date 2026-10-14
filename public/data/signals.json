@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:33:11.450Z",
+  "generated_at": "2026-10-14T07:46:53.008Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,197 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 38,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 2,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Oman": {
-      "temp_c": 34,
-      "wind_kmh": 17,
-      "condition": "Clear",
-      "city": "Muscat"
-    },
     "Qatar": {
-      "temp_c": 36,
-      "wind_kmh": 8,
+      "temp_c": 34,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Doha"
     },
     "Saudi Arabia": {
-      "temp_c": 36,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
+      "temp_c": 35,
+      "wind_kmh": 3,
+      "condition": "Clear",
       "city": "Riyadh"
     },
-    "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Kuwait": {
-      "temp_c": 39,
-      "wind_kmh": 7,
+      "temp_c": 36,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
     "Bahrain": {
-      "temp_c": 35,
+      "temp_c": 33,
       "wind_kmh": 8,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Manama"
+    },
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
+    "Oman": {
+      "temp_c": 34,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Jordan": {
+      "temp_c": 27,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
     },
     "Iraq": {
       "temp_c": 34,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 6,
+      "condition": "Clear",
       "city": "Baghdad"
     },
+    "Lebanon": {
+      "temp_c": 25,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
     "Egypt": {
-      "temp_c": 29,
-      "wind_kmh": 9,
+      "temp_c": 27,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
     "Iran": {
       "temp_c": 28,
-      "wind_kmh": 9,
-      "condition": "Clear",
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.311015,
+    "KWD": 0.31129,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 52.658715,
-    "IQD": 1508.260905
+    "EGP": 52.804385,
+    "IQD": 1515.690533
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1x58aiy",
+        "title": "Bought Powerball and Mega Million tickets",
+        "summary": "Bought these tickets from the machine at my local grocery store and they both printed blank..... hope I hit the big win",
+        "url": "https://reddit.com/r/Lottery/comments/1x58aiy/bought_powerball_and_mega_million_tickets/",
+        "timestamp": "2026-10-13T20:47:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x57cuy",
+        "title": "CA Lottery Official App 20 MB • Update",
+        "summary": "CA Lottery Official App 20 MB • Updated on Aug 13 Accessibility updates including Color Contrast and text size, Where to Play screen updates, change of quick menu style and minor bug fixes. Finally a Update  These past updates have improved",
+        "url": "https://reddit.com/r/Lottery/comments/1x57cuy/ca_lottery_official_app_20_mb_update/",
+        "timestamp": "2026-10-13T20:10:42.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x52csa",
+        "title": "AZ players club prize vault promotion",
+        "summary": "AZ lotto second chance players, how many entries do you have in Prize Vault? I want to see if I have a shot or not! I know it’s all random and a lot of entries don’t guarantee a win. just curious!",
+        "url": "https://reddit.com/r/Lottery/comments/1x52csa/az_players_club_prize_vault_promotion/",
+        "timestamp": "2026-10-13T17:06:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x4z2tt",
+        "title": "I was close",
+        "summary": "I was close to winning the jackpot 😩 only two numbers off",
+        "url": "https://reddit.com/r/Lottery/comments/1x4z2tt/i_was_close/",
+        "timestamp": "2026-10-13T15:04:42.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x4yu3w",
+        "title": "Monday's Powerball Drawing",
+        "summary": "I checked to see what the winning numbers were for the 10-12-26 drawing and on the website it is showing a winning $1M ticket was sold in UK Am I tripping or is this legit? Can people in the United Kingdom buy American Powerball tickets now",
+        "url": "https://reddit.com/r/Lottery/comments/1x4yu3w/mondays_powerball_drawing/",
+        "timestamp": "2026-10-13T14:55:25.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Punjab truck driver keeps trying his luck every month for 2 years, wins Rs 1.3 crore lottery in Dubai",
+        "summary": "A 53-year-old truck driver from Punjab, Kulwant Singh, has won Dh500,000 (around Rs 1.3 crore) in Abu Dhabi Big Ticket's Series 291 draw after buying lottery tickets with friends every month for nearly two years. He plans to use the prize money to support his…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/punjab-truck-driver-keeps-trying-his-luck-every-month-for-2-years-wins-rs-1-3-crore-lottery-in-dubai/articleshow/134908056.cms",
+        "timestamp": "2026-10-13T04:54:50Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9j",
+        "title": "Singapore Airlines and Scoot to offer over 380,000 discounted tickets at Time To Fly Fair 2026",
+        "summary": "The Time To Fly fair runs from Oct 23 to 25 at Suntec Singapore – with an online sale continuing until Oct 30 – featuring discounted flights to 125 destinations including London, Madrid, Seoul and Okinawa, alongside lucky draws and travel vouchers.",
+        "url": "https://cnalifestyle.channelnewsasia.com/travel/time-fly-travel-fair-2026-sia-scoot-discounted-flights-590261",
+        "timestamp": "2026-10-13T02:02:00Z",
+        "source": "CNA",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1x4jl74",
         "title": "Powerball Winning Numbers (Monday)",
@@ -141,9 +246,24 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 6,
+        "comments": 5,
         "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Ohio Lottery VIP Millions: $1 million prize claimed by man who previously won $5,000; and all about the remaining prizes",
+        "summary": "Justin Apathy, hailing from Olmsted Township, Ohio, recently struck gold by winning a staggering $1 million in the VIP Millions scratch-off game. Although he had previously enjoyed smaller lotteries of $5,000 and several $100 wins, his initial assumption of w…",
+        "url": "https://economictimes.indiatimes.com/news/international/world-news/ohio-lottery-vip-millions-1-million-prize-claimed-by-man-who-previously-won-5000-and-all-about-the-remaining-prizes/articleshow/134895488.cms",
+        "timestamp": "2026-10-12T14:40:09Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -610,50 +730,20 @@
         "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1wwvp9x",
-        "title": "Having trouble with the Second Chance Lottery Nj",
-        "summary": "Anybody else getting an error message when you enter in the ticket numbers for Second Chance in NJ? Idk if they have the second chance in every state but they do in New Jersey. I entered in a bunch of tickets with no issue and now it’s sayi",
-        "url": "https://reddit.com/r/Lottery/comments/1wwvp9x/having_trouble_with_the_second_chance_lottery_nj/",
-        "timestamp": "2026-10-03T19:27:30.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1wwpb3z",
-        "title": "Get numbers right frequently but timing is always off.",
-        "summary": "I have strong feelings once in awhile or dreams of numbers, play it for a week or so and bam hits the next day haha. Psychic gave me winning lotto numbers once Cpl years ago for pick 5 said every number has something to do with both sides o",
-        "url": "https://reddit.com/r/Lottery/comments/1wwpb3z/get_numbers_right_frequently_but_timing_is_always/",
-        "timestamp": "2026-10-03T14:58:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 36,
-      "meSignals": 0,
+      "totalSignals": 42,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 28,
+        "HOPEFUL": 34,
         "CYNICAL": 0,
         "ANXIOUS": 6,
         "NEUTRAL": 2
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 19
     }
   }
 }
