@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T07:33:22.860Z",
+  "generated_at": "2026-10-16T07:19:13.496Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,107 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 35,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
-      "temp_c": 36,
-      "wind_kmh": 3,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 28,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 21,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
     "Iran": {
-      "temp_c": 27,
+      "temp_c": 29,
       "wind_kmh": 10,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 33,
+      "temp_c": 34,
       "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Yemen": {
+    "Egypt": {
       "temp_c": 23,
-      "wind_kmh": 10,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Saudi Arabia": {
+      "temp_c": 34,
+      "wind_kmh": 8,
       "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Qatar": {
+      "temp_c": 36,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 38,
+      "wind_kmh": 19,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Jordan": {
+      "temp_c": 20,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Bahrain": {
+      "temp_c": 35,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Kuwait": {
+      "temp_c": 35,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "UAE": {
+      "temp_c": 35,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Yemen": {
+      "temp_c": 22,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Lebanon": {
+      "temp_c": 25,
+      "wind_kmh": 24,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310779,
+    "KWD": 0.310459,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.095404,
-    "IQD": 1517.316287
+    "EGP": 53.464508,
+    "IQD": 1517.537029
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Haiku’s latest activity report contains a ton of smaller fixes and improvements",
+        "summary": "You know the drill by now – a new month, a new Haiku activity report. This past month doesn’t seem to have any big ticket items, but instead contains a long list of smaller but still welcome fixes. Various filesystem drivers saw some work, a few bugs in virti…",
+        "url": "https://www.osnews.com/story/146150/haikus-latest-activity-report-contains-a-ton-of-smaller-fixes-and-improvements/",
+        "timestamp": "2026-10-14T14:53:04Z",
+        "source": "Osnews.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Data Engineering for Prize Draws: Building an Audit Trail",
@@ -253,10 +268,10 @@
       }
     ],
     "meta": {
-      "totalSignals": 10,
-      "meSignals": 1,
+      "totalSignals": 11,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 10,
+        "HOPEFUL": 11,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 0
