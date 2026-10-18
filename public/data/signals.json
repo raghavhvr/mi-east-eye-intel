@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T07:02:23.760Z",
+  "generated_at": "2026-10-18T07:17:50.526Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,152 @@
     "Iran": null
   },
   "weather": {
-    "Jordan": {
-      "temp_c": 20,
-      "wind_kmh": 5,
+    "UAE": {
+      "temp_c": 36,
+      "wind_kmh": 4,
       "condition": "Clear",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
+      "city": "Abu Dhabi"
     },
     "Saudi Arabia": {
-      "temp_c": 34,
-      "wind_kmh": 6,
+      "temp_c": 35,
+      "wind_kmh": 7,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Yemen": {
-      "temp_c": 22,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Sanaa"
-    },
-    "Kuwait": {
-      "temp_c": 34,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
     "Qatar": {
-      "temp_c": 37,
-      "wind_kmh": 6,
+      "temp_c": 36,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Kuwait": {
+      "temp_c": 35,
+      "wind_kmh": 3,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Oman": {
-      "temp_c": 36,
-      "wind_kmh": 9,
+      "temp_c": 34,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
       "temp_c": 36,
-      "wind_kmh": 8,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Egypt": {
-      "temp_c": 23,
-      "wind_kmh": 6,
+    "Jordan": {
+      "temp_c": 20,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Amman"
+    },
+    "Lebanon": {
+      "temp_c": 23,
+      "wind_kmh": 20,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
     },
     "Iraq": {
-      "temp_c": 32,
-      "wind_kmh": 8,
+      "temp_c": 31,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
+    "Egypt": {
+      "temp_c": 23,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
     "Iran": {
-      "temp_c": 29,
+      "temp_c": 28,
       "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     },
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310535,
+    "KWD": 0.310445,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.447578,
-    "IQD": 1517.544132
+    "EGP": 53.459696,
+    "IQD": 1517.554917
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1x8qrm1",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1x8qrm1/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-10-18T01:30:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8nrv8",
+        "title": "A rare non-fake multiplier from the CA Lottery",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1x8nrv8/a_rare_nonfake_multiplier_from_the_ca_lottery/",
+        "timestamp": "2026-10-17T23:01:32.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8jat3",
+        "title": "PA lottery app",
+        "summary": "Question- ups on scanning my crossword scratch offs, i noticed on the app, you can deposit money and play games on your phone. Wondering if it’s all a scam or do people literally win, on the slot like machine games! Fun fact- I won $1000 (t",
+        "url": "https://reddit.com/r/Lottery/comments/1x8jat3/pa_lottery_app/",
+        "timestamp": "2026-10-17T19:44:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8hlqq",
+        "title": "What will you NOT do if you hit the jackpot tonight?",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1x8hlqq/what_will_you_not_do_if_you_hit_the_jackpot/",
+        "timestamp": "2026-10-17T18:33:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1x81onh",
         "title": "Did anyone with 90 million lotto max in Canada.The reason for my question is because the lottospot says Oct 20th 90 million.",
@@ -141,8 +201,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 9,
-        "comments": 2,
+        "score": 32,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -717,36 +777,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1x18kxy",
-        "title": "Powerball Winning Numbers (Wednesday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1x18kxy/powerball_winning_numbers_wednesday/",
-        "timestamp": "2026-10-09T01:30:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1x11gkx",
-        "title": "INSANE lottery wins today.",
-        "summary": "First started with numbers game winning 3 out of 4 last night, then went to the grocery store to play 50 dollar scratch tickets with the winnings and more numbers game and mass cash tickets... hit 5k on my first 50 dollar ticket. The lotter",
-        "url": "https://reddit.com/r/Lottery/comments/1x11gkx/insane_lottery_wins_today/",
-        "timestamp": "2026-10-08T20:13:42.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 116,
-        "comments": 19,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Winning the lottery could DESTROY your marriage: Study finds women are more likely to divorce after a big jackpot",
         "summary": "Winning the lottery is supposed to be the ultimate happy ending. But for some women, striking it rich could come with an unexpected downside - a higher chance of divorce.",
@@ -778,17 +808,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 45,
+      "totalSignals": 47,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 35,
+        "HOPEFUL": 37,
         "CYNICAL": 0,
-        "ANXIOUS": 7,
-        "NEUTRAL": 3
+        "ANXIOUS": 6,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 21
     }
   }
 }
