@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T08:04:30.521Z",
+  "generated_at": "2026-10-20T07:54:54.812Z",
   "model": "keyword-fallback",
   "overallMood": "HOPEFUL",
   "sentimentSplit": {
-    "positive": 67,
+    "positive": 83,
     "neutral": 40,
-    "negative": 17
+    "negative": 0
   },
   "dominantNarrative": "Mixed lottery sentiment MENA",
   "keyEmotions": [
