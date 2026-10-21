@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:43:52.021Z",
+  "generated_at": "2026-10-21T07:48:02.362Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,40 +16,52 @@
   },
   "weather": {
     "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 2,
+      "temp_c": 37,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Iraq": {
-      "temp_c": 30,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
     "Saudi Arabia": {
       "temp_c": 34,
-      "wind_kmh": 8,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Riyadh"
     },
     "Kuwait": {
-      "temp_c": 33,
-      "wind_kmh": 11,
+      "temp_c": 35,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
-    "Jordan": {
-      "temp_c": 19,
+    "Qatar": {
+      "temp_c": 34,
       "wind_kmh": 5,
       "condition": "Clear",
+      "city": "Doha"
+    },
+    "Lebanon": {
+      "temp_c": 25,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Oman": {
+      "temp_c": 34,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Jordan": {
+      "temp_c": 22,
+      "wind_kmh": 4,
+      "condition": "Clear",
       "city": "Amman"
+    },
+    "Bahrain": {
+      "temp_c": 34,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
     },
     "Egypt": {
       "temp_c": 22,
@@ -57,50 +69,68 @@
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Oman": {
-      "temp_c": 33,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Muscat"
+    "Iraq": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
     },
     "Iran": {
       "temp_c": 27,
-      "wind_kmh": 10,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     },
     "Yemen": {
       "temp_c": 22,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
+      "wind_kmh": 16,
+      "condition": "Clear",
       "city": "Sanaa"
-    },
-    "Lebanon": {
-      "temp_c": 23,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310405,
+    "KWD": 0.309652,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.907604,
-    "IQD": 1517.227133
+    "EGP": 54.488856,
+    "IQD": 1517.23689
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Powerball Winning Numbers for Oct. 19, 2026: Did Anyone Win the $607 Million Jackpot? Check Your Ticket Now",
+        "summary": "Powerball's winning numbers for the estimated $607 million Monday jackpot are 8, 31, 32, 42, 48 and 23, with officials yet to confirm a jackpot winner.",
+        "url": "https://www.ibtimes.com.au/powerball-winning-numbers-october-19-2026-1877006",
+        "timestamp": "2026-10-20T04:00:02Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9j",
+        "title": "Las Vegas Raiders aren’t getting enough from Tyler Linderbaum, especially in Week 6 loss to Buffalo Bills",
+        "summary": "Big ticket free-agent signing isn’t living up to the contract and had a brutal showing on Sunday.",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6604e7b7-a852-451a-8b22-2f3a7ad496d7",
+        "timestamp": "2026-10-19T19:12:00Z",
+        "source": "Yahoo Entertainment",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Everything I've seen after advising lottery winners on their finances for 10 years: Divorce, family feuds, drugs, terrible decisions and 'normal' people",
@@ -280,28 +310,13 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "Game Lucky Draws Explained: Entries, Rewards, and Promotion Rules",
-        "summary": "Casino lucky draws are promotional activities in which players can receive prizes by receiving entry or ticket given the opportunity to win prizes. Entries can be made through deposits, wagering activity, daily logins, or special promotions, and rewards can i…",
-        "url": "https://the-digital-reader.com/game-lucky-draws-explained-entries-rewards-and-promotion-rules/",
-        "timestamp": "2026-10-07T16:44:52Z",
-        "source": "The-digital-reader.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 13,
-      "meSignals": 2,
+      "totalSignals": 14,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 13,
+        "HOPEFUL": 14,
         "CYNICAL": 0,
         "ANXIOUS": 0,
         "NEUTRAL": 0
