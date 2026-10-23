@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T07:43:55.697Z",
+  "generated_at": "2026-10-23T07:41:32.293Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,167 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 36,
+    "Saudi Arabia": {
+      "temp_c": 33,
       "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 35,
+      "wind_kmh": 2,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Saudi Arabia": {
-      "temp_c": 34,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "Kuwait": {
-      "temp_c": 32,
-      "wind_kmh": 7,
+      "temp_c": 33,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
+    "Qatar": {
+      "temp_c": 35,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Oman": {
-      "temp_c": 34,
-      "wind_kmh": 11,
+      "temp_c": 35,
+      "wind_kmh": 14,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 7,
+      "temp_c": 34,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Manama"
     },
-    "Jordan": {
-      "temp_c": 23,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Amman"
-    },
     "Lebanon": {
-      "temp_c": 26,
-      "wind_kmh": 8,
+      "temp_c": 29,
+      "wind_kmh": 9,
       "condition": "Clear",
       "city": "Beirut"
     },
-    "Iraq": {
-      "temp_c": 31,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
     "Egypt": {
-      "temp_c": 23,
-      "wind_kmh": 11,
+      "temp_c": 24,
+      "wind_kmh": 13,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
+    "Jordan": {
+      "temp_c": 23,
+      "wind_kmh": 18,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
     "Iran": {
-      "temp_c": 24,
-      "wind_kmh": 11,
+      "temp_c": 23,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     },
     "Yemen": {
-      "temp_c": 22,
-      "wind_kmh": 7,
-      "condition": "Clear",
+      "temp_c": 24,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Sanaa"
+    },
+    "Iraq": {
+      "temp_c": 29,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.309625,
+    "KWD": 0.31006,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.385184,
-    "IQD": 1517.526578
+    "EGP": 55.215592,
+    "IQD": 1517.4313
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1xd7dzf",
+        "title": "Crazy thing happened",
+        "summary": "Won on some website called are emirates draw but they definitely have someone else handling the scratch, this is some lucky day",
+        "url": "https://reddit.com/r/Lottery/comments/1xd7dzf/crazy_thing_happened/",
+        "timestamp": "2026-10-23T07:27:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1xd1bxs",
+        "title": "Lottery States",
+        "summary": "Based on this community, you would think only people from Texas, California, and Florida played the lottery. 🤣",
+        "url": "https://reddit.com/r/Lottery/comments/1xd1bxs/lottery_states/",
+        "timestamp": "2026-10-23T01:57:32.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xczuk2",
+        "title": "For those who played using it - the PA iLottery has MASSIVELY nerfed the Webcash Wednesday bonus.",
+        "summary": "For years, high rollers who played online had access to one of the best bonuses out there - a weekly match up to $500.  Staying disciplined and playing only draw games negated the rollover requirement, to where at worst you were playing a b",
+        "url": "https://reddit.com/r/Lottery/comments/1xczuk2/for_those_who_played_using_it_the_pa_ilottery_has/",
+        "timestamp": "2026-10-23T00:45:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xclz4n",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1xclz4n/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-10-22T15:38:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xcha88",
+        "title": "If you win the lottery and wanna keep it private, what will you say to people about all this money?",
+        "summary": "What would you say about how you got all this money? What's your job to new people?",
+        "url": "https://reddit.com/r/Lottery/comments/1xcha88/if_you_win_the_lottery_and_wanna_keep_it_private/",
+        "timestamp": "2026-10-22T12:31:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1xc3wzr",
         "title": "Powerball",
@@ -142,7 +217,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -157,7 +232,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,23 +261,23 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 4,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1xb6qvq",
         "title": "I wonder if anyone who’s won a large jackpots has browsed lottery subreddits and subreddits of people talking about what they’d do if they won",
-        "summary": "↑1 · 💬0",
+        "summary": "↑5 · 💬2",
         "url": "https://reddit.com/r/Lottery/comments/1xb6qvq/i_wonder_if_anyone_whos_won_a_large_jackpots_has/",
         "timestamp": "2026-10-20T22:53:36.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 5,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -366,8 +441,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 15,
-        "comments": 17,
+        "score": 17,
+        "comments": 19,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -627,51 +702,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1x636zc",
-        "title": "Heads up",
-        "summary": "Just heads up guys I’m feeling lucky today bought 100 dollars worth of powerball tickets …. The jackpot is mine tonight",
-        "url": "https://reddit.com/r/Lottery/comments/1x636zc/heads_up/",
-        "timestamp": "2026-10-14T21:09:35.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 22,
-        "comments": 15,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1x618l8",
-        "title": "Sports Bettors vs Lottery Players: Where Do You Sit?",
-        "summary": "Which of the following suits you best? * **Sports Bettor First:** Are you primarily a sports bettor who casually grabs a Powerball ticket when the jackpot hits $500M+ or buys a scratch-off at the gas station? * **Lottery Player First:** Are",
-        "url": "https://reddit.com/r/Lottery/comments/1x618l8/sports_bettors_vs_lottery_players_where_do_you_sit/",
-        "timestamp": "2026-10-14T19:51:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1x60xy2",
-        "title": "Do You Believe in Signs?",
-        "summary": "So I've been playing the lottery for 30 years and 2 nights ago I had my first ever dream that I won a jackpot. If that happened to you would you be excited and expectant?  Or just blow it off and go about your life as usual? I have to admit",
-        "url": "https://reddit.com/r/Lottery/comments/1x60xy2/do_you_believe_in_signs/",
-        "timestamp": "2026-10-14T19:40:02.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 19,
-        "comments": 24,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Haiku’s latest activity report contains a ton of smaller fixes and improvements",
         "summary": "You know the drill by now – a new month, a new Haiku activity report. This past month doesn’t seem to have any big ticket items, but instead contains a long list of smaller but still welcome fixes. Various filesystem drivers saw some work, a few bugs in virti…",
@@ -685,36 +715,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "reddit-lot-1x5sc1k",
-        "title": "Pa Lottery subscription are back on line",
-        "summary": "Of course they were adamant that we would be notified when the subscription service is back on line, but crickets. I am in PA today and logged into a totally revamped lottery app, subscriptions are back, now trying to confirm, 30 min and co",
-        "url": "https://reddit.com/r/Lottery/comments/1x5sc1k/pa_lottery_subscription_are_back_on_line/",
-        "timestamp": "2026-10-14T14:13:28.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 2,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1x5no6n",
-        "title": "Scratchers",
-        "summary": "I'm in VA and I have 1k to spend on lotto tickets (winnings from past tickets). I'm thinking of buying a book of em. Any suggestions on how I should divide the spending?",
-        "url": "https://reddit.com/r/Lottery/comments/1x5no6n/scratchers/",
-        "timestamp": "2026-10-14T10:27:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
@@ -835,28 +835,13 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Winning the lottery could DESTROY your marriage: Study finds women are more likely to divorce after a big jackpot",
-        "summary": "Winning the lottery is supposed to be the ultimate happy ending. But for some women, striking it rich could come with an unexpected downside - a higher chance of divorce.",
-        "url": "https://www.dailymail.com/sciencetech/article-16192717/Winning-lottery-DESTROY-marriage-Study-women.html",
-        "timestamp": "2026-10-08T11:01:57Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 50,
-      "meSignals": 3,
+      "totalSignals": 49,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 42,
+        "HOPEFUL": 41,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 5
