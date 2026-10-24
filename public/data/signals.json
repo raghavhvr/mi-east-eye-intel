@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:41:32.293Z",
+  "generated_at": "2026-10-24T07:24:30.924Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -17,90 +17,165 @@
   "weather": {
     "Saudi Arabia": {
       "temp_c": 33,
-      "wind_kmh": 5,
+      "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Kuwait": {
-      "temp_c": 33,
-      "wind_kmh": 10,
+      "temp_c": 31,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
     "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 4,
+      "temp_c": 34,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Doha"
     },
+    "UAE": {
+      "temp_c": 34,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Oman": {
       "temp_c": 35,
-      "wind_kmh": 14,
+      "wind_kmh": 20,
       "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 6,
+      "temp_c": 33,
+      "wind_kmh": 12,
       "condition": "Clear",
       "city": "Manama"
     },
     "Lebanon": {
-      "temp_c": 29,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 24,
-      "wind_kmh": 13,
+      "temp_c": 26,
+      "wind_kmh": 11,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Beirut"
     },
     "Jordan": {
       "temp_c": 23,
-      "wind_kmh": 18,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Amman"
     },
+    "Egypt": {
+      "temp_c": 24,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
     "Iran": {
-      "temp_c": 23,
-      "wind_kmh": 10,
+      "temp_c": 22,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Tehran"
     },
     "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
+      "temp_c": 20,
+      "wind_kmh": 7,
+      "condition": "Rain",
       "city": "Sanaa"
-    },
-    "Iraq": {
-      "temp_c": 29,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Baghdad"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.31006,
+    "KWD": 0.310314,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 55.215592,
-    "IQD": 1517.4313
+    "EGP": 55.288734,
+    "IQD": 1517.428257
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1xdurcm",
+        "title": "Will all! 🤑🍀✨️",
+        "summary": "My 1st $500 win on Blitz a.k.a. Purple rain ( sorry for the glare on the ticket) #floridalottery",
+        "url": "https://reddit.com/r/Lottery/comments/1xdurcm/will_all/",
+        "timestamp": "2026-10-24T00:33:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xdt2bk",
+        "title": "New $20 TX ticket win!! $500",
+        "summary": "TX lottery repayment for all my loses, win! Bought 2 tickets at the Quik Trip vending machine. I think I’m going to pay off my credit card with this!",
+        "url": "https://reddit.com/r/Lottery/comments/1xdt2bk/new_20_tx_ticket_win_500/",
+        "timestamp": "2026-10-23T23:14:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xdhj0s",
+        "title": "Anyone here actually enjoy being the person who runs the lottery group? 😂",
+        "summary": "Every office or group lottery group seems to have that one person responsible for collecting money, buying tickets, keeping track of who's in, and making sure everyone gets a copy of the tickets. Seems like a lot of work, especially when th",
+        "url": "https://reddit.com/r/Lottery/comments/1xdhj0s/anyone_here_actually_enjoy_being_the_person_who/",
+        "timestamp": "2026-10-23T15:41:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xdfp9r",
+        "title": "College Student Researching Lottery Players - Would Appreciate Your Input!",
+        "summary": "What's up everyone! I'm a college student working on a marketing project focused on lottery games and what players look for when buying tickets.  We're conducting a quick survey to better understand lottery players' preferences, habits, and",
+        "url": "https://reddit.com/r/Lottery/comments/1xdfp9r/college_student_researching_lottery_players_would/",
+        "timestamp": "2026-10-23T14:32:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xdectp",
+        "title": "Americans spent a jackpot’s worth of money trying to win the lottery in 2024",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1xdectp/americans_spent_a_jackpots_worth_of_money_trying/",
+        "timestamp": "2026-10-23T13:40:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1xd7dzf",
         "title": "Crazy thing happened",
@@ -156,7 +231,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
+        "comments": 6,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9z",
+        "title": "Powerball numbers for Wednesday, Oct. 21, 2026: No jackpot winner - Detroit Free Press",
+        "summary": "Powerball numbers for Wednesday, Oct. 21, 2026: No jackpot winnerDetroit Free Press Powerball winner in Ohio hits prize worth $2 million: See where the winning ticket was sold and check the lucky numbers for Oct. 21WKYC Powerball Jackpot Soars To $674 Million…",
+        "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186416982",
+        "timestamp": "2026-10-22T15:12:36Z",
+        "source": "Slashdot.org",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -171,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 35,
+        "comments": 33,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +276,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 13,
+        "comments": 37,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -202,7 +292,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -426,7 +516,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 8,
+        "score": 9,
         "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
@@ -627,81 +717,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1x6ozr9",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1x6ozr9/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-10-15T15:38:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1x6nj50",
-        "title": "If you win the lottery (assuming you have the anonymous options) what would you choose: Being famous, disappear or something in the middle?",
-        "summary": "If you win the lottery, what would you choose? Being famous (being on tv, influencer etc), disappear (you are a ghost) or something in the middle (likeyou decide to follow your hobby and being famous is just a consequence) I think I would s",
-        "url": "https://reddit.com/r/Lottery/comments/1x6nj50/if_you_win_the_lottery_assuming_you_have_the/",
-        "timestamp": "2026-10-15T14:43:56.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 14,
-        "comments": 32,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1x6nev5",
-        "title": "Cure for Lottery Blues 😔",
-        "summary": "Hey y’all, been playing pretty consistently for almost a decade now; started playing late 2017 in college. I’ve \\*mostly always stuck to a budget 😅 (admittedly have flown too close to the sun a couple times 😅) but for whatever reason when",
-        "url": "https://reddit.com/r/Lottery/comments/1x6nev5/cure_for_lottery_blues/",
-        "timestamp": "2026-10-15T14:39:24.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 15,
-        "comments": 13,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1x6ms2a",
-        "title": "Do you play millionaire for life?",
-        "summary": "I do mostly on Thursdays or Sundays but not always- only those days because no other draw game is really happening. Only two people have won the grand prize- I think it’s been about 230 draws since introduced, seems low honestly. I know the",
-        "url": "https://reddit.com/r/Lottery/comments/1x6ms2a/do_you_play_millionaire_for_life/",
-        "timestamp": "2026-10-15T14:14:09.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 9,
-        "comments": 17,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1x6hylg",
-        "title": "How to play USA lottery",
-        "summary": "Hi all, I am from the Philippines and used to play USA lotteries via Thelotter.com. I think the website has been banned from the country now. Do you guys know any other courier company that offers the similar services?",
-        "url": "https://reddit.com/r/Lottery/comments/1x6hylg/how_to_play_usa_lottery/",
-        "timestamp": "2026-10-15T10:20:14.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 2,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Haiku’s latest activity report contains a ton of smaller fixes and improvements",
         "summary": "You know the drill by now – a new month, a new Haiku activity report. This past month doesn’t seem to have any big ticket items, but instead contains a long list of smaller but still welcome fixes. Various filesystem drivers saw some work, a few bugs in virti…",
@@ -790,65 +805,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Football club scores £1million lottery win after playing same numbers for 30 years",
-        "summary": "Longlevens AFC, based in Gloucester, scooped the jackpot by matching five main numbers and the bonus ball in the draw last month.",
-        "url": "https://www.dailymail.com/news/article-16196713/Football-club-1million-lottery-win.html",
-        "timestamp": "2026-10-09T14:48:10Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "First jackpot winner since Lotto changes wins €5.6m",
-        "summary": "A shop in Cork is celebrating after selling a Lotto ticket worth more than €5.6m in the first jackpot win since the National Lottery removed two numbers.",
-        "url": "https://www.rte.ie/news/2026/1009/1594744-lotto-winner-cork/",
-        "timestamp": "2026-10-09T14:20:42Z",
-        "source": "RTE",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Football club makes history with £1m lottery win",
-        "summary": "Club members at Longlevens AFC are yet to discuss how the money from their big win will be spent.",
-        "url": "https://www.bbc.com/news/articles/cm0rlq84427qo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "timestamp": "2026-10-09T13:57:37Z",
-        "source": "BBC News",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 49,
+      "totalSignals": 47,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 41,
+        "HOPEFUL": 40,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 5
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 16
+      "uncertaintyScore": 15
     }
   }
 }
