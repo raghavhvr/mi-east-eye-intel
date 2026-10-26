@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T07:40:01.016Z",
+  "generated_at": "2026-10-26T07:54:29.697Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,182 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 12,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Bahrain": {
-      "temp_c": 32,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 25,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iran": {
-      "temp_c": 22,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Saudi Arabia": {
-      "temp_c": 32,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Qatar": {
-      "temp_c": 34,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 30,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
     "Oman": {
       "temp_c": 33,
       "wind_kmh": 14,
       "condition": "Partly Cloudy",
       "city": "Muscat"
     },
-    "Egypt": {
-      "temp_c": 23,
-      "wind_kmh": 12,
+    "Lebanon": {
+      "temp_c": 25,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Beirut"
     },
-    "Yemen": {
+    "Jordan": {
+      "temp_c": 27,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 30,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Egypt": {
       "temp_c": 22,
       "wind_kmh": 8,
       "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "UAE": {
+      "temp_c": 35,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 31,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Riyadh"
+    },
+    "Qatar": {
+      "temp_c": 34,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 32,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "Yemen": {
+      "temp_c": 21,
+      "wind_kmh": 6,
+      "condition": "Rain",
       "city": "Sanaa"
     },
-    "Iraq": {
-      "temp_c": 28,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Baghdad"
+    "Iran": {
+      "temp_c": 22,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Bahrain": {
+      "temp_c": 32,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.31022,
+    "KWD": 0.309841,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 55.281789,
-    "IQD": 1517.423635
+    "EGP": 55.676694,
+    "IQD": 1517.275177
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1xfkiy8",
+        "title": "Reasons to Play Multi-State Games Out of State",
+        "summary": "A recent Powerball draw revealed that a winner or winners won in New Jersey, Pennsylvania and Ohio. This got me thinking about the fact that I could have gotten a road trip straight across, played the same white ball numbers with a differen",
+        "url": "https://reddit.com/r/Lottery/comments/1xfkiy8/reasons_to_play_multistate_games_out_of_state/",
+        "timestamp": "2026-10-26T02:06:49.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 5,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xer2xk",
+        "title": "In New York, the store that sells your lottery ticket keeps 6% of it, a rate set in 1977",
+        "summary": "That retailer commission is one of several small income lines at gas stations and convenience stores, next to a fuel margin that averaged a bit over 40 cents a gallon in 2025. I made a video about how these stores really make their money, a",
+        "url": "https://reddit.com/r/Lottery/comments/1xer2xk/in_new_york_the_store_that_sells_your_lottery/",
+        "timestamp": "2026-10-25T02:51:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xepid6",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑0 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1xepid6/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-10-25T01:30:09.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xenwtz",
+        "title": "Old megamillions ticket from nearly two years ago",
+        "summary": "Look at that bargain.",
+        "url": "https://reddit.com/r/Lottery/comments/1xenwtz/old_megamillions_ticket_from_nearly_two_years_ago/",
+        "timestamp": "2026-10-25T00:11:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 23,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xdurcm",
+        "title": "Will all! 🤑🍀✨️",
+        "summary": "My 1st $500 win on Blitz a.k.a. Purple rain ( sorry for the glare on the ticket) #floridalottery",
+        "url": "https://reddit.com/r/Lottery/comments/1xdurcm/will_all/",
+        "timestamp": "2026-10-24T00:33:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 38,
+        "comments": 8,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xdt2bk",
+        "title": "New $20 TX ticket win!! $500",
+        "summary": "TX lottery repayment for all my loses, win! Bought 2 tickets at the Quik Trip vending machine. I think I’m going to pay off my credit card with this!",
+        "url": "https://reddit.com/r/Lottery/comments/1xdt2bk/new_20_tx_ticket_win_500/",
+        "timestamp": "2026-10-23T23:14:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 67,
+        "comments": 19,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Auctions: Monaco Legend Group's Fall Auction Is A Return To The Classics",
@@ -115,6 +205,51 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
+      },
+      {
+        "id": "reddit-lot-1xdhj0s",
+        "title": "Anyone here actually enjoy being the person who runs the lottery group? 😂",
+        "summary": "Every office or group lottery group seems to have that one person responsible for collecting money, buying tickets, keeping track of who's in, and making sure everyone gets a copy of the tickets. Seems like a lot of work, especially when th",
+        "url": "https://reddit.com/r/Lottery/comments/1xdhj0s/anyone_here_actually_enjoy_being_the_person_who/",
+        "timestamp": "2026-10-23T15:41:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 4,
+        "comments": 4,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xdfp9r",
+        "title": "College Student Researching Lottery Players - Would Appreciate Your Input!",
+        "summary": "What's up everyone! I'm a college student working on a marketing project focused on lottery games and what players look for when buying tickets.  We're conducting a quick survey to better understand lottery players' preferences, habits, and",
+        "url": "https://reddit.com/r/Lottery/comments/1xdfp9r/college_student_researching_lottery_players_would/",
+        "timestamp": "2026-10-23T14:32:12.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 1,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xdectp",
+        "title": "Americans spent a jackpot’s worth of money trying to win the lottery in 2024",
+        "summary": "↑22 · 💬2",
+        "url": "https://reddit.com/r/Lottery/comments/1xdectp/americans_spent_a_jackpots_worth_of_money_trying/",
+        "timestamp": "2026-10-23T13:40:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 22,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
@@ -132,6 +267,66 @@
         "isME": true
       },
       {
+        "id": "reddit-lot-1xd7dzf",
+        "title": "Crazy thing happened",
+        "summary": "Won on some website called are emirates draw but they definitely have someone else handling the scratch, this is some lucky day",
+        "url": "https://reddit.com/r/Lottery/comments/1xd7dzf/crazy_thing_happened/",
+        "timestamp": "2026-10-23T07:27:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 14,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1xd1bxs",
+        "title": "Lottery States",
+        "summary": "Based on this community, you would think only people from Texas, California, and Florida played the lottery. 🤣",
+        "url": "https://reddit.com/r/Lottery/comments/1xd1bxs/lottery_states/",
+        "timestamp": "2026-10-23T01:57:32.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 9,
+        "comments": 4,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xczuk2",
+        "title": "For those who played using it - the PA iLottery has MASSIVELY nerfed the Webcash Wednesday bonus.",
+        "summary": "For years, high rollers who played online had access to one of the best bonuses out there - a weekly match up to $500.  Staying disciplined and playing only draw games negated the rollover requirement, to where at worst you were playing a b",
+        "url": "https://reddit.com/r/Lottery/comments/1xczuk2/for_those_who_played_using_it_the_pa_ilottery_has/",
+        "timestamp": "2026-10-23T00:45:22.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xclz4n",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1xclz4n/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-10-22T15:38:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 8,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "newsapi-lot-aHR0cHM6Ly9z",
         "title": "Powerball numbers for Wednesday, Oct. 21, 2026: No jackpot winner - Detroit Free Press",
         "summary": "Powerball numbers for Wednesday, Oct. 21, 2026: No jackpot winnerDetroit Free Press Powerball winner in Ohio hits prize worth $2 million: See where the winning ticket was sold and check the lucky numbers for Oct. 21WKYC Powerball Jackpot Soars To $674 Million…",
@@ -143,6 +338,126 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xcha88",
+        "title": "If you win the lottery and wanna keep it private, what will you say to people about all this money?",
+        "summary": "What would you say about how you got all this money? What's your job to new people?",
+        "url": "https://reddit.com/r/Lottery/comments/1xcha88/if_you_win_the_lottery_and_wanna_keep_it_private/",
+        "timestamp": "2026-10-22T12:31:58.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 40,
+        "comments": 42,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xc3wzr",
+        "title": "Powerball",
+        "summary": "Who’s playing tonight I got me a single quick pick",
+        "url": "https://reddit.com/r/Lottery/comments/1xc3wzr/powerball/",
+        "timestamp": "2026-10-22T00:17:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 14,
+        "comments": 44,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xc2evj",
+        "title": "As someone who isn't in the US is it fine to play Powerball via courier??",
+        "summary": "like the site The Lotter: [TheLotter.com](http://TheLotter.com)  to me it seems legit and i have used it before, they do scan the ticket and add it to my account before the Powerball results are out. But my concern is lets say i win the jac",
+        "url": "https://reddit.com/r/Lottery/comments/1xc2evj/as_someone_who_isnt_in_the_us_is_it_fine_to_play/",
+        "timestamp": "2026-10-21T23:09:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 6,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xbtkx7",
+        "title": "Cash5 Colorado, is this sketchy?",
+        "summary": "So, a few days ago, the Cash Five jackpot was hit TEN times in one drawing.  I saw on the website a couple days after that all ten of the 20,000 jackpot wins were bought by THE SAME PERSON.  Am I crazy, or is this kinda sketch?  I am honest",
+        "url": "https://reddit.com/r/Lottery/comments/1xbtkx7/cash5_colorado_is_this_sketchy/",
+        "timestamp": "2026-10-21T17:29:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xbp9l2",
+        "title": "Lotto app ticket purchase gone",
+        "summary": "All my tickets are gone from the BC Lotto app.  Logged in this am.  No current tickets from last night lottery and my history is gone too.  Anyone else experiencing this.",
+        "url": "https://reddit.com/r/Lottery/comments/1xbp9l2/lotto_app_ticket_purchase_gone/",
+        "timestamp": "2026-10-21T14:50:57.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 5,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xbkmvg",
+        "title": "I won the lottery today in my country...I still cannot believe it",
+        "summary": "90M in my country's currency  Im so happy What should I do now? Where to invest? I am waiting to cash in on the ticket",
+        "url": "https://reddit.com/r/Lottery/comments/1xbkmvg/i_won_the_lottery_today_in_my_countryi_still/",
+        "timestamp": "2026-10-21T11:30:46.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xbbfz0",
+        "title": "Some lottery information that some seem to not understand.",
+        "summary": "After seeing how much is misunderstood in another post here are some facts. The Multi-State Lottery Association (MUSL) does not directly report profits, as it is a non-profit organization that facilitates lottery games for its member states",
+        "url": "https://reddit.com/r/Lottery/comments/1xbbfz0/some_lottery_information_that_some_seem_to_not/",
+        "timestamp": "2026-10-21T02:36:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 6,
+        "comments": 5,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xb6qvq",
+        "title": "I wonder if anyone who’s won a large jackpots has browsed lottery subreddits and subreddits of people talking about what they’d do if they won",
+        "summary": "↑7 · 💬2",
+        "url": "https://reddit.com/r/Lottery/comments/1xb6qvq/i_wonder_if_anyone_whos_won_a_large_jackpots_has/",
+        "timestamp": "2026-10-20T22:53:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 7,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -162,6 +477,66 @@
         "isME": false
       },
       {
+        "id": "reddit-lot-1xaex77",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1xaex77/powerball_winning_numbers_monday/",
+        "timestamp": "2026-10-20T01:20:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xaaf48",
+        "title": "Why is NY Lotto promoting to 20 something affluent girls?",
+        "summary": "I work in photo/film and did a shoot for NY Lotto last year and was genuinely shocked to see their entire in-house creative team consisted of college aged pumpkin spice girls. I don’t say that as a put down, it’s just the best way to descri",
+        "url": "https://reddit.com/r/Lottery/comments/1xaaf48/why_is_ny_lotto_promoting_to_20_something/",
+        "timestamp": "2026-10-19T21:58:28.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 13,
+        "comments": 4,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xa9zek",
+        "title": "I have been trying to figure out the lotto for years. The best way I found is to combine them all into one big helix type you'll see the nunbers aligned and shft day by day unusually the smaller ones are digit sums for the larger ones also it uses the syracuse pattern negative fibinaci and po the 21",
+        "summary": "Florida lottos nunber chains and how algorithms works",
+        "url": "https://reddit.com/r/Lottery/comments/1xa9zek/i_have_been_trying_to_figure_out_the_lotto_for/",
+        "timestamp": "2026-10-19T21:40:53.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xa8jh7",
+        "title": "California lottery",
+        "summary": "I am not much of a gambler/lottery player i do try it at least once or twice a year if that the most that I ever won was $500 like 4 years ago and i won $15 a few days ago on my birthday( those were scratchers that’s the only one I know how",
+        "url": "https://reddit.com/r/Lottery/comments/1xa8jh7/california_lottery/",
+        "timestamp": "2026-10-19T20:45:20.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 4,
+        "comments": 7,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "newsapi-lot-aHR0cHM6Ly9j",
         "title": "Las Vegas Raiders aren’t getting enough from Tyler Linderbaum, especially in Week 6 loss to Buffalo Bills",
         "summary": "Big ticket free-agent signing isn’t living up to the contract and had a brutal showing on Sunday.",
@@ -177,6 +552,21 @@
         "isME": true
       },
       {
+        "id": "reddit-lot-1x9xrle",
+        "title": "Co-worker just won $276,000",
+        "summary": "My coworker just won $276,000 from a state lottery game called  badger 5 , it’s a daily game and it accumulated up to 276,000 , he has to split it because someone else won as well, but still amazing to be right there to see it",
+        "url": "https://reddit.com/r/Lottery/comments/1x9xrle/coworker_just_won_276000/",
+        "timestamp": "2026-10-19T14:03:48.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 384,
+        "comments": 67,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
         "id": "newsapi-lot-aHR0cHM6Ly93",
         "title": "Everything I've seen after advising lottery winners on their finances for 10 years: Divorce, family feuds, drugs, terrible decisions and 'normal' people",
         "summary": "A financial advisor has lifted the lid on lottery winners after spending 10 years overseeing their finances following their sudden windfalls.",
@@ -188,6 +578,156 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x9dtas",
+        "title": "Half cash payment for jackpot (Mega Millions and Powerball)",
+        "summary": "Several years ago, when you won jackpot you have two option - lump sum or annual payments. The lump sum option is typically half of the jackpot minus taxes (federal + state) but it seems that the half prize is about 40% of the jackpot .",
+        "url": "https://reddit.com/r/Lottery/comments/1x9dtas/half_cash_payment_for_jackpot_mega_millions_and/",
+        "timestamp": "2026-10-18T20:41:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x9a8h4",
+        "title": "$400M->$413M, $600M->$607M?",
+        "summary": "Recent multi state drawings    (PB & MM) have reminded me of numerous instances over the last several (10?) years where the amount added to the rollover jackpot seemed to be a notably low amount.  Last night (well, both of the weekend’s dra",
+        "url": "https://reddit.com/r/Lottery/comments/1x9a8h4/400m413m_600m607m/",
+        "timestamp": "2026-10-18T18:18:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 10,
+        "comments": 3,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x964gd",
+        "title": "Which lottery winner story inspires you the most?",
+        "summary": "Is there any lottery winner story that inspires you? Something you always think when feel down and think you are not going to win? For me it's Timothy Schultz and Cynthia Stanford",
+        "url": "https://reddit.com/r/Lottery/comments/1x964gd/which_lottery_winner_story_inspires_you_the_most/",
+        "timestamp": "2026-10-18T15:33:44.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 16,
+        "comments": 19,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x91oet",
+        "title": "Just a $7 million bump in the post-Saturday Powerball rollover?",
+        "summary": "The jackpot for Powerball has rolled over for the next draw tomorrow.  The increase in the jackpot seems really low: just $7 million, on a $600 million prize.  By comparison, last Wednesday's jackpot was at $562 million and all those losing",
+        "url": "https://reddit.com/r/Lottery/comments/1x91oet/just_a_7_million_bump_in_the_postsaturday/",
+        "timestamp": "2026-10-18T12:10:19.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 12,
+        "comments": 7,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8z5rk",
+        "title": "So is powerball always going to start at $20 million? What happened to the $40 million base amount?",
+        "summary": "I know the 20 million starting draw was one of those, \"due to covid...\" excuses all businesses used (with or without good reason). But now that covid is long gone why do the still start at 20 and not 40. Many retailers and corporations LOVE",
+        "url": "https://reddit.com/r/Lottery/comments/1x8z5rk/so_is_powerball_always_going_to_start_at_20/",
+        "timestamp": "2026-10-18T09:42:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 8,
+        "comments": 4,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8z2np",
+        "title": "What's up with powerball increasing the jackpot by only 7 million? And the inconsistencies about advertised jackpot amount?",
+        "summary": "Most powerball jackpots increase by 20 to 30 million or more, but Monday's drawing only went up by 7. What's with the low balling of advertising one huge number and the reducing it after gaining sales due to that large advertised number?",
+        "url": "https://reddit.com/r/Lottery/comments/1x8z2np/whats_up_with_powerball_increasing_the_jackpot_by/",
+        "timestamp": "2026-10-18T09:36:33.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 23,
+        "comments": 20,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8qrm1",
+        "title": "Powerball Winning Numbers (Saturday)",
+        "summary": "↑0 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1x8qrm1/powerball_winning_numbers_saturday/",
+        "timestamp": "2026-10-18T01:30:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8nrv8",
+        "title": "A rare non-fake multiplier from the CA Lottery",
+        "summary": "↑55 · 💬2",
+        "url": "https://reddit.com/r/Lottery/comments/1x8nrv8/a_rare_nonfake_multiplier_from_the_ca_lottery/",
+        "timestamp": "2026-10-17T23:01:32.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 55,
+        "comments": 2,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8jat3",
+        "title": "PA lottery app",
+        "summary": "Question- ups on scanning my crossword scratch offs, i noticed on the app, you can deposit money and play games on your phone. Wondering if it’s all a scam or do people literally win, on the slot like machine games! Fun fact- I won $1000 (t",
+        "url": "https://reddit.com/r/Lottery/comments/1x8jat3/pa_lottery_app/",
+        "timestamp": "2026-10-17T19:44:02.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1x8hlqq",
+        "title": "What will you NOT do if you hit the jackpot tonight?",
+        "summary": "↑33 · 💬32",
+        "url": "https://reddit.com/r/Lottery/comments/1x8hlqq/what_will_you_not_do_if_you_hit_the_jackpot/",
+        "timestamp": "2026-10-17T18:33:59.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 33,
+        "comments": 32,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -268,17 +808,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 11,
-      "meSignals": 5,
+      "totalSignals": 47,
+      "meSignals": 6,
       "moodDist": {
-        "HOPEFUL": 11,
+        "HOPEFUL": 41,
         "CYNICAL": 0,
-        "ANXIOUS": 0,
-        "NEUTRAL": 0
+        "ANXIOUS": 2,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 0
+      "uncertaintyScore": 13
     }
   }
 }
