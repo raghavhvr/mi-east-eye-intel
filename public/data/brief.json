@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T08:06:06.924Z",
+  "generated_at": "2026-10-27T08:21:59.751Z",
   "model": "keyword-fallback",
   "threatLevel": "MODERATE",
-  "topTheme": "Regional Security",
-  "summary": "Regional signals indicate moderate activity with focus on regional security. Monitoring 12 open-source data points.",
+  "topTheme": "Economic Activity",
+  "summary": "Regional signals indicate moderate activity with focus on economic activity. Monitoring 12 open-source data points.",
   "keyTrends": [
     "Ongoing monitoring",
     "Signal analysis active",
