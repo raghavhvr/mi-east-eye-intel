@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T08:01:17.428Z",
+  "generated_at": "2026-10-28T08:43:08.119Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -16,91 +16,121 @@
   },
   "weather": {
     "Qatar": {
-      "temp_c": 34,
-      "wind_kmh": 6,
+      "temp_c": 35,
+      "wind_kmh": 5,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Kuwait": {
-      "temp_c": 33,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Oman": {
-      "temp_c": 32,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 33,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Iraq": {
-      "temp_c": 31,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
     "Lebanon": {
-      "temp_c": 25,
-      "wind_kmh": 10,
+      "temp_c": 24,
+      "wind_kmh": 13,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Yemen": {
       "temp_c": 21,
-      "wind_kmh": 6,
+      "wind_kmh": 10,
       "condition": "Clear",
       "city": "Sanaa"
     },
-    "Iran": {
-      "temp_c": 21,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Tehran"
+    "Oman": {
+      "temp_c": 32,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
     },
     "Bahrain": {
       "temp_c": 33,
       "wind_kmh": 7,
-      "condition": "Clear",
+      "condition": "Partly Cloudy",
       "city": "Manama"
+    },
+    "Iran": {
+      "temp_c": 21,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Iraq": {
+      "temp_c": 27,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Jordan": {
+      "temp_c": 21,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "UAE": {
+      "temp_c": 34,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Egypt": {
+      "temp_c": 27,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Saudi Arabia": {
+      "temp_c": 35,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Kuwait": {
+      "temp_c": 33,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310491,
+    "KWD": 0.310652,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 56.269832,
-    "IQD": 1517.262062
+    "EGP": 56.094824,
+    "IQD": 1517.976146
   },
   "lottery": {
     "items": [
+      {
+        "id": "hn-lot-50261234",
+        "title": "Show HN: Snippet – an always-on AI agent",
+        "summary": "1 pts · 0 comments",
+        "url": "https://snippet.wacht.dev/",
+        "timestamp": "2026-10-27T15:59:59.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Indian office boy, 3 other expats from Kerala, Mumbai and Bengaluru win 200g gold bars worth Rs 23 lakh each in Abu Dhabi lottery",
+        "summary": "An Indian office boy based in Bahrain is among four Indian expatriates who have each won a 200-gram, 24-carat gold bar in Abu Dhabi’s Big Ticket October e-draw. Aruna Krishnappa Kidiyoor, Jijoy Viswan, Sadathulla Sharief and Manisha Harshal Kasat are the winn…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/indian-office-boy-3-other-expats-from-kerala-mumbai-and-bengaluru-win-200g-gold-bars-worth-rs-23-lakh-each-in-abu-dhabi-lottery/articleshow/135224122.cms",
+        "timestamp": "2026-10-27T04:52:24Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Powerball Ohio winners October 24, 2026: Check winning numbers last night as Powerball jackpot nears USD 700 million",
@@ -235,35 +265,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": true
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Data Engineering for Prize Draws: Building an Audit Trail",
-        "summary": "A practical data-engineering guide to tracing entries, handling duplicate events and preserving the records behind a prize draw result.",
-        "url": "https://www.smartdatacollective.com/data-engineering-prize-draw-audit-trail/",
-        "timestamp": "2026-10-13T17:46:59Z",
-        "source": "Smartdatacollective.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 10,
-      "meSignals": 4,
+      "totalSignals": 11,
+      "meSignals": 5,
       "moodDist": {
         "HOPEFUL": 10,
         "CYNICAL": 0,
         "ANXIOUS": 0,
-        "NEUTRAL": 0
+        "NEUTRAL": 1
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 0
+      "uncertaintyScore": 9
     }
   }
 }
