@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:38:22.736Z",
+  "generated_at": "2026-10-30T08:45:33.532Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,197 @@
     "Iran": null
   },
   "weather": {
+    "Qatar": {
+      "temp_c": 33,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Bahrain": {
+      "temp_c": 33,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "UAE": {
+      "temp_c": 35,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Saudi Arabia": {
       "temp_c": 35,
       "wind_kmh": 8,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Riyadh"
     },
-    "UAE": {
-      "temp_c": 34,
-      "wind_kmh": 11,
+    "Kuwait": {
+      "temp_c": 33,
+      "wind_kmh": 13,
       "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
+      "city": "Kuwait City"
     },
-    "Iraq": {
-      "temp_c": 30,
+    "Iran": {
+      "temp_c": 21,
       "wind_kmh": 9,
       "condition": "Partly Cloudy",
-      "city": "Baghdad"
+      "city": "Tehran"
     },
-    "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 12,
+    "Jordan": {
+      "temp_c": 19,
+      "wind_kmh": 15,
       "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Yemen": {
-      "temp_c": 21,
-      "wind_kmh": 5,
-      "condition": "Clear",
-      "city": "Sanaa"
+      "city": "Amman"
     },
     "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 28,
+      "temp_c": 21,
+      "wind_kmh": 20,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
     "Oman": {
-      "temp_c": 32,
-      "wind_kmh": 12,
-      "condition": "Rain",
+      "temp_c": 33,
+      "wind_kmh": 14,
+      "condition": "Clear",
       "city": "Muscat"
     },
-    "Qatar": {
-      "temp_c": 34,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 31,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 21,
-      "wind_kmh": 18,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iran": {
-      "temp_c": 20,
+    "Egypt": {
+      "temp_c": 24,
       "wind_kmh": 8,
       "condition": "Partly Cloudy",
-      "city": "Tehran"
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 29,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 22,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310205,
+    "KWD": 0.310604,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 56.119018,
-    "IQD": 1516.086305
+    "EGP": 56.042101,
+    "IQD": 1516.760298
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1xj4k52",
+        "title": "Omg. I finally won!",
+        "summary": "I've been freaking out on how to cover my property tax $885, due tomorrow. I already called them and told them I was gonna be late  because I'm broke living paycheck to paycheck.  So today, I was at Casey's getting a fountain soda for 1.69.",
+        "url": "https://reddit.com/r/Lottery/comments/1xj4k52/omg_i_finally_won/",
+        "timestamp": "2026-10-30T03:16:36.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 96,
+        "comments": 24,
+        "mood": "ANXIOUS",
+        "isME": true
+      },
+      {
+        "id": "reddit-lot-1xiws3f",
+        "title": "Canadians winning a huge US lotto [1B, 1.5B+]",
+        "summary": "I wonder if in the current environment if it got out that you are a non resident if you would be able to collect it without a very long and very expensive legal battle.   Scenario   Keep in mind I am not talking a million dollar win, those ",
+        "url": "https://reddit.com/r/Lottery/comments/1xiws3f/canadians_winning_a_huge_us_lotto_1b_15b/",
+        "timestamp": "2026-10-29T21:27:39.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 10,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xindgy",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1xindgy/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-10-29T15:38:11.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 7,
+        "comments": 10,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xilj22",
+        "title": "For Big Lottery Winners: What Was Your Secret to Winning?",
+        "summary": "When you bought your winning ticket, did you have a particular strategy, or was it simply a matter of luck? Did you choose your own numbers, use Quick Pick, or follow a personal routine or lucky habit? I’d also love to know if there are any",
+        "url": "https://reddit.com/r/Lottery/comments/1xilj22/for_big_lottery_winners_what_was_your_secret_to/",
+        "timestamp": "2026-10-29T14:28:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 15,
+        "comments": 4,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xihwi3",
+        "title": "If you win the lottery, what stupid would you do by accident?",
+        "summary": "I'm sure that everyone in here is smart and would take care of the money right but is there anything stupid would you do by accident? I would probably post a lot of traveling pics and fight with some stupid random stupid influencer online l",
+        "url": "https://reddit.com/r/Lottery/comments/1xihwi3/if_you_win_the_lottery_what_stupid_would_you_do/",
+        "timestamp": "2026-10-29T11:55:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 9,
+        "comments": 6,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xifyja",
+        "title": "Mido Lottery?",
+        "summary": "Has anybody ever won anything big on this app? Or is it a scam? CA State Lottery apparently does not even endorse this app.",
+        "url": "https://reddit.com/r/Lottery/comments/1xifyja/mido_lottery/",
+        "timestamp": "2026-10-29T10:12:32.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Grandmother enters a festival lucky draw, buys Rs 200 ticket under 6-year-old grandson's name, wins Toyota Fortuner worth Rs 50 lakh",
+        "summary": "Rs 200 ticket to Rs 50 lakh Toyota Fortuner: A grandmother from Madhya Pradesh bought a Rs 200 ticket at a Garba festival lucky draw in her six-year-old grandson's name. Nearly a year later, the boy won a Toyota Fortuner SUV worth around Rs 50 lakh, turning a…",
+        "url": "https://economictimes.indiatimes.com/news/new-updates/grandmother-enters-festival-lucky-draw-buys-rs-200-ticket-under-6-year-old-grandsons-name-wins-toyota-fortuner-worth-rs-50-lakh/articleshow/135290478.cms",
+        "timestamp": "2026-10-29T05:03:02Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1xi7ffk",
         "title": "Powerball",
@@ -111,40 +216,25 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 11,
-        "comments": 8,
+        "score": 16,
+        "comments": 12,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
-        "id": "reddit-lot-1xhzhzm",
-        "title": "How do Saudi Arabians go about grocery shopping, and what does their spending usually look like?",
-        "summary": "Hello, I have an assignment for my marketing class about shopping tendencies in Saudi Arabia. If you fill it out, you will automatically be entered into a raffle for a 250$ (or equivalent) Amazon gift card. It should take less than 10 minut",
-        "url": "https://reddit.com/r/saudiarabia/comments/1xhzhzm/how_do_saudi_arabians_go_about_grocery_shopping/",
-        "timestamp": "2026-10-28T20:25:44.000Z",
-        "source": "r/saudiarabia",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "She bought a Rs 200 coupon at a garba night and put her grandson’s name on it. A year later, an Rs 50 lakh Toyota Fortuner arrived at the Raikwar home in MP",
+        "summary": "An Rs 200 lucky draw coupon bought at a garba event in Abhapuri Dham has delivered a Rs 50 lakh Toyota Fortuner to a Burhanpur family. Grandmother Kiran Raikwar entered six-year-old Vedansh’s name without expecting anything. When his name was announced, the f…",
+        "url": "https://timesofindia.indiatimes.com/city/indore/she-bought-a-rs-200-coupon-at-a-garba-night-and-put-her-grandsons-name-on-it-a-year-later-an-rs-50-lakh-toyota-fortuner-arrived-at-the-raikwar-home-in-mp/articleshow/135271356.cms",
+        "timestamp": "2026-10-28T15:48:49Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1xhz9kx",
-        "title": "I am curious about how people from the UAE approach grocery shopping and what their spending usually looks like?",
-        "summary": "Hello, I have an assignment for my marketing class about Gen Z's grocery and beauty spending in the UAE. If you fill it out, you will automatically be entered into a raffle for a 250$ (or equivalent) Amazon gift card. It should take less th",
-        "url": "https://reddit.com/r/UAE/comments/1xhz9kx/i_am_curious_about_how_people_from_the_uae/",
-        "timestamp": "2026-10-28T20:17:07.000Z",
-        "source": "r/UAE",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
+        "isME": false
       },
       {
         "id": "reddit-lot-1xh8126",
@@ -156,7 +246,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 5,
+        "score": 6,
         "comments": 3,
         "mood": "ANXIOUS",
         "isME": false
@@ -189,21 +279,6 @@
         "score": 16,
         "comments": 27,
         "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-50261234",
-        "title": "Show HN: Snippet – an always-on AI agent",
-        "summary": "1 pts · 0 comments",
-        "url": "https://snippet.wacht.dev/",
-        "timestamp": "2026-10-27T15:59:59.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "NEUTRAL",
         "isME": false
       },
       {
@@ -501,7 +576,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 9,
+        "score": 10,
         "comments": 4,
         "mood": "NEUTRAL",
         "isME": false
@@ -516,7 +591,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -561,8 +636,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 40,
-        "comments": 42,
+        "score": 41,
+        "comments": 44,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -687,21 +762,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1xaex77",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1xaex77/powerball_winning_numbers_monday/",
-        "timestamp": "2026-10-20T01:20:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9j",
         "title": "Las Vegas Raiders aren’t getting enough from Tyler Linderbaum, especially in Week 6 loss to Buffalo Bills",
         "summary": "Big ticket free-agent signing isn’t living up to the contract and had a brutal showing on Sunday.",
@@ -730,35 +790,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "8,770 in fray for 41 bar licences as T holds lucky draw today",
-        "summary": "Telangana excise dept gets 8,770 applications for 41 bar licences; lucky draw on Oct 16 at 11 am, overseen by commissioner and district collectors.",
-        "url": "https://timesofindia.indiatimes.com/city/hyderabad/8770-in-fray-for-41-bar-licences-as-t-holds-lucky-draw-today/articleshow/134974943.cms",
-        "timestamp": "2026-10-15T18:33:20Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 43,
-      "meSignals": 7,
+      "totalSignals": 46,
+      "meSignals": 6,
       "moodDist": {
-        "HOPEFUL": 36,
+        "HOPEFUL": 39,
         "CYNICAL": 0,
-        "ANXIOUS": 2,
-        "NEUTRAL": 5
+        "ANXIOUS": 3,
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 16
+      "uncertaintyScore": 15
     }
   }
 }
