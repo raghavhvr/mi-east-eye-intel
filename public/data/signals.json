@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:23:44.851Z",
+  "generated_at": "2026-11-02T09:38:39.797Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,11 +15,59 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 7,
+    "Egypt": {
+      "temp_c": 29,
+      "wind_kmh": 13,
       "condition": "Clear",
-      "city": "Abu Dhabi"
+      "city": "Cairo"
+    },
+    "Oman": {
+      "temp_c": 33,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Jordan": {
+      "temp_c": 26,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Qatar": {
+      "temp_c": 36,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 21,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Kuwait": {
+      "temp_c": 34,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "Lebanon": {
+      "temp_c": 24,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
     },
     "Saudi Arabia": {
       "temp_c": 35,
@@ -27,80 +75,47 @@
       "condition": "Clear",
       "city": "Riyadh"
     },
-    "Kuwait": {
-      "temp_c": 33,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Oman": {
-      "temp_c": 32,
+    "UAE": {
+      "temp_c": 34,
       "wind_kmh": 14,
       "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Abu Dhabi"
     },
     "Bahrain": {
-      "temp_c": 35,
-      "wind_kmh": 8,
+      "temp_c": 34,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Manama"
-    },
-    "Iraq": {
-      "temp_c": 28,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Iran": {
-      "temp_c": 24,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310746,
+    "KWD": 0.310615,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 56.030715,
-    "IQD": 1516.824871
+    "EGP": 55.960696,
+    "IQD": 1517.707928
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1xl6rde",
+        "title": "Cigarette carton price at abu dhabi duty free",
+        "summary": "have some cash left with me as part of my currency exchanged which I did previously. The problem being I will be left with some cash here and was thinking to buy cigarette cartons. I loved the camel yellow cigarettes and plan on to taking s",
+        "url": "https://reddit.com/r/UAE/comments/1xl6rde/cigarette_carton_price_at_abu_dhabi_duty_free/",
+        "timestamp": "2026-11-01T16:03:33.000Z",
+        "source": "r/UAE",
+        "sourceType": "Reddit",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": true
+      },
       {
         "id": "reddit-lot-1xkw6fs",
         "title": "Oklahoma lottery",
@@ -112,7 +127,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 6,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -134,15 +149,30 @@
       {
         "id": "reddit-lot-1xkq9mj",
         "title": "Top prize Blowout win Florida lottery",
-        "summary": "↑8 · 💬1",
+        "summary": "↑17 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1xkq9mj/top_prize_blowout_win_florida_lottery/",
         "timestamp": "2026-11-01T01:00:12.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 8,
+        "score": 17,
         "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9l",
+        "title": "Michigan man finds lottery ticket in wallet after running short of cash to buy soda, you won't believe how much he won",
+        "summary": "In a surprising twist of fate, Michael Vander Lugt from Wyoming, Michigan stumbled upon a $1 million Powerball ticket he had unknowingly pocketed for two months. His routine visit to buy a soft drink took an unexpected turn when he handed over old tickets, le…",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/michigan-man-finds-lottery-ticket-in-wallet-after-running-short-of-cash-to-buy-soda-you-wont-believe-how-much-he-won/articleshow/135406678.cms",
+        "timestamp": "2026-10-31T17:40:08Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 10,
-        "comments": 10,
+        "score": 11,
+        "comments": 11,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +216,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 31,
-        "comments": 32,
+        "score": 33,
+        "comments": 33,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -202,7 +232,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 17,
-        "comments": 16,
+        "comments": 18,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -517,7 +547,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 3,
-        "comments": 11,
+        "comments": 22,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -657,21 +687,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1xdectp",
-        "title": "Americans spent a jackpot’s worth of money trying to win the lottery in 2024",
-        "summary": "↑23 · 💬2",
-        "url": "https://reddit.com/r/Lottery/comments/1xdectp/americans_spent_a_jackpots_worth_of_money_trying/",
-        "timestamp": "2026-10-23T13:40:44.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 23,
-        "comments": 2,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9l",
         "title": "Anilkumar Bolla, Rs 240 crore UAE lottery winner who became a multi-millionaire says the biggest change in his life is being able to spend more time with family",
         "summary": "Anilkumar Bolla UAE lottery winner: Indian expat Anilkumar Bolla won the UAE Lottery’s Dh100 million jackpot in October 2025. A year later, he has bought property in India and the UAE, gifted gold jewellery to his mother and farmland to his father, and begun …",
@@ -703,17 +718,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 40,
-      "meSignals": 4,
+      "totalSignals": 41,
+      "meSignals": 5,
       "moodDist": {
         "HOPEFUL": 33,
         "CYNICAL": 0,
         "ANXIOUS": 4,
-        "NEUTRAL": 3
+        "NEUTRAL": 4
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 18
+      "uncertaintyScore": 20
     }
   }
 }
