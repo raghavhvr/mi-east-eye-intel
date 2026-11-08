@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T08:56:04.797Z",
+  "generated_at": "2026-11-08T09:11:17.937Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,107 @@
     "Iran": null
   },
   "weather": {
+    "Saudi Arabia": {
+      "temp_c": 31,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 35,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Oman": {
       "temp_c": 32,
-      "wind_kmh": 19,
+      "wind_kmh": 13,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Lebanon": {
+      "temp_c": 18,
+      "wind_kmh": 6,
+      "condition": "Showers",
+      "city": "Beirut"
+    },
+    "Yemen": {
+      "temp_c": 26,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 14,
+      "wind_kmh": 3,
+      "condition": "Showers",
+      "city": "Tehran"
+    },
+    "Kuwait": {
+      "temp_c": 27,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 35,
+      "wind_kmh": 19,
+      "condition": "Clear",
+      "city": "Doha"
+    },
     "Egypt": {
-      "temp_c": 20,
+      "temp_c": 22,
       "wind_kmh": 10,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Iran": {
-      "temp_c": 15,
-      "wind_kmh": 10,
-      "condition": "Rain",
-      "city": "Tehran"
-    },
-    "UAE": {
-      "temp_c": 36,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 31,
-      "wind_kmh": 18,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 15,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 34,
-      "wind_kmh": 15,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Jordan": {
-      "temp_c": 16,
-      "wind_kmh": 22,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 19,
-      "wind_kmh": 16,
-      "condition": "Showers",
-      "city": "Beirut"
-    },
-    "Bahrain": {
-      "temp_c": 34,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
     "Iraq": {
-      "temp_c": 25,
-      "wind_kmh": 8,
+      "temp_c": 24,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 24,
+    "Bahrain": {
+      "temp_c": 33,
       "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Sanaa"
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 15,
+      "wind_kmh": 20,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.31062,
+    "KWD": 0.310519,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.901088,
-    "IQD": 1518.682569
+    "EGP": 53.902283,
+    "IQD": 1518.632282
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "Barnala’s reward scheme against stubble fires takes off",
+        "summary": "Barnala launches first lucky draw rewarding farmers for not burning stubble, distributing Rs 1 lakh weekly for 7 weeks; first prize Rs 20,000 won by Sukhwinder Singh.",
+        "url": "https://timesofindia.indiatimes.com/city/chandigarh/barnalas-reward-scheme-against-stubble-fires-takes-off/articleshow/135619100.cms",
+        "timestamp": "2026-11-06T19:15:11Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9u",
         "title": "$847M Powerball winner remains a mystery – as New Jersey lottery officials urge players to check their tickets",
@@ -265,50 +280,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "It could be you: Lottery bosses hunt missing millionaire as clock ticks down to claim deadline",
-        "summary": "The owner of a ticket claiming the prize was bought in Greater Manchester.",
-        "url": "https://www.dailymail.com/news/article-16248563/It-you-Lottery-bosses-hunt-missing-millionaire-clock-ticks-claim-deadline.html",
-        "timestamp": "2026-10-29T09:48:37Z",
-        "source": "Dailymail.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Grandmother enters a festival lucky draw, buys Rs 200 ticket under 6-year-old grandson's name, wins Toyota Fortuner worth Rs 50 lakh",
-        "summary": "Rs 200 ticket to Rs 50 lakh Toyota Fortuner: A grandmother from Madhya Pradesh bought a Rs 200 ticket at a Garba festival lucky draw in her six-year-old grandson's name. Nearly a year later, the boy won a Toyota Fortuner SUV worth around Rs 50 lakh, turning a…",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/grandmother-enters-festival-lucky-draw-buys-rs-200-ticket-under-6-year-old-grandsons-name-wins-toyota-fortuner-worth-rs-50-lakh/articleshow/135290478.cms",
-        "timestamp": "2026-10-29T05:03:02Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 13,
+      "totalSignals": 12,
       "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 11,
+        "HOPEFUL": 10,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 1
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 15
+      "uncertaintyScore": 17
     }
   }
 }
