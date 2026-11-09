@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T09:11:17.937Z",
+  "generated_at": "2026-11-09T09:55:51.648Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,122 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 31,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Riyadh"
+    "Kuwait": {
+      "temp_c": 27,
+      "wind_kmh": 17,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
     },
-    "UAE": {
-      "temp_c": 35,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
+    "Bahrain": {
+      "temp_c": 27,
+      "wind_kmh": 20,
+      "condition": "Rain",
+      "city": "Manama"
     },
     "Oman": {
-      "temp_c": 32,
-      "wind_kmh": 13,
+      "temp_c": 33,
+      "wind_kmh": 16,
       "condition": "Clear",
       "city": "Muscat"
     },
+    "Jordan": {
+      "temp_c": 15,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Amman"
+    },
     "Lebanon": {
       "temp_c": 18,
-      "wind_kmh": 6,
-      "condition": "Showers",
+      "wind_kmh": 22,
+      "condition": "Clear",
       "city": "Beirut"
     },
+    "Egypt": {
+      "temp_c": 23,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
     "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 10,
+      "temp_c": 25,
+      "wind_kmh": 5,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
     "Iran": {
       "temp_c": 14,
-      "wind_kmh": 3,
+      "wind_kmh": 10,
       "condition": "Showers",
       "city": "Tehran"
     },
-    "Kuwait": {
-      "temp_c": 27,
-      "wind_kmh": 6,
+    "UAE": {
+      "temp_c": 35,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 29,
+      "wind_kmh": 10,
       "condition": "Partly Cloudy",
-      "city": "Kuwait City"
+      "city": "Riyadh"
     },
     "Qatar": {
-      "temp_c": 35,
-      "wind_kmh": 19,
+      "temp_c": 36,
+      "wind_kmh": 3,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Egypt": {
-      "temp_c": 22,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
     "Iraq": {
-      "temp_c": 24,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
+      "temp_c": 17,
+      "wind_kmh": 11,
+      "condition": "Clear",
       "city": "Baghdad"
-    },
-    "Bahrain": {
-      "temp_c": 33,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 15,
-      "wind_kmh": 20,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310519,
+    "KWD": 0.309892,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.902283,
-    "IQD": 1518.632282
+    "EGP": 54.029846,
+    "IQD": 1518.722577
   },
   "lottery": {
     "items": [
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Company cancels raffle for five-bed Co Waterford home after pushback from locals",
+        "summary": "Residents feared the impact the raffle could have on the housing market.",
+        "url": "https://www.thejournal.ie/blaa-giveaways-raffle-home-7217883-Nov2026/",
+        "timestamp": "2026-11-08T00:05:17Z",
+        "source": "TheJournal.ie",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "MorphOS 3.21 released with new office suite",
+        "summary": "About five months after the previous release, the MorphOS team has released MorphOS 3.21. It brings the usual list of big fixes and smaller improvements, but there’s a few big ticket items in here as well. MorphOS 3.21 introduces BasicWorks, an office suite m…",
+        "url": "https://www.osnews.com/story/146332/morphos-3-21-released-with-new-office-suite/",
+        "timestamp": "2026-11-07T19:46:54Z",
+        "source": "Osnews.com",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
       {
         "id": "newsapi-lot-aHR0cHM6Ly90",
         "title": "Barnala’s reward scheme against stubble fires takes off",
@@ -223,9 +253,9 @@
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9y",
-        "title": "Powerball Hands Delaware Seven Figures, and Ohio’s $1 Bet Pays",
-        "summary": "A Delaware ticket landed $1 million and four Ohio players turned a small add-on into a bigger payday, even as the jackpot slipped away again A Delaware ticket lands seven figures Monday night’s Powerball drawing didn’t produce a jackpot winner, but it still m…",
-        "url": "https://rollingout.com/2026/11/03/powerball-hands-delaware-seven-figures/",
+        "title": "Powerball Soars to $835 Million, So Who Finally Cashes In?",
+        "summary": "Monday’s drawing produced no jackpot winner, but a Delaware ticket hit seven figures and four Ohio players turned a small add-on into a bigger payday Powerball jackpot keeps climbing The Powerball jackpot refused to fall again Monday night, and the prize at t…",
+        "url": "https://rollingout.com/2026/11/03/powerball-soars-to-835-million-so-who-finally-cashes-in/",
         "timestamp": "2026-11-03T13:38:11Z",
         "source": "Rolling Out",
         "sourceType": "NewsAPI",
@@ -238,9 +268,9 @@
       },
       {
         "id": "newsapi-lot-aHR0cHM6Ly9y",
-        "title": "Powerball Soars to $835 Million, So Who Finally Cashes In?",
-        "summary": "Monday’s drawing produced no jackpot winner, but a Delaware ticket hit seven figures and four Ohio players turned a small add-on into a bigger payday Powerball jackpot keeps climbing The Powerball jackpot refused to fall again Monday night, and the prize at t…",
-        "url": "https://rollingout.com/2026/11/03/powerball-soars-to-835-million-so-who-finally-cashes-in/",
+        "title": "Powerball Hands Delaware Seven Figures, and Ohio’s $1 Bet Pays",
+        "summary": "A Delaware ticket landed $1 million and four Ohio players turned a small add-on into a bigger payday, even as the jackpot slipped away again A Delaware ticket lands seven figures Monday night’s Powerball drawing didn’t produce a jackpot winner, but it still m…",
+        "url": "https://rollingout.com/2026/11/03/powerball-hands-delaware-seven-figures/",
         "timestamp": "2026-11-03T13:38:11Z",
         "source": "Rolling Out",
         "sourceType": "NewsAPI",
@@ -283,17 +313,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 12,
-      "meSignals": 2,
+      "totalSignals": 14,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 10,
+        "HOPEFUL": 12,
         "CYNICAL": 0,
         "ANXIOUS": 1,
         "NEUTRAL": 1
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 17
+      "uncertaintyScore": 14
     }
   }
 }
