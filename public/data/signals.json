@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:00:30.545Z",
+  "generated_at": "2026-11-11T09:34:48.107Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,92 +15,137 @@
     "Iran": null
   },
   "weather": {
-    "Oman": {
-      "temp_c": 33,
-      "wind_kmh": 15,
+    "Saudi Arabia": {
+      "temp_c": 16,
+      "wind_kmh": 5,
+      "condition": "Showers",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 31,
+      "wind_kmh": 22,
       "condition": "Partly Cloudy",
+      "city": "Abu Dhabi"
+    },
+    "Qatar": {
+      "temp_c": 26,
+      "wind_kmh": 26,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Kuwait": {
+      "temp_c": 21,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Kuwait City"
+    },
+    "Oman": {
+      "temp_c": 32,
+      "wind_kmh": 15,
+      "condition": "Clear",
       "city": "Muscat"
     },
+    "Jordan": {
+      "temp_c": 18,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Lebanon": {
+      "temp_c": 20,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 12,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
     "Bahrain": {
-      "temp_c": 27,
-      "wind_kmh": 25,
+      "temp_c": 22,
+      "wind_kmh": 18,
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
     "Iraq": {
-      "temp_c": 18,
-      "wind_kmh": 10,
+      "temp_c": 19,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
-    "Yemen": {
-      "temp_c": 26,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Qatar": {
-      "temp_c": 30,
-      "wind_kmh": 20,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Jordan": {
-      "temp_c": 16,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Saudi Arabia": {
-      "temp_c": 24,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Riyadh"
-    },
-    "UAE": {
-      "temp_c": 32,
-      "wind_kmh": 13,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Lebanon": {
-      "temp_c": 20,
-      "wind_kmh": 7,
-      "condition": "Clear",
-      "city": "Beirut"
-    },
     "Egypt": {
       "temp_c": 23,
-      "wind_kmh": 15,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 13,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Tehran"
-    },
-    "Kuwait": {
-      "temp_c": 20,
-      "wind_kmh": 14,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310638,
+    "KWD": 0.310398,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.071553,
-    "IQD": 1518.626522
+    "EGP": 53.349909,
+    "IQD": 1518.840319
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1xsxy0m",
+        "title": "Cash or Annuity",
+        "summary": "So I was reading some older posts here about how much lower the annuity value of lottery is than it used to be.  It got me to thinking about slot machine wins in Las Vegas. According to google, those jackpots over about 100K (which sounds l",
+        "url": "https://reddit.com/r/Lottery/comments/1xsxy0m/cash_or_annuity/",
+        "timestamp": "2026-11-10T20:36:47.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 7,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xsovur",
+        "title": "High Frequency Games",
+        "summary": "With the big jackpot gone and reset back to baseline, the casual buzz always dies down for a bit. But evergreen, fast-draw games like Keno / Quick Draw and Cash Pop (draws multiple times a day) are always running. Do these games interest yo",
+        "url": "https://reddit.com/r/Lottery/comments/1xsovur/high_frequency_games/",
+        "timestamp": "2026-11-10T14:53:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xsmnlk",
+        "title": "Life curveballs",
+        "summary": "Took a break from ATL and went to a cabin for a few days with my folks n the Blueridge Mountains n GA last week. We stopped by a Publix near our destination to grab a some extra items and a bathroom break.  I hit the scratcher vending machi",
+        "url": "https://reddit.com/r/Lottery/comments/1xsmnlk/life_curveballs/",
+        "timestamp": "2026-11-10T13:17:24.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 49,
+        "comments": 4,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1xsb2jv",
         "title": "Powerball Winning Numbers (Monday)",
@@ -126,8 +171,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 5,
-        "comments": 0,
+        "score": 3,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -141,8 +186,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 57,
-        "comments": 4,
+        "score": 68,
+        "comments": 5,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -156,9 +201,24 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
+        "score": 3,
         "comments": 0,
         "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Mouser at electronica 2026: humanoid robotics and innovation",
+        "summary": "Mouser Electronics returns to electronica 2026 in Munich alongside TTI, bringing a live humanoid robot demo from RoboTUM, interactive quizzes, prize draws and customer support on booth C3/578.\nThe post Mouser at electronica 2026: humanoid robotics and innovat…",
+        "url": "https://www.open-electronics.org/mouser-at-electronica-2026-humanoid-robotics-and-innovation/",
+        "timestamp": "2026-11-09T12:00:00Z",
+        "source": "Open-electronics.org",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
         "isME": false
       },
       {
@@ -194,7 +254,7 @@
       {
         "id": "reddit-lot-1xrfyv6",
         "title": "I found this in the lotto vending machine. Does this tell me anything useful?",
-        "summary": "↑7 · 💬9",
+        "summary": "↑7 · 💬10",
         "url": "https://reddit.com/r/Lottery/comments/1xrfyv6/i_found_this_in_the_lotto_vending_machine_does/",
         "timestamp": "2026-11-09T02:25:21.000Z",
         "source": "r/lottery",
@@ -202,7 +262,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 7,
-        "comments": 9,
+        "comments": 10,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -532,7 +592,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 7,
-        "comments": 1,
+        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -546,8 +606,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 21,
-        "comments": 15,
+        "score": 24,
+        "comments": 17,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -561,8 +621,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 13,
-        "comments": 19,
+        "score": 14,
+        "comments": 20,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -730,80 +790,20 @@
         "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9l",
-        "title": "Michigan man finds lottery ticket in wallet after running short of cash to buy soda, you won't believe how much he won",
-        "summary": "In a surprising twist of fate, Michael Vander Lugt from Wyoming, Michigan stumbled upon a $1 million Powerball ticket he had unknowingly pocketed for two months. His routine visit to buy a soft drink took an unexpected turn when he handed over old tickets, le…",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/michigan-man-finds-lottery-ticket-in-wallet-after-running-short-of-cash-to-buy-soda-you-wont-believe-how-much-he-won/articleshow/135406678.cms",
-        "timestamp": "2026-10-31T17:40:08Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xk8xvo",
-        "title": "If you won the lottery and started a new life, what do you think you would miss most about your old life?",
-        "summary": "I think nobody in here would care about their old lives but is there anything, a little thing, what would you miss? I think I would miss my old room a little bit (I would move). Of course my new place would be so muc better but my room now ",
-        "url": "https://reddit.com/r/Lottery/comments/1xk8xvo/if_you_won_the_lottery_and_started_a_new_life/",
-        "timestamp": "2026-10-31T12:27:54.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 13,
-        "comments": 14,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xk4h5j",
-        "title": "Fixed-Odds 3-Digit Lottery Games: A Comparative Look at China’s “3D” and the U.S. “Pick 3”—Mechanics, Expected Value, and What the Behavioral Data Actually Show",
-        "summary": "Hi Pick 3 players, I’ve been digging into fixed-odds, three-digit lottery games for a while, mainly China Welfare Lottery’s “3D” game and its closest international cousins like U.S. state Pick 3 / Daily 3 games. These games are structurally",
-        "url": "https://reddit.com/r/Lottery/comments/1xk4h5j/fixedodds_3digit_lottery_games_a_comparative_look/",
-        "timestamp": "2026-10-31T08:05:49.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xjulsd",
-        "title": "I just hit the JACKPOT",
-        "summary": "I think this is the best feeling anyone can have",
-        "url": "https://reddit.com/r/Lottery/comments/1xjulsd/i_just_hit_the_jackpot/",
-        "timestamp": "2026-10-30T23:21:36.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 33,
-        "comments": 33,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
       "totalSignals": 46,
       "meSignals": 5,
       "moodDist": {
-        "HOPEFUL": 40,
+        "HOPEFUL": 39,
         "CYNICAL": 0,
-        "ANXIOUS": 1,
+        "ANXIOUS": 2,
         "NEUTRAL": 5
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 13
+      "uncertaintyScore": 15
     }
   }
 }
