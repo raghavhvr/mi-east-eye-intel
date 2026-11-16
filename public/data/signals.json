@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T09:36:31.159Z",
+  "generated_at": "2026-11-16T09:54:19.568Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -14,93 +14,50 @@
     "Yemen": null,
     "Iran": null
   },
-  "weather": {
-    "Saudi Arabia": {
-      "temp_c": 23,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "UAE": {
-      "temp_c": 29,
-      "wind_kmh": 17,
-      "condition": "Partly Cloudy",
-      "city": "Abu Dhabi"
-    },
-    "Qatar": {
-      "temp_c": 28,
-      "wind_kmh": 20,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Kuwait": {
-      "temp_c": 25,
-      "wind_kmh": 17,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Oman": {
-      "temp_c": 30,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Bahrain": {
-      "temp_c": 24,
-      "wind_kmh": 26,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Jordan": {
-      "temp_c": 24,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Amman"
-    },
-    "Lebanon": {
-      "temp_c": 24,
-      "wind_kmh": 11,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Egypt": {
-      "temp_c": 24,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 24,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Iran": {
-      "temp_c": 17,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    }
-  },
+  "weather": {},
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.31116,
+    "KWD": 0.310781,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.439277,
-    "IQD": 1515.052653
+    "EGP": 53.741239,
+    "IQD": 1514.010347
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1xxecee",
+        "title": "Holiday Hits Illinois Lottery $100",
+        "summary": "↑3 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1xxecee/holiday_hits_illinois_lottery_100/",
+        "timestamp": "2026-11-16T02:54:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xxbwsz",
+        "title": "Ny lotto second chance festive edition",
+        "summary": "My wife and I thought that the second chance thing was just a fake. We have entered countless promotions, drawings and soun that damn wheel insane amounts of times. Last night we scanned festive losers and got this! I guess it's not fake 😂",
+        "url": "https://reddit.com/r/Lottery/comments/1xxbwsz/ny_lotto_second_chance_festive_edition/",
+        "timestamp": "2026-11-16T00:54:40.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 7,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1xwp7wu",
         "title": "Is the Lottery App Working for Anyone Else?",
@@ -112,7 +69,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 2,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -141,8 +98,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 3,
-        "comments": 1,
+        "score": 4,
+        "comments": 2,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -156,7 +113,22 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
+        "score": 0,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Mega Millions Jackpot Soars to $600 Million as Ohio Player Wins $100,000 and New York Ticket Hits $2 Million",
+        "summary": "The Mega Millions jackpot has risen to an estimated $600 million after Friday's draw produced no grand-prize winner, while tickets in Ohio and New York won substantial prizes.",
+        "url": "https://www.ibtimes.com.au/mega-millions-jackpot-rises-600-million-after-friday-drawing-1878583",
+        "timestamp": "2026-11-14T14:53:37Z",
+        "source": "Ibtimes.com.au",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -171,8 +143,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 6,
+        "score": 0,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -205,21 +177,6 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1xvcjak",
-        "title": "Gen Z shoppers in Lebanon: share your grocery and beauty shopping experience for a 250$ (or equivalent) gift card raffle",
-        "summary": "Hi everyone! I’m a UC Berkeley student working on a marketing class project about Gen Z shopping habits across different markets. We’d love to hear from young adults currently living in Lebanon about their grocery, beauty, and fashion purch",
-        "url": "https://reddit.com/r/lebanon/comments/1xvcjak/gen_z_shoppers_in_lebanon_share_your_grocery_and/",
-        "timestamp": "2026-11-13T16:34:16.000Z",
-        "source": "r/lebanon",
-        "sourceType": "Reddit",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
       },
       {
         "id": "reddit-lot-1xvadxk",
@@ -264,21 +221,6 @@
         "score": 5,
         "comments": 13,
         "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-50468509",
-        "title": "Show HN: Infinity Terminal – a native macOS terminal with endless columns",
-        "summary": "2 pts · 0 comments",
-        "url": "https://github.com/bujna94/infinityTerminal",
-        "timestamp": "2026-11-12T15:03:34.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "NEUTRAL",
         "isME": false
       },
       {
@@ -494,15 +436,15 @@
       {
         "id": "reddit-lot-1xrfyv6",
         "title": "I found this in the lotto vending machine. Does this tell me anything useful?",
-        "summary": "↑7 · 💬10",
+        "summary": "↑8 · 💬11",
         "url": "https://reddit.com/r/Lottery/comments/1xrfyv6/i_found_this_in_the_lotto_vending_machine_does/",
         "timestamp": "2026-11-09T02:25:21.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 7,
-        "comments": 10,
+        "score": 8,
+        "comments": 11,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -687,21 +629,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1xousn9",
-        "title": "Pennsylvania lottery",
-        "summary": "Rita and Joe Christmas holiday scratchers commercial is back!  A yearly tradition in Pennsylvania!  Love the decorated brownstone neighborhood!",
-        "url": "https://reddit.com/r/Lottery/comments/1xousn9/pennsylvania_lottery/",
-        "timestamp": "2026-11-05T21:26:16.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 1,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cDovLzl0",
         "title": "Bluetti early Black Friday lineup offers new 2,560Wh Apex 200 power station at exclusive $1,044, more from $429",
         "summary": "Following the launch of the new Elite 30 Mini Power Station, Bluetti has officially launched its Black Friday Early Access deals, complete with our exclusive bonus savings code, FREE gifts with purchases of certain units, and a lucky draw spin with purchases …",
@@ -713,21 +640,6 @@
         "country": "Global",
         "score": 0,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xoncae",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1xoncae/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-11-05T16:38:08.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -778,17 +690,17 @@
       }
     ],
     "meta": {
-      "totalSignals": 45,
-      "meSignals": 6,
+      "totalSignals": 44,
+      "meSignals": 5,
       "moodDist": {
         "HOPEFUL": 35,
         "CYNICAL": 0,
         "ANXIOUS": 2,
-        "NEUTRAL": 8
+        "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 22
+      "uncertaintyScore": 20
     }
   }
 }
