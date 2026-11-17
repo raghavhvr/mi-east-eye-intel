@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:54:19.568Z",
+  "generated_at": "2026-11-17T10:50:35.146Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -14,31 +14,164 @@
     "Yemen": null,
     "Iran": null
   },
-  "weather": {},
+  "weather": {
+    "Saudi Arabia": {
+      "temp_c": 27,
+      "wind_kmh": 2,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 28,
+      "wind_kmh": 12,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 29,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 29,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 26,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 22,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 20,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 26,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iran": {
+      "temp_c": 16,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    }
+  },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310781,
+    "KWD": 0.311177,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.741239,
-    "IQD": 1514.010347
+    "EGP": 53.681178,
+    "IQD": 1513.820475
   },
   "lottery": {
     "items": [
       {
+        "id": "reddit-lot-1xy8ibp",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑1 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1xy8ibp/powerball_winning_numbers_monday/",
+        "timestamp": "2026-11-17T02:20:17.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xxpcna",
+        "title": "What a $1 Lotto America line actually pays back — I re-ran the published probability analysis (average win $0.44, and one mid-tier prize is rarer than the jackpot)",
+        "summary": "Cătălin Barboianu's column \"The math behind Lotto America\" works through a 5-from-52 plus 1-from-10 draw. I checked the core numbers rather than taking them on trust. The jackpot odds check out exactly: C(52,5) = 2,598,960 combinations, × 1",
+        "url": "https://reddit.com/r/Lottery/comments/1xxpcna/what_a_1_lotto_america_line_actually_pays_back_i/",
+        "timestamp": "2026-11-16T13:28:33.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xxo13y",
+        "title": "NY Take 5 10-11-12-13-14-15 with 15 winners-MOST FROM BROOKLYN?! I'm sorry but NY Lottery is FIXED -AGAIN.",
+        "summary": "Remember the Take 5 draw when the evening numbers were the same as the midday numbers back in 2022?    There were 0 first place midday winners but 52 evening winners??? Come on. 52 people decided to pay the same numbers???  You will never c",
+        "url": "https://reddit.com/r/Lottery/comments/1xxo13y/ny_take_5_101112131415_with_15_winnersmost_from/",
+        "timestamp": "2026-11-16T12:23:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 6,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "‘JuJu Watkins Wow,’ ‘About To Have a Better Backcourt Than the Raptors’ — Hoops World Reacts As Toronto Tempo Land No. 1 Pick in 2027 WNBA Draft",
+        "summary": "The Toronto Tempo have not had much to celebrate since entering the WNBA, but their first draft lottery has given the expansion franchise a major reason for excitement. The Tempo landed the No.",
+        "url": "https://www.profootballnetwork.com/wnba/fans-react-juju-watkins-toronto-tempo-no-1-pick-2027-wnba-draft/?utm_medium=rss&amp;utm_source=nordot",
+        "timestamp": "2026-11-16T05:42:59Z",
+        "source": "Pro Football Network",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
         "id": "reddit-lot-1xxecee",
         "title": "Holiday Hits Illinois Lottery $100",
-        "summary": "↑3 · 💬0",
+        "summary": "↑7 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1xxecee/holiday_hits_illinois_lottery_100/",
         "timestamp": "2026-11-16T02:54:29.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 3,
+        "score": 7,
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
@@ -53,7 +186,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 7,
+        "score": 9,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -68,7 +201,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 2,
         "comments": 2,
         "mood": "NEUTRAL",
         "isME": false
@@ -98,7 +231,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 4,
+        "score": 6,
         "comments": 2,
         "mood": "NEUTRAL",
         "isME": false
@@ -143,7 +276,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 0,
+        "score": 1,
         "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
@@ -368,8 +501,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 75,
-        "comments": 5,
+        "score": 87,
+        "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -584,36 +717,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1xp36bg",
-        "title": "Illinois Cash Castle",
-        "summary": "Has anyone won over $1k? I'm embarrassed to say I've been playing for a while, and have never won over that. I just want to know if it's possible? Is it possible to win anything between $1,000 and the jackpot? Not to mention, I would love a",
-        "url": "https://reddit.com/r/Lottery/comments/1xp36bg/illinois_cash_castle/",
-        "timestamp": "2026-11-06T03:55:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xoye4r",
-        "title": "Let be honest",
-        "summary": "If you were to win the lottery. Would you keep it a secret. I feel like ALOT of people will say they never tell anyone and how they live this boring life but I feel like the numbers doesn’t support it. I feel like when there’s a lot of mone",
-        "url": "https://reddit.com/r/Lottery/comments/1xoye4r/let_be_honest/",
-        "timestamp": "2026-11-06T00:01:03.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 10,
-        "comments": 24,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly9u",
         "title": "$847M Powerball winner remains a mystery – as New Jersey lottery officials urge players to check their tickets",
         "summary": "\"I think I'm here to declare that New Jersey is the luckiest state in the United States,\" James Carey, the executive director of the New Jersey Lottery, told reporters.",
@@ -642,65 +745,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "New Jersey Powerball Ticket Wins $847 Million Jackpot as Bergen County Sale Ends Streak of 35 Drawings",
-        "summary": "A Powerball ticket sold in Bergen County matched all six numbers to win an $847 million jackpot, the largest ever won in New Jersey, with a $363.1 million cash option.",
-        "url": "https://www.ibtimes.com.au/new-jersey-powerball-ticket-wins-847-million-jackpot-1877956",
-        "timestamp": "2026-11-05T14:59:12Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Winning ticket drawn in New Jersey for $847 million Powerball jackpot",
-        "summary": "A single ticket in New Jersey won the $847 million Powerball Wednesday night, one of the 10 biggest jackpots in the lottery's history.The ticket holder matched the winning numbers, 15, 34, 41, 53 and 56, as well as the red 21 Powerball, to take the prize.The …",
-        "url": "https://www.yahoo.com/news/us/article/powerballs-847m-jackpot-was-won-by-a-single-ticket-see-the-winning-numbers-091912638.html",
-        "timestamp": "2026-11-05T09:19:12Z",
-        "source": "Yahoo Entertainment",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "Dubai Duty Free to offer discounts on UPI payments",
-        "summary": "NPCI International Payments has unveiled a delightful discount for Indian travelers shopping at Dubai Duty Free, offering a 10% rebate up to AED 100 when UPI is used for eligible purchases. Travelers can activate UPI International via their apps, linking thei…",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/dubai-duty-free-to-offer-discounts-on-upi-payments/articleshow/135564295.cms",
-        "timestamp": "2026-11-05T07:56:55Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": true
       }
     ],
     "meta": {
-      "totalSignals": 44,
-      "meSignals": 5,
+      "totalSignals": 43,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 35,
+        "HOPEFUL": 34,
         "CYNICAL": 0,
         "ANXIOUS": 2,
         "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 20
+      "uncertaintyScore": 21
     }
   }
 }
