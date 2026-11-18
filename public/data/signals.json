@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T10:50:35.146Z",
+  "generated_at": "2026-11-18T10:19:55.710Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,75 +15,75 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 27,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
     "UAE": {
-      "temp_c": 28,
-      "wind_kmh": 12,
+      "temp_c": 29,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Kuwait": {
-      "temp_c": 28,
-      "wind_kmh": 5,
+    "Saudi Arabia": {
+      "temp_c": 27,
+      "wind_kmh": 8,
       "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Jordan": {
+      "temp_c": 20,
+      "wind_kmh": 3,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Kuwait": {
+      "temp_c": 29,
+      "wind_kmh": 5,
+      "condition": "Partly Cloudy",
       "city": "Kuwait City"
     },
     "Qatar": {
       "temp_c": 29,
-      "wind_kmh": 6,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Doha"
     },
+    "Bahrain": {
+      "temp_c": 26,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Manama"
+    },
     "Oman": {
-      "temp_c": 29,
-      "wind_kmh": 11,
+      "temp_c": 28,
+      "wind_kmh": 19,
       "condition": "Partly Cloudy",
       "city": "Muscat"
     },
-    "Bahrain": {
-      "temp_c": 26,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
-    "Lebanon": {
-      "temp_c": 22,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 20,
-      "wind_kmh": 10,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Iraq": {
+    "Egypt": {
       "temp_c": 26,
       "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 9,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Cairo"
     },
     "Iran": {
       "temp_c": 16,
-      "wind_kmh": 7,
-      "condition": "Clear",
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     },
+    "Lebanon": {
+      "temp_c": 23,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Iraq": {
+      "temp_c": 26,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
     "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 7,
+      "temp_c": 25,
+      "wind_kmh": 4,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     }
@@ -92,15 +92,75 @@
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.311177,
+    "KWD": 0.311342,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.681178,
-    "IQD": 1513.820475
+    "EGP": 53.717698,
+    "IQD": 1513.72549
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1xz7nx4",
+        "title": "New Year Million Dollar Raffles",
+        "summary": "There are still 6 states (that I know of) that are still holding the million dollar raffles at the end of the year.  PA, VA, ID, MN, MT, and MD.  This year I drove to PA because I had a $100 winner from last year to cash in.     It's your b",
+        "url": "https://reddit.com/r/Lottery/comments/1xz7nx4/new_year_million_dollar_raffles/",
+        "timestamp": "2026-11-18T05:58:16.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xz0jw3",
+        "title": "100 gets you 1000",
+        "summary": "Hit dm best lottery program must have PayPal",
+        "url": "https://reddit.com/r/Lottery/comments/1xz0jw3/100_gets_you_1000/",
+        "timestamp": "2026-11-18T00:04:39.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xypvh4",
+        "title": "Michigan lottery app claiming",
+        "summary": "You can now apparently cash tickets using the app 600$ and more. I just tried scanning 10 10$ silver and gold cashwords and won 0$. So i will never know. Goodbye 100$",
+        "url": "https://reddit.com/r/Lottery/comments/1xypvh4/michigan_lottery_app_claiming/",
+        "timestamp": "2026-11-17T17:03:14.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 9,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "A British family nearly missed its £1 million lottery win after ignoring calls they thought were spam for nine days; daughter had picked the winning numbers",
+        "summary": "A British family nearly missed its £1 million lottery win after ignoring calls they thought were spam for nine days; daughter had picked the winning numbers",
+        "url": "https://timesofindia.indiatimes.com/world/uk/a-british-family-nearly-missed-its-1-million-lottery-win-after-ignoring-calls-they-thought-were-spam-for-nine-days-daughter-had-picked-the-winning-numbers/articleshow/135916792.cms",
+        "timestamp": "2026-11-17T08:16:57Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1xy8ibp",
         "title": "Powerball Winning Numbers (Monday)",
@@ -112,6 +172,21 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9k",
+        "title": "Take our survey and enter our prize draw",
+        "summary": "Tell us how you learn English words, which tools you use, what works well, and what could be better, and you could win £100 worth of Cambridge Dictionary merchandise.\nThe post Take our survey and enter our prize draw appeared first on About Words - Cambridge …",
+        "url": "https://dictionaryblog.cambridge.org/2026/11/17/survey-and-prize-draw/",
+        "timestamp": "2026-11-17T00:00:39Z",
+        "source": "Cambridge.org",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -142,7 +217,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 0,
-        "comments": 6,
+        "comments": 12,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -186,8 +261,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 9,
-        "comments": 0,
+        "score": 8,
+        "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -426,8 +501,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 0,
-        "comments": 8,
+        "score": 1,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -456,7 +531,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 67,
+        "score": 76,
         "comments": 4,
         "mood": "ANXIOUS",
         "isME": false
@@ -687,21 +762,6 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1xpvovt",
-        "title": "Suggest Lucky lottery number",
-        "summary": "Buy lottery tickets",
-        "url": "https://reddit.com/r/Lottery/comments/1xpvovt/suggest_lucky_lottery_number/",
-        "timestamp": "2026-11-07T02:55:07.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "newsapi-lot-aHR0cHM6Ly90",
         "title": "Barnala’s reward scheme against stubble fires takes off",
         "summary": "Barnala launches first lucky draw rewarding farmers for not burning stubble, distributing Rs 1 lakh weekly for 7 weeks; first prize Rs 20,000 won by Sukhwinder Singh.",
@@ -715,50 +775,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9u",
-        "title": "$847M Powerball winner remains a mystery – as New Jersey lottery officials urge players to check their tickets",
-        "summary": "\"I think I'm here to declare that New Jersey is the luckiest state in the United States,\" James Carey, the executive director of the New Jersey Lottery, told reporters.",
-        "url": "https://nypost.com/2026/11/05/us-news/847m-powerball-winner-remains-a-mystery-as-new-jersey-lottery-officials-urge-players-to-check-their-tickets/",
-        "timestamp": "2026-11-05T22:58:02Z",
-        "source": "New York Post",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cDovLzl0",
-        "title": "Bluetti early Black Friday lineup offers new 2,560Wh Apex 200 power station at exclusive $1,044, more from $429",
-        "summary": "Following the launch of the new Elite 30 Mini Power Station, Bluetti has officially launched its Black Friday Early Access deals, complete with our exclusive bonus savings code, FREE gifts with purchases of certain units, and a lucky draw spin with purchases …",
-        "url": "http://9to5toys.com/2026/11/05/bluetti-early-black-friday-sale-2560wh-apex-200-power-station/",
-        "timestamp": "2026-11-05T21:23:01Z",
-        "source": "9to5Toys",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 43,
+      "totalSignals": 45,
       "meSignals": 4,
       "moodDist": {
         "HOPEFUL": 34,
         "CYNICAL": 0,
-        "ANXIOUS": 2,
-        "NEUTRAL": 7
+        "ANXIOUS": 3,
+        "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 21
+      "uncertaintyScore": 24
     }
   }
 }
