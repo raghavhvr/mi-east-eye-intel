@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:19:55.710Z",
+  "generated_at": "2026-11-19T10:29:28.025Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -14,93 +14,125 @@
     "Yemen": null,
     "Iran": null
   },
-  "weather": {
-    "UAE": {
-      "temp_c": 29,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 27,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Jordan": {
-      "temp_c": 20,
-      "wind_kmh": 3,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Kuwait": {
-      "temp_c": 29,
-      "wind_kmh": 5,
-      "condition": "Partly Cloudy",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 29,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Bahrain": {
-      "temp_c": 26,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Oman": {
-      "temp_c": 28,
-      "wind_kmh": 19,
-      "condition": "Partly Cloudy",
-      "city": "Muscat"
-    },
-    "Egypt": {
-      "temp_c": 26,
-      "wind_kmh": 4,
-      "condition": "Clear",
-      "city": "Cairo"
-    },
-    "Iran": {
-      "temp_c": 16,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Tehran"
-    },
-    "Lebanon": {
-      "temp_c": 23,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Iraq": {
-      "temp_c": 26,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Baghdad"
-    },
-    "Yemen": {
-      "temp_c": 25,
-      "wind_kmh": 4,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    }
-  },
+  "weather": {},
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.311342,
+    "KWD": 0.310846,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.717698,
-    "IQD": 1513.72549
+    "EGP": 53.794909,
+    "IQD": 1513.668979
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1y061cv",
+        "title": "That extra $1 for Power Play buys back about 50 cents - I re-ran the numbers",
+        "summary": "I've been adding Power Play out of habit, kind of on autopilot. It's only a dollar, right? So I finally sat down and re-ran a published breakdown of the game - Dr. Catalin Barboianu's \"The math behind Powerball\" over on LotteryUSA - to see ",
+        "url": "https://reddit.com/r/Lottery/comments/1y061cv/that_extra_1_for_power_play_buys_back_about_50/",
+        "timestamp": "2026-11-19T10:22:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y01gec",
+        "title": "Is this a winner?",
+        "summary": "Scanned into Idaho Lottery and it says it is not a winner but there are 6 words uncovered, two of which include a free space. Am I the stupidest person ever or is the website wrong? I’ve never done scratchers before and now I’m stressed lol",
+        "url": "https://reddit.com/r/Lottery/comments/1y01gec/is_this_a_winner/",
+        "timestamp": "2026-11-19T05:26:27.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xzvm8i",
+        "title": "FL scratch-offs that still have their top prizes — and the ones already picked clean",
+        "summary": "Spent some time going through the Florida Lottery’s official remaining-prize numbers this week. Which games still have their big prizes live vs. which are already drained: **Still holding their top prizes:** * $15,000,000 Platinum Payout ($",
+        "url": "https://reddit.com/r/Lottery/comments/1xzvm8i/fl_scratchoffs_that_still_have_their_top_prizes/",
+        "timestamp": "2026-11-19T00:31:04.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 1,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xztvzo",
+        "title": "Lottery Lawyer",
+        "summary": "Those who have won in Georgia, what lawyer did you go to? What investments to make?",
+        "url": "https://reddit.com/r/Lottery/comments/1xztvzo/lottery_lawyer/",
+        "timestamp": "2026-11-18T23:14:37.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 4,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xzovgl",
+        "title": "One number away from the 9/9 jackpot ($30k)... but I'll take $2,763!",
+        "summary": "↑112 · 💬6",
+        "url": "https://reddit.com/r/Lottery/comments/1xzovgl/one_number_away_from_the_99_jackpot_30k_but_ill/",
+        "timestamp": "2026-11-18T19:48:43.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 112,
+        "comments": 6,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1xzmxh7",
+        "title": "Michigan players can now cash $601 to $49,999 scratch-off prizes in the Lottery app instead of going to a claim center",
+        "summary": "More states should offer this.",
+        "url": "https://reddit.com/r/Lottery/comments/1xzmxh7/michigan_players_can_now_cash_601_to_49999/",
+        "timestamp": "2026-11-18T18:34:07.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 24,
+        "comments": 4,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Raffle firm doubles down on holding draw for Tramore home (but a different one this time)",
+        "summary": "Blaa Giveaways previously pulled out of a raffle in a housing estate after locals in the town pushed back against the plan.",
+        "url": "https://www.thejournal.ie/blaa-giveaways-tramore-7228553-Nov2026/",
+        "timestamp": "2026-11-18T07:15:59Z",
+        "source": "TheJournal.ie",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1xz7nx4",
         "title": "New Year Million Dollar Raffles",
@@ -111,8 +143,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 0,
+        "score": 2,
+        "comments": 4,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -141,9 +173,24 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 9,
-        "comments": 2,
+        "score": 14,
+        "comments": 4,
         "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "Do Your Dream Of Yerushalayim? Win A $1.3M Yerushalayim Apartment!",
+        "summary": "Please note: This is a sponsored post. Last Year’s Dream Raffle Winner Almost Didn’t Buy a Ticket. Imagine getting a phone call telling you that you’ve just won a $1.3 million apartment in Yerushalayim! You’d probably ask them to repeat themselves. You might …",
+        "url": "https://www.dansdeals.com/advertisement/do-your-dream-of-yerushalayim-win-a-1-3m-yerushalayim-apartment/",
+        "timestamp": "2026-11-17T16:00:22Z",
+        "source": "Dansdeals.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "ANXIOUS",
         "isME": false
       },
       {
@@ -164,14 +211,14 @@
       {
         "id": "reddit-lot-1xy8ibp",
         "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑1 · 💬0",
+        "summary": "↑0 · 💬0",
         "url": "https://reddit.com/r/Lottery/comments/1xy8ibp/powerball_winning_numbers_monday/",
         "timestamp": "2026-11-17T02:20:17.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -640,155 +687,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1xrfyv6",
-        "title": "I found this in the lotto vending machine. Does this tell me anything useful?",
-        "summary": "↑8 · 💬11",
-        "url": "https://reddit.com/r/Lottery/comments/1xrfyv6/i_found_this_in_the_lotto_vending_machine_does/",
-        "timestamp": "2026-11-09T02:25:21.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 8,
-        "comments": 11,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "TN greenlights setting up PSU for executing big ticket govt construction projects",
-        "summary": "The Tamil Nadu Infrastructure and Construction Corporation will be established to undertake government building projects in the state costing more than ₹200 crore",
-        "url": "https://www.thehindubusinessline.com/news/tn-greenlights-setting-up-psu-for-executing-big-ticket-govt-construction-projects/article71680881.ece",
-        "timestamp": "2026-11-08T11:29:23Z",
-        "source": "BusinessLine",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1xqop29",
-        "title": "How delusional are you when it comes to winning the lottery?",
-        "summary": "My husband and I literally talk about winning the lottery as if it’s already happened. We’ve planned EVERYTHING. From how we’re going to claim the prize to exactly what we’re going to do with the money. And the funniest part? We genuinely b",
-        "url": "https://reddit.com/r/Lottery/comments/1xqop29/how_delusional_are_you_when_it_comes_to_winning/",
-        "timestamp": "2026-11-08T03:29:13.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 107,
-        "comments": 54,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xqnm4a",
-        "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑0 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1xqnm4a/powerball_winning_numbers_saturday/",
-        "timestamp": "2026-11-08T02:30:11.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Company cancels raffle for five-bed Co Waterford home after pushback from locals",
-        "summary": "Residents feared the impact the raffle could have on the housing market.",
-        "url": "https://www.thejournal.ie/blaa-giveaways-raffle-home-7217883-Nov2026/",
-        "timestamp": "2026-11-08T00:05:17Z",
-        "source": "TheJournal.ie",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "MorphOS 3.21 released with new office suite",
-        "summary": "About five months after the previous release, the MorphOS team has released MorphOS 3.21. It brings the usual list of big fixes and smaller improvements, but there’s a few big ticket items in here as well. MorphOS 3.21 introduces BasicWorks, an office suite m…",
-        "url": "https://www.osnews.com/story/146332/morphos-3-21-released-with-new-office-suite/",
-        "timestamp": "2026-11-07T19:46:54Z",
-        "source": "Osnews.com",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1xqe2do",
-        "title": "Are You Buying Another Game Instead of Powerball?",
-        "summary": "I usually only buy Millionaire for Life on Thursday and Sunday when there are no other large jackpots.  Since Powerball is so low, (about 5 million after tax in my state) instead of buying an extra PB I bought a MfL.  I expect to do that fo",
-        "url": "https://reddit.com/r/Lottery/comments/1xqe2do/are_you_buying_another_game_instead_of_powerball/",
-        "timestamp": "2026-11-07T19:01:26.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 11,
-        "comments": 17,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xq8z48",
-        "title": "is this a texas lottery group?",
-        "summary": "Why is evry win posted in texas. should I go to texas and play loteria because their winning nonstop.  CONGRATULATIONS TO ALL WINNERS",
-        "url": "https://reddit.com/r/Lottery/comments/1xq8z48/is_this_a_texas_lottery_group/",
-        "timestamp": "2026-11-07T15:26:46.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 10,
-        "comments": 16,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "Barnala’s reward scheme against stubble fires takes off",
-        "summary": "Barnala launches first lucky draw rewarding farmers for not burning stubble, distributing Rs 1 lakh weekly for 7 weeks; first prize Rs 20,000 won by Sukhwinder Singh.",
-        "url": "https://timesofindia.indiatimes.com/city/chandigarh/barnalas-reward-scheme-against-stubble-fires-takes-off/articleshow/135619100.cms",
-        "timestamp": "2026-11-06T19:15:11Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 45,
-      "meSignals": 4,
+      "totalSignals": 44,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 34,
+        "HOPEFUL": 33,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
-        "NEUTRAL": 8
+        "ANXIOUS": 4,
+        "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 24
+      "uncertaintyScore": 25
     }
   }
 }
