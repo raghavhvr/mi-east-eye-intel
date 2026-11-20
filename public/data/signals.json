@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:29:28.025Z",
+  "generated_at": "2026-11-20T10:10:00.421Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -14,20 +14,153 @@
     "Yemen": null,
     "Iran": null
   },
-  "weather": {},
+  "weather": {
+    "Saudi Arabia": {
+      "temp_c": 29,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "UAE": {
+      "temp_c": 29,
+      "wind_kmh": 11,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Kuwait": {
+      "temp_c": 30,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 30,
+      "wind_kmh": 4,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 28,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 28,
+      "wind_kmh": 7,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Jordan": {
+      "temp_c": 24,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Lebanon": {
+      "temp_c": 24,
+      "wind_kmh": 23,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Egypt": {
+      "temp_c": 28,
+      "wind_kmh": 8,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 27,
+      "wind_kmh": 2,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 18,
+      "wind_kmh": 17,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    }
+  },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310846,
+    "KWD": 0.311124,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.794909,
-    "IQD": 1513.668979
+    "EGP": 53.814593,
+    "IQD": 1514.133432
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1y0ps35",
+        "title": "Not a bad week $1k, 2x$500 and 1x$300",
+        "summary": "Minus having to deal with the FL Lottery office for an hour and a half today  (seriously they’re so slow here, I can walk into a MA lottery office and walk out in less than 10 minutes with a check) I can’t complain about the week overall!",
+        "url": "https://reddit.com/r/Lottery/comments/1y0ps35/not_a_bad_week_1k_2x500_and_1x300/",
+        "timestamp": "2026-11-20T00:44:05.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 29,
+        "comments": 2,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y0ov62",
+        "title": "I think it’s ridiculous",
+        "summary": "Why do they say a lottery is at 1 billion dollars when after taxes and penalties you make less than half?  Lots play lotteries that tell you exactly what you’ll take home.",
+        "url": "https://reddit.com/r/Lottery/comments/1y0ov62/i_think_its_ridiculous/",
+        "timestamp": "2026-11-20T00:01:29.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 12,
+        "mood": "NEUTRAL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y0mfv7",
+        "title": "PA Lottery",
+        "summary": "Question (purely hypothetical 😉) — just curious if anyone knows first-hand… With a $1000 winning fast play ticket that would require a claim form to cash ($600+) and trigger tax reporting and etc…. Is it possible to just scan it on a ticke",
+        "url": "https://reddit.com/r/Lottery/comments/1y0mfv7/pa_lottery/",
+        "timestamp": "2026-11-19T22:13:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 3,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y0dz5i",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1y0dz5i/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-11-19T16:38:10.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 11,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1y061cv",
         "title": "That extra $1 for Power Play buys back about 50 cents - I re-ran the numbers",
@@ -39,7 +172,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 0,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -84,22 +217,22 @@
         "tag": "LOT",
         "country": "Global",
         "score": 0,
-        "comments": 4,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1xzovgl",
         "title": "One number away from the 9/9 jackpot ($30k)... but I'll take $2,763!",
-        "summary": "↑112 · 💬6",
+        "summary": "↑167 · 💬7",
         "url": "https://reddit.com/r/Lottery/comments/1xzovgl/one_number_away_from_the_99_jackpot_30k_but_ill/",
         "timestamp": "2026-11-18T19:48:43.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 112,
-        "comments": 6,
+        "score": 167,
+        "comments": 7,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -113,7 +246,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 24,
+        "score": 25,
         "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
@@ -144,7 +277,7 @@
         "tag": "LOT",
         "country": "Global",
         "score": 2,
-        "comments": 4,
+        "comments": 6,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -473,8 +606,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 5,
-        "comments": 13,
+        "score": 7,
+        "comments": 14,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -582,125 +715,20 @@
         "comments": 4,
         "mood": "ANXIOUS",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1xsb2jv",
-        "title": "Powerball Winning Numbers (Monday)",
-        "summary": "↑0 · 💬1",
-        "url": "https://reddit.com/r/Lottery/comments/1xsb2jv/powerball_winning_numbers_monday/",
-        "timestamp": "2026-11-10T02:20:04.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xs8zsv",
-        "title": "Powerball",
-        "summary": "Good luck all tonight I have a quick pick same as last time draw #2 of 3 for this ticket hope I I win tonight 30m annuity here I come",
-        "url": "https://reddit.com/r/Lottery/comments/1xs8zsv/powerball/",
-        "timestamp": "2026-11-10T00:40:33.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 4,
-        "comments": 5,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xs0re1",
-        "title": "Coworker who won $276,000( how to split with another winner$138,000",
-        "summary": "A few weeks ago my coworker hit the jackpot on this state game called badger 5. The jackpot was 276,000 that night, he hit it along with another person in the state and they split it. He got $138,000 and he told me after taxes he got $93,00",
-        "url": "https://reddit.com/r/Lottery/comments/1xs0re1/coworker_who_won_276000_how_to_split_with_another/",
-        "timestamp": "2026-11-09T19:14:05.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 87,
-        "comments": 9,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xrymag",
-        "title": "Has someone in colorado olay this game on the lotto app?",
-        "summary": "If you do, Drop your plays and see what happens maybe we can help each other",
-        "url": "https://reddit.com/r/Lottery/comments/1xrymag/has_someone_in_colorado_olay_this_game_on_the/",
-        "timestamp": "2026-11-09T17:56:01.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 3,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Mouser at electronica 2026: humanoid robotics and innovation",
-        "summary": "Mouser Electronics returns to electronica 2026 in Munich alongside TTI, bringing a live humanoid robot demo from RoboTUM, interactive quizzes, prize draws and customer support on booth C3/578.\nThe post Mouser at electronica 2026: humanoid robotics and innovat…",
-        "url": "https://www.open-electronics.org/mouser-at-electronica-2026-humanoid-robotics-and-innovation/",
-        "timestamp": "2026-11-09T12:00:00Z",
-        "source": "Open-electronics.org",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Indian travellers can avail 10% discount on UPI payments at Dubai Duty Free — Check offer cap, other details",
-        "summary": "Indian travellers can now avail a 10% discount while shopping at Dubai Duty Free on eligible purchases through UPI, according to an official statement by NPCI International Payments. Here's all you need to know…&nbsp;",
-        "url": "https://www.livemint.com/money/indian-travellers-avail-10-pc-discount-upi-transactions-dubai-duty-free-shopping-offer-cap-100-uae-dirhams-npci-payments-11794215635618.html",
-        "timestamp": "2026-11-09T09:38:55Z",
-        "source": "Livemint",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": true
-      },
-      {
-        "id": "reddit-lot-1xrg2f6",
-        "title": "Powerball Winning Numbers (Wednesday)",
-        "summary": "↑1 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1xrg2f6/powerball_winning_numbers_wednesday/",
-        "timestamp": "2026-11-09T02:30:19.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 1,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 44,
-      "meSignals": 2,
+      "totalSignals": 41,
+      "meSignals": 1,
       "moodDist": {
-        "HOPEFUL": 33,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
         "ANXIOUS": 4,
         "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 25
+      "uncertaintyScore": 27
     }
   }
 }
