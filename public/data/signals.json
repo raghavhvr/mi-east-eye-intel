@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:55:30.316Z",
+  "generated_at": "2026-11-23T10:54:44.769Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -14,17 +14,90 @@
     "Yemen": null,
     "Iran": null
   },
-  "weather": {},
+  "weather": {
+    "UAE": {
+      "temp_c": 30,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Saudi Arabia": {
+      "temp_c": 29,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Kuwait": {
+      "temp_c": 33,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 29,
+      "wind_kmh": 10,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Oman": {
+      "temp_c": 29,
+      "wind_kmh": 23,
+      "condition": "Partly Cloudy",
+      "city": "Muscat"
+    },
+    "Bahrain": {
+      "temp_c": 28,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 22,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Jordan": {
+      "temp_c": 22,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 24,
+      "wind_kmh": 10,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 28,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 23,
+      "wind_kmh": 4,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Iran": {
+      "temp_c": 21,
+      "wind_kmh": 9,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    }
+  },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.3112,
+    "KWD": 0.310445,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 53.813894,
-    "IQD": 1514.155021
+    "EGP": 54.166609,
+    "IQD": 1514.602217
   },
   "lottery": {
     "items": [
@@ -53,10 +126,25 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 7,
-        "comments": 9,
+        "score": 15,
+        "comments": 12,
         "mood": "NEUTRAL",
         "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly90",
+        "title": "Big ticket returns as ILT20 Season 5 official entertainment partner",
+        "summary": "ILT20 has officially announced the continuation of its collaboration with Big Ticket for Season 5, which will commence on November 21 with an exhilarating clash between Desert Vipers and MI Emirates. Big Ticket is set to elevate fan experiences throughout the…",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-ticket-returns-as-ilt20-season-5-official-entertainment-partner/articleshow/136050727.cms",
+        "timestamp": "2026-11-21T09:57:02Z",
+        "source": "The Times of India",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
       },
       {
         "id": "reddit-lot-1y1jri1",
@@ -83,7 +171,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
+        "score": 0,
         "comments": 23,
         "mood": "HOPEFUL",
         "isME": false
@@ -554,21 +642,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Mega Millions Jackpot Soars to $600 Million as Ohio Player Wins $100,000 and New York Ticket Hits $2 Million",
-        "summary": "The Mega Millions jackpot has risen to an estimated $600 million after Friday's draw produced no grand-prize winner, while tickets in Ohio and New York won substantial prizes.",
-        "url": "https://www.ibtimes.com.au/mega-millions-jackpot-rises-600-million-after-friday-drawing-1878583",
-        "timestamp": "2026-11-14T14:53:37Z",
-        "source": "Ibtimes.com.au",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
         "id": "reddit-lot-1xw0rcr",
         "title": "I can never find",
         "summary": "Scratch offs worth millions.  I watch my lottery dream home and so many win millions on a scratch off.  Are they state specific?",
@@ -672,50 +745,20 @@
         "comments": 0,
         "mood": "NEUTRAL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1xtzlz6",
-        "title": "Former truck driver",
-        "summary": "Former Truck driver for Iberia Foods ,    **Powerball jackpot:** $298.3 million…    Brooklyn, New York.",
-        "url": "https://reddit.com/r/Lottery/comments/1xtzlz6/former_truck_driver/",
-        "timestamp": "2026-11-12T01:21:32.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 40,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xtz6hq",
-        "title": "Powerball 11/11/26",
-        "summary": "I won $4 Monday so I got 2 extra quick picks for tonight what’s everyone gonna do if they win the 45,000,000 jackpot tonight",
-        "url": "https://reddit.com/r/Lottery/comments/1xtz6hq/powerball_111126/",
-        "timestamp": "2026-11-12T01:01:38.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 6,
-        "comments": 3,
-        "mood": "HOPEFUL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 45,
-      "meSignals": 2,
+      "totalSignals": 43,
+      "meSignals": 3,
       "moodDist": {
-        "HOPEFUL": 33,
+        "HOPEFUL": 31,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 9
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 27
+      "uncertaintyScore": 28
     }
   }
 }
