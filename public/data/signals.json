@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:54:44.769Z",
+  "generated_at": "2026-11-24T12:37:55.212Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,23 +15,11 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 30,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
     "Saudi Arabia": {
-      "temp_c": 29,
+      "temp_c": 28,
       "wind_kmh": 6,
       "condition": "Clear",
       "city": "Riyadh"
-    },
-    "Kuwait": {
-      "temp_c": 33,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Kuwait City"
     },
     "Qatar": {
       "temp_c": 29,
@@ -39,80 +27,197 @@
       "condition": "Clear",
       "city": "Doha"
     },
+    "UAE": {
+      "temp_c": 28,
+      "wind_kmh": 16,
+      "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
     "Oman": {
-      "temp_c": 29,
-      "wind_kmh": 23,
-      "condition": "Partly Cloudy",
+      "temp_c": 27,
+      "wind_kmh": 13,
+      "condition": "Clear",
       "city": "Muscat"
     },
     "Bahrain": {
-      "temp_c": 28,
-      "wind_kmh": 10,
+      "temp_c": 26,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
-    "Lebanon": {
-      "temp_c": 22,
-      "wind_kmh": 12,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
     "Jordan": {
       "temp_c": 22,
-      "wind_kmh": 8,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Amman"
     },
-    "Egypt": {
-      "temp_c": 24,
-      "wind_kmh": 10,
+    "Lebanon": {
+      "temp_c": 22,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
-      "city": "Cairo"
+      "city": "Beirut"
     },
     "Iraq": {
       "temp_c": 28,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
-    "Yemen": {
-      "temp_c": 23,
-      "wind_kmh": 4,
+      "wind_kmh": 3,
       "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Baghdad"
     },
     "Iran": {
       "temp_c": 21,
       "wind_kmh": 9,
       "condition": "Partly Cloudy",
       "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 7,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
+    },
+    "Kuwait": {
+      "temp_c": 29,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 9,
+      "condition": "Clear",
+      "city": "Cairo"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.310445,
+    "KWD": 0.311688,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.166609,
-    "IQD": 1514.602217
+    "EGP": 54.330891,
+    "IQD": 1514.175034
   },
   "lottery": {
     "items": [
       {
+        "id": "reddit-lot-1y437v6",
+        "title": "$400 win - NY Lottery",
+        "summary": "1 ticket purchased",
+        "url": "https://reddit.com/r/Lottery/comments/1y437v6/400_win_ny_lottery/",
+        "timestamp": "2026-11-24T03:53:25.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 17,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y41ch5",
+        "title": "Powerball Winning Numbers (Monday)",
+        "summary": "↑2 · 💬0",
+        "url": "https://reddit.com/r/Lottery/comments/1y41ch5/powerball_winning_numbers_monday/",
+        "timestamp": "2026-11-24T02:20:06.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y3zx16",
+        "title": "700$ in winnings, bought my first lottery ticket 2 weeks ago",
+        "summary": "bought a couple lottery tickets about two weeks ago and got smoked except for a 20$ winner- bought 80$ total of tickets. figured id try my luck again this last friday, bought 10 20$ tickets won 200$. the first one i scratched was a 100$ win",
+        "url": "https://reddit.com/r/Lottery/comments/1y3zx16/700_in_winnings_bought_my_first_lottery_ticket_2/",
+        "timestamp": "2026-11-24T01:09:52.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 16,
+        "comments": 2,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y3wq6j",
+        "title": "I built a free tool that visualises hot and cold Powerball / Mega Millions / Lotto Max numbers — would love feedback",
+        "summary": "I've been lotto-curious for a while and built a small site that charts draw history and number frequency for Powerball, Mega Millions and Lotto Max. It doesn't predict anything — hot and cold numbers describe the past, and every draw is ind",
+        "url": "https://reddit.com/r/Lottery/comments/1y3wq6j/i_built_a_free_tool_that_visualises_hot_and_cold/",
+        "timestamp": "2026-11-23T22:47:01.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y3q33z",
+        "title": "Michigan lottery new raffle everyday",
+        "summary": "↑6 · 💬2",
+        "url": "https://reddit.com/r/Lottery/comments/1y3q33z/michigan_lottery_new_raffle_everyday/",
+        "timestamp": "2026-11-23T18:31:13.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 6,
+        "comments": 2,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "reddit-lot-1y3ple6",
+        "title": "Gas pump malfunction leads N.C. man to $2M lottery prize",
+        "summary": "↑24 · 💬1",
+        "url": "https://reddit.com/r/Lottery/comments/1y3ple6/gas_pump_malfunction_leads_nc_man_to_2m_lottery/",
+        "timestamp": "2026-11-23T18:13:54.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 24,
+        "comments": 1,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly85",
+        "title": "Best Buy Black Friday Week 4 deals now live: Apple, Android, Nintendo, LEGO, appliances, much more,",
+        "summary": "Amazon has moved into Day 5 of its giant Black Friday sale and the Best Buy Black Friday event is rolling right alongside it. While Amazon is now significantly undercutting Best Buy on some big ticket gear – AirPods Pro 3 down again to a insane $149 shipped (…",
+        "url": "https://9to5toys.com/2026/11/23/best-buy-black-friday-week-4-deals-now-live/",
+        "timestamp": "2026-11-23T10:58:28Z",
+        "source": "9to5Toys",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1y2e6zo",
         "title": "Powerball Winning Numbers (Saturday)",
-        "summary": "↑1 · 💬2",
+        "summary": "↑3 · 💬4",
         "url": "https://reddit.com/r/Lottery/comments/1y2e6zo/powerball_winning_numbers_saturday/",
         "timestamp": "2026-11-22T02:30:16.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 1,
-        "comments": 2,
+        "score": 3,
+        "comments": 4,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -126,7 +231,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 15,
+        "score": 16,
         "comments": 12,
         "mood": "NEUTRAL",
         "isME": false
@@ -531,24 +636,9 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 0,
+        "score": 1,
         "comments": 12,
         "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "‘JuJu Watkins Wow,’ ‘About To Have a Better Backcourt Than the Raptors’ — Hoops World Reacts As Toronto Tempo Land No. 1 Pick in 2027 WNBA Draft",
-        "summary": "The Toronto Tempo have not had much to celebrate since entering the WNBA, but their first draft lottery has given the expansion franchise a major reason for excitement. The Tempo landed the No.",
-        "url": "https://www.profootballnetwork.com/wnba/fans-react-juju-watkins-toronto-tempo-no-1-pick-2027-wnba-draft/?utm_medium=rss&amp;utm_source=nordot",
-        "timestamp": "2026-11-16T05:42:59Z",
-        "source": "Pro Football Network",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "NEUTRAL",
         "isME": false
       },
       {
@@ -700,65 +790,20 @@
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1xul4h0",
-        "title": "Fixed lottery line vs random pick ?",
-        "summary": "I was wondering if you guys have a “lucky” lottery line / number combination you’ve stuck for years in the hopes that it will someday appear OR if you just do quick pick ? I personally combine both, so there is 1 line i always play ( ive be",
-        "url": "https://reddit.com/r/Lottery/comments/1xul4h0/fixed_lottery_line_vs_random_pick/",
-        "timestamp": "2026-11-12T18:49:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 8,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xuhjor",
-        "title": "What Would You Do If You Won? (Weekly Discussion)",
-        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
-        "url": "https://reddit.com/r/Lottery/comments/1xuhjor/what_would_you_do_if_you_won_weekly_discussion/",
-        "timestamp": "2026-11-12T16:38:20.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 7,
-        "comments": 14,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-50468509",
-        "title": "Show HN: Infinity Terminal – a native macOS terminal with endless columns",
-        "summary": "2 pts · 0 comments",
-        "url": "https://github.com/bujna94/infinityTerminal",
-        "timestamp": "2026-11-12T15:03:34.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 43,
-      "meSignals": 3,
+      "totalSignals": 46,
+      "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 31,
+        "HOPEFUL": 35,
         "CYNICAL": 0,
-        "ANXIOUS": 3,
-        "NEUTRAL": 9
+        "ANXIOUS": 4,
+        "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 28
+      "uncertaintyScore": 24
     }
   }
 }
