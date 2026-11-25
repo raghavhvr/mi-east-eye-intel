@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T12:37:55.212Z",
+  "generated_at": "2026-11-25T11:27:59.700Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,89 +15,89 @@
     "Iran": null
   },
   "weather": {
-    "Saudi Arabia": {
-      "temp_c": 28,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Qatar": {
-      "temp_c": 29,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Doha"
-    },
     "UAE": {
       "temp_c": 28,
-      "wind_kmh": 16,
+      "wind_kmh": 11,
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
-    "Oman": {
-      "temp_c": 27,
-      "wind_kmh": 13,
+    "Saudi Arabia": {
+      "temp_c": 28,
+      "wind_kmh": 2,
       "condition": "Clear",
-      "city": "Muscat"
+      "city": "Riyadh"
+    },
+    "Kuwait": {
+      "temp_c": 30,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Qatar": {
+      "temp_c": 31,
+      "wind_kmh": 6,
+      "condition": "Clear",
+      "city": "Doha"
     },
     "Bahrain": {
-      "temp_c": 26,
-      "wind_kmh": 8,
+      "temp_c": 27,
+      "wind_kmh": 6,
       "condition": "Partly Cloudy",
       "city": "Manama"
     },
-    "Jordan": {
-      "temp_c": 22,
-      "wind_kmh": 15,
+    "Oman": {
+      "temp_c": 28,
+      "wind_kmh": 12,
       "condition": "Clear",
-      "city": "Amman"
+      "city": "Muscat"
     },
     "Lebanon": {
-      "temp_c": 22,
-      "wind_kmh": 9,
+      "temp_c": 23,
+      "wind_kmh": 7,
       "condition": "Partly Cloudy",
       "city": "Beirut"
     },
-    "Iraq": {
-      "temp_c": 28,
-      "wind_kmh": 3,
+    "Jordan": {
+      "temp_c": 19,
+      "wind_kmh": 13,
       "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Egypt": {
+      "temp_c": 25,
+      "wind_kmh": 13,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Iraq": {
+      "temp_c": 27,
+      "wind_kmh": 10,
+      "condition": "Clear",
       "city": "Baghdad"
+    },
+    "Yemen": {
+      "temp_c": 24,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     },
     "Iran": {
       "temp_c": 21,
       "wind_kmh": 9,
-      "condition": "Partly Cloudy",
+      "condition": "Clear",
       "city": "Tehran"
-    },
-    "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
-    },
-    "Kuwait": {
-      "temp_c": 29,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 9,
-      "condition": "Clear",
-      "city": "Cairo"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.311688,
+    "KWD": 0.31145,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.330891,
-    "IQD": 1514.175034
+    "EGP": 54.225902,
+    "IQD": 1515.167081
   },
   "lottery": {
     "items": [
@@ -111,7 +111,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 17,
+        "score": 33,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -141,8 +141,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 16,
-        "comments": 2,
+        "score": 43,
+        "comments": 6,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -157,21 +157,21 @@
         "tag": "LOT",
         "country": "Global",
         "score": 0,
-        "comments": 2,
+        "comments": 3,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1y3q33z",
         "title": "Michigan lottery new raffle everyday",
-        "summary": "↑6 · 💬2",
+        "summary": "↑8 · 💬2",
         "url": "https://reddit.com/r/Lottery/comments/1y3q33z/michigan_lottery_new_raffle_everyday/",
         "timestamp": "2026-11-23T18:31:13.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 6,
+        "score": 8,
         "comments": 2,
         "mood": "HOPEFUL",
         "isME": false
@@ -179,14 +179,14 @@
       {
         "id": "reddit-lot-1y3ple6",
         "title": "Gas pump malfunction leads N.C. man to $2M lottery prize",
-        "summary": "↑24 · 💬1",
+        "summary": "↑27 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1y3ple6/gas_pump_malfunction_leads_nc_man_to_2m_lottery/",
         "timestamp": "2026-11-23T18:13:54.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 24,
+        "score": 27,
         "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
@@ -501,7 +501,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
+        "score": 3,
         "comments": 6,
         "mood": "ANXIOUS",
         "isME": false
@@ -531,53 +531,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 14,
+        "score": 16,
         "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Do Your Dream Of Yerushalayim? Win A $1.3M Yerushalayim Apartment!",
-        "summary": "Please note: This is a sponsored post. Last Year’s Dream Raffle Winner Almost Didn’t Buy a Ticket. Imagine getting a phone call telling you that you’ve just won a $1.3 million apartment in Yerushalayim! You’d probably ask them to repeat themselves. You might …",
-        "url": "https://www.dansdeals.com/advertisement/do-your-dream-of-yerushalayim-win-a-1-3m-yerushalayim-apartment/",
-        "timestamp": "2026-11-17T16:00:22Z",
-        "source": "Dansdeals.com",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "An Australian single mother of five thought she had won $15,000 on a scratch card, but discovered a $300,000 prize; after 16 years in public housing, she plans to buy her dream home",
-        "summary": "During her coffee break, a single mother hailing from Ballajura stumbled upon a surprise $300,000 win on her weekly scratch card ticket. This life-changing windfall will enable her to buy a semi-rural home and settle her HECS debt. After spending 16 years in …",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/an-australian-single-mother-of-five-thought-she-had-won-15000-on-a-scratch-card-but-discovered-a-300000-prize-after-16-years-in-public-housing-she-plans-to-buy-her-dream-home/articleshow/135925082.cms",
-        "timestamp": "2026-11-17T12:14:27Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "A British family nearly missed its £1 million lottery win after ignoring calls they thought were spam for nine days; daughter had picked the winning numbers",
-        "summary": "A British family nearly missed its £1 million lottery win after ignoring calls they thought were spam for nine days; daughter had picked the winning numbers",
-        "url": "https://timesofindia.indiatimes.com/world/uk/a-british-family-nearly-missed-its-1-million-lottery-win-after-ignoring-calls-they-thought-were-spam-for-nine-days-daughter-had-picked-the-winning-numbers/articleshow/135916792.cms",
-        "timestamp": "2026-11-17T08:16:57Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -589,21 +544,6 @@
         "timestamp": "2026-11-17T02:20:17.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly9k",
-        "title": "Take our survey and enter our prize draw",
-        "summary": "Tell us how you learn English words, which tools you use, what works well, and what could be better, and you could win £100 worth of Cambridge Dictionary merchandise.\nThe post Take our survey and enter our prize draw appeared first on About Words - Cambridge …",
-        "url": "https://dictionaryblog.cambridge.org/2026/11/17/survey-and-prize-draw/",
-        "timestamp": "2026-11-17T00:00:39Z",
-        "source": "Cambridge.org",
-        "sourceType": "NewsAPI",
         "tag": "LOT",
         "country": "Global",
         "score": 0,
@@ -762,48 +702,33 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1xvgunq",
-        "title": "What If You Win the Lottery in Another Universe? My Strange Experiment",
-        "summary": "**I want to share my experience playing Eurojackpot.** Some of you may find my thoughts unusual, but I have long been interested in a fascinating concept — the multiverse theory and the many-worlds interpretation of quantum mechanics. Accor",
-        "url": "https://reddit.com/r/Lottery/comments/1xvgunq/what_if_you_win_the_lottery_in_another_universe/",
-        "timestamp": "2026-11-13T19:13:59.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
+        "id": "hn-lot-50468509",
+        "title": "Show HN: Infinity Terminal – a native macOS terminal with endless columns",
+        "summary": "2 pts · 0 comments",
+        "url": "https://github.com/bujna94/infinityTerminal",
+        "timestamp": "2026-11-12T15:03:34.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 0,
+        "score": 2,
         "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xvadxk",
-        "title": "What If You Lost a $1 Billion Lottery Ticket?",
-        "summary": "↑0 · 💬0",
-        "url": "https://reddit.com/r/Lottery/comments/1xvadxk/what_if_you_lost_a_1_billion_lottery_ticket/",
-        "timestamp": "2026-11-13T15:11:45.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
+        "mood": "NEUTRAL",
         "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 46,
+      "totalSignals": 41,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 35,
+        "HOPEFUL": 30,
         "CYNICAL": 0,
-        "ANXIOUS": 4,
-        "NEUTRAL": 7
+        "ANXIOUS": 3,
+        "NEUTRAL": 8
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 24
+      "uncertaintyScore": 27
     }
   }
 }
