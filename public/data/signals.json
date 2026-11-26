@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T11:27:59.700Z",
+  "generated_at": "2026-11-26T11:04:45.816Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,76 +15,76 @@
     "Iran": null
   },
   "weather": {
-    "UAE": {
-      "temp_c": 28,
-      "wind_kmh": 11,
-      "condition": "Clear",
-      "city": "Abu Dhabi"
-    },
-    "Saudi Arabia": {
-      "temp_c": 28,
-      "wind_kmh": 2,
-      "condition": "Clear",
-      "city": "Riyadh"
-    },
-    "Kuwait": {
-      "temp_c": 30,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Qatar": {
-      "temp_c": 31,
-      "wind_kmh": 6,
-      "condition": "Clear",
-      "city": "Doha"
-    },
-    "Bahrain": {
-      "temp_c": 27,
-      "wind_kmh": 6,
-      "condition": "Partly Cloudy",
-      "city": "Manama"
-    },
     "Oman": {
       "temp_c": 28,
-      "wind_kmh": 12,
+      "wind_kmh": 15,
       "condition": "Clear",
       "city": "Muscat"
     },
-    "Lebanon": {
-      "temp_c": 23,
-      "wind_kmh": 7,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Jordan": {
-      "temp_c": 19,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Amman"
-    },
-    "Egypt": {
-      "temp_c": 25,
-      "wind_kmh": 13,
-      "condition": "Partly Cloudy",
-      "city": "Cairo"
-    },
-    "Iraq": {
-      "temp_c": 27,
-      "wind_kmh": 10,
-      "condition": "Clear",
-      "city": "Baghdad"
-    },
     "Yemen": {
       "temp_c": 24,
-      "wind_kmh": 14,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Sanaa"
     },
-    "Iran": {
-      "temp_c": 21,
-      "wind_kmh": 9,
+    "UAE": {
+      "temp_c": 28,
+      "wind_kmh": 14,
       "condition": "Clear",
+      "city": "Abu Dhabi"
+    },
+    "Qatar": {
+      "temp_c": 30,
+      "wind_kmh": 15,
+      "condition": "Clear",
+      "city": "Doha"
+    },
+    "Lebanon": {
+      "temp_c": 22,
+      "wind_kmh": 16,
+      "condition": "Partly Cloudy",
+      "city": "Beirut"
+    },
+    "Saudi Arabia": {
+      "temp_c": 28,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Riyadh"
+    },
+    "Jordan": {
+      "temp_c": 21,
+      "wind_kmh": 15,
+      "condition": "Partly Cloudy",
+      "city": "Amman"
+    },
+    "Iraq": {
+      "temp_c": 24,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Baghdad"
+    },
+    "Egypt": {
+      "temp_c": 24,
+      "wind_kmh": 14,
+      "condition": "Partly Cloudy",
+      "city": "Cairo"
+    },
+    "Kuwait": {
+      "temp_c": 29,
+      "wind_kmh": 8,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
+    "Bahrain": {
+      "temp_c": 27,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Manama"
+    },
+    "Iran": {
+      "temp_c": 20,
+      "wind_kmh": 12,
+      "condition": "Partly Cloudy",
       "city": "Tehran"
     }
   },
@@ -102,6 +102,36 @@
   "lottery": {
     "items": [
       {
+        "id": "reddit-lot-1y5jkdm",
+        "title": "If you won the lottery, what are the things in your life that you’d most want to say \"screw this\" to?",
+        "summary": "It don't need to be a person but something in your life (like a job, your old house, school etc) For me it would be my apartament (it's ok place but I hate how it's so random about power outage and elevator is always broken) And I would abo",
+        "url": "https://reddit.com/r/Lottery/comments/1y5jkdm/if_you_won_the_lottery_what_are_the_things_in/",
+        "timestamp": "2026-11-25T21:39:18.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 5,
+        "comments": 20,
+        "mood": "ANXIOUS",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly9j",
+        "title": "Borussia Dortmund player ratings vs Arsenal: Joane Gadou and Joey Veerman inspire BVB fightback as Maximilian Beier makes amends to earn Emirates draw",
+        "summary": "Borussia Dortmund came from behind to claim a valuable 1-1 Champions League draw at Arsenal on Tuesday, handing the Gunners their first home failure to win since the league-phase format was introduced.",
+        "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_48b491b1-a297-44ed-a662-6d689d78cbfc",
+        "timestamp": "2026-11-24T22:26:06Z",
+        "source": "Yahoo Entertainment",
+        "sourceType": "NewsAPI",
+        "tag": "ME-LOT",
+        "country": "Regional",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": true
+      },
+      {
         "id": "reddit-lot-1y437v6",
         "title": "$400 win - NY Lottery",
         "summary": "1 ticket purchased",
@@ -111,7 +141,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 33,
+        "score": 38,
         "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
@@ -141,7 +171,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 43,
+        "score": 51,
         "comments": 6,
         "mood": "ANXIOUS",
         "isME": false
@@ -179,14 +209,14 @@
       {
         "id": "reddit-lot-1y3ple6",
         "title": "Gas pump malfunction leads N.C. man to $2M lottery prize",
-        "summary": "↑27 · 💬1",
+        "summary": "↑30 · 💬1",
         "url": "https://reddit.com/r/Lottery/comments/1y3ple6/gas_pump_malfunction_leads_nc_man_to_2m_lottery/",
         "timestamp": "2026-11-23T18:13:54.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 27,
+        "score": 30,
         "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
@@ -357,21 +387,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "A Wolves Retrospective Part One: Kevin Garnett",
-        "summary": "Now that the Wolves are entering a new era, let’s take a look back at some of the greats, starting with the Big Ticket.",
-        "url": "https://www.canishoopus.com/minnesota-timberwolves-lynx-features/71874/nba-kevin-garnett-retrospective-mvp",
-        "timestamp": "2026-11-19T13:00:00Z",
-        "source": "Canis Hoopus",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1y061cv",
         "title": "That extra $1 for Power Play buys back about 50 cents - I re-ran the numbers",
         "summary": "I've been adding Power Play out of habit, kind of on autopilot. It's only a dollar, right? So I finally sat down and re-ran a published breakdown of the game - Dr. Catalin Barboianu's \"The math behind Powerball\" over on LotteryUSA - to see ",
@@ -381,7 +396,7 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 2,
+        "score": 3,
         "comments": 9,
         "mood": "HOPEFUL",
         "isME": false
@@ -427,22 +442,22 @@
         "tag": "LOT",
         "country": "Global",
         "score": 1,
-        "comments": 7,
+        "comments": 8,
         "mood": "HOPEFUL",
         "isME": false
       },
       {
         "id": "reddit-lot-1xzovgl",
         "title": "One number away from the 9/9 jackpot ($30k)... but I'll take $2,763!",
-        "summary": "↑173 · 💬9",
+        "summary": "↑199 · 💬10",
         "url": "https://reddit.com/r/Lottery/comments/1xzovgl/one_number_away_from_the_99_jackpot_30k_but_ill/",
         "timestamp": "2026-11-18T19:48:43.000Z",
         "source": "r/lottery",
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 173,
-        "comments": 9,
+        "score": 199,
+        "comments": 10,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -456,38 +471,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 27,
+        "score": 29,
         "comments": 4,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "An old man in his 70s was caring full-time for his elderly mother when he discovered about winning over $650,000 in a lottery; he ignored lottery calls for weeks and is now planning to surprise five generations of his family",
-        "summary": "An old man in his 70s was caring full-time for his elderly mother when he discovered about winning over $650,000 in a lottery; he ignored lottery calls for weeks and is now planning to surprise five generations of his family",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/an-old-man-in-his-70s-was-caring-full-time-for-his-elderly-mother-when-he-discovered-about-winning-over-650000-in-a-lottery-he-ignored-lottery-calls-for-weeks-and-is-now-planning-to-surprise-five-generations-of-his-family/articleshow/135966128.cms",
-        "timestamp": "2026-11-18T14:58:51Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "newsapi-lot-aHR0cHM6Ly93",
-        "title": "Raffle firm doubles down on holding draw for Tramore home (but a different one this time)",
-        "summary": "Blaa Giveaways previously pulled out of a raffle in a housing estate after locals in the town pushed back against the plan.",
-        "url": "https://www.thejournal.ie/blaa-giveaways-tramore-7228553-Nov2026/",
-        "timestamp": "2026-11-18T07:15:59Z",
-        "source": "TheJournal.ie",
-        "sourceType": "NewsAPI",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 0,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -670,61 +655,16 @@
         "comments": 1,
         "mood": "HOPEFUL",
         "isME": false
-      },
-      {
-        "id": "reddit-lot-1xw0rcr",
-        "title": "I can never find",
-        "summary": "Scratch offs worth millions.  I watch my lottery dream home and so many win millions on a scratch off.  Are they state specific?",
-        "url": "https://reddit.com/r/Lottery/comments/1xw0rcr/i_can_never_find/",
-        "timestamp": "2026-11-14T12:01:32.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 7,
-        "mood": "HOPEFUL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xvvkpu",
-        "title": "I made a free prompt that turns your own words into Powerball numbers. Try it and tell me if it's good, bad or so-so",
-        "summary": "Hey everyone, I never liked Quick Pick. It feels like the machine is picking for me. So last Christmas I started playing around with a different way to pick numbers, first on paper and cardboard, then with AI. It turned into a little ritual",
-        "url": "https://reddit.com/r/Lottery/comments/1xvvkpu/i_made_a_free_prompt_that_turns_your_own_words/",
-        "timestamp": "2026-11-14T06:41:23.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 2,
-        "mood": "ANXIOUS",
-        "isME": false
-      },
-      {
-        "id": "hn-lot-50468509",
-        "title": "Show HN: Infinity Terminal – a native macOS terminal with endless columns",
-        "summary": "2 pts · 0 comments",
-        "url": "https://github.com/bujna94/infinityTerminal",
-        "timestamp": "2026-11-12T15:03:34.000Z",
-        "source": "Hacker News",
-        "sourceType": "HN",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 2,
-        "comments": 0,
-        "mood": "NEUTRAL",
-        "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 41,
+      "totalSignals": 37,
       "meSignals": 4,
       "moodDist": {
-        "HOPEFUL": 30,
+        "HOPEFUL": 27,
         "CYNICAL": 0,
         "ANXIOUS": 3,
-        "NEUTRAL": 8
+        "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
