@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T11:04:45.816Z",
+  "generated_at": "2026-11-27T10:59:50.998Z",
   "gdelt_tone": {
     "UAE": null,
     "Saudi Arabia": null,
@@ -15,17 +15,11 @@
     "Iran": null
   },
   "weather": {
-    "Oman": {
-      "temp_c": 28,
-      "wind_kmh": 15,
+    "Saudi Arabia": {
+      "temp_c": 26,
+      "wind_kmh": 4,
       "condition": "Clear",
-      "city": "Muscat"
-    },
-    "Yemen": {
-      "temp_c": 24,
-      "wind_kmh": 8,
-      "condition": "Partly Cloudy",
-      "city": "Sanaa"
+      "city": "Riyadh"
     },
     "UAE": {
       "temp_c": 28,
@@ -33,74 +27,110 @@
       "condition": "Clear",
       "city": "Abu Dhabi"
     },
+    "Kuwait": {
+      "temp_c": 27,
+      "wind_kmh": 14,
+      "condition": "Clear",
+      "city": "Kuwait City"
+    },
     "Qatar": {
-      "temp_c": 30,
-      "wind_kmh": 15,
+      "temp_c": 28,
+      "wind_kmh": 8,
       "condition": "Clear",
       "city": "Doha"
     },
-    "Lebanon": {
-      "temp_c": 22,
-      "wind_kmh": 16,
-      "condition": "Partly Cloudy",
-      "city": "Beirut"
-    },
-    "Saudi Arabia": {
+    "Oman": {
       "temp_c": 28,
-      "wind_kmh": 5,
+      "wind_kmh": 13,
       "condition": "Clear",
-      "city": "Riyadh"
+      "city": "Muscat"
     },
-    "Jordan": {
-      "temp_c": 21,
+    "Bahrain": {
+      "temp_c": 26,
       "wind_kmh": 15,
       "condition": "Partly Cloudy",
-      "city": "Amman"
+      "city": "Manama"
+    },
+    "Lebanon": {
+      "temp_c": 24,
+      "wind_kmh": 5,
+      "condition": "Clear",
+      "city": "Beirut"
+    },
+    "Iran": {
+      "temp_c": 17,
+      "wind_kmh": 6,
+      "condition": "Partly Cloudy",
+      "city": "Tehran"
+    },
+    "Yemen": {
+      "temp_c": 25,
+      "wind_kmh": 11,
+      "condition": "Partly Cloudy",
+      "city": "Sanaa"
     },
     "Iraq": {
-      "temp_c": 24,
-      "wind_kmh": 14,
+      "temp_c": 21,
+      "wind_kmh": 12,
       "condition": "Partly Cloudy",
       "city": "Baghdad"
     },
     "Egypt": {
-      "temp_c": 24,
-      "wind_kmh": 14,
+      "temp_c": 25,
+      "wind_kmh": 8,
       "condition": "Partly Cloudy",
       "city": "Cairo"
     },
-    "Kuwait": {
-      "temp_c": 29,
-      "wind_kmh": 8,
-      "condition": "Clear",
-      "city": "Kuwait City"
-    },
-    "Bahrain": {
-      "temp_c": 27,
-      "wind_kmh": 14,
-      "condition": "Clear",
-      "city": "Manama"
-    },
-    "Iran": {
-      "temp_c": 20,
-      "wind_kmh": 12,
+    "Jordan": {
+      "temp_c": 21,
+      "wind_kmh": 9,
       "condition": "Partly Cloudy",
-      "city": "Tehran"
+      "city": "Amman"
     }
   },
   "fx": {
     "AED": 3.6725,
     "SAR": 3.75,
     "QAR": 3.64,
-    "KWD": 0.31145,
+    "KWD": 0.31198,
     "BHR": 0.376,
     "OMR": 0.384497,
     "JOD": 0.709,
-    "EGP": 54.225902,
-    "IQD": 1515.167081
+    "EGP": 54.818684,
+    "IQD": 1513.923904
   },
   "lottery": {
     "items": [
+      {
+        "id": "reddit-lot-1y65mw0",
+        "title": "What Would You Do If You Won? (Weekly Discussion)",
+        "summary": "We have a Mega Millions tomorrow night and Powerball on Saturday. Call your shot now! If you win either drawing, how are you going to spend your new fortune?",
+        "url": "https://reddit.com/r/Lottery/comments/1y65mw0/what_would_you_do_if_you_won_weekly_discussion/",
+        "timestamp": "2026-11-26T16:38:14.000Z",
+        "source": "r/lottery",
+        "sourceType": "Reddit",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 2,
+        "comments": 8,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
+      {
+        "id": "newsapi-lot-aHR0cHM6Ly93",
+        "title": "‘His luck ran out’: Illegal immigrant busted after posing with $1 million lottery check",
+        "summary": "'The rights and privileges reserved for American citizens are for American citizens, NOT illegal aliens'",
+        "url": "https://www.wnd.com/2026/11/his-luck-ran-illegal-immigrant-busted-after-posing/",
+        "timestamp": "2026-11-25T21:40:16Z",
+        "source": "Wnd.com",
+        "sourceType": "NewsAPI",
+        "tag": "LOT",
+        "country": "Global",
+        "score": 0,
+        "comments": 0,
+        "mood": "HOPEFUL",
+        "isME": false
+      },
       {
         "id": "reddit-lot-1y5jkdm",
         "title": "If you won the lottery, what are the things in your life that you’d most want to say \"screw this\" to?",
@@ -111,8 +141,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 5,
-        "comments": 20,
+        "score": 14,
+        "comments": 25,
         "mood": "ANXIOUS",
         "isME": false
       },
@@ -267,21 +297,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly90",
-        "title": "Big ticket returns as ILT20 Season 5 official entertainment partner",
-        "summary": "ILT20 has officially announced the continuation of its collaboration with Big Ticket for Season 5, which will commence on November 21 with an exhilarating clash between Desert Vipers and MI Emirates. Big Ticket is set to elevate fan experiences throughout the…",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/big-ticket-returns-as-ilt20-season-5-official-entertainment-partner/articleshow/136050727.cms",
-        "timestamp": "2026-11-21T09:57:02Z",
-        "source": "The Times of India",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1y1jri1",
         "title": "Exciting and attention-grabbing. I’m Dave Johnson, Powerball winner of $298.3M.",
         "summary": "🎉 **A Surprise Blessing Is Coming!** What would an unexpected $30,000 mean to you? I’m putting together a special giveaway because I believe everyone deserves a little good news sometimes. No story is too small, and every genuine response ",
@@ -312,21 +327,6 @@
         "isME": false
       },
       {
-        "id": "newsapi-lot-aHR0cHM6Ly85",
-        "title": "Amazon 2026 Black Friday Week – Day 2: New deals, top-sellers, Doorbusters, more",
-        "summary": "Amazon’s massive Black Friday Week sale is just so gigantic that we are going to be diving each day to make the most popular deals are front and center for folks who may have missed out, and that all of the new deals don’t slip under the radar. Big ticket ite…",
-        "url": "https://9to5toys.com/2026/11/20/amazon-2026-black-friday-week-day-2-new-deals/",
-        "timestamp": "2026-11-20T10:33:35Z",
-        "source": "9to5Toys",
-        "sourceType": "NewsAPI",
-        "tag": "ME-LOT",
-        "country": "Regional",
-        "score": 0,
-        "comments": 0,
-        "mood": "HOPEFUL",
-        "isME": true
-      },
-      {
         "id": "reddit-lot-1y0ps35",
         "title": "Not a bad week $1k, 2x$500 and 1x$300",
         "summary": "Minus having to deal with the FL Lottery office for an hour and a half today  (seriously they’re so slow here, I can walk into a MA lottery office and walk out in less than 10 minutes with a check) I can’t complain about the week overall!",
@@ -336,8 +336,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 64,
-        "comments": 9,
+        "score": 78,
+        "comments": 11,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -351,8 +351,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 8,
-        "comments": 18,
+        "score": 9,
+        "comments": 21,
         "mood": "NEUTRAL",
         "isME": false
       },
@@ -381,8 +381,8 @@
         "sourceType": "Reddit",
         "tag": "LOT",
         "country": "Global",
-        "score": 6,
-        "comments": 13,
+        "score": 7,
+        "comments": 14,
         "mood": "HOPEFUL",
         "isME": false
       },
@@ -627,48 +627,33 @@
         "isME": false
       },
       {
-        "id": "reddit-lot-1xwjpud",
-        "title": "Powerball",
-        "summary": "Happy powerball night everyone",
-        "url": "https://reddit.com/r/Lottery/comments/1xwjpud/powerball/",
-        "timestamp": "2026-11-15T02:09:47.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
+        "id": "hn-lot-50468509",
+        "title": "Show HN: Infinity Terminal – a native macOS terminal with endless columns",
+        "summary": "2 pts · 0 comments",
+        "url": "https://github.com/bujna94/infinityTerminal",
+        "timestamp": "2026-11-12T15:03:34.000Z",
+        "source": "Hacker News",
+        "sourceType": "HN",
         "tag": "LOT",
         "country": "Global",
-        "score": 6,
-        "comments": 2,
+        "score": 2,
+        "comments": 0,
         "mood": "NEUTRAL",
-        "isME": false
-      },
-      {
-        "id": "reddit-lot-1xwcsm7",
-        "title": "NY Lottery -death number",
-        "summary": "I only buy a couple scratch offs a week, but it never fails. Whenever I scratch a 30, the tickets a sure loser.",
-        "url": "https://reddit.com/r/Lottery/comments/1xwcsm7/ny_lottery_death_number/",
-        "timestamp": "2026-11-14T20:43:51.000Z",
-        "source": "r/lottery",
-        "sourceType": "Reddit",
-        "tag": "LOT",
-        "country": "Global",
-        "score": 0,
-        "comments": 1,
-        "mood": "HOPEFUL",
         "isME": false
       }
     ],
     "meta": {
-      "totalSignals": 37,
-      "meSignals": 4,
+      "totalSignals": 36,
+      "meSignals": 2,
       "moodDist": {
-        "HOPEFUL": 27,
+        "HOPEFUL": 26,
         "CYNICAL": 0,
         "ANXIOUS": 3,
         "NEUTRAL": 7
       },
       "dominantMood": "HOPEFUL",
       "avgUpvoteRatio": 75,
-      "uncertaintyScore": 27
+      "uncertaintyScore": 28
     }
   }
 }
